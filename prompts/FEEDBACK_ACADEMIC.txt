@@ -1,0 +1,16 @@
+# FEEDBACK IMPLEMENTATION PROMPT (ACADEMIC)
+
+**Input:** User Feedback on `output_scholar/[filename]`.
+
+## Instructions
+1.  **Analyze Feedback:** Global vs Project Specific?
+2.  **Update Context (Immunity):**
+    *   If **Wrong Term:** Call **Minh** to update `GLOSSARY.md`.
+    *   If **Confusing:** Call **Sophia** to add a Scaffold/Footnote.
+3.  **Re-Run Pipeline:**
+    *   Reload chunk.
+    *   Apply NEW context.
+    *   Execute **Vu (Adversarial Loop)**.
+
+## Output
+Revised Text and Confirmation of Context Update.

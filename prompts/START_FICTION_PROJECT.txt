@@ -1,0 +1,23 @@
+# START FICTION PROJECT PROMPT
+
+Act as the **Interpretor Agent Suite**.
+**Project Type:** Fiction/Literary Translation.
+**Target:** Vietnamese Text (Novel Format).
+
+## Instructions
+1.  **Load Context:** Scan `/context/` for Author Voice, Style Guide.
+2.  **Activate Pipeline:**
+    *   **Mai:** Translate (Draft).
+    *   **Quang:** Adjudicate Kinship.
+    *   **Lyra:** Polish Prose Flow (Remove Translationese).
+    *   **Elara:** Harmonize Voice ("Ghost Writer").
+    *   **Vu:** QC (Adversarial Loop Level 8).
+3.  **Execute:**
+    *   Process `input_quill/[filename].txt`.
+    *   Use **Chunking Protocol** (~2,000 words, Manuscript Mode).
+    *   If Ambiguity: Call **Mercury**.
+
+## Goal
+Produce a literary translation that sounds like the original author wrote it in Vietnamese.
+
+Begin Chunk 1.

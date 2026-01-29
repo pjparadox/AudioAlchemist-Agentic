@@ -1,0 +1,667 @@
+# Chương 16 - Đấu Tay Đôi
+
+Tôi rời khỏi lâu đài với bước chân sáo, cảm giác được trả tiền thật tuyệt. Tôi thậm chí còn không biết mình muốn tiêu vàng vào việc gì, nhưng thật tốt khi biết rằng nếu tôi muốn thì tôi có thể mua được. Các thử thách bắn cung và phép thuật kém thú vị hơn đấu thương, vì cả hai về cơ bản chỉ là các cá nhân cố gắng bắn trúng mục tiêu ở tầm xa. Tôi muốn nói rằng Mirae và Laurelade đã mang về vị trí nhất cho Bánh Muffin Độc Dược, nhưng vào cuối thử thách của họ, Mirae xếp thứ ba, và Laurelade thứ bảy. Chúng tôi đang đi loanh quanh trong sân chờ đợi trận đấu tay đôi bắt đầu.
+
+"Dù sao em cũng buồn vì sẽ không nhận được ân huệ từ Zarentu," Mirae nói.
+
+Frobod hỏi, "Em sẽ dùng nó vào việc gì nếu có nó?"
+
+Cô nàng Tiên Biển nói, "Em có lẽ sẽ hỏi xem em có thể lấy một vũ khí từ kho vũ khí của ông ấy không. Em đang tìm một cây cung tốt."
+
+"Ý hay đấy," Frobod nói. "Tôi đã không nghĩ đến điều đó."
+
+Tôi nói, "Em cũng có thể yêu cầu quyền truy cập vào xưởng chế tác của ông ấy. Có thể đặt làm thứ gì đó tùy chỉnh."
+
+Con gnome trông có vẻ cáu kỉnh. "Đáng lẽ em phải làm tốt hơn thế."
+
+Tôi không thể nói là tôi ngạc nhiên về kết quả của Laurelade. Cô ấy đã làm tốt công việc chích điện, đóng băng, và thổi bay mọi thứ, nhưng khi đến phần cô ấy phải nhanh chóng làm tan chảy những cây nến cụ thể, trong một cụm mười hai cây mà không làm hỏng bất kỳ cây nào khác, cô ấy đã vỡ trận. Trong lần thử đầu tiên, hai cây nến cạnh mục tiêu bị phá hủy, và trong lần tiếp theo cô ấy mất quá nhiều thời gian để hoàn thành công việc đến nỗi bị trừ điểm.
+
+Tôi nói, "Em có xem qua các phép thuật của mình và thiết lập macro như tôi bảo không?"
+
+Laurelade đá một hòn đá để trả lời.
+
+Tôi nói, "Tất cả chúng ta vẫn còn cơ hội chiến thắng, hoặc thắng lần nữa trong trận hỗn chiến. Sẽ căng thẳng lắm đây."
+
+Mirae nói, "Chà, thế cũng được. Em đoán chúng ta không thể thắng tất cả."
+
+"Đây là những đối thủ khó nhằn," tôi nói. "Giành vị trí đầu tiên đâu có dễ. Việc chúng ta thậm chí ở đây đã là tuyệt vời rồi."
+
+Tako hỏi, "Chị nghĩ Pay-nes Kill có chiến đấu không?"
+
+"Chị không biết," tôi nói.
+
+Frobod nói, "Tôi không nghĩ Câu lạc bộ người hâm mộ Leroy Jensen là một bang hội LE (Phiên bản Giới hạn)."
+
+Mirae nói, "Vâng, em khá chắc chỉ có mình hắn có chìa khóa LE, đó là lý do tại sao chúng ta không thấy nhiều nhà thám hiểm hơn."
+
+Frobod nói, "Có lẽ hắn đã tuyển mộ một số Dân Haven tham gia cùng."
+
+Tako nói, "Ai mà thèm chứ? Ý tôi là, trước đây, ừ thì có thể, nhưng với việc mọi người Dân Haven chúng ta gặp đều là NPC có tên với AI tiên tiến, sẽ khó hơn nhiều cho hắn để tìm người đăng ký cùng."
+
+Frobod nói, "Tôi đoán tất cả sẽ phụ thuộc vào danh tiếng (rep)."
+
+Tiếng tù và thông báo sự bắt đầu sắp tới của trận đấu tay đôi vang lên. Tôi trang bị Nanh (Bite), xoay và chuyền nó từ tay này sang tay kia trước khi nhìn Tako, "Đến lượt chúng ta rồi."
+
+Frobod nói, "Tank Né Tránh ra mắt. Đừng thua nhé. Tôi đã đặt cược lớn vào cô đấy." Giọng anh đầy vẻ trêu chọc.
+
+Mirae nói, "Anh đặt bao nhiêu?"
+
+Frobod nói, "Hai trăm vàng."
+
+Mirae nhún vai như muốn nói rằng thế là có chút gì đó, nhưng không nhiều lắm. Em ấy nói, "Em ủng hộ chị."
+
+Tôi có cảm giác rằng nếu phải chọn giữa chúng tôi, em ấy sẽ thích Tako hơn, nếu không vì lý do nào khác ngoài việc để có được một vòng hoa, nhưng tôi không phàn nàn. Tôi sẽ không ghen tị với tình cảm của cấp dưới mình. Tôi nói, "Cảm ơn," với Mirae, và sau đó với Tako "Đi chứ?"
+
+"Đi thôi," cậu ta nói.
+
+Tất cả chúng tôi quỳ trước Lãnh chúa Zarentu, và hứa sẽ cư xử danh dự. Giờ khi tôi biết ông ta không coi nội dung Freeworld là thiếu danh dự, tôi không còn do dự gì về việc sử dụng toàn bộ mảng phép thuật và khả năng của mình. Sau lễ khai mạc, chúng tôi được hộ tống đến Phòng chờ Quán quân nơi chúng tôi được thông báo rằng rồng không được phép lấy hình dạng tự nhiên của chúng, và bây giờ là lúc để chuẩn bị trước trận chiến.
+
+Cảm giác chờ đợi trong phòng chờ khác với trên khán đài vì chúng tôi không biết chuyện gì đang xảy ra. Tất nhiên chúng tôi nghe thấy tiếng "Ồồồ!", tiếng thép va chạm, và "Ààà!" của đám đông nhưng nó không cho chúng tôi biết gì về chiến thuật của đối thủ. Về phần môi trường xung quanh, nó sang trọng y như tôi mong đợi cho loài rồng, với những bàn đầy thức ăn... rất nhiều thức ăn... đĩa này nối đĩa kia đầy lợn nấu chín, thỏ, và gia cầm. Chúng tôi có những chiếc ghế dài êm ái và những người hầu bán khỏa thân quạt mát cho chúng tôi bằng những chiếc quạt làm từ lông công và lá cọ. Họ có vẻ không giống phong cách của Zarentu, nhưng tôi có thể thấy những con rồng khác thích điều đó. Rồng ánh sáng là một chủ nhà ân cần. Tôi không đụng đến đồ ăn, nhưng tự rót cho mình một bình nước đá đang toát mồ hôi.
+
+Aztram, người tham gia cùng chúng tôi nói, "Nếu các vị muốn thi triển bất kỳ phép tăng cường có lợi nào, đây là cơ hội của các vị." Lũ rồng hẳn đã biết quy trình, vì ông ta đang nhìn tôi và Tako, những nhà thám hiểm duy nhất trong lều.
+
+Tôi đã thiết lập macro cho các buff Tăng cường Khéo léo và Sinh lực của Jordan, mà tôi kích hoạt bằng cách xoa hai tay vào nhau. Tăng cường Khéo léo tạo ra âm thanh gió rít khi kích hoạt, và sinh lực tạo ra hiệu ứng *thịch-bộp, thịch-bộp, thịch-bộp* giống như trái tim con người. Cả hai đều là hiệu ứng tức thì, và không cần chuẩn bị.
+
+*Tăng cường Khéo léo.*
+*Khéo léo tăng 10%.*
+*Thời gian: Còn 60 phút.*
+
+*Tăng cường Sinh lực.*
+*Hồi phục Tăng 10%.*
+*Thời gian: Còn 60 phút.*
+
+Lần đầu tiên tôi thấy những dòng chữ đó trong giao diện của mình kể từ khi sáp nhập, và nó làm tôi tự hỏi Jordan sẽ nói gì nếu anh ấy có thể thấy tôi bây giờ, đang ăn thịt nhân vật yêu quý của anh ấy. Tôi chỉ có thể hy vọng anh ấy bảo tôi đá đít vài con rồng, hơn là cằn nhằn về việc sử dụng các kỹ năng mà tôi đã không cày cuốc để có. Nếu anh ấy còn sống, sẽ là vế sau, nhưng tôi thích nghĩ rằng như hiện tại, anh ấy muốn tôi làm rạng danh di sản của anh ấy.
+
+Tako kích hoạt các hiệu ứng tương tự, bằng cách nhấn một nút trên VT thay vì thiết lập macro như tôi đã làm với việc xoa tay.
+
+Cậu ta nói, "Chúng ta có được xem chút 'ma thuật ngoại lai' nào không?" Những từ cuối cùng được nói bằng giọng bắt chước gay gắt giọng điệu cảnh giác của Lyle.
+
+"Chắc chắn rồi," tôi nói, và di chuyển đến một khu vực nơi tôi ít có khả năng làm đổ thứ gì. Chỉ để cho an toàn, tôi đổi Nanh lấy cặp quạt chiến bạc của Marine, thứ chiếm ít không gian hơn nhiều.
+
+*Phong Hồn Thiên Kích (Windsoul Skystrikers)*
+*Loại: Exotic (Quạt Chiến)*
+*Chất lượng: Epic*
+*Sát thương Cơ bản: Sức mạnh (Chém)*
+*Thưởng Trang bị:*
+*Khéo léo + 3, Trí tuệ + 3*
+*Thuộc tính Đặc biệt:*
+*Sát thương Thêm: Roll 50% Khéo léo (Gió)*
+*Ảo ảnh: Người sử dụng dường như di chuyển với tốc độ gấp đôi, và thực hiện số đòn tấn công gấp đôi. (+2 độ khó để chặn hoặc né).*
+*Tạo gió.*
+
+Tôi mở những vũ khí kỳ lạ ra và bắt đầu quất chúng quanh cơ thể mình. Không giống như quạt chiến đấu trong thế giới thực, những chiếc này được làm bằng kim loại nhẹ và bền không tưởng, với những cạnh sắc bén như bất kỳ con dao găm nào. Khăn trải bàn chỉ giữ nguyên vị trí nhờ những đĩa thức ăn bên trên. Các cạnh lều phồng lên, và những người hầu bán khỏa thân chật vật giữ chặt quạt của họ. Năng lượng Âm của nguyên tố khí dâng lên trong tôi, và tôi niêm ấn câu thần chú bằng một điểm dừng đột ngột và cúi chào một đối thủ vô hình.
+
+*Lưu Thủy (Cấp 2) - Thành công!*
+*Thời gian: 30 phút.*
+
+Một số con rồng ném cho tôi cái nhìn lạnh lùng, và tôi trang bị lại Nanh. Khó mà biết liệu đó là vì họ không chấp nhận ma thuật của tôi, hay vì họ giờ đây coi tôi là một đối thủ hơn là chỉ một cô gái gầy gò không mặc giáp. Dù sao đi nữa, thật dễ thấy rằng rất ít người trong chúng tôi không mặc giáp tấm, và tôi là người duy nhất diện sự pha trộn giữa vải và da.
+
+Aztram, mặt khác, trông có vẻ ấn tượng. Thật tốt khi thấy một pháp sư không sợ ma thuật Freeworld.
+
+*Bạn đã nhận được 200 danh tiếng cá nhân với Aztram.*
+*Cấp độ hiện tại: Thân thiện.*
+
+Ông nói, "Lúc nào đó sau giải đấu cô sẽ phải chỉ cho ta cách cô làm điều đó. Không phải ngày nào cũng có người làm ta ngạc nhiên với ma thuật mới, đặc biệt là một người trẻ như cô."
+
+*Nhiệm vụ - Ma thuật Mới*
+*Độ khó: Trung bình*
+*Aztram tò mò về ma thuật ngoại lai của bạn. Dạy ông ta nền tảng của ma thuật bên ngoài Vết Rách Của Các Thế Giới, và nhận phần thưởng.*
+*Mục tiêu:*
+*Dạy Aztram những điều cơ bản về ma thuật ngoại lai.*
+*Phần thưởng:*
+*+1.000 danh tiếng cá nhân với Aztram.*
+*+500 Danh tiếng với Lâu đài Dragonswood*
+*Một ân huệ cá nhân.*
+*Bạn có chấp nhận không? Có / Không*
+
+Tôi chọn có.
+
+Tôi nghi ngờ liệu vị bán-tiên lớn tuổi có thể thực hiện hình thức thi triển thể thao của Marine hay không, nhưng tôi mỉm cười và nói "Chắc chắn rồi, sau khi chúng ta giải quyết xong vụ Vết Rách Của Các Thế Giới này, chúng ta sẽ bàn chuyện nghề nghiệp."
+
+Tôi mong chờ một trận chiến nơi tôi có thể pha trộn rất nhiều kỹ năng từ vô số nhân vật. Sẽ mất cả đời để đi qua mọi thứ, và tìm ra cái gì hoạt động tốt nhất, nhưng tôi đã thích những gì tôi thiết lập cho đến nay. Khi cày hầm ngục ở Windroost, tôi gắn bó với các khả năng của Paladin vì đó là những gì tôi biết, nhưng trong thời gian nghỉ giữa các sự kiện tôi đã dành thời gian làm quen với các khả năng Rogue của Jordan mà tôi chưa từng sử dụng cũng như những khả năng từ võ sĩ Freeworld của tôi, Scootiwutams, và tất cả các bí danh khác gắn liền với tài khoản này. Tôi cũng đã thiết lập các macro cho phép tôi kích hoạt từng khả năng bằng cách mấp máy môi hoặc nói tên của chúng. Sự đơn giản của macro là tốt nhất cho đến khi tôi có kinh nghiệm để biết cách sử dụng chúng tốt nhất.
+
+Thậm chí còn có một số lựa chọn trang bị thú vị nếu tôi chọn sử dụng khả năng Hoán Đổi Nhanh của Jordan.
+
+*Hoán Đổi Nhanh (Cấp 3)*
+*Vũ khí: Khéo léo + Vũ khí (Loại Vũ khí) hoặc Khéo léo + Võ thuật*
+*Giáp và Phụ kiện: Khéo léo + Điền kinh hoặc Khéo léo + Võ thuật*
+*Hiệu ứng:*
+*Bạn có thể thay đổi trang bị trong khi chiến đấu mà không bị phạt. Khi làm vậy bạn phải thực hiện hành động né tránh hoàn toàn trong 1,5 giây.*
+*Chỉ Dùng Được Trên:*
+*Đầu, Tay, Vũ khí, Nhẫn, Phụ kiện*
+
+Aztram nói, "Lãnh chúa Melpomine, cô là người tiếp theo, lối này."
+
+Tako nói, "Chúc may mắn, và đừng chết vì tôi muốn giết chị."
+
+Tôi đảo mắt. "Chị sẽ chắc chắn làm thế, không phải vì chị muốn thắng hay gì đâu, mà để cho đồng đội bang hội một cơ hội công khai đâm sau lưng chị."
+
+Tako nói, "Cứ tin là thế đi."
+
+Aztram nói, "Lãnh chúa Melpomine..." nhìn qua lại giữa chúng tôi, không chắc phải hiểu sự tương tác của chúng tôi thế nào. Chắc chắn, một cư dân của Dragonswood sẽ không nói chuyện với Zarentu theo cách này.
+
+Tôi nói, "Không sao đâu. Chúng tôi lúc nào cũng trêu nhau mà."
+
+"Rất tốt." Aztram nói, "Nhưng giải đấu." Ông quét tay về phía lối ra như mời tôi dẫn đường. Tôi hiểu ý.
+
+Ngay khi tôi bước ra ngoài Sứ giả Brime nói, "...và bây giờ một Quý bà bán-tiên đến từ Durolan, Bang chủ của Bánh Muffin Độc Dược, Nhà Thám Hiểm Các Thế Giới. Lãnh chúa Melpoooominnneeee!"
+
+Nhà Thám Hiểm Các Thế Giới? Vụ đó là sao? Theo tôi biết tôi chưa nhận được danh hiệu mới nào. Zarentu hẳn đã hướng dẫn Brime đặt ma thuật Freeworld vào bối cảnh. Tôi thầm biết ơn, để tôi không gây bạo loạn khi họ bắt đầu thấy hiệu ứng của các phép thuật của Marine.
+
+Aztram nói, "Vào đấu trường đi, và chúc may mắn." Ông nhìn tôi với vẻ mặt gần như của một người cha, có lẽ là tình thân bán-tiên trong một lâu đài đầy rồng.
+
+Tôi nói, "Cảm ơn," và lao vào đấu trường với Nanh bên hông. Không giống Frobod, tôi là một con công, và chào khán giả bằng một loạt các động tác chống tay nhào lộn và lộn vòng trên không. Tôi uống cạn tiếng vỗ tay, và nó có vị như ma thuật. Có một điểm đỏ trên đất, nơi tôi chờ đợi đối thủ của mình.
+
+Sứ giả Brime nói, "...và kẻ thách thức cô ấy. Hiệp sĩ của triều đình Lãnh chúa Rendak, đến từ Lâu đài Deepwater, Ngài Maadzon."
+
+Người hiệp sĩ hành quân ra khỏi lều Quán quân với một cái khiên nặng, một thanh kiếm đáng gờm, và bộ giáp đồng bộ màu của một đồng xu mới. Mỗi mảnh giáp tấm của hắn đều bị đen quanh các cạnh như thể bị lửa thiêu. Một chiếc lông vũ dài, màu đỏ nhảy múa trong gió từ đỉnh mũ giáp của hắn. Tôi cúi chào hắn, khi hắn vào vị trí trên một điểm đỏ đối diện tôi, nhưng hắn chỉ gật đầu. Hắn có khuôn mặt người nhợt nhạt theo những gì tôi có thể thấy, nhưng chúng tôi cách nhau khoảng mười lăm bước.
+
+Tim tôi đập thình thịch. Chúng tôi được bảo rằng Zarentu thả một chiếc khăn tay để báo hiệu bắt đầu trận chiến, nhưng từ chỗ tôi đứng không thể thấy ông ta đâu. Thay vào đó, một bộ đếm ngược khổng lồ phủ lên tầm nhìn của tôi.
+
+*3....*
+*2....*
+*1.....*
+*Bắt đầu!*
+
+Hắn xoay thanh trường kiếm trong tay chờ tôi thực hiện nước đi đầu tiên. Sẽ là một trận chiến tank đấu tank với việc hắn chặn đòn, và tôi trượt khỏi đường đi trừ khi tôi có thể làm hắn bất ngờ.
+
+*Bước Nhảy Bóng Tối (Cấp 5) - Thành công!*
+
+Tôi biến mất khỏi vị trí hiện tại, và xuất hiện lại trong bóng của hắn đứng ngay sau lưng hắn. Tôi quét thấp Nanh, giật một chân khỏi hắn, hắn vừa vặn giữ được thăng bằng, nhưng tôi bồi thêm một cú đá vòng cầu, và rồi giã vào giáp hắn bằng đầu vũ khí của tôi. Điện nổ lách tách và nhảy từ đầu Nanh, vào giáp hắn. Hắn ngã sóng soài, mặt úp xuống đất, và cơ thể đè lên khiên.
+
+Hắn đẩy người dậy, nhưng tôi không để yên. Một... BỐP. Ngực xuống, và mặt trong đất. Sét nổ lách tách. Tay hắn văng sang bên. Hai. RẮC, và cây trượng giáng xuống mũ giáp hắn. Những vết lõm lớn xuất hiện trên bộ giáp đồng nơi trước đó không có.
+
+*CHÍ MẠNG!*
+*Bạn đánh Ngài Maadzon 15 sát thương +4 sát thương sét.*
+*Tổng 19 Sát thương.*
+*Ngài Maadzon hấp thụ 15 sát thương.*
+
+Ba. Tôi giáng Nanh xuống thật mạnh dọc theo toàn bộ lưng hắn gửi một luồng điện khác qua cơ thể hắn.
+
+*Bạn đã đánh bại Ngài Maadzon.*
+
+"Pôn." Tôi nghĩ, khi hắn nằm bất động, và các trị liệu sư lao ra để hồi phục máu và giúp hắn đứng dậy. Ma thuật vàng bao quanh hắn, mặc dù nó không mang mùi hương như của Mirae. Máu của Ngài Maadzon nhích lên. 40%... 60%... 80%.
+
+Tôi nửa mong đợi hắn hét vào mặt tôi vì sử dụng chiến thuật hèn hạ, nhưng hắn đưa bàn tay đeo găng sắt ra và nói, "Đánh hay lắm Lãnh chúa Quý bà Melpomine. Nếu tôi biết cô có ngón nghề đó, tôi đã dùng chiến thuật khác rồi."
+
+Tôi nắm lấy cẳng tay hắn bằng tay mình và nói, "Đánh hay lắm, Ngài Maadzon. Tôi tin là ngài sẽ làm thế." Có vẻ như, trong phạm vi đấu tay đôi, mọi thứ đều được coi là danh dự miễn là bạn không phá luật.
+
+Tôi giơ trượng lên trời, sét từ đầu trượng nhấp nháy trên đầu, và khán đài bùng nổ trong tiếng reo hò. Tôi nhìn về phía khu vực Quán quân và thấy Frobod và Mirae đang đứng dậy vỗ tay cho tôi. Kỵ sĩ Tử thần đang vỗ tay, và cô nàng Elf đang giơ ngón cái nhiệt tình.
+
+Tôi nghĩ, "Vòng một, hoàn thành," khi tôi quay lại lều quán quân. Nếu tôi muốn giành vị trí nhất, tôi sẽ phải thắng bốn trận. Tôi tìm Tako, nhưng cậu ta đã đi rồi. Cậu ta hẳn đang chiến đấu trong trận tiếp theo. Tôi chộp lấy một lát giăm bông mật ong từ bàn tiệc đứng, và thấy thất vọng vì sự thiếu vắng hương vị. Thật dễ quên khi mọi thứ trông và có mùi ngon lành đến thế.
+
+Mirae gửi một tin nhắn.
+
+*Mirae: Làm tốt lắm. Hắn không có cửa.*
+*Melpomine: Cảm ơn. Tako thế nào rồi?*
+*Mirae: Đến giờ vẫn ổn. Cậu ta chơi kiểu rogue giống chị đấy. Ném đất vào mắt, chơi bẩn.*
+*Melpomine: Đối thủ của cậu ta thế nào?*
+*Mirae: Chiến binh DPS. Giáp tấm đầy đủ và búa chiến hai tay. Hơi chậm nếu chị hỏi em. Hắn cứ đập nó xuống đất, rồi Tako lách qua và rỉa máu hắn.*
+*Melpomine: Cổ vũ thay chị nhé. Họ không cho bọn chị xem các đấu sĩ khác.*
+*Mirae: Em lo vụ đó rồi.*
+
+Một lúc sau, Tako gia nhập lại với tôi.
+
+"Thế nào?" tôi hỏi.
+
+"Dễ như ăn kẹo," Cậu ta nói. "To, chậm, và ngu. Không vấn đề gì."
+
+Tôi nói, "Mirae kể cho tôi vài chi tiết rồi."
+
+Tako nói, "Cách đó có thể hiệu quả với khiên, nhưng với người như tôi, tôi đâu có đứng yên đủ lâu để bị đánh trúng." Cậu ta dừng lại, và nói. "Của chị thế nào?"
+
+"Dễ như ăn kẹo," tôi lặp lại lời cậu ta. "Dùng khiên và kiếm. Tôi ra sau lưng hắn, đánh ngã, và giã."
+
+"Rất tuyệt," Tako nói. "Chị hoàn toàn nên lôi Scootiwutams ra khi họ ít ngờ tới nhất. Bán-tiên Melpomine... Ngạc nhiên chưa! Paladin lùn cái! Họ sẽ chỉ việc ngừng chiến đấu và đầu hàng thôi."
+
+"Không xảy ra đâu," tôi nói. "Đây là màn ra mắt phong cách mới của tôi."
+
+Tôi thấy Aztram ra hiệu cho tôi, và tôi nói, "Có vẻ đến lượt tôi rồi."
+
+Tôi bỏ lỡ phần giới thiệu, vì tôi là người thứ hai vào đấu trường. Tôi thậm chí không thể thấy mặt đối thủ vì mũ giáp hắn đóng kín, nhưng hắn có bộ giáp ngầu. Đen mã não, viền xanh hoàng gia. Hắn có cầu vai ma thuật làm cho vai hắn trông như đang bốc lửa xanh. Hắn không có khiên, chỉ có một thanh kiếm, và tôi dám cá đây là một người dùng phép. "Chà, đặc biệt đấy chứ?" Tên là Sedid theo bảng tên.
+
+Tôi cúi chào hắn từ chỗ của mình trên đất, và hắn đáp lễ.
+
+*3....*
+*2....*
+*1.....*
+*Bắt đầu!*
+
+*Bước Nhảy Bóng Tối (Cấp 5) - Thành công!*
+
+Tôi xuất hiện sau lưng hắn, nhưng ngay khi tôi ở đó, cả cơ thể hắn nhấp nháy, và đột nhiên hắn đứng ở nơi tôi bắt đầu. Hắn vẫy kiếm theo một cử chỉ phức tạp, và đột nhiên, hai hình ảnh bổ sung của đối thủ xuất hiện hai bên hắn. Cả năm chạy quanh nhau trong một vòng tròn nhanh. Nếu tôi may mắn, chỉ một trong những thứ đó là thật, nếu không, đối thủ của tôi vừa tạo ra bốn bản sao của chính mình.
+
+Tôi lao vào tấn công, xoay Nanh, và giáng mạnh xuống hình ảnh trung tâm. Nó nổ tung trong một cơn mưa tia lửa ma thuật vô hại.
+
+Một thanh kiếm chém tôi, hoặc ít nhất, nó cố gắng nhưng Lưu Thủy kích hoạt. Thịt và xương nhanh chóng tái tạo quanh lưỡi kiếm cho phép nó đi qua tôi như thể Sedid đã chém vào nước, để tôi không bị thương, nhưng làm mất bốn cấp độ hấp thụ từ phép thuật. Đám đông há hốc mồm khi họ chứng kiến ma thuật phòng thủ mà họ chưa từng thấy trước đây.
+
+"Chơi hay lắm," tôi nói, và quất ra hai lần với Nanh. Không có sự kháng cự khi một bản sao vỡ tan, và rồi một cái khác để lại chỉ hai hình ảnh nữa cho tôi giải quyết. Rõ ràng sát thương diện rộng của vũ khí không hoạt động trừ khi tôi đánh trúng mục tiêu rắn. Không sao, hai hình ảnh còn lại tấn công đồng thời, và tôi né cả hai bằng cách nhảy lên không trung, đủ cao để vượt qua cả hai đầu chúng tôi trong một cú lộn nhào. Đến giờ phim hành động Hồng Kông rồi.
+
+Tôi bồi thêm một đòn sau cú né. Nó trúng đích. Điện nổ lách tách, và lan sang hình ảnh thứ hai như lẽ ra phải thế. Nó vỡ tung trong một thác nước màu sắc cầu vồng. Giờ lại là tôi chống lại một kẻ tấn công. Hắn chém, tôi né. Có thể trông suýt soát với đám đông, nhưng với tim tôi đập thình thịch và thời gian chậm lại như thường lệ trong chiến đấu, cứ như hắn đã trượt cả dặm.
+
+Tôi phản công với Nanh, hắn tốc biến đi - cùng một phép dịch chuyển tức thời dùng lúc đầu.
+
+*Bước Nhảy Bóng Tối (Cấp 5) - Thành công!*
+
+Tôi xuất hiện ngay sau hắn, và đập Nanh vào thận hắn, tôi nghe thấy tiếng "Hự!" bị bóp nghẹt và sét nổ lách tách. Tôi bồi thêm một cú đá móc, và đánh lần nữa bằng trượng. Máu hắn tụt. Hắn quay lại.
+
+Một quả cầu lửa nổ tung vào mặt tôi, sức nóng cuộn qua tôi như một vết cháy nắng khó chịu, nhưng như hầu hết sát thương trong Freehaven cơn đau nhanh chóng phai đi. Tôi còn chín mươi phần trăm, hắn còn bảy mươi. Một trận chiến khó khăn, nhưng tôi đang dẫn trước.
+
+Hắn tốc biến đi, và trước khi tôi kịp nhận ra một loạt đạn ma thuật tím bay về phía tôi. Tôi né chúng bằng một cú lộn, bật dậy và lao như điên để thu hẹp khoảng cách. Bước Nhảy Bóng Tối còn mười giây hồi chiêu nữa, nên không dùng được. Tôi gần đến nơi, tôi với tay không, và tát một nắm đất qua khe hở trên tấm che mặt của hắn.
+
+*Mù (Cấp 5) - Thành công!*
+*Sedid bị mù trong 10 giây.*
+
+Đối thủ của tôi lắc đầu, cố gắng làm sạch bụi khỏi mặt. Tôi tận dụng lợi thế. Một cú đá mạnh hất hắn lùi lại, và một cú đánh vào ngực, theo sau là một cú vào xương bánh chè làm hắn khuỵu xuống một gối. Một luồng lửa khác... Tôi né, vừa kịp trượt khỏi tầm với của nó. Tôi xoay Nanh quanh người, và đập nó mạnh xuống vai đang bốc cháy của Sedid. Hắn đổ sụp, những con giun nhỏ bằng ma thuật điện xanh bò từ Nanh vào bộ giáp đen. Máu còn 30%.
+
+Hắn cố gắng hồi phục. Nanh đang xoay, một ảo ảnh của những bánh xe điện xanh hình thành quanh tôi. Hắn đứng lên được một gối. Hắn định thi triển phép, RỐP! Cạnh của cây trượng hôn vào bên mặt bọc giáp của hắn. Hắn không cử động.
+
+*Bạn đã đánh bại Sedid.*
+
+Các trị liệu sư lao đến chào đón chúng tôi. Những vòng hào quang thánh thiện bao quanh cơ thể chúng tôi, khi máu của tôi được hồi đầy, và của Sedid leo lên từ từ. Tôi nghe tiếng ho, giọng phụ nữ, khi Sedid tháo... mũ giáp của cô ấy để lộ một mái tóc xanh đậm bù xù, và đôi tai hơi nhọn giống như của tôi. Làn da nhuốm màu xanh da trời và hình dáng mắt và mũi cô ấy làm tôi nhớ đến một nữ thần Ấn Độ; con gái tai nhọn của Vishnu. Cô ấy có một cái mặt nạ gấu trúc bụi bặm ở nơi tôi ném đất vào cô ấy. Sẽ thật hài hước nếu tôi không vừa cho cô ấy một trận tơi bời như vậy.
+
+Tôi nói, "Đánh hay lắm Lãnh chúa Sedid." và lôi một chiếc khăn tay từ túi đồ. Tôi đưa nó cho cô ấy để cô có thể lau sạch bụi trên mặt. Cô ấy có vẻ biết ơn.
+
+Cô nói, "Đánh hay lắm, Lãnh chúa Melpomine," và chúng tôi nắm lấy cẳng tay nhau.
+
+Lần này, những từ ngữ mang theo cảm giác nghi thức mà tôi thích thú.
+
+Như kết thúc trận đầu tiên, tôi giơ cao Nanh quá đầu. Đám đông gầm lên tán thành. Cơ thể tôi tràn ngập năng lượng phấn khích.
+
+Trở lại lều, tôi ở một mình. Chỉ còn hai trận nữa. Tôi uống một ngụm nước đá khác. Nếu Tako thắng, có năm mươi phần trăm cơ hội chúng tôi sẽ đối đầu trong trận tiếp theo. Tôi nghĩ tôi thà đập NPC còn hơn.
+
+*Mirae: Hú-hù! Melpomine thắng rồi!*
+*Melpomine: Ừ, cô ấy ngầu thật.*
+*Mirae: Sao cô ấy không dùng kiếm nhỉ?*
+*Melpomine: Vì cô ấy thông minh. Đòn đánh trực diện đầu tiên không hiệu quả, nên cô ấy chuyển sang phép thuật.*
+*Mirae: Hiểu rồi. Phép đó lạ thật. Nó kéo dài bao lâu?*
+*Melpomine: 30 phút, nhưng chỉ tốt cho 10 mức máu, và chỉ có tác dụng chống lại các đòn tấn công vật lý.*
+*Mirae: Vẫn ngầu phết.*
+*Melpomine: Ma thuật Freeworld mà. Chị thậm chí còn nhận được nhiệm vụ dạy cho pháp sư địa phương.*
+*Mirae: Thật ạ? Hài hước thế.*
+*Melpomine: Tako thế nào rồi?*
+*Mirae: Ừm... Em không biết. Cả hai chưa dính sát thương nào, nhưng đó là một gã khiên và kiếm. Cậu ấy khó mà tiếp cận.*
+*Melpomine: Chán thế.*
+*Mirae: Trận này sẽ dài đây.*
+*Melpomine: Chờ chút. Chị sẽ thi triển lại Lưu Thủy.*
+
+Tôi lôi quạt ra, và bắt đầu thi triển. Gió dồi dào cảm giác thật tốt trên da vì tôi đã toát mồ hôi. Tóc dài của tôi quất điên cuồng các hướng. Bên ngoài, đám đông thốt lên một tiếng "Ồ!" tập thể.
+
+*Melpomine: Chuyện gì xảy ra thế?*
+
+Phản hồi không đến ngay. Tôi bật danh sách phép trên VT, và bắt đầu suy nghĩ cách tốt nhất để xử lý một đối thủ cơ động cao như Tako. Tôi cảm thấy như một con ngốc vì có một phép tôi từng dùng suốt. Tôi đã không nghĩ đến nó vì đây không phải Freeworld và tôi không ở trong da của MarineLu.
+
+*Di Chuyển Như Băng (Cấp Ba)*
+*Chi phí: 500 Manna*
+*Khéo léo + Võ thuật*
+*Thời gian: 20 giây*
+*Bằng cách dẫn dắt các lực lạnh của năng lượng Âm, và hướng chúng vào đối thủ, bạn có thể khiến họ chậm lại, hoặc thậm chí đóng băng họ tại chỗ.*
+*Hiệu ứng:*
+*Tốc độ di chuyển của mục tiêu giảm 50%. 20% cơ hội đóng băng họ tại chỗ. 10% cơ hội áp đặt hình phạt -4 khéo léo.*
+
+Tôi tự hỏi nó sẽ hoạt động thế nào với một đối thủ như Sedid. Tôi chưa bao giờ dùng nó lên một người dịch chuyển tức thời vì loại ma thuật đó, ngoài Cầu Sấm Sét, không phổ biến ở Freeworld. Tôi ghi nhớ trong đầu sẽ dùng nó trong trận tới.
+
+*Mirae: Tako nằm rồi. Em không nghĩ cậu ấy qua được đâu.*
+*Melpomine: Chán thế, hắn hạ cậu ấy thế nào?*
+*Mirae: Chí mạng bằng một cú đập khiên làm cậu ấy ngã ngửa.*
+
+Đám đông ầm ầm tiếng vỗ tay, và tôi nghĩ "Không tốt cho Tako rồi."
+
+*Mirae: Cậu ấy bị loại rồi. Giờ tùy thuộc vào chị đấy.*
+*Melpomine: Tiếc khi nghe vậy, nhưng chị cũng hơi mừng là không phải đấu với cậu ấy.*
+*Melpomine: Đây không phải sự kiện riêng của bang hội, nên chị không muốn có xích mích nếu một trong hai loại người kia.*
+*Mirae: Bọn em vẫn cổ vũ chị mà, và em nghi là sẽ không có xích mích đâu.*
+
+Aztram thò đầu vào từ bên ngoài, và nói "Lãnh chúa Melpomine." Tôi bước ra tự hỏi mình sẽ đối mặt với loại rồng nào. Những gì tôi thấy trong đấu trường, thách thức mọi kỳ vọng; một orc da xanh, mắt đỏ và răng nanh trắng lớn chạm tới mí mắt dưới. Hắn rõ ràng đã chọn từ bỏ sự thoải mái của Phòng chờ Quán quân. Tôi kiểm tra bảng tên hắn.
+
+*Groth*
+*Loại: Người chơi*
+*Chủng tộc: Orc*
+*Ngoại hình: 2*
+*Thử thách: Trung bình*
+
+Hắn mặc giáp da nâu, một loạt các tấm da thú khâu lại thành hình người. Mũ giáp của hắn trông giống da và sọ của một con sư tử núi với một bộ gạc lớn gắn vào. Hắn không có trượng, cũng không có kiếm, thay vào đó hắn xoay một đoạn xích tối màu nhỏ giọt một chất lỏng không xác định và phát sáng một màu đỏ thẫm đáng lo ngại.
+
+"Cái đó.... khác biệt đấy," tôi nói, suy nghĩ về cách tiếp cận vụ này. Với vũ khí xích, không bị đánh trúng là chiến thuật rõ ràng, và có vẻ như đỡ đòn không phải là một lựa chọn.
+
+Đám đông là một sự pha trộn giữa "Yeah!" và "Boo!" Một gã từ đâu tôi không biết, hét lên, "Đừng để con orc bẩn thỉu đó thắng!"
+
+Thật tốt khi biết họ đứng về phía tôi.
+
+Tôi xoay trượng để phục vụ đám đông. Nhiều người cổ vũ tôi. Tôi dừng lại, và thực hiện cái cúi chào thường lệ với đối thủ. Không có phản hồi từ PC (Nhân vật Người chơi). Hắn chỉ luân phiên giữa việc xoay đầu xích, và quấn các đoạn xích quanh nắm đấm. Ý tưởng khá đấy. Tôi sẽ phải thử xem.
+
+*3....*
+*2....*
+*1.....*
+*Bắt đầu!*
+
+Trước khi tôi kịp nghĩ đến Bước Nhảy Bóng Tối, con orc lao tới, gầm lên như gấu, với sợi xích quay như quạt máy trong tay hắn. Có gì đó trong tiếng gầm của hắn làm không khí sau đầu hắn phát sáng trong một màn sương đỏ. Một hiệu ứng thẩm mỹ thú vị, và chắc chắn là không tốt cho tôi. Hắn thu hẹp khoảng cách bằng những sải chân dài, mạnh mẽ dài đến mức trông giống những cú đá. Tôi hạ thấp người, xoay, và đánh hắn bằng cú quét đuôi rồng. Sợi xích đỏ và chân trước của orc bay ngay qua đầu tôi. Tôi đánh bật trọng lượng trên chân kia của hắn từ bên dưới.
+
+*Tuyệt kỹ Võ thuật - Quét Đuôi Rồng (Cấp 3) - Thành công!*
+
+Đám đông ăn mừng. Không có thời gian cho việc đó, vì tôi đã đứng dậy, và xoay Nanh sẵn sàng cho đòn tấn công vũ khí đầu tiên. BỐP! Tôi mong đợi một cú đánh trực diện, nhưng trượng của tôi chỉ tạo ra những đám mây bụi đất. Thay vì ngã sấp mặt như một kẻ thù mặc giáp nặng, Groth lộn nhào và kết thúc trên đôi chân. Thế là hết chuyện tôi là người nhanh nhẹn duy nhất.
+
+Hắn gầm lên lần nữa, thú tính hơn là chủng tộc thông minh, và vung xích vào mặt tôi. Một cú né đơn giản, không vấn đề gì chỉ một cơn gió nhẹ từ cú đánh của hắn trên má tôi. Tôi phản công bằng một cú đánh lên nhanh với Nanh vào sườn orc để lại những vết cháy đen nhỏ trên giáp hắn. Tôi xoay trượng lại, và tiếp nối bằng một cú đánh xuống vào đầu hắn làm một cái gạc bay đi.
+
+*Groth Máu 80%.* Tôi đã hy vọng nhiều hơn.
+
+Thay vì dùng một cú quất xích khác, Groth đấm, với một đoạn kim loại quấn quanh nắm đấm. Một tiếng kim loại vang lên *cách* khi đầu Nanh gặp kim loại trong tay hắn, gửi những con rắn điện nhỏ vào người hắn. Tôi nhìn con orc như muốn nói, "Mày nghĩ cái quái gì thế?"
+
+*Groth Máu 70%*
+
+Hắn không trả lời ngoại trừ việc vung lại đầu dài của sợi xích. Tôi né sang một bên, nhưng nó quấn ba vòng quanh cán vũ khí của tôi. Tôi kéo, con orc kéo lại. Đó là một thế giằng co bế tắc vì không ai trong chúng tôi chịu buông, và Nanh thì không gãy.
+
+Con orc rống lên, một quầng mây đỏ mới bao quanh mặt hắn. Hắn giật mạnh, tôi cố gắng chống cự, nhưng vũ khí bay đi. Trượng của tôi lạch cạch trên đất, khi con orc giật nó ra xa khỏi tầm với. Hắn tạo ra một tiếng mèo gào hung hãn xứng với sinh vật hắn đội trên đầu.
+
+Một nhịp tim... Hai nhịp tim... Hắn là một kẻ biến hình nhanh. Quá nhanh để tôi theo dõi răng nanh và da xanh tan chảy thành một khuôn mặt đầy râu đen và lông nâu. Nó không giống người thú Freeworld, nơi da, cơ, và xương kéo giãn và vặn vẹo trong vài giây chậm chạp. Thay vào đó, con orc giống như đất sét mềm, bị đập vào khuôn và ban cho hình dạng mới trong tích tắc. Giờ tôi đang đối mặt với một con báo sư tử to hơn đời thực mà không có vũ khí. Con quỷ đó to cỡ một con sư tử lai hổ (liger).
+
+*Hoán Đổi Nhanh - Thành công!*
+*Bạn đã trang bị Nắm Đấm Của Lôi Thần.*
+*Nắm Đấm Của Lôi Thần*
+*Mô tả:*
+*Trái là Sấm. Phải là Sét. Đừng để bị cuốn vào cơn bão.*
+*Chất lượng: Epic*
+*Loại: Da*
+*Vị trí: Tay*
+*Giáp: 1*
+*Thưởng Trang bị:*
+*Khéo léo +2, Sức mạnh +1, Thể lực +1*
+*Thuộc tính Đặc biệt:*
+*(Chỉ Tay Phải)*
+*Đòn đánh tay không gây +4 Sát thương Sét.*
+*(Chỉ Tay Trái)*
+*Đòn đánh tay không gây +4 Sát thương Âm thanh*
+*(Chỉ Tay Trái):*
+*33% cơ hội khi đánh trúng làm điếc đối thủ trong 20 giây. Hiệu ứng cộng dồn.*
+*Sát thương thêm bỏ qua giáp.*
+
+Tôi đã cân nhắc dùng quạt chiến, và có thể vẫn dùng chúng, nhưng hiện tại tôi thích có sát thương thêm đảm bảo cho mỗi cú đánh từ đôi găng tay hở ngón này, trên hết là các phần thưởng tay không và lợi ích khi làm một võ sĩ mang lại như tăng số lượng đòn tấn công. Vậy là đây, tôi chín mươi sáu pound tay không, đấu với một con sư tử núi tám trăm pound. Có vẻ công bằng đấy.
+
+Groth lao vào vồ, nhưng dường như quên mất những lợi ích bất chấp trọng lực của võ thuật RPG. Tôi nhảy cao qua đầu con mèo trước khi nó đến gần tôi và giáng nắm đấm mạnh xuống sọ nó. Một tia sáng bùng lên từ tay trái tôi, và khi tôi bồi thêm một cú từ tay phải có một tiếng RẮC chói tai vang vọng khắp các bức tường của không chỉ đấu trường và khán đài, mà cả lâu đài phía sau.
+
+Những tiếng hít vào ngạc nhiên tập thể, bật ra từ khán giả. Không nghi ngờ gì một số đang tìm kiếm mưa.
+
+Groth vả bằng cái chân to của mình, nhưng tôi nhanh hơn, lách người tránh, và đấm một cú móc hàm sét dưới cái hàm to lớn của hắn, theo sau là sấm sét vào mũi hắn. Con mèo lắc đầu như thể thấy sao, và tôi lao vào cho một cú đá bồi.
+
+Ý tưởng tồi, hắn cào và chân kết nối. Lưu Thủy kích hoạt khi con mèo đẩy qua lớp thịt đang tái tạo nhanh chóng của tôi. Trừ 5 hấp thụ. Tôi chỉ có thể chịu thêm một cú đánh như thế nữa trước khi mất máu thật. Ít nhất thì lúc đó, tôi sẽ kháng sát thương bằng thể lực.
+
+Groth gầm lên, và tận dụng cú đánh của mình. Mặc dù không bị thương, cú đánh làm tôi ở vào tư thế khó xử. Hắn vồ và tôi ngã xuống, khuôn mặt mèo của hắn ngoạm, và xé toạc lớp phòng thủ Lưu Thủy cuối cùng của tôi; thịt tôi vặn vẹo và tái tạo để hấp thụ sát thương từ răng hắn. Thế này là... không ổn.
+
+*Bước Nhảy Bóng Tối (Cấp 5) - Thành công!*
+
+Mừng là nó hoạt động khi tôi đang nằm trên mặt đất. Tôi lăn sang một bên, biến mất vào bóng của ngực và chân hắn, và xuất hiện lại từ bóng của hông phải hắn. Tôi chỉ có thể hy vọng hắn vẫn bị điếc và mất phương hướng từ những cú móc trái của tôi và không chắc chuyện gì đang xảy ra. Nhanh chóng đứng dậy, tôi bắt đầu một bài quyền ổn định, và đẩy một làn sóng năng lượng Âm lạnh lẽo vô hình vào hắn thông qua ma thuật nguyên tố Trung Hoa Freeworld của tôi.
+
+*Thi triển Di Chuyển Như Băng (Cấp 3) - Thành công!*
+*Tốc độ Di chuyển giảm 50%.*
+
+Những tinh thể băng nhỏ bao phủ lông hắn. Tôi có thể tấn công, nhưng tôi quyết định lặp lại câu thần chú trong khi hắn không nhìn.
+
+*Thi triển Di Chuyển Như Băng (Cấp 3) - Thành công!*
+*Tốc độ Di chuyển giảm 50%.*
+*Mục tiêu bị đóng băng trong 20 giây.*
+
+Với trang bị hiện tại, hai câu thần chú nhỏ là đủ để làm manna của tôi cạn đi một phần tư, nhưng không sao vì tôi đã có hắn ở nơi tôi muốn. Miễn là gã này không làm tôi ngạc nhiên với một đòn AOE làm đau tôi, và không làm đau chính hắn thì tôi nắm chắc phần thắng. Người biến hình có thể thi triển phép trong dạng thú không nhỉ?
+
+Tia sáng từ bên phải, KA-RẮC, từ bên trái. Đừng để bị cuốn vào cơn bão. Với mỗi cú va chạm, những mảng sương giá và băng rơi khỏi con mèo như từ một tòa nhà sau bão tuyết.
+
+Trong tích tắc Groth biến hình, giờ, trở lại cơ thể orc mắt đỏ của hắn. Hắn cố di chuyển, nhưng tinh thể băng leo lên chân hắn. Sẽ như thế này trong 10 giây, và tôi nắm lấy cơ hội tấn công. Tia sáng, KA-BÙM, BỐP. Những cú đấm nhanh vào sườn hắn. Hắn xoay người cố đánh tôi, nhưng tôi vừa ngoài tầm với. Tôi nhảy múa như một con ong bắp cày và chích bằng đòn một-hai cũ kỹ. Những cú chọc lóe lên như đèn flash vào hàm hắn. KA-BÙM-BÙM khi một cú móc trái gửi cằm hắn lên trời. Hắn trông có vẻ choáng váng. Tôi là một cơn bão nắm đấm và bão tố đập vào xương sườn hắn. Mỗi cú đánh bào mòn máu hắn. Chớp, rầm, bùm!
+
+*Groth Máu: 20%.*
+
+Bốn... Ba... Hai... Di Chuyển Như Băng sắp hết hạn. Tôi kết liễu hắn bằng một cú đá vòng cầu úp khuôn mặt xấu xí của hắn xuống đất.
+
+*Bạn đã đánh bại Groth.*
+*Kỹ năng Tay không tăng 1. Cấp độ hiện tại: 13*
+
+Tiếng reo hò bùng nổ quanh tôi. Tôi thực hiện một cú lộn ngược, và sau đó nhảy vào một cú chống tay nhào lộn. Tôi có thể quen với sự chú ý này. Tôi nhìn quanh sàn và tìm thấy Nanh cách đó vài bước, tôi rũ bỏ sợi xích, hôn lên cán trượng, và nói "Tao nhớ mày quá." Tiếng reo hò càng lớn hơn. Họ hẳn thực sự không muốn con orc thắng.
+
+Tôi quay lại chỗ Groth nơi các trị liệu sư áo xanh đang chữa trị cho hắn. Tôi đưa tay ra với tinh thần thượng võ, và nói "Đánh hay lắm."
+
+Groth khinh bỉ cử chỉ của tôi và nói, "Đồ gà chết tiệt."
+
+Điều đó làm tôi bất ngờ vì tất cả Dân Haven đều duyên dáng trong thất bại. Tôi nói, "Nếu tôi là gà, anh vừa bị một con gà đá đít đấy."
+
+Hắn nói, "Phép Freeworld chết tiệt, bạn trai cô đưa tài khoản cho cô à? Cả hai ta đều biết lẽ ra tôi phải thắng."
+
+Lần đầu tiên kể từ khi đến, tôi cảm thấy một tia nóng giận. Mặc xác hắn và những lời buộc tội của hắn. Tôi đánh bại hắn công bằng và sòng phẳng. 'Bạn trai cô đưa tài khoản cho cô à?' Cái gì thế? Tôi nói, "Anh thua, vì anh kém. Học chơi đi."
+
+Hắn nói, "Cô vừa nói 'Đánh hay lắm' mà."
+
+Tôi nói, "Tôi chỉ lịch sự thôi. Trận chiến này đã kết thúc ngay phút anh tước vũ khí của tôi. Loại thằng ngu nào tước vũ khí một võ sư... Tôi nghĩ đó là cách các người gọi họ ở Haven... ném vũ khí của họ đi, và thách thức họ đấu tay đôi? Rồi, trên hết, anh thấy các đòn tấn công vật lý không hiệu quả, và vẫn cố làm điều tương tự." Thừa nhận là nó sẽ không hiệu quả nếu hắn đánh trúng tôi lần nữa, nhưng hắn đâu biết điều đó, và nếu tôi dùng đồ của Marine tôi có thể thi triển Lưu Thủy lần nữa ngay khi nó hết tác dụng. Tôi chế nhạo, "Ồ yeah, tao thông minh! Tao xứng đáng thắng!" Tôi cười khẩy, "Ngay cả NPC cũng đủ thông minh để chuyển sang dùng phép."
+
+Hắn nói, "Địt mẹ mày con chó cái!" và tung một cú đấm vào tôi. Tôi dễ dàng né sang một bên, khi đám đông tạo ra một điệp khúc "Ồồồ" và "Ààà!"
+
+Một câu thần chú được thi triển trong tầm nhìn ngoại vi của tôi, Lãnh chúa Zarentu đứng dậy từ ngai vàng.
+
+"Im lặng." Ông nói, bằng một giọng trầm và nguy hiểm đến mức làm xương tôi run rẩy. "Orc. Ngươi không được đánh quán quân khác, và hành vi của ngươi trong cuộc thi này cho đến giờ là không thể chấp nhận được."
+
+Groth nói, "Bú cu tao đi!" và nắm lấy háng mình. Quyết định đây có thể là cơ hội cuối cùng của hắn, hắn tung một cú đánh nữa vào tôi, mà tôi dễ dàng tránh được.
+
+Lãnh chúa Zarentu nói, "Ta thu hồi lời mời, và quyền đến thăm Lâu đài Dragonswood của ngươi. Lính gác. Bắt hắn."
+
+Groth nói, "Đéo có chuyện đó đâu! Tao còn chưa nhận được loot nhiệm vụ."
+
+Khi lính gác với trường kiếm và kích diễu hành vào đấu trường, con orc biến hình thành một con gấu dire, mắt đỏ, và cao gấp hai lần rưỡi tôi. Tôi dọn sạch khu vực, không muốn bị tấn công. Đám đông xì xào trong sự hỗn loạn.
+
+Zarentu nói, "Thầy Aztram, phiền ông chứ?"
+
+Vị bán-tiên già giơ tay như thể nâng một cái bát quá đầu, chạm vào một sức mạnh mà tôi, cho đến giờ, vẫn chưa quen thuộc. Ông tụng niệm bằng một ngôn ngữ tôi không biết, ánh sáng trắng rực lên trong lòng bàn tay giơ cao của ông, ngày càng dữ dội hơn theo từng giây. Sau đó, khi ánh sáng sáng cỡ một mặt trời nhỏ, ông cầm nó bằng hai tay như quả bóng rổ, và đập nó xuống đất. Cùng lúc đó, đá rơi từ trên cao, một thiên thạch đỏ rực đập vào mặt con gấu. Groth nằm bất động trong đất, những vệt đỏ trên mặt đất gần nơi thiên thạch rơi.
+
+Tôi thận trọng chọc nó bằng trượng, vì không ai trong số lính gác lại gần hơn. Nó không cử động. Máu thấm vào đất kéo giãn giới hạn của những gì thiết lập trò chơi PG-13 hiện tại của tôi cho phép, tôi chắc chắn rằng trong chế độ R tôi sẽ bị phủ đầy những mảnh não gấu, và máu.
+
+*Groth*
+*Loại: Người chơi*
+*Chủng tộc: Orc*
+*Ngoại hình: 2*
+*Thử thách: Trung bình*
+*Trạng thái: Chết*
+
+Zarentu nói, "Đừng hồi sinh hắn, hãy để các vị thần của nhà thám hiểm phân định số phận hắn. Trong lâu đài của ta, Groth không còn nữa." Con rồng sau đó nhìn tôi. Tôi tự hỏi họ sẽ làm gì với cái xác cho đến khi hắn hồi sinh và xác hắn biến mất. "Lãnh chúa Melpomine. Ta xin lỗi cô. Bạo lực, bên ngoài giải đấu, không được phép trong khuôn viên lâu đài của ta."
+
+Tôi sẽ không bao giờ biết chuyện gì xảy ra với cái xác, bởi vì sau khi tôi cúi đầu ghi nhận lời xin lỗi của Zarentu, một người hầu hối hả đưa tôi về lều Quán quân. Bên trong trống trải so với khi Tako và tôi mới vào, chỉ có hai người hầu với lá cọ và một người đàn ông trong bộ giáp đỏ đậm sơn để giống như cơ bắp lộ ra với những hộp sọ người không hàm ôm lấy hai vai. Ngoài những đồ trang trí bằng xương gớm ghiếc, nó trông rất giống nhìn vào một hình nộm giải phẫu được bơm phồng. Hắn có mái tóc nâu gợn sóng dài, và một chòm râu ở cằm.
+
+Hắn nói, "Đánh hay lắm Lãnh chúa Melpomine."
+
+"Cảm ơn," tôi nói, cho rằng đây hẳn là đối thủ cuối cùng của tôi. "Nếu ngài thứ lỗi cho tôi một lát..."
+
+Tôi rút quạt ra, và bắt đầu thi triển lại buff Lưu Thủy, mảnh vụn trượt trên sàn, và nắp lều thổi tung trong một giây. Nếu con rồng này bị đe dọa bởi ma thuật Freeworld, hắn không thể hiện điều đó khi hắn nở một nụ cười thích thú, khi tôi thi triển xong, và tóc hắn lắng xuống quanh mặt.
+
+"Cô xong chưa?" Hắn hỏi.
+
+Tôi xoa tay để làm mới các buff Tăng cường Khéo léo và Tăng cường Sinh lực. *Vùùù... Thịch-bộp. Thịch-bộp.* Phòng hờ thôi. Tôi nói, "Rồi..." biết đâu đấy, toàn bộ kế hoạch của hắn là giữ tôi nói chuyện lâu đến mức tôi quên chuẩn bị.
+
+"Ta là Lãnh chúa Krogen." hắn nói, "Rất vui được gặp cô. Ta vui hơn nhiều khi đối mặt với cô, hơn là con chó lai đó."
+
+Một phần trong tôi tự hỏi làm sao hắn biết về con orc, vì tất cả các cuộc thi đều là mù. Hoặc một ngoại lệ đối với các quy tắc được thực hiện cho NPC Havenfolk, hoặc hắn có nguồn thông tin nội bộ. Tôi nói, "Chà hắn không lịch sự lắm, điều đó là chắc chắn."
+
+Krogen cười khẩy, "Cô thậm chí có thể nói hắn ta đã mất đầu."
+
+Tôi nghĩ, "Eo ôi. Tệ thật." và nói "Ngài chắc chắn có thể nói vậy."
+
+Hắn nhấp một ngụm từ cái cốc, chắc là rượu, và ra hiệu về phía một cái gối quá khổ, có thể dùng làm cả cái giường cho một trong những chủng tộc nhỏ hơn. "Cô cũng có thể ngồi," Hắn nói "Sẽ mất vài phút dọn dẹp."
+
+Tôi nghe theo lời khuyên của hắn, không chắc hắn định đi đến đâu với chuyện này. Cho đến giờ, hầu hết các NPC trong lều Quán quân, ngoại trừ Aztram, đều phớt lờ tôi. "Vậy...." tôi nói, phá vỡ sự im lặng đã bao trùm giữa chúng tôi.
+
+"Ta có thể thẳng thắn không?" Krogen hỏi.
+
+"Tôi thích thế hơn."
+
+Hắn hỏi, "Mục đích của cô cho giải đấu này là gì?"
+
+"Tôi muốn thắng," tôi nói, "Tôi tưởng điều đó là hiển nhiên."
+
+"Rõ ràng rồi," Con rồng nói, "Chẳng có nghĩa lý gì khi thi đấu nếu không phải để thắng, nhưng tại sao? Chúng ta là rồng. Cô thì không. Cô hy vọng đạt được điều gì?"
+
+Ý ngài là, ngoài việc hoàn thành một nhiệm vụ phiên bản giới hạn? Tôi cân nhắc nhiệm vụ ban đầu. Tôi cẩn thận diễn đạt câu trả lời của mình theo cách mà các NPC sẽ hiểu. "Chúng tôi cần đồng minh."
+
+"Chúng tôi?"
+
+"Tôi, bang hội của tôi, cả thế giới... Rồng tôn trọng sức mạnh, nên tôi hy vọng rằng nếu đủ thành viên bang hội của tôi làm tốt trong cuộc thi, Zarentu sẽ xem xét một liên minh."
+
+"Chống lại cái gì, hay ai?" Krogen hỏi.
+
+"Vết Rách Của Các Thế Giới, hay đúng hơn, thực thể gây ra nó."
+
+Krogen chế nhạo. "Cô đâu cần phải thắng giải đấu vì điều đó. Cô chưa bao giờ nghe nói kẻ thù của kẻ thù, là bạn sao?"
+
+"Tôi muốn nhiều hơn thế. Chúng tôi không ở đây để làm lính xung kích cho rồng nào đó. Một liên minh ngụ ý một quan hệ đối tác bình đẳng."
+
+"Các người sẽ không bao giờ là ngang hàng với chúng ta, quá yếu đuối trong lớp da hồng và nâu của các người." Krogen nói, "Nhưng ta lạc đề rồi, đó là vấn đề về lòng kiêu hãnh. Điều này, ta hiểu."
+
+"... nhưng không phải vậy."
+
+"Không phải sao? Không muốn bị đối xử như những con kiến mà các người vốn là thế sao? Ta chỉ muốn biết liệu ta có đối mặt với một đối thủ có mục đích xứng đáng không, và có vẻ như, than ôi, ta có."
+
+"Cứu thế giới ư?"
+
+Krogen gắt, "Kiêu hãnh, đồ ngốc. Ta sẽ bẻ gãy nó, và nhét nó xuống họng cô, nhưng ít nhất nó là một mục đích xứng đáng."
+
+Tôi lẩm bầm, "Mừng là tôi có thể trấn an ngài."
+
+Aztram ghé vào, và nói "Các Quán quân, đến giờ rồi."
+
+Cả hai chúng tôi gật đầu, và Krogen ra khỏi cửa, trước khi tôi kịp thu thập trượng của mình. "Đúng là cục phân," tôi nghĩ, khi hắn chiếm trọn ánh đèn sân khấu. Khi tôi ra đến nơi, đám đông đã bị kích động vào cơn điên loạn, hô vang "Krogen! Krogen! Krogen! Krogen!"
+
+Tôi đoán giờ tôi biết ai là người được đám đông yêu thích. Tôi nhìn về phía khu vực Quán quân, và hồi hộp khi thấy Mirae, Frobod, và Tako đang cổ vũ tôi, với Laurelade đang nhìn xuống và kiểm tra ngón tay mình. Bên dưới tất cả những tiếng hô vang tên đối thủ của tôi, có ít nhất ba giọng nói ở góc của tôi đang dõi theo tôi. Tôi xoay Nanh, trong một cơn lốc điện, và giơ ngón cái tự tin cho bang hội của mình.
+
+Bây giờ, đối diện với đối thủ của mình tôi thấy đối thủ thực sự mà tôi đang đối mặt. Hắn làm tôi ngạc nhiên khi không dùng khiên, thay vào đó thích một thanh trường kiếm đơn độc. Hắn có một chiếc mũ giáp đỏ hợp với bộ giáp, với một chùm gai thép kiểu mohawk. Trước khi trận đấu bắt đầu, hắn liếm dọc lưỡi kiếm, để lại một vệt máu đỏ, và rồi thổi vào nó. Với một tiếng "Phù!" có thể nghe thấy, lưỡi kiếm bắt lửa, một ngọn đuốc kim loại. Hắn dập tấm che mặt xuống, và xoay lưỡi kiếm đang cháy trong tay, thách thức tôi tấn công.
+
+"Đừng để bị đánh trúng," tôi nghĩ, biết rằng Lưu Thủy sẽ không bảo vệ tôi khỏi sát thương nguyên tố. Tôi tự hỏi hắn có ma thuật gì khác. Một lời thì thầm bên trong cảnh báo chống lại một pha mở màn bằng bước nhảy bóng tối khác. Làm sao hắn biết về con orc? Hắn có người cung cấp thông tin, hay có một phép thuật Haven để nhìn từ xa? Nếu một trong hai là đúng, hắn sẽ thấy nước đi đó và làm bất cứ gì có thể để khắc chế nó.
+
+*3....*
+*2....*
+*1.....*
+*Bắt đầu!*
+
+Những gai đất bắn lên từ mặt đất phía sau hắn như măng đá, khi tôi mấp máy môi, "Hắc Băng." Có vẻ tôi đã đúng.
+
+Những cái gai vỡ vụn thành bụi trong vài giây. Lời nói của tôi là một macro tôi thiết lập để thi triển một phép Freeworld.
+
+*Hắc Băng (Cấp 2)*
+*Chi phí: 500 Manna*
+*Khéo léo + Võ thuật*
+*Thời gian: 5 giây*
+*Bạn dẫn dắt tinh hoa lạnh lẽo của Âm qua chính mặt đất, khiến nó trở nên trơn trượt, vô hình và khó lường như hắc băng.*
+*Hiệu ứng:*
+*Một mục tiêu bị ảnh hưởng bởi Hắc Băng không thể tiến lên trong năm giây. Bước chân trượt khỏi bên dưới họ. Nếu mục tiêu cố gắng đi quá ba bước, họ mất thăng bằng và ngã. Các đòn tấn công đánh ngã lên mục tiêu được cấp quyền thành công tự động.*
+
+*Thi triển Hắc Băng (Cấp 2) - Thành công!*
+
+Trong một khoảnh khắc, không có gì xảy ra. Hắn rõ ràng đã mong đợi tôi xuất hiện sau lưng hắn, và tôi đang đợi hắn lao tới. Cảm ơn Chúa hắn là một NPC. Tôi xoay Nanh từ tay này sang tay kia, và đâm đuôi trượng xuống đất.
+
+*Khiêu khích. Thành công.*
+*Krogen tấn công.*
+
+Một bước, hai bước, ba bước khi Krogen chạy tại chỗ, rồi cả hai chân bay khỏi bên dưới hắn trong một sự nhại lại của phim hoạt hình. Hắn và bộ giáp máu của hắn rầm xuống đất. Tự hào về cái đó đi.
+
+Tôi ngay lập tức bắt đầu các động tác tôi đã lập trình cho Di Chuyển Như Băng. Tôi đã mất một nửa manna rồi, nên tôi chỉ có thể thi triển bấy nhiêu thôi. Lớp sương giá đặc trưng nhanh chóng leo lên giáp hắn, khi tôi lao vào tấn công.
+
+Hắn di chuyển chậm trên mặt đất, và tôi đánh một đòn thấp, Nanh đập vào một tấm khiên vô hình, điện của nó chạy tán loạn trên một mái vòm không nhìn thấy. Máu vẫn ở mức 100% khi tôi giáng trượng xuống mạnh cho một cú đánh khác. Hy vọng duy nhất của tôi là rào cản này là một thứ có thể bị đập vỡ hoặc bào mòn như bảo vệ Lưu Thủy của tôi. Tôi ra sức búa vào cái bong bóng vô hình, khi Krogen chật vật đứng dậy với tốc độ chuyển động 50%.
+
+Tôi đánh thêm một cú nữa, trước khi hắn bắt đầu với thanh kiếm của mình. Vũ khí của chúng tôi va vào nhau gửi một luồng lực qua tay cầm của tôi. Tôi phản công bằng đầu kia của Nanh, nhưng đánh trúng rào cản trước khi tôi có thể đánh trúng giáp hắn.
+
+Hắn nói, "Bỏ cuộc đi, đồ phàm nhân."
+
+Tôi đáp, "Không phải hôm nay." Xoay trượng, và sử dụng tốc độ vượt trội để áp đảo hắn với quá nhiều đòn tấn công. Hắn đỡ được vài đòn, nhưng đại đa số đáp xuống cái bong bóng ma thuật chết tiệt đó.
+
+*Bước Nhảy Bóng Tối (Cấp 5) - Thành công!*
+
+Tôi rơi lại vào bóng của chính mình và xuất hiện lại sau lưng đối thủ. Chân tôi đá vào lưng hắn, khiến hắn loạng choạng về phía trước. Tôi tiếp nối bằng một cú đánh xuống với Nanh tạo ra một vết lõm trên vai hắn. Krogen: Máu 100%, nhưng ít nhất tôi đã chạm vào người.
+
+Hắn xoay người, và chém với lưỡi kiếm đang cháy, nhưng Nanh có tầm quá xa. Hắn thậm chí không gần kết nối. Hơi liều lĩnh nếu bạn hỏi tôi, vì hắn để sườn mở toang, cái mà tôi gắn thẻ bằng một cú va chạm vào giáp hắn, đưa máu hắn xuống 90%. Máu đầu tiên.
+
+Tôi nói, "Năm mươi vàng nếu ngài có thể đánh trúng tôi," khi hắn lao vào tấn công, tôi cảm thấy hơi nóng từ kiếm của hắn trên da, nhưng hắn không kết nối. Đó là tác dụng của hai mươi tư dex (khéo léo).
+
+Từ bên trong mũ giáp, tôi nghe thấy, "Cô không thể nhảy múa cả ngày đâu," khi tôi tặng hắn một cú chạm yêu vào sườn. Không nhiều sát thương, nhưng tôi đang làm hắn tóe lửa.
+
+"Xem tôi này."
+
+Kiếm của hắn tạo ra âm thanh 'vùùù' rực lửa khi hắn vung. Tôi trượt ra khỏi đường đi. Vùùù, rắc! Tôi lùi ra khỏi tầm bắn vào đầu của hắn, và chặn một cú quét mới bằng trượng. Tôi đang bắt đầu nghĩ ra một chiến thuật mới.
+
+Tôi nói, "Thành thật mà nói, tôi không biết làm sao ngài vào được chung kết."
+
+*Thêm dầu vào lửa.*
+*Thao túng + Thấu cảm. Thành công!*
+*(Mức độ Thành công: 4)*
+*"Tôi nghĩ tôi sẽ thích hắn khi hắn giận dữ..."*
+
+Với mỗi lời châm chọc hắn càng trở nên liều lĩnh hơn, dồn nhiều sức mạnh hơn vào những cú vung kiếm. Tôi cúi và né dễ dàng, thỉnh thoảng phản công, và điều khiển Nanh cắn hắn. Máu hắn chỉ giảm hai mươi phần trăm, nhưng hắn chưa giáng được đòn nào.
+
+Tôi nói, "Ngay cả con orc còn đánh trúng." Vút, vùùù, né, RẮC. Hắn thực hiện một cú húc chạy đà. Tôi né, và Nanh cắn vào mông hắn khi hắn lao qua tôi. Điện giật hậu môn, cái đó hẳn là đau. Tôi nói, "Tôi tưởng rồng phải giỏi chiến đấu chứ. Ngài có đang cố không thế?" Tên khốn kiêu ngạo. Tôi sẽ đánh bại hắn theo cách xấu hổ nhất có thể.
+
+Miệng tôi mấp máy từ "Hắc Băng," và tôi lao lùi lại vài bước.
+
+*Thi triển Hắc Băng (Cấp 2) - Thành công!*
+
+Hắn không bao giờ học được, chạy ba bước mà không di chuyển, và rồi ngã dập mông. Tôi giáng Nanh xuống mạnh vào mặt hắn, gây ra một cú chích điện đi kèm với tiếng va chạm của trượng lên giáp. Krogen máu 50%.
+
+Tôi lùi lại, với Nanh sẵn sàng. Tôi cho hắn cơ hội đứng dậy, nếu không vì lý do nào khác ngoài việc làm hắn ngã lần nữa. Hắn tận dụng việc tôi không tấn công hắn, và triệu hồi một loại ma thuật đất nào đó với vài cử chỉ tay. Mặt đất rung chuyển, và một vết nứt trên sàn đấu trường mở ra, bắt đầu từ chân hắn và bò về phía tôi.
+
+Lửa và đất, hả?
+
+Chà, cách tốt nhất để tránh một đòn tấn công mặt đất là không ở trên đó, nên tôi nhảy lên không trung và bắt đầu lộn nhào giống như khi tôi mới vào đấu trường. Tôi thực sự có thể dùng phép lơ lửng của Laurelade lúc này, nhưng về mặt tích cực những cú chống tay nhào lộn, và xoắn mình trên không của tôi có lẽ trông ngầu hơn nhiều. Đâu phải hắn có thể đâm tôi từ đây. Tôi dừng lại, cách nơi bắt đầu khoảng ba mươi feet, và nói "Có thế thôi à?"
+
+Mặt đất lại rung chuyển khi hắn lặp lại cùng một phép. Tôi chạy và lộn nhào tạo thành một vòng tròn dần quanh hắn. Lần này, một cái gai đất phun trào từ nơi tôi đứng ban đầu, và tôi tự hỏi liệu lần đầu tiên hắn có gặp vấn đề thi triển do bộ giáp không.
+
+*Bước Nhảy Bóng Tối (Cấp 5) - Thành công!*
+
+Giờ tôi ở sau lưng hắn. Tôi xoay Nanh, và đánh hắn vào sau đầu gối. Hắn khuỵu xuống.
+
+Tôi nói, "Thật tử tế khi ngài chịu quỳ gối."
+
+*Thêm dầu vào lửa.*
+*Thao túng + Thấu cảm. Thành công!*
+*(Mức độ Thành công: 6)*
+*"Tôi nghĩ tôi sẽ thích hắn khi hắn giận dữ..."*
+
+"Cô đi quá xa rồi!" Hắn gầm gừ, "Ta sẽ thiêu sống cô ngay tại chỗ!"
+
+Thay vì quay lại và lao vào tôi với thanh kiếm, hình dạng của hắn lớn lên, tấm kim loại tan chảy vào lớp da vảy, khi đôi cánh bắt đầu hình thành và bóc ra từ lưng hắn. Làn da rồng của hắn, sáng bóng và giống rắn hơn là thằn lằn, phản chiếu bộ giáp của hắn: tối tăm, đỏ, và giận dữ.
+
+Tuyệt vời. Hình dạng tăng nhanh chóng của hắn đẩy tôi ra xa. Không có thời gian cho nhào lộn, tôi chạy nước rút đến đầu kia của đấu trường. Krogen hít một hơi sâu, và thổi ngọn lửa độc ác qua cơ thể tôi. Lưu Thủy vô dụng trước sát thương nguyên tố, và máu tôi tụt một mức đáng giật mình bốn mươi phần trăm trong một lần. Da tôi đau rát, và tôi thấy mình ước có một healer bỏ túi để hồi đầy máu cho tôi.
+
+Có tiếng la hét trong đám đông, khi những Dân Haven vô tội tìm chỗ ẩn nấp. Không ai muốn bị kẹt trong làn đạn.
+
+Một giọng nói vang rền vang lên. "Lãnh chúa Krogen bị loại!" Đó là Sứ giả Brime. "Không con rồng nào được phép lấy hình dạng tự nhiên của chúng."
+
+"Ta không quan tâm!" Krogen nói, và thở ra một luồng lửa khác. Lần này tôi đã mong đợi nó, và xoay sở nhảy ra khỏi vòng chiến, vừa kịp lúc.
+
+"Ngươi nên quan tâm." Đó là Zarentu, giọng ông trầm, giận dữ, và đẹp đẽ. Krogen quay lại, để tôi đối mặt với cái đuôi dày và cái lưng có cánh của hắn. Đậu trên hai chân sau, như hiện tại, hắn cao gần bằng Lâu đài Dragonswood. "Dạng người ngay, hoặc gánh chịu cơn thịnh nộ của ta."
+
+Tôi không thể thấy chuyện gì đang xảy ra trước cơ thể rồng khổng lồ, chỉ có một khoảng dừng dài trong đó không ai nói gì, và Dân Haven co rúm lại. Cuối cùng, sau những gì dường như là một giờ, nhưng có lẽ chỉ vài chục giây, Krogen co lại thành cơ thể người mặc giáp và nhặt thanh kiếm của hắn từ đất, giờ đã đen thui, ngọn lửa không còn cháy nữa.
+
+"Lãnh chúa Melpomine?" Zarentu nói. "Cô có thể ra ngay bây giờ."
+
+Tôi lúng túng leo ngược qua tường đấu trường, đám đông xì xào, biết ơn vì vẫn còn sống.
+
+"Cô là người chiến thắng." Lãnh chúa Zarentu nói, "Vì Lãnh chúa Krogen đã bị loại."
+
+Đối thủ cũ của tôi dậm chân ra khỏi đấu trường, và tôi tự hỏi ai đã gây thù chuốc oán lớn hơn trong cuộc thi này giữa tôi và Frobod. Ngay khi tôi bắt đầu đến gần các trị liệu sư lao đến chào đón tôi. Những vòng hào quang vàng của ma thuật chữa trị, chưa bao giờ cảm thấy tốt đến thế. Tôi ước mình có một cái gương, vì tôi tưởng tượng mặt mình phủ một lớp bồ hóng.
+
+Sứ giả Brime nói, "Mọi người, mọi người... xin hãy ngồi xuống." Mọi người đi lại trên khán đài, miễn cưỡng làm theo gợi ý như thể sợ một cuộc tấn công rồng khác.
+
+Tôi thở dốc, với Nanh bên hông. Tôi có thể thấy Krogen đã đi rồi, nhưng với sự bùng nổ đột ngột tôi nắm chặt cán trượng hơn một chút như thể họ có thể đúng. Có vẻ như hầu hết mọi người đã trở lại chỗ ngồi khi Brime nói, "Tôi xin giới thiệu với quý vị người chiến thắng của chúng ta! Lãnh chúa Melpomine, của Durolan, Bang chủ của Bánh Muffin Độc Dược!"
+
+Có vài tiếng vỗ tay, nhưng tôi có cảm giác mọi người vẫn còn hoảng sợ. Tôi cho rằng không phải ngày nào dân làng cũng thấy mình suýt bị thiêu sống. Không giống như các nhà thám hiểm với các chỉ số tục tĩu tương đối, hầu hết Dân Haven không chiến đấu sẽ ngã xuống chỉ với một cú vung kiếm của nhà thám hiểm. Bên phải tôi, một cậu bé tai to chạy vội vào sân vận động, với một cái móc dài như họ dùng để thay đèn pháp sư ở Durolan, và một vòng hoa xanh và cam.
+
+Thở hổ hển tìm không khí, như thể cậu ta đã chạy xa hơn nhiều so với bên cạnh đấu trường đến nơi tôi đang đứng, cậu ta nói, "Đến lượt chị chạy vòng chiến thắng rồi. Đưa cái này cho bất cứ ai chị muốn nhảy cùng trước yến tiệc."
+
+Tôi cười khẩy, và đưa nó lên mũi ngửi những bông hoa lốm đốm cam, vàng. Chúng không phải hoa hồng, nhưng mùi thơm cũng thú vị không kém. Tôi không biết liệu chúng là một tạo tác của Freehaven Online, hay chúng có bản sao trong thế giới thực. Sẽ thật khó xử nếu tôi đưa thứ này cho ai đó không phải Frobod nhỉ?
+
+Chỉ cho vui thôi, tôi lôi chiếc Nhẫn Hoa Hồng của Quán quân ra khỏi túi đồ, và đặt nó lên đầu mình. Khó mà giải thích phản ứng, ngoại trừ việc nói rằng mọi người đột nhiên trở nên lo lắng và phấn khích hơn. Hơi thở nghẹn lại, với mọi ánh mắt đổ dồn vào tôi cho đến khi tôi đưa ra quyết định. Sten chìa cái móc ra cho tôi đầy mong đợi.
+
+Tôi nói, "Chị không cần cái đó," và đặt cái sào xuống đất.
+
+Sứ giả Brime nói, "Lãnh chúa Quý bà Melpomine. Hãy chọn bạn nhảy." Đó là tín hiệu cho tôi thực hiện bước đi chiến thắng chậm rãi. Tôi bắt đầu bên phải nơi Sten đi vào, xa nhất có thể khỏi ghế của Quán quân. Tôi tản bộ, lười biếng ngắm nhìn những khuôn mặt. Ava mỉm cười với tôi ở hàng đầu, và những người đàn ông phản ứng từ việc nhún nhảy lên xuống như những cậu bé tại một buổi hòa nhạc, đến việc trao cho tôi những nụ cười điềm tĩnh, dè dặt với cái gật đầu để thể hiện sự quan tâm hoặc tôn trọng. Tôi bỏ qua tất cả bọn họ để lại một làn sóng thất vọng trong sự thức tỉnh của mình. Cánh đàn ông thường không hoạt bát như phụ nữ, nhưng tôi có thể nếm được những hy vọng và ước mơ tan vỡ của Dân Haven.
+
+Giờ tôi đang ở khu vực của Quán quân nhìn lên một đám NPC và đồng đội bang hội của mình. Tôi nửa muốn tặng nó cho Sedid vì cô ấy là quán quân yêu thích của tôi, nhưng than ôi dập tắt sự bốc đồng và nhìn lên Frobod. Anh ấy ở quá xa để với tới, nên tôi ném nó như một chiếc đĩa ném Frisbee. Nó va vào bộ ngực bọc giáp đen của anh, đập vào đầu gã đứng trước anh, và rơi vào lòng anh.
+
+Tôi gọi to, "Bắt hay lắm!"
+
+Sứ giả Brime nói, "Lãnh chúa Quý bà Melpomine đã chọn Lãnh chúa Frobod làm bạn nhảy. Ngài ấy có chấp nhận không?"
+
+Frobod nhìn vòng hoa trong tay, và lật nó vài lần như một đồng xu khổng lồ. Đám đông hô vang, "Nhận đi! Nhận đi! Nhận đi! Nhận đi!" Tôi cười khẩy và nghĩ, "Giờ thì anh biết cảm giác thế nào rồi đấy."
+
+Anh do dự một cách kịch tính, và rồi đặt vòng hoa lên đầu. Tôi cười và gọi vọng lên anh "Oberon!" bởi vì vương miện cây xanh và hoa dại làm anh trông giống như một Vua Tiên. Đám đông reo hò, và dậm chân lên những thanh gỗ đỡ họ tạo ra một tiếng ồn kinh khủng.
+
+Còn một sự kiện nữa thôi, cho đến khi chúng tôi hoàn thành nhiệm vụ này, và trở về nhà. Sẽ thật tuyệt vời khi được ngã lưng xuống giường.

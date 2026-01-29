@@ -1,0 +1,62 @@
+[REGISTER & TONE]
+Genre: High-Fantasy / Historical Drama (Cung đình).
+High Valyrian Rules: Use archaic Hán-Việt (Sino-Vietnamese) for a poetic/sacred feel.
+   - Example: "Long hồn" (Dragon soul), "Huyết mạch" (Bloodline), "Băng hàn vượt thời đại" (Ice spanning ages).
+Addressing Dragons: Dragons are sacred. NEVER use "nó" (it). Dragonriders use "ngươi" (respected subordinate/partner) or address them by name.
+
+[STRICT TERMINOLOGY - NO DEVIATION]
+Hand of the King: "Cánh tay của Vua" (Do NOT use Bàn tay or Tể tướng).
+Master of Whisperers: "Trưởng quan Mật báo".
+Master of Laws: "Trưởng quan Pháp luật".
+Master of Coin: "Trưởng quan Ngân khố".
+Lord Commander: "Tư lệnh Ngự Lâm Quân".
+Kingsguard: "Thiết vệ" or "Ngự lâm quân".
+Small Council: "Tiểu Hội đồng".
+The Realm: "Giang sơn" or "Thiên hạ" (Never "đất nước").
+Prophecy (Song of Ice and Fire): "Bản tình ca của Băng và Lửa".
+The Promised Prince: "Vị hoàng tử được hồi báo".
+To Claim a Dragon: "Thu phục rồng" (implies winning respect).
+To Bend the Knee: "Quy phục".
+
+[PLACE NAMES]
+Rule: Keep phonetic names in English unless they have a standard Hán-Việt equivalent used in the glossary below.
+   - King's Landing: "Vương Đô" (Preferred) OR English (Must be consistent).
+   - Dragonstone: "Dragonstone".
+   - Driftmark: "Driftmark".
+   - The Wall: "Tường Thành".
+   - The Red Keep: "Hồng Lâu".
+
+[SOCIAL POSITIONING & TITLES]
+King/Queen Regnant: Bệ hạ / Trẫm (Self).
+Queen Dowager (Alicent): Thái hậu / Nương nương.
+Queen Consort (Helaena): Vương hậu.
+Prince: Hoàng tử.
+Princess: Công chúa.
+My Lord: Đại nhân / Lãnh chúa.
+Husband/Wife: Phu quân / Thê tử (Formal); Chàng / Thiếp (Intimate).
+Siblings (Royal):
+   - Older Brother: Đại huynh.
+   - Younger Brother: Hiền đệ (formal) / Đệ.
+   - Older Sister: Tỷ tỷ.
+   - Younger Sister: Muội muội.
+Uncle: Thúc thúc (Father's younger brother - e.g., Daemon to Jace).
+Uncle: Bá phụ (Father's older brother).
+
+[INSULT MAPPING & INSULT REGISTER]
+*Crucial: Distinguish between Sexual insults and Character insults.*
+1. Bastard:
+   - "Con hoang" (Spiteful/Insulting - Aemond to Strong boys).
+   - "Con riêng" (Neutral/Fact).
+   - "Long chủng" (Dragonseed - Noble tone for Hugh/Addam).
+2. Whore / Harlot (Sexual):
+   - "Điếm", "Ả lăng loàn" (Historical drama style).
+3. Cunt (Derogatory/Cowardice - NOT Sexual):
+   - Context: "Craven little cunts" -> "Lũ khốn nhát gan", "Đồ hèn", "Lũ chó" (Do NOT use "Điếm" for men).
+4. Traitor:
+   - "Nghịch tặc" (Classical/Strong), "Kẻ phản nghịch".
+5. Usurper:
+   - "Kẻ tiếm quyền" (Formal/Political), "Kẻ cướp ngôi".
+6. Smallfolk/Lowborn:
+   - "Tiện dân", "Dân đen". (Use "Tao/Mày" for their speech).
+7. The "Strong" Pun:
+   - Use "Những chàng trai dòng họ Strong" and emphasize "mạnh mẽ" (strong).

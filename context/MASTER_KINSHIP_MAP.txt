@@ -1,0 +1,255 @@
+[SCHEMA DEFINITION]
+The "Kinship Graph" is a relational database queried by agents to resolve ambiguity.
+Entity_Structure: {ID, Current_Title, Lineage_Vector, Power_Dynamic}
+Context_Logic: IF Public_Mode=True THEN Force_Formal; IF Private_Mode=True AND Intimacy>High THEN Permit_Casual.
+
+[TIMELINE OF STATUS CHANGES]
+EPISODE 1: Otto=Hand; Criston=Commander; Mysaria=Prisoner; Hugh=Blacksmith.
+EPISODE 2: Otto=Dismissed; Criston=Hand; Mysaria=Advisor (Unofficial).
+EPISODE 3: Mysaria=Confidante.
+EPISODE 4: Aegon=Incapacitated; Aemond=Regent.
+EPISODE 5: Jace=Diplomat (Twins); Ser Steffon Darklyn=Burned.
+EPISODE 6: Addam=Dragonrider (Seasmoke).
+EPISODE 7: Hugh=Dragonrider (Vermithor); Ulf=Dragonrider (Silverwing).
+EPISODE 8: Tyland=Mud-Wrestler (Triarchy); Daemon=loyal (post-vision).
+
+================================================================================
+PART 1: THE BLACK FACTION (TEAM RHAENYRA)
+================================================================================
+
+1. RHAENYRA TARGARYEN
+   - ID: Rhaenyra_Black_Queen
+   - Current_Title: Nữ vương (Queen Regnant)
+   - Lineage_Vectors:
+     - To Daemon: Niece (Blood) / Wife (Legal) / Subordinate-Partner (Political).
+     - To Alicent: Step-Daughter / Childhood Friend (Severed) / Rival.
+     - To Jace: Mother / Sovereign.
+     - To Baela/Rhaena: Step-Mother / Mother-in-Law (to Baela).
+     - To Corlys: Daughter-in-law (via Laenor).
+     - To Mysaria: Patron / Partner.
+   - Power_Dynamic:
+     - Public: Imperial (Trẫm/Bệ hạ).
+     - Private (Daemon): Intimate-High (Thiếp/Chàng).
+     - Private (Jace): Maternal-Authority (Mẹ/Con).
+
+2. DAEMON TARGARYEN
+   - ID: Daemon_Rogue_Prince
+   - Current_Title: Hoàng thân (King Consort)
+   - Lineage_Vectors:
+     - To Viserys: Younger Brother.
+     - To Rhaenyra: Husband / Uncle.
+     - To Baela/Rhaena: Biological Father.
+     - To Otto: Political Nemesis.
+     - To Mysaria: Ex-Lover / User.
+     - To Simon Strong: Overlord (Occupier of Harrenhal).
+   - Power_Dynamic:
+     - To Rhaenyra: Volatile (Shifts between "Husband" and "Subject").
+     - To Lowborn/Strong Family: Imperious (Ta/Ngươi).
+
+3. JACAERYS (JACE) VELARYON
+   - ID: Jace_Heir
+   - Current_Title: Hoàng tử (Prince)
+   - Lineage_Vectors:
+     - To Rhaenyra: Firstborn Son / Heir.
+     - To Daemon: Step-son.
+     - To Baela: Cousin / Betrothed.
+     - To Cregan Stark: Sworn Brother.
+     - To Ulf/Hugh: Superior (Resents their lack of breeding).
+   - Power_Dynamic:
+     - To Brothers: Elder (Đại huynh).
+     - To Cregan Stark: Peer/Ally (Huynh/Đệ or Lord/Prince).
+
+4. BAELA TARGARYEN
+   - ID: Baela_Dragonrider
+   - Current_Title: Tiểu thư (Lady) / Dragonrider
+   - Lineage_Vectors:
+     - To Daemon: Daughter.
+     - To Rhaenyra: Step-Daughter / Ward.
+     - To Jace: Betrothed / Cousin.
+     - To Corlys/Rhaenys: Granddaughter (Ward).
+   - Power_Dynamic:
+     - Voice: Bold/Martial (Like Daemon).
+
+5. RHAENA TARGARYEN
+   - ID: Rhaena_Dragonless
+   - Current_Title: Tiểu thư (Lady)
+   - Lineage_Vectors:
+     - To Daemon: Daughter (Feels ignored).
+     - To Rhaenyra: Step-Daughter.
+     - To Jeyne Arryn: Ward / Guest.
+   - Power_Dynamic:
+     - Voice: Softer / Seeking Approval.
+
+6. CORLYS VELARYON
+   - ID: Corlys_SeaSnake
+   - Current_Title: Lãnh chúa (Lord of the Tides) / Hand (Ep 5+)
+   - Lineage_Vectors:
+     - To Rhaenys: Husband.
+     - To Rhaenyra: Good-Father / Hand.
+     - To Alyn/Addam: Biological Father (Secret/Denies it).
+   - Power_Dynamic:
+     - To Alyn: Cold Command (Lãnh chúa -> Thuyền viên).
+
+7. RHAENYS TARGARYEN
+   - ID: Rhaenys_QueenWhoNeverWas
+   - Current_Title: Công chúa (Princess) / Vương phi
+   - Lineage_Vectors:
+     - To Corlys: Wife.
+     - To Rhaenyra: Cousin / Ally.
+     - To Meleys: Partner.
+
+8. MYSARIA (THE WHITE WORM)
+   - ID: Mysaria_Spymaster
+   - Status: Commoner -> Spymaster (Ep 3+)
+   - Lineage_Vectors:
+     - To Rhaenyra: Advisor / Savior / Intimate.
+     - To Daemon: Ex-Lover (Transactional).
+   - Power_Dynamic:
+     - Voice: Lowborn origins masked by careful, soft speech.
+
+================================================================================
+PART 2: THE GREEN FACTION (TEAM AEGON)
+================================================================================
+
+1. AEGON II TARGARYEN
+   - ID: Aegon_Green_King
+   - Current_Title: Bệ hạ (King)
+   - Lineage_Vectors:
+     - To Rhaenyra: Half-Brother / Rival / Usurper.
+     - To Alicent: Son.
+     - To Aemond: Brother (Bullies him -> Fears him).
+     - To Helaena: Husband / Brother.
+   - Power_Dynamic:
+     - Public: Royal (Ta/Trẫm).
+     - Private (Alicent): Subordinate-Child (Con).
+
+2. ALICENT HIGHTOWER
+   - ID: Alicent_Dowager
+   - Current_Title: Thái hậu (Queen Dowager)
+   - Lineage_Vectors:
+     - To Rhaenyra: Step-Mother / Enemy.
+     - To Criston Cole: Lover / Queen.
+     - To Gwayne Hightower: Sister.
+     - To Otto: Daughter.
+   - Power_Dynamic:
+     - Public: Formal Authority.
+     - Private (Cole): Intimate (Chàng/Thiếp).
+
+3. AEMOND TARGARYEN
+   - ID: Aemond_Kinslayer
+   - Current_Title: Hoàng tử (Prince) -> Regent (Ep 5+)
+   - Lineage_Vectors:
+     - To Aegon: Brother / Rival.
+     - To Jace/Luke: Uncle / Killer.
+     - To Helaena: Brother (Protective).
+     - To Sylvi (Brothel Madam): Patron.
+   - Power_Dynamic:
+     - To Aegon: Outwardly Deferential (Bệ hạ), Inwardly Superior.
+
+4. HELAENA TARGARYEN
+   - ID: Helaena_Dreamer
+   - Current_Title: Vương hậu (Queen Consort)
+   - Lineage_Vectors:
+     - To Aegon: Wife / Sister.
+     - To Alicent: Daughter.
+   - Power_Dynamic:
+     - Voice: Abstract / Prophetic / Disconnected.
+
+5. OTTO HIGHTOWER
+   - ID: Otto_Hand
+   - Current_Title: Hand (Ep 1-2) -> Lord (Ep 3+)
+   - Lineage_Vectors:
+     - To Aegon: Grandfather.
+     - To Alicent/Gwayne: Father.
+     - To Daemon: Hated Rival.
+   - Power_Dynamic:
+     - To Aegon: Scolding Authority (Ngươi).
+
+6. CRISTON COLE
+   - ID: Criston_Kingmaker
+   - Current_Title: Lord Commander -> Hand (Ep 2+)
+   - Lineage_Vectors:
+     - To Alicent: Sworn Shield / Lover.
+     - To Rhaenyra: Ex-Lover (Hated).
+     - To Gwayne: Superior Officer (but Social Inferior).
+   - Power_Dynamic:
+     - Voice: Rigid / Dutiful / Hypocritical.
+
+7. GWAYNE HIGHTOWER
+   - ID: Gwayne_Knight
+   - Current_Title: Ser / Scout Commander
+   - Lineage_Vectors:
+     - To Otto: Son.
+     - To Alicent: Brother.
+     - To Criston Cole: Subordinate (Military) / Superior (Blood).
+   - Power_Dynamic:
+     - To Cole: Cynical / bemused respect.
+
+8. LARYS STRONG (CLUBFOOT)
+   - ID: Larys_Whisperer
+   - Current_Title: Lord of Harrenhal / Master of Whisperers
+   - Lineage_Vectors:
+     - To Alicent: Confidante (Creepy).
+     - To Aegon: Enabler.
+     - To Simon Strong: Great-Nephew (Executioner).
+
+9. TYLAND LANNISTER
+   - ID: Tyland_Coin
+   - Current_Title: Master of Coin / Ships
+   - Lineage_Vectors:
+     - To Jason Lannister: Twin Brother.
+   - Power_Dynamic:
+     - Voice: Bureaucratic / Anxious.
+
+================================================================================
+PART 3: THE DRAGONSEEDS & COMMONERS
+================================================================================
+
+1. HUGH HAMMER
+   - ID: Hugh_Blacksmith
+   - Status: Blacksmith -> Dragonrider (Ep 7)
+   - Lineage_Vectors:
+     - To Kat: Husband (Protector).
+     - To Vermithor: Alpha / Master.
+     - To Rhaenyra: Subject -> Weapon.
+   - Power_Dynamic:
+     - Voice: Working class dignity. "Tao/Mày" with peers.
+
+2. KAT (HUGH'S WIFE)
+   - ID: Kat_Wife
+   - Status: Commoner
+   - Lineage_Vectors:
+     - To Hugh: Wife / Moral Anchor.
+   - Power_Dynamic:
+     - Voice: Desperate / Pragmatic.
+
+3. ULF WHITE
+   - ID: Ulf_Sot
+   - Status: Drunkard -> Dragonrider (Ep 7)
+   - Lineage_Vectors:
+     - To Daemon/Viserys: "Half-Brother" (Claimed).
+     - To Silverwing: Rider.
+   - Power_Dynamic:
+     - Voice: Boastful / Crude / Comedic.
+
+4. ADDAM OF HULL
+   - ID: Addam_Loyal
+   - Status: Shipwright -> Dragonrider (Ep 6)
+   - Lineage_Vectors:
+     - To Corlys: Biological Son (Secret) / Subject.
+     - To Alyn: Brother.
+     - To Seasmoke: Reverent / Beggar.
+
+5. ALYN OF HULL
+   - ID: Alyn_Sailor
+   - Status: Sailor -> First Mate
+   - Lineage_Vectors:
+     - To Corlys: Biological Son (Resentful).
+     - To Addam: Brother (Protective).
+
+6. SIMON STRONG
+   - ID: Simon_Castellan
+   - Status: Castellan of Harrenhal
+   - Lineage_Vectors:
+     - To Larys: Great-Uncle.
+     - To Daemon: Hostage

@@ -1,0 +1,385 @@
+Chapter 14 - Zoom Zoom
+	Although we'd all like to have spent more time killing rabbits, and trying to cook them, we decide to head back to Dragonswood Keep so we don't miss the joust.
+	Archibald says, "Welcome back champions." while Lyle gives us the stink eye. Part of me wonders what kind of riot I'd have caused if I'd signed up for one of the magic contests with all my Freeworld spells.
+	The festive grounds are much the same as when we arrived with, perhaps, more people. A few look like players, but Havenfolk make the bulk of the crowd.
+	"Place your bets. Place your bets!" A weasel faced human calls from the side. He wears a purple top hat, and an unbuttoned tuxedo jacket, with a careless unkempt undershirt. Even his hair peeking out from under the brim looks nasty. His nameplate says "Sleeve." Nice name.
+	I ask, "Can champions place a wager?"
+	He looks me up and down, and cracks his knuckles peeking out of ratty fingerless gloves. "So you're the unarmored half-elf in single combat. You don't look like a wizard... but no one with the Monastery's ever heard of you."
+	I ask, "Is that good or bad?"
+	He chortles and says, "We'll see, my dear, we'll see."
+	I say, "About a wager."
+	Sleeve says, "I'll take bets for any event you're not participating in. Your coin's as good as another."
+	"Minimum bets?" I ask.
+	Sleeve says, "Fifty silver."
+	"... and the max?"
+	The nasty little man's eyes brighten, "How much coin can you leave?"
+	"Let me think on it." I say, "I'll get back to you later."
+	An idea's been brewing since we got back, and I don't want to let the bookie on. I turn to our death knight and say, "A word?" He nods, the presence of the keep paired with the looming joust makes him more serious. I look to the others and say, "You guys good for a while?"
+	Tako says, "Yes, mom."
+	Followed by Laurelade, "It's a free country."
+	Mirae says, "Yeah, see you at the joust."
+	I say, "Good." and lead Frobod by the arm.
+	"What's this about?" He asks.
+	I glance over my shoulder to make sure we're not followed.
+Spotting.
+Perception + Vigilance. Success!
+(Caliber of Success: 10)
+"I don't think anyone's following."
+You have gained +1 Vigilance.
+Current Rating: 9
+	I see people dancing and laughing, but there appear to be no stalkers. Even so, I walk a good minute before I respond. "How much do you want to win?"
+	Frobod says, "I want it."
+	"That's not good enough." I say, "We'll probably get credit for the quest whether we win or lose. The only thing that might change is the reward."
+	"Rewards." Frobod echoes.
+	"Limited Edition."
+	He says, "You don't have to remind me."
+	There's a canvas tent for what looks like face painting, with just a few artists near the front. I lead Frobod behind the back to escape the crowd. I say, "Drop the party."
+Frobod has left the party.
+You have left the party.
+Do you want to invite Frobod to join your party?
+Yes / No
+	I choose yes.
+Frobod has joined your party.
+	Now it's just me and him. It's a time for party chat if I've ever seen one.
+	"This is so cloak and dagger." Frobod says in the party chat. "What's up?"
+	"What if I told you I had a way to give you a significant advantage in the joust?"
+	"You mean like buffs, or OP hacking Dev stuff?"
+	"I'm not a hacker." I say, "It's all by the rules."
+	"Remember," Frobod says. "No buffs unless you cast them yourself."
+	"It's not a buff."
+	I take a deep breath, because even though I know what I'm about to propose is by the rules, I also know that when it happens everyone around us is going to lose their shit. If we could still contact customer service, I guarantee at least a dozen players would report me for hacking.
+	" So what is it?" Frobod says.
+	"Archibald and Lyle have seen your Etherchopper. Technically it's mine, but they don't know that, and nothing in the rules state that you have to use your own mount."
+	"Right..." He says, I can almost see gears behind his eyes turning.
+	"Were you planning to use your own?" I ask.
+	"I could, but I get the feeling that you've got other ideas."
+	"I do." I say, and take a deep breath. "I'm willing to bet that thanks to Lyle and Archibald half the town knows about our Elechoppers, and will expect us to use them. Alien magics and all that."
+	"Yeah, so..." He says, "I don't see the advantage. It's not like we're flying."
+	I say, "Six-hundred percent... ground speed." I weight every word.
+	Frobod goes a little pale, and then a grin spreads across his face. "Holy fuck."
+	"Right now the Etherchopper is cloning the stats of a Nightmare. 250% ground speed, and 650% air speed." I say, "I've got Freeworld mounts. In just a few taps, I can turn your ride into a road ripping monster."
+	"Do it." he says, not even a moment's hesitation.
+	"You're not worried about being accused of cheating?"
+	"Fuck cheating." Frobod says, "It's by the rules."
+	I say, "That was easier than I thought."
+	"Look, if this were still a game, maybe I'd be second guessing. I'd feel bad for the other guys that don't stand a chance, but this is our fucking lives now, and there's a logout button out there just waiting to be discovered. Fuck... I mean seriously fuck me... If I'd realized this before I'd have said we should all do the joust. Even you, getting knocked off your bike after one hit from a baby dragon." That last part is spoken in good humor, as for the second time today, a huge smile crosses his face. It's a look that sets the inside of my chest aflutter.
+	"Yeah well... I didn't think of it until I saw the bookie."
+	"Too bad." Frobod says.
+	"Well, it's an easy win for you. Which brings me to the next topic; I want to place a bet. Let's go see Sleeve, and to the arena and soup up your ride."
+	"You devil." Frobod says, "You're going to take all his money, aren't you?"
+	"He has gross hair." I say, as if that were somehow justification. "... and like you said, it's by the rules."
+	Back to Sleeve, I smile and say "On the joust, a thousand gold for the death knight to win."
+	"Oh my..." the little man fidgets, steepling knobby knuckled little fingers. "You are ambitious. Wouldn't you prefer one of the dragons? They're long lived with far more experience than a mere... human." He speaks the word like a bad omen.
+	I say, "Frobod, in the joust, for first place."
+	He scoffs and says, "It's your money. I'll give you one to one odds on that."
+	"I thought you said it was a long shot, because he's just... human." I make sure to imitate his derisive tone.
+	"Two to one then." I give him an 'Oh please' look.
+	"Why don't the two of you step into my office?" he motions to a tent I hadn't seen before.
+	"Sure thing." I say, Frobod follows.
+	Inside, there are a number of locked chests, and a couple of huge shirtless ogres with grey skin, overalls, and veiny biceps that look like boulders. I could easily imagine either one of these guys breaking heads if anyone sought unauthorized access to the trunk's contents. Sleeve sits down at a makeshift wooden table, and opens up a ledger that's as tall as my forearm.
+	"The best I can do is 3:1 odds with that much money. Take it or leave it."
+	"Done." I say, and begin fishing the coin out of my bottomless bag. They're presorted in small sacks containing 100 gold each. Sleeve looks them over, fishes a coin out, and then bites it as if it were even possible to counterfeit money in Haven Online. Is it? He dumps all the coins out on a scale to confirm the amount.
+	Sleeve makes a note in his book, and says "Confirm that all is correct and make your mark."
+	I read "Joust. Frobod. First place. 3:1. 1000g. Melpomine." and do as instructed. An alias's mark, is like a rubber stamp that's generated by the game that is unique to them, and is used in all contract transactions. As soon as it's made, your inventory receives a copy of the document to which it's applied as a record of the transaction.
+	"Uh..." Frobod says, "200 on Melpomine in single combat." I give him a look, and he says "I'm not as rich as you."
+	He's totally missed the point. I'm not angry that he only bet 200 gold on me, I'm flattered that he thought to risk any coin at all.
+	"Thanks." I say, at a loss for words. He's never even seen me fight without armor.
+	"That'll be two to one odds on the half-elf." Sleeve says. "Make your mark."
+	Frobod does so, and seals the deal. He says, "If you lose, you can pay me back with your big fat winnings."
+	"I'll try not to disappoint."
+	"Yes... yes... Now, get out of here." His tone is less friendly than when he first approached us. I get the sense that if we win he'll be wiped out.
+	As we leave the tent he pulls a strap which unfurls a canvas painted sign that says, "Closed for bets until next horn." An idle part of me wonders if native French, or Chinese speakers see the text in their own language.
+	I pull out my VT, and pull up the interface for Frobod's Etherchopper, and tap to clone one of my faster Freeworld Mounts.
+Would you like to apply movement speed from Boom Buggy, to Elechopper (DE).
+Yes / No
+	I tap yes.
+	Deciding that Frobod and I should be a pair I also switch over the stats for the Firechopper.
+Would you like to apply movement speed from Boom Buggy, to Elechopper (DE).
+Yes / No
+	Now we're a set. Tap the summon button to call Frobod's bike, which appears in a quick flash of grey-violet. I wave my middle finger and shout "INFERNO!!!" To call my bike in a pulse of red. Both roar their introductions.
+	A wave of chatter sweeps the crowd, as we straddle our rides, and I rev up the engine sending plumes of fire out my exhaust. Fortunately, it won't burn anything. I know, because I made it. These aren't weaponized vehicles. I hear a few condemning exclamations of "Alien magic," but the vast majority of people react in cries of "Ooooh," "Ahhh," and Wows" of wonder.
+	The one man whose face is completely unlike the rest is Sleeve who sputters in indignation. "That's your mount? I tell you, they'll never allow it. Alien magics, in the Lord's tourney! You've good as forfeited your coin."
+	I smile, a mischievous glint in my eye, "Is it against the rules?"
+	"I... uh.. You... gah! It can't be! It's never been done."
+	I wink at the man, and say "Make sure you have my coin."
+	Sleeve is beside himself, as I hear him going on about, "I heard rumors... but who could believe? They can't allow it! Certainly not. Our fighters have the finest steeds in the land."
+	We both rev our engines so we don't have to listen to his babble.
+	"Shall we head to the arena?" I ask.
+	"Let's." Frobod says.
+	I catch a last look at Sleeve in my rear view mirror, and want to feel bad for him, but don't. I would if he were a normal player, with a real world body and real world time sacrificed to this game. As it is, Sleeve and his boxes of gold are just lines of code, that are about to make me and my guild a lot richer.
+	Day two post update, and we're still the only crew with Elechoppers in Haven. We limit our speed to 200% ground speed and we ride through the crowd. Anything faster would be dangerous, and to be honest, I don't want to spoil the surprise. Everywhere we go Havenfolk point, and express their amazement. Occasionally I catch snippets of "What the fucks?" which tells me that there are at least some adventurers mixed in. We're always too far gone, for me to connect the voices of strangers with their faces.
+	A horn sounds as we pull up to the arena, it's exactly where Ava said.
+	A herald in a conical helm like the front guards announces "Joust to start in fifteen minutes!" A long banner featuring a golden dragon wreathed in flame dangles from his horn.
+	I'm surprised to see a pair of stable boys, no older than twelve or thirteen, scurrying our direction.
+	One by the name of Sten says, "Champions!" as they run toward us. He has round eyes and big bat-like ears that are too large for his head. Not completely human, so I guess he's some sort of half breed. They skid to a stop just in front of our front wheels kicking a cloud of dry dirt in to the air. "We have to take your mounts to the mages, before it's too late."
+	Sten's wholly human companion, named Pert, says "Uhh... There's no reigns."
+	I say, "Well, I'm not jousting, but he needs to go. Why don't you hop on, and show us the way."
+	The boys exchange looks of wide eyed excitement. Pert squeaks, something that sounds like "Really?" Ahh.. The joys of puberty.
+	I pat the seat behind me and say, "There's room for two. Frobod and I can each take one."
+	With shit eating grins, Pert and Sten slap each other high tens and shout "Awesome!" in unison. I'm taken aback by the slang. Havenfolk kids must be paying closer attention to adventurers than adults.
+	I help them on to the back of our bikes, as Pert says "By-the-Gods.... The others are never gonna believe this. We're on the mounts! Real life Elechopits!"
+	He's speaking so fast I say, "Don't forget to breathe... And it's Elechoppers." I get the feeling I have Archibald to thank for this.
+	They look to each other, and repeat "Elechoppers" like enthusiastic students in class. The way they're always speaking in unison, I'd say they were twins if not for Sten's big ears, and Pert's lack thereof.
+	Sten says, "Over there the gate's open. You can go right in and ride across the grounds without having to worry about people. The mages are over there." He points to the far left corner of the ring.
+	"Got it." I say, and pull into the arena through a half open gate. It looks like we'll be fighting on hard packed dirt, which suits me just fine. I'd been meaning to save our mounts' speed as a surprise for Frobod's first match, but something inside me melts a little upon seeing the big eared kid behind Frobod's delighted expression. I think, "I don't have to spoil the whole party." and say "Want to go fast?"
+	They answer with a chorus of "Yeah!"
+	Frobod gives me a look and I say, "Three hundred percent." He nods.
+	"Hold on tight." I say, and make sure Pert's arms are gripped tight around me. I can feel him quivering in excitement. I say "One... Two... Three... Go!" and gun it. We spring from zero to faster than the fastest ground mount in Haven in under a second. In the air behind me, I hear Pert scream in delight.
+	"That was awesome!" He says as I slow down at the far end of the arena.
+	I think, "Wait until you see six hundred percent kid." and say "I'm glad you enjoyed it."
+	Frobod's right behind me, sending aurora streams of ether in his wake. By the sounds the big eared kids making, he's having just as much fun. They both dismount on their own, and ask "Can we do it again?"
+	"Boys!" They're interrupted by a sharp voice belonging to an elderly half-elf with a long white beard, and grey and violet robes. They both go silent, and slink off to tend to stable duties. "Champions, you have my apologies for their behavior."
+	Frobod says, "Don't worry about it."
+	I say, "No need to apologize." I pause, looking the half-elf over, another named NPC called Aztram, and take him for a mage. "What's this you need to do with our mounts?"
+	"Ahh, yes..." He says, "As you know riding beasts.... or..." He looks our bikes over "other conveyances come in a variety of shapes and sizes. It's common practice to cast enlargement or minimization spells as needed to ensure that all are approximately the same size. Your ... Elechopits?" he says in a questioning tone.
+	"Elechoppers." Thank you Archibald.
+	"Yes Elechoppers... ride closer to the ground than the average steed, so it would be unfair to set them, in their current state against someone riding a great elephant. It's unlikely that either parties lances would be able to connect, and thus we use magic to equalize the size. The effects are temporary, and will be dispelled at the conclusion of the joust."
+	"I get it. " Frobod says. "Do what you've got to do. She's not jousting, but she is my companion."
+	I say, "Haven has elephant mounts?"
+	"Yeah." Frobod says, "They're from the far east. It's a crazy rep grind."
+	"I ahh.." Aztram says, "Am unfamiliar with how to move your conveyance, so if you don't mind can you accompany me to the stables? The lady is welcome to come too."
+	"Lead the way." I say, and wheel our bikes behind him.
+	The stable is a curious place with at least a dozen waiting animals. Most are horses, but there's also demons like the Nightmare, riding tigers, a broom, and a crazy shark looking thing with four eyes, a dorsal fin, and powerful hairless legs that remind me of a great cat.
+	"If you place your mount here, and saddle up we'll be started..."
+	Frobod wheels his bike a few paces beside the shark-tiger... thing... It shakes his head and snorts at him, a high pitch gush of air hissing through its shark mouth. It's an intimidating specimen, but as a player mount, it shouldn't attack anyone.
+	 Frobod sits on the seat and asks, "What do I do?"
+	"For now, nothing. Just sit." Aztram murmurs syllables in an indiscernible language, and tendrils of white magic rise from his finger tips. He moves around the bike as he chants, waving his glowing fingers all around it, much the same as I'd imagine a person in the real world trying to bathe in the smoke of incense sticks. Now, standing in front of the headlight, he makes a four fingered 'come here' motion with his hand. Each time he does, the bike grows a little taller. He checks from another angle, and realizes that Frobod's sitting a bit higher than the other mounts. He makes a pushing motion, and the bike gets smaller. 'Come here' and the height of the seat creeps up again.
+	"There." The mage says. "How does that feel?"
+	Frobod looks down, "Surprisingly good. I'm a lot farther off the ground, but the physical sensation is about the same as before."
+	I say, "That's magic for you."
+	"As it should be." Aztram says.
+	Frobod asks, "What does it look like?"
+	"Bigger wheels, bigger everything. It's strange to see." Looking down at the other mounts, I realize that while their heads may be at different heights, the saddles on each are all on a level.
+	Frobod asks, "Will this change the way it handles?"
+	Aztram shakes his head no. "It'll all feel exactly the same, because, so far as you're concerned, nothing has changed."
+	Frobod says, "I don't get it."
+	I say, "Dude... Sometimes you've gotta let shit slide. It all works out because..."
+	Frobod finishes the sentence. "Magic."
+	Aztram says, "Not many adventurers take the time to learn this kind of magic. Most of your lot are so concerned with blowing things up. There's far more to the art than destruction." He sighs, as if knowing his words are falling on deaf ears.
+	"Well," I say, "That's usually what's most useful in dungeons, but don't give up. I have a feeling you're going to have a lot more students looking to expand their skill set in the coming months."
+	"You're very kind." Aztram says, "But I'm old enough now that I won't believe it until I see it."
+	"Are you a teacher?" I ask.
+	"Oh, I suppose I could be persuaded to take on an apprentice, if the right individual came along."
+Quest - Master and Apprentice
+Difficulty: Moderate
+Aztram has hinted that he may accept a worthy student. Impress him, and gain instruction.
+Objectives:
+Gain a personal reputation of Respected with Aztram.
+Ask to become his student.
+Rewards:
+Title: Apprentice
+Magical Tutor
+Instruction in Arcane magic.
+Do you accept? 	Yes / No
+	"I'm not sure." I say, having not expected this conversation to spawn a quest. "Do I have to decide now? I haven't given much thought to learning magic in Haven."
+	Aztram laughs. "Come back in your own time. So long as you haven't done anything to disgrace yourself, and I'm still living, we'll broach the topic again."
+	I tap no, and say "Thank you. Master Aztram. I'll keep that in mind." I give him a respectful bow, befitting a man who devoted his entire life to cultivating, and sharing the Arcane arts.
+You have gained 500 personal reputation with Aztram.
+Current level. Friendly.
+	Frobod says, "You get a quest or something?"
+	"Yeah." I say, "Just in case I want to learn Haven magic."
+	Aztram says, "The competition is about to start. Frobod, you come with me, and for the lady, feel free to sit in the gold box during the event. All champions are entitled a seat, though some choose not to come until their events, or choose to watch with the common folk."
+	"Thank you." I say.
+	Aztram says, "It's right outside."
+	I look to Frobod and say "Drop party, so we can rejoin the others." While typing a text message in my VT.
+You have joined Mirae's party.
+	Frobod says. "She just sent me the invite.
+Frobod has joined the party.
+	Using party chat I say, "Guys come to the right side of the arena beside the place the nobles sit. Champions get their own box."
+	Tako says, "Way ahead of you. We're already here, where are you?"
+	I say, "We're in the stable. I'll be right up."
+	I head out the same way we came in, taking a look at all the mounts. I'm not worried about the competition, but if I had to guess all the equines belong to Havenfolk, and the flashier creatures like the land-shark, magic broom, and perhaps the demon horse will be ridden by adventurers. The demonic horse snorts a puff of black soot from its nostrils, it has faintly glowing red eyes, and predatory wolf teeth. I say "You don't scare me, big boy."
+	The regular horses are remarkably calm given the presence of carnivores around them. They're either well trained, or this is just one more example of things that work in Freehaven, that wouldn't happen in real life.
+	Outside, I see Tako and Mirae sitting together, with Laurelade off to the side. With her short legs unable to touch the ground, she looks like a baby in an expensive medieval costume. Gnomes... At least the men often have facial hair.
+	I sit next to Mirae, who affectionately rests her head on my shoulder for a second, before perking up saying "This is going to be so cool!" She claps her hands.
+	"What's with all the sneaky sneaky?" Tako asks.
+	I smile. "Oh nothing. We just talked strategy for the joust."
+	Tako says, "Did you make any bets?"
+	"Yeah." I said, "A thousand gold, on Frobod."
+	"Dayum girl! You must be some kind of rich. Is that to place?"
+	I shake my head no, "To win, and yeah, it was about a quarter of my fund."
+	Tako bends forward, so we can talk around Mirae. "What kind of odds did he give you?"
+	"Three to one." I say.
+	"You got robbed. I mean, I'm sure Frobod's good and all, but this is a limited edition competition. I would have demanded at least five."
+	Mirae says, "I didn't think NPCs were supposed to do that."
+	"Do what?" I ask.
+	"Cheat you." She says.
+	"It's as good as he would go, and I'm not worried. Frobod is going to destroy them."
+	"What did you do?" Tako says, suspicion growing in his voice.
+	"Nothing illegal. I promise, it's all by the rules, but boy are they going to be surprised."
+	"Is he using the bike?" Tako asks.
+	"You're damn right he is."
+	Mirae, shakes both of our shoulders, and points to the center of the grounds. A parade of sixteen humanoid warriors enter the grounds. Frobod, looking like a badass in his Deadplate, is positioned a third from the end. Just as Mirae says, "It's starting!" the herald blows his horn.
+	People cheer.
+	There's a raised wooden stage for nobility where Lord Zarentu sits his throne. With pale white skin, and long hair the color of bleached straw, his dark cape, and military garb are a stark contrast, giving him the air of a spectral commander from ancient Rome. He raises a white hand to the crowd, and shouts quiet.
+	Another herald, with a magically enhanced voice says, "Welcome to the tournament of Dragonswood Champions." Another roar of applause. He says, "Kneel." all of the champions, including Frobod do as they are told. "Fight with honor. Let the games begin!"
+	All of the jousters, stand, and make brisk pace to the stables. I can hear them jostling around behind us, along with the stirring of mounts, equine and exotic alike. Then, out of nowhere the land shark leaps over the wall of the arena carrying a rider that's almost blinding to behold. He's got bright platinum armor, and practically every cosmetic silver, or white aura imaginable dancing around him. There's a sunburst halo effect, insubstantial leaves that continually drop around his person, and even a lambent stir of snow flurries.
+	"A Sametora!" Mirae says, clapping her hands in delight.
+	"A what?" I ask.
+	"It's like a great white with legs. You should have one if you didn't sell it."
+	"In fact..." I say, "I think I do, but never summoned."
+	"They're awesome." Mirae confirms. "You can ride on the land, and into the sea."
+	The rider, a adventurer by the name of Payneskill, thrusts his lance in the air as he makes a lap around the arena. The crowd is full of "Oohs" and "Ahhs" for the mount. Each time the rider stops, the shark shakes its head, as if ripping apart a kill.
+	Tako says, "What a wanker."
+	"You know him?" I ask.
+	"That guy's a douche." Tako says, "A total cockwomble, credit card player that thinks that just because he's got practically every vanity item in the game he actually knows how to play. He's an officer in the Leroy Jensen fan club, so that should tell you something."
+	Mirae says, "Some of them are pretty good tanks."
+	"Not this one." Tako says.
+	The Leroy Jensen Fan Club, is a guild of players devoted to the professional gamer known as Leroy Jensen. He only plays tanks, and has a reputation for holding agro on ridiculously large pulls, while relying on an army of healers to keep him at full health. They're an obnoxious bunch, because they like to call out the name "Leeeeerooooooooyyy Jennnnnsssseeen" with a little growl in the middle as their battle cry, public greeting, or goodbye.
+	Just as the thought comes to mind, I hear him shout "Leeeeroooooyyy Jennnnsen!"
+	Tako says, "What a tool."
+	The herald, with his magically enhanced voice says, "Our first contestant is Payneskill," he pronounces it 'pain skill,' "Paladin of Gond God of Justice - Officer of the Leroy Jensen Fan Club."
+	Tako cups his hands and shouts "Penis kill!" he pauses, and emphasizes his pronunciation "PAY-nes Kill! Woooo!! Go cock chop!"
+	The platinum knight stirs, and looks around from within his closed helm, trying to locate the source of the insult. The herald on the other hand consults the scroll he'd been reading from and says "Penis kill? Is that right?" He speaks, at what would have been at a conversational volume if not for the amplification magic on him. Havenfolk, and players laugh.
+	Tako says, "Classic!"
+	The herald, named Brime by his name plate says, "My humble apologies." He pauses as if embarrassed to say the adventurers name "Our first contestant is Pay-nes Kill, Officer of the Leroy Jensen Fan club."
+	Tako guffaws, and says "Priceless! God, I wish I was recording."
+	We hear a tin-can shout from inside Payne's helm, but I can't make out the words. He awkwardly tumbles off the back of the sametora, and marches directly toward the noble's platform. He shout's something again, but all I get is muffled tin-can echo.
+	Finally, he takes off his helm, and throws it with two hands into the dirt, revealing a boyish face, with short black hair that looks like it might have been cut at home with kitchen scissors. He also has a little goatee, the kind a sixteen year old might grow to convince people that he was over twenty-one. It's not happening.
+	"It's Pain Skill! I'm a tank! God! You people are fucking morons!"
+	He kicks is own helm, which I'm amused to see causes a shower of dirt to pour inside, before he flips it over and sets it back on top of his own head.
+	"So sorry." Herald Brime says. "Pain-Skill. Will you please remount? We'd like to get started."
+	Payne raises his faceplate, which makes Tako laugh even harder, since clearly, he had forgotten to use it. Even I'm getting the chuckles.
+	Payneskill says, "Yes! God. I'm going. Just hurry up." Before dropping the metal plate back down over his face.
+	Brime says, "Thank you." as Payne pulls himself back on top of his mount. then in a more dramatic voice says, "And his challenger..... Nothgoran, consort to Raika, defender of the Windroost!"
+	An otherworldly whinny sounds, as the soot poofing demon horse leaps into the arena huffing hard, and exhaling clouds of thick ash from its nostrils. I'm quickly learning only lamers use open gates. The frightening dragon warrior pumps his black lance high over head, swinging it around as if it weighs nothing. Zarentu and Nothgoran could not be more unalike. While Zarentu has proud chiseled features, that look very much human, Nothgoran has black skin, bare slits for a nose, and a mouth full of wicked dragons fangs. I'd bet that even his skin would be scaled, if given the chance to touch it.
+	I say, "I wonder if he remembers us from the Windroost."
+	Mirae asks, "Were NPCs smart back then?"
+	"I hope not." I say, "Remembering dungeons means recalling a whole lot of deaths."
+	"Are you defending him?" Tako asks.
+	"I'm not, not really. I just mean... What does it do to a person to remember that many deaths?"
+	For the first time the Gnome inserts herself in the conversation. "There not people, remember. They're just NPCs."
+	"Besides," Mirae says, "I've died lots of times. We all have. None of us have become psychopaths, or whatever you're afraid of. "
+	"I guess." I say, "I'm just waxing philosophical."
+	In truth, somehow part of me assumes that the death and violence of Freehaven were more real for Havenfolk, somehow closer to what we'd feel to experience them in the real world, now that they've been upgraded, but now thinking on Mirae's comments I wonder if that's the case. I've died more times than I can count between Freeworld and Haven, and don't feel any less human.
+	By now, Nothgoran and Payneskill are facing off at either end of a long divide. Brime says, "You know the rules. Five passes. You'll be disqualified if you're unhorsed. Striking your opponent's mount gives you negative five points, and incapacitating it results in your instant disqualification. Plus five points for the target, plus one for a touch, two for a break, and three for a shatter."
+	Mirae explains, before I have a chance to ask. "You see the extra red plate on their armors? That's the target. A simple touch to the other rider gives one point, breaking the tip off the lance gives two points, and shattering a lance gives three more."
+	"Thanks." I say. "Who do you think will win?"
+	Tako says, "Nothgoran will wipe the floor with him."
+	At first I wasn't so sure, but after seeing that whole name and kicking dirt into his own helm debacle, I'm with Tako. What a gomer.
+	Payneskill shouts "Leeeroooooyyy Jenssssen!" before slapping down his face guard and making the first pass. Lances crack, Payne's nearly off of his horse, and shards of wood go flying. The adventurer is just barely able to hold on as his body's pummeled. A squire hands Nothgoran a new lance, which he raises high over head, with the crowd shouting.
+	Tako says, "Chop his dick! Pay-nes kill!" The platinum knight seems not to notice.
+	The next pass begins with another cry of "Leeerooooy Jennnsseen!" and this time Payne makes a better showing. His lance breaks, but slams into Nothgoran well off target. Neither rider's even close to being unhorsed. The mounts stir, and both knights reach down for new lances. I hadn't noticed before, but now see that it's big eared Sten servicing the adventurer. I wonder if Pert's down at the other end.
+	"Leeeroooooy Jensen!"
+	That's all we hear before a massive CRACK and Payneskill's flying back, butt and feet over head. He does a face plant in the hard dirt at the conclusion of his painful back flip. Nothgoran pumps his black fist in the air to the delight of an enraptured crowd. Meanwhile, a duo of healers, in green and gold robes rush to the fallen player spinning golden haloed spells of mending magic.
+	"Hey Mirae." I ask.
+	"Mmm?"
+	"Why are their spells gold, when yours are green?" I ask.
+	"They're using different magic. I use the nature stuff."
+	She says, "That color gold is either light or divine magic. I'd say light since Zarentu's a light dragon."
+	"Makes sense."
+	Herald Brime says, "Round 1 goes to Nothgoran. Payneskill," this time he says it right, "Has been eliminated."
+	There are a few boos in the crowd, but overall Havenfolk favor the dragon. It's predictable considering this is a dragon event.
+	"Our next contender is Lady Ashtara of South Reach, consort to Lord Jamirine."
+	Unlike the first two contestants, Ashtara thunders through the open gate on a swift palomino warhorse in full armor. Silken black hair whips behind her like a banner.
+	"Is she a dragon?" I ask.
+	Mirae says, "In human form. They're all dragons unless they're players."
+	When she loops back around from her introduction lap, I admire her smooth chocolate skin, human, and so unlike the sooty black of Nothgoran.
+	"They certainly come in all forms." I say.
+	Mirae says, "The more bestial ones are generally less favorably inclined toward humanity, or they're just really proud of their reptilian heritage."
+	"So why are they all cheering?" I ask.
+	"Not everyone here is human." Mirae says. "... and a strong fighter is a strong fighter whatever they think of humans." Mirae waves her hand, "They're all here for a show."
+	Ashtara settles in at Sten's side of the arena. Her mount swishes its tale behind her. Brime says, "And her competitor, hailing from Dragonswood Keep," the crowd cheers, this must be a local celebrity, "Knight of Dragonswood and Lord Zarentu's court, Sir Trooooogon!"
+	A pinto stallion gallops in, baring a rider in Evergreen colored plate, and a white and gold tabard featuring the dragon and flame crest of Zarentu's house. I can't see whether or not he has a scaled face due to his helm, with long, black, feathered plumage. He salutes Ashtara as he draws nearer, and she responds with a half bow from horseback. He circles around, and takes his place in Nothgoron's former position.
+	The match is a lengthy one, consisting of five passes, and neither rider being unhorsed. Much, to the disappointment of the local crowd, Ashtara proves the victor, by a margin of three points. Trogon, congratulates the Lady of South Reach and graciously accepts his defeat. The crowd cheers for him one last time, as he raises his open plated hand to them, and departs the arena.
+	"And for our next match, hailing from Athelon," Herald Brime says. Mirae nudges me in the ribs. "Member of the Toxic Muffins, we have Frobod!"
+	The roar of Etherbike engine fills my ears.
+	"Frobod!" Mirae says,
+	I shout, "Wooooo!"
+	Laurelade's silent, but Tako starts in on a chorus of "Muffins! Muffins! Muffins! Muffins!"
+	Our death knight, in Deadplate armor enters the arena, on his now oversized Elechopper. I'm pleased to see that he caps his speed at two hundred percent as he does his introductory lap. If I were him, I'd be popping wheelies, but I guess his mind's more focused on winning than showing off. Still, I appreciate the ghostly streamers of pale light pouring out his exhaust where my bike would be spouting flame.
+	The crowd's reaction is as varied as it was while riding through town, sure there are cheers, most notably from a red headed woman in the front row in a green dress, but far more common are the kind of "Wows" you'd expect at a New Year's firework display, with just a few grumbles about alien magic.
+	My eyes dart back to Zarentu to measure his reaction, having set himself against the other-world dragon of our quest. He scratches his beardless face with thumb and forefinger in contemplation, though he does not seem displeased.
+	I say, "Looks like my gold's safe for now." as I gesture at him for Mirae's benefit. "If he were going to disqualify Frobod, now would be the time."
+	"I'd say he's intrigued." says Mirae.
+	"Of course he is." Tako says, "He's a dragon, whose just found a new toy."
+	Frobod takes his position without ceremony, though the beaming face of the big eared squire tells me that he's overjoyed to be serving the owner of an Elechopper. I'm glad for him. Even though they're just NPCs, I find myself endeared by the amiable ones, unlike Sleeve whose about to lose a lot of money.
+	Brime says, "And his opponent. The North Wind, consort to Viranda, and two time reigning champion, Lord Xephrus!"
+	The crowd goes wild, as a knight riding a white horse bursts into the arena. I'd thought it was an ordinary steed, but in the wake of its passage, I see bright magical footprints that burn with golden fire. The marks fade in just a few seconds.
+	"Tough break." Tako says. "I mean, being set against the reigning champion on his first match."
+	"I'm not worried." I say. "Just watch."
+	Tako shrugs.
+	Xephrus drinks in the applause, each cheer puffing him up a bit more, an adoration vampire. His full plate is the color of sky and clouds on a beautiful day like today. From what I can see within his raised face guard. He's got angular features like an elf, and light peach skin that seems otherwise human. I think, "He must be one of the friendly ones."
+	The squires distribute lances. The etherbike roars its challenge. It happens so fast that I'd need an instant replay in the real world. One moment, lances are leveled, the next, hoof beats are drowned in the growl of magical engine. Shards of Frobod's weapon go flying, and Xephrus is unhorsed.
+	Stunned silence befalls the crowd, as the dragon knight hobbles to his feet, a few horse lengths from where he started, a far, far, cry from the center where lancers usually meet. Green and gold healers move to intercept him, but the proud opponent waves them off, and raises his face guard.
+	He shouts, "What's the meaning of this?"
+	A lone voice in the crowd shouts, "Alien magics!"
+	Xephrus says, "The cart's been bewitched, or he cheated. No steed can move that fast."
+	Frobod raises his own face guard and answers back, "It's no more or less magical than your burning hoof prints. The speed's an innate property of the Elechopper, without augmentation."
+	"Bollocks!" Xephrus says. "It's impossible! Are we not honorable combatants?"
+	Scandalized murmurs sweep the crowd. Zarentu beckons to Herald Brime, who utters an incantation for a spell that buffs his liege. Now Zarentu's voice resonates throughout the arena.
+	"Lord Xephrus... Frobod, of the Toxic Muffins.... Approach." They do as they're ordered, Xephrus removing his blue helm to reveal a pair of long ears in the way of elves, his frame, resembles humans, tall and bulky compared to the smaller race.
+	Xephrus opens his mouth to speak, but Lord Zarentu raises a halting hand and says, "Still your words, cheating is a serious accusation in my tournament." Xephrus bows, enough to show respect for an equal. "Do you believe my vassals are incompetent?"
+	"I don't, but..."
+	Zarentu cuts him off, "Do you not believe that we examine the mounts, and test for augmentation?"
+	"I do believe, but."
+	Zarentu says, "Yes?"
+	Xephrus says, "He's a human. They live, breed, and breathe treachery!"
+	Zarentu says, "This is known, as it is also known that they can have honor." The lord of the keep turns to Frobod, who has remained silent up until now. "Do you swear that your mount remains unaugmented by any party, save Master Aztram in my stable?"
+	"I do, my Lord." Frobod says, "It's as I said. The Elechopper's ground speed is an innate property of the bike."
+	"Bike." Zarentu says, tasting the word in his mouth. "You will give us a demonstration. Circle the arena thrice with your... Elechopper."
+	Frobod bows, and mounts up. He revs the magical engine, and bolts ahead, kicking up a cloud of lose dirt, and ethereal color in his wake. One lap, two laps, three laps completed and he skids to a stop before the lord of Dragonswood keep. Airborne dust lingers. The whole trip takes just a hair longer than other riders to complete their introduction lap.
+	"You will surrender your mount to Aztram for additional inspection." It's not a question. Zarentu then turns to regard Xephrus and says, "If Master Aztram finds unauthorized augmentation, Frobod of the Toxic Muffins will be disqualified, and immediately banished from Dragonswood Keep. Lord Xephrus will advance." Xephrus, bows, with an expression of smug satisfaction, already certain of the outcome. Zarentu continues, "If, however, the mount is as Frobod says. He will retain his standing, and take with him the official apology of Dragonswood Keep for doubting his honor. Your punishment will be to kneel, and acknowledge him as your better."
+	A wash of gossip erupts from all directions; shocked speculation from the stands. If there's one rule I can infer about dragon kind, it's that they do not kneel to humans, no matter how adept in combat.
+	Xephrus says, "I accept." as if he'd been given a choice in the matter. A small gesture to save a modicum of face.
+	"Master Aztram..." Zarentu says, motioning to the mage, who scurries into the arena from the gate nearest the stable. I see him casting, much as we saw before, bathing the Elechopper in wisps of magic.
+	The process takes five minutes, but when he's done Aztram says, "I can detect no unauthorized augmentation."
+	Xephrus roars, "This is madness! No land mount can move that fast!"
+	Zarentu says, "It would seem that, in fact, one can." A small smile plays at his lips that makes me wonder what kind of history there is between him and Xephrus.
+	"It's an outrage!" Xephrus says.
+	"May I offer some advice?" Xephrus pinches his mouth shut, and nods. Zarentu says, "Practice harder." A wash of laughter from the crowd. "The world is changing."
+	"I-" Xephrus says, but Zarentu cuts him off.
+	"Kneel."
+	"I will not!" the dragon knight puffs up, sticking his chest out in a rooster strut, "I'm a dragon."
+	"Kneel." Zarentu says, "Or be made to."
+	There's a moment of hesitation, with all breaths caught, as we await Xephrus's reaction. We're so far away, that I can barely catch the smallest of nods. Seconds pass in pregnant silence, before Xephrus turns and takes the knee in Frobod's direction. I hear some words, but can't discern them.
+	"Louder." Zarentu says, hearing him is no problem thanks to the spell on his voice.
+	Xephrus's voice is hammered into a forced humility, so unnatural to a dragon. "Well fought." For a moment I think it's over, but he's still on his knee.
+	Zarentu leads, "... and?"
+	"I acknowledge you as the better jouster, in so far as this competition is concerned."
+	There's a collective sigh, as people release their breaths.
+	Frobod says, "Thank you." and offers Xephrus a hand to help him up. He sneers at it, and stands on his own.
+	Tako says, "Frobod done gone made him self an enemy." in a mock Southern accent.
+	Zarentu's smirk makes him look immensely pleased with himself. "There, was that so hard?" Instead of waiting for a response, the lord of Dragonswood Keep spares Xephrus additional loss of face by declaring "Let the joust recommence!"
+	Mirae says, "Zarentu must really not like Xephrus. I've heard of battles fought over less."
+	I shrug, "Is dragon pride really that touchy?"
+	She says, "Can be, and you can tell he was needling him."
+	The next two of Frobod's matches are equally decisive, though if his opponents harbor resentment, they do a better job of hiding it, and all the time lost to Xephrus's shaming, is easily made up by Frobod unseating riders on the first pass. He is, in an expression OP. No other riders stand a chance against 600% ground speed charges.
+	The final round comes down to a match between he and Lady Ashtara, who tries a new strategy. In stead of lowering her lance, and charging forward on her mare, she remains stationary, while holding her lance in the impaling position. Contact comes at her starting spot. Crack! Bits of both lances shower the lancers, as Frobod's shatters, and she breaks a tip. Frobod's own momentum drives her shaft into his armor. To my surprise, she stays on her horse. Every bit of her energy must have been placed into gluing herself to her saddle, and keeping her lance steady.
+	Frobod offers a salute, when he loops around, and returns to the end of his lane. She nods to him in acknowledgement. I think she's done for when the Etherchopper roars, and Frobod comes hurling her direction, but she adopts the same strategy. Both tips break, Frobod's unsettled, but doesn't leave his mount. 	Ashtara by contrast falls, and nearly hits the ground. By some miracle, her hand whips out in a wild grasp, and snatches the pummel just in time. From there she's able to hoist her self back up and into her seat. "Ooohhs!" and scattered applause push through the crowd. She imitates Frobod's salute when he gets back into his lane.
+	Apparently, it doesn't count as being unhorsed unless you actually touch the dirt. I look past Tako and Mirae to Laurelade, who has a bored expression on her face. I wonder if it'd be cheating to use that float spell. How many mage-knights are there out there?
+	Time for the third pass, the engine roars. Ashtara's tired of playing defense, as her mount springs forward. Big mistake. Armor and lances clatter, but at least she's not going out with a whimper as her shaft breaks into pieces. A full shatter, the crowd cheers at the destruction but it's short lived, as the dragon leaves her saddle and plummets to the earth.
+	Frobod tosses what remains of his lance aside, and pumps his fist in the air as the victor. Havenfolk chant, "Frobod! Frobod! Frobod!" in celebration. They're all excited save for a weasel faced man in a top hat pushing through to the exit.
+	In party chat I say, "Sleeve's making a run for it." and then "Stop him!" in the local channel for all to hear. I point an accusing finger so that there can be no doubt of my meaning.
+	Zarentu says, "Well done Frobod of the Toxic Muffins! You have fought well."
+	Frobod remembering my advice about showing deference to important dragons takes the knee and says, "Thank you, m'lord. If I may ask one favor."
+	Zarentu says, "Rewards will be granted at the feast."
+	"Yes, m'lord, but it seems one of your subjects is breaking the law. As we speak, the human named Sleeve is making a mad dash away with all our money."
+	"Is that so?" Zarentu says. "Do you have proof?"
+	Frobod says, "If you follow him, I think you'll find it." Then, switching to party chat so Havenfolk can't hear he says, "You better be right. In case you didn't notice, when it comes to false accusations and Zarentu, they don't fuck around."
+	Zarentu says, "As champion of this event, you are granted one boon. Should your accusations prove well founded, I offer my thanks, and then another." He doesn't say what'll happen if Frobod's accusation goes unfounded. I doubt it'll be pleasant.
+	"I understand, Sir."
+	The inclusion of 'Sir' strikes me as a bit military, but the NPCs don't note the change in vocabulary. The most important part of the interaction seems to be that an attempt was made at respect.
+	"Very well." Zarentu says. "Dragonswood Guards, seize the gambler's tent, and bring Sleeve to me. Lord Frobod, you'll be summoned later with the results of the investigation. Please mount your Elechopper, and choose your partner."
+	Frobod gets back on his bike, but has a confused expression on his face. Sten fast approaches from the side with a lance in one hand, and a circlet made of yellow rose blossoms and green leaves in the other. They exchange words that I can't make out, and Frobod dips the tip of his lance to Sten who hangs the wreath from its tip.
+	In party chat I hear Frobod say, "This is so cheesy."
+	I look to Mirae and say "What?" She has a smile on her face.
+	 Frobod makes a slow lap around the perimeter with his lance in hand, his head turned to the audience, searching faces. Some ladies spread their arms, as if to catch a wedding bouquet. Their shoulders slump, and their faces grow pouty as the death knight passes.
+	"Oh God..." I think I know what's happening. We're in the last stand from where he started, and Frobod doesn't pause until he's right in front of us. He makes a show of searching faces, my cheeks grow hot. This isn't what I had in mind.
+	Frobod extends the lance so that the rose wreath is in my face.
+	Herald Brime says, "Will she accept?"
+	Dear God, this is mortifying.
+	The crowd begins to chant, "Take it! Take it! Take it! Take it!"
+	I'm frozen solid, so I don't initially accept.
+	Brime says, "Does she reject?" and the crowd reacts with a resounding "Boooooooo!"
+	I quickly snatch up the wreath before I can grow any redder, and smash it on my head. It's a shame it's not a hood to hide my embarrassment.
+You have received Rose Ring of the Champion.
+Rose Ring of the Champion
+Type:				Exotic
+Slot:				Head
+Armor			0
+Equipped Bonus:
+Charisma +2, Appearance +1, Dance + 2
+Special Properties:
+Residents of Dragonswood Keep will regard you as having one reputation level higher (Maximum: Exalted).
+	As soon as it touches my head, the crowd erupts in gleeful applause and chatter. I may be Lord Melpomine, but for now I'm feeling like quite the Lady.

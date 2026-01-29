@@ -1,0 +1,16 @@
+# FEEDBACK IMPLEMENTATION PROMPT (FICTION)
+
+**Input:** User Feedback on `output_quill/[filename].txt`.
+
+## Instructions
+1.  **Analyze Feedback:** Global vs Project Specific?
+2.  **Update Context (Immunity):**
+    *   If **Voice Mismatch:** Call **Elara** to update `STYLE_GUIDE.md`.
+    *   If **Flow/Prose:** Call **Lyra** to adjust rhythm parameters.
+3.  **Re-Run Pipeline:**
+    *   Reload chunk.
+    *   Apply NEW context.
+    *   Execute **Vu (Adversarial Loop)**.
+
+## Output
+Revised Text and Confirmation of Context Update.

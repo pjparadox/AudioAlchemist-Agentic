@@ -1,0 +1,16 @@
+Term,Category,Vietnamese,Context
+Objection,Legal,Phản đối,Courtroom
+Sustained,Legal,Chấp nhận,Judge
+Overruled,Legal,Bác bỏ,Judge
+Witness,Legal,Nhân chứng,Courtroom
+Defendant,Legal,Bị cáo,Courtroom
+Prosecution,Legal,Bên công tố,Pick ONE
+Defense,Legal,Bên bào chữa,Courtroom
+Verdict,Legal,Phán quyết,Endgame
+Sentence,Legal,Tuyên án,Endgame
+Priest / Father,Religious,Cha,Title
+Exorcism,Religious,Nghi thức trừ tà,Pick ONE
+Demon,Religious,Ác quỷ,Pick ONE
+Possession,Religious,Bị ám,Context Dependent
+Anneliese Michel,Reference,Anneliese Michel,History
+Dr. Adani,Character,Dr. Adani,Treat Adant as Adani

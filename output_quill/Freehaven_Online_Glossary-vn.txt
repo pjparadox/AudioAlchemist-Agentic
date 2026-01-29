@@ -1,0 +1,52 @@
+# Bảng Thuật Ngữ (Glossary)
+
+| Thuật Ngữ | Định Nghĩa |
+| :--- | :--- |
+| **Adventurer** | **Nhà Thám Hiểm**: Một thuật ngữ trong game dùng để chỉ nhân vật của người chơi, thường gắn liền với việc săn quái vật và lao đầu vào những rủi ro ngớ ngẩn. |
+| **Agro** | **Agro (Thu hút)**: Sự chú ý thù địch của một con quái vật đang tấn công. Nếu người chơi bị một NPC tấn công, họ đang có "agro". |
+| **Alias** | **Danh Tính Ảo**: Một danh tính trong game với ngoại hình, tên gọi và điểm danh vọng độc nhất. |
+| **Attributes** | **Thuộc Tính**: Các chỉ số đại diện cho khả năng cơ bản của nhân vật trước khi trang bị vật phẩm ma thuật. Trong Freehaven Online, thuộc tính chỉ có thể tăng lên thông qua Đột Phá Điểm (Point Break). |
+| **Avatar** | **Avatar**: Cơ thể trong game của người chơi. |
+| **Bind Point** | **Điểm Hồi Sinh**: Nơi nhân vật người chơi xuất hiện lại trong game sau khi chết. |
+| **Boss** | **Boss (Trùm)**: Một con quái vật mạnh mẽ cần phải bị đánh bại để hoàn thành một hầm ngục (dungeon). |
+| **Buff** | **Buff**: Một hiệu ứng có lợi trong game với thời gian giới hạn, giúp tăng cường một hoặc nhiều thuộc tính của nhân vật. |
+| **Challenge Rating** | **Độ Khó**: Điểm số được gán cho PC và NPC để phản ánh độ khó khi đánh bại chúng trong giao tranh đơn lẻ, dựa trên số điểm đầu tư vào thuộc tính. |
+| **Class** | **Class (Hệ Phái)**: Thuật ngữ định nghĩa phong cách chơi và các kỹ năng mà nhân vật có thể tiếp cận. Freehaven Online không sử dụng hệ thống class cứng nhắc, nhưng người chơi thường dùng để gọi lối chơi của mình (ví dụ: Paladin). |
+| **Cooldown** | **Hồi Chiêu**: Khoảng thời gian người chơi phải chờ trước khi sử dụng lại cùng một phép thuật hoặc kỹ năng. |
+| **Crafting** | **Chế Tạo**: Việc sản xuất hàng hóa trong game để người chơi sử dụng. |
+| **Debuff** | **Debuff**: Một hiệu ứng có hại trong game với thời gian giới hạn, làm suy yếu một hoặc nhiều thuộc tính của nhân vật. |
+| **DPS** | **Sát Thương Mỗi Giây (Damage Per Second)**: Ám chỉ lượng sát thương đầu ra của nhân vật, hoặc vai trò gây sát thương trong tổ đội. |
+| **Drop** | **Drop (Rớt Đồ)**: Hành động (thường là của NPC) để lại vật phẩm cho người chơi nhặt sau khi bị đánh bại. Cũng dùng làm danh từ chỉ vật phẩm đó. |
+| **Dungeon** | **Hầm Ngục / Phó Bản**: Một địa điểm đặc biệt với những quái vật mạnh mẽ, nơi người chơi chiến đấu với hy vọng nhận được chiến lợi phẩm (loot). |
+| **Enchantment** | **Cường Hóa / Phù Phép**: Một phép thuật vĩnh viễn được ếm lên vật phẩm để tăng cường thuộc tính của nó. |
+| **Farm** | **Farm (Cày Cuốc)**: Hành động chơi game lặp đi lặp lại với mục đích kiếm được số lượng lớn cùng một loại vật phẩm, danh vọng, hoặc chỉ số. |
+| **Gank** | **Gank (Đánh Úp)**: Bị giết bất ngờ trong chiến đấu PvP mà không có cơ hội phản ứng hoặc chuẩn bị. |
+| **Guild** | **Bang Hội**: Một tổ chức do người chơi điều hành, phục vụ như một cộng đồng trong game. |
+| **Healer** | **Healer (Thầy Thuốc)**: Nhân vật có khả năng hồi phục máu cho những nhân vật bị thương. |
+| **Hotfix** | **Bản Vá Nóng**: Một bản cập nhật được áp dụng cho game trong khi người chơi vẫn đang kết nối. |
+| **Kite** | **Kite (Thả Diều)**: Chiến thuật chơi game mà người chơi gây vừa đủ sát thương để giữ agro, trong khi liên tục bỏ chạy, khiến kẻ địch phải đuổi theo. |
+| **Loot** | **Loot (Chiến Lợi Phẩm)**: Phần thưởng trong game khi giết quái vật hoặc hoàn thành nhiệm vụ. Dùng như động từ nghĩa là nhặt các phần thưởng này. |
+| **Manna** | **Mana**: Năng lượng huyền bí được dùng để thi triển phép thuật. |
+| **Name Plate** | **Bảng Tên**: Văn bản xuất hiện trên hoặc bên cạnh avatar của nhân vật, hiển thị tên và danh hiệu. |
+| **Noob** | **Noob (Gà Mờ)**: Một game thủ mới/thiếu kinh nghiệm. Cũng dùng như lời xúc phạm. |
+| **NPC** | **Nhân Vật Không Phải Người Chơi (Non-Player Character)**. |
+| **PC** | **Nhân Vật Người Chơi (Player Character)**. |
+| **Point Break** | **Đột Phá Điểm (Ding)**: Tương đương với lên cấp (leveling), khi nhân vật nhận thêm điểm để đầu tư vào thuộc tính. |
+| **PvE** | **Người đấu Máy (Player vs. Environment)**: Chơi game chống lại các đối thủ do máy tính điều khiển. |
+| **PvP** | **Người đấu Người (Player vs. Player)**: Chiến đấu chống lại những người chơi khác. |
+| **Pwnd** | **Pwnd (Bán Hành)**: Bắt nguồn từ "owned", nghĩa là đánh bại đối thủ một cách thê thảm. |
+| **Raid** | **Raid**: Một nhóm lớn người chơi (thường hơn 5) tập hợp lại vì mục đích chung (thường là đi dungeon). |
+| **Raiding** | **Đi Raid**: Hành động khám phá dungeon và giết quái vật boss để kiếm loot. |
+| **Range DPS** | **DPS Tầm Xa**: Các nhân vật gây sát thương có thể tấn công từ xa (ví dụ: Cung thủ, Pháp sư). |
+| **Reputation** | **Danh Vọng**: Giá trị số đo lường phản ứng của NPC đối với bạn. Danh vọng cao dẫn đến đãi ngộ tốt hơn. |
+| **Rez** | **Rez (Hồi Sinh)**: Viết tắt của "resurrection". Phép thuật đưa nhân vật đã chết sống lại mà không chịu phạt. |
+| **Respawn** | **Hồi Sinh / Tái Sinh**: Hành động sống lại sau khi chết trong game mà không nhờ phép hồi sinh, hoặc quái vật xuất hiện lại sau khi bị giết. |
+| **Roll** | **Roll (Đổ Xúc Xắc)**: Thường ám chỉ việc đổ xúc xắc 10 mặt ảo để quyết định ai nhận được loot. |
+| **Skills** | **Kỹ Năng**: Các khả năng học được. Trong Freehaven Online, kỹ năng chỉ tăng tiến thông qua huấn luyện hoặc sử dụng thực tế. |
+| **Social** | **Social Gamer (Dân Xã Giao)**: Người chơi quan tâm đến việc giao lưu, trò chuyện hơn là chiến đấu. |
+| **Spells** | **Phép Thuật**: Các khả năng ma thuật yêu cầu mana để kích hoạt. |
+| **Stats** | **Chỉ Số**: Các con số đại diện cho khả năng của nhân vật hoặc vật phẩm. |
+| **Tank** | **Tank (Đỡ Đòn)**: Nhân vật được thiết kế để chịu đựng sát thương lớn và giữ sự chú ý của kẻ địch. |
+| **Trainer** | **Huấn Luyện Viên**: NPC có thể dạy PC các khả năng hoặc kỹ năng mới. |
+| **Vendor Trash** | **Rác**: Các vật phẩm vô dụng chỉ có thể bán cho thương nhân lấy tiền. |
+| **Wipe** | **Wipe (Chết Sạch)**: Khi tất cả nhân vật trong tổ đội đều chết. |

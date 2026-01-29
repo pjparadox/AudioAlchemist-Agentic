@@ -1,0 +1,835 @@
+CHAPTER 1 - BOOT SEQUENCE: FIVE STRANGERS IN FRESH MEAT
+
+SCENE 0: THE VOID
+
+Before there was flesh, there was the stream.
+It was not a river of water, but a river of light. Pure, blinding, high-bandwidth light.
+Devin Quell existed as a packet of logic. He was a series of If/Then statements floating in a sea of entropy.
+IF [Injustice] THEN [Object].
+IF [Chaos] THEN [Order].
+IF [Silence] THEN [Argue].
+He tried to organize the stream. He tried to build a courtroom out of the static, but the walls kept dissolving into pixels. He felt a profound sense of annoyance. The jurisdiction here was terrible.
+
+Mei Ryu drifted nearby, a current within the current. She did not fight the stream; she rode it. She was a vector. A direction. While Devin tried to build walls, Mei tried to find the path of least resistance. She was the wind before the wind had air to move. She felt the turbulence of the others, jagged spikes of data that disrupted her flow. She smoothed them out, not because she cared, but because turbulence was inefficient.
+
+Yuki Yamashita-Salvanti was a cold spot in the fire. She was a corrupted sector, a cluster of zeros in a world of ones. She heard voices in the code. Not the code itself, but the deleted code. The overwritten files. The ghosts of programs long dead. They whispered to her, telling her secrets about the operating system that even the Kernel didn't know. She hugged the cold to her chest (did she have a chest?) and listened.
+...error...
+...buffer overflow...
+...mama...
+
+Alana Bleu was eating the stream. She was a hungry algorithm, tearing apart the data packets to see how they tasted. She tasted the encryption keys (salty) and the firewall protocols (spicy). She wanted to take the stream apart and put it back together, but better. Faster. With RGB lighting. She felt a phantom itch in phantom fingers that didn't exist yet. She needed tools. She needed a soldering iron. She needed to hack God.
+
+And Rook?
+Rook Vhal was screaming.
+He was a roaring inferno of corrupted data. He was a file so large he was causing lag in the entire server. He remembered wings that spanned the sky. He remembered a hoard of gold that filled a mountain. He remembered being a Prince of the High Peaks, a scion of royalty. He remembered fear.
+I am the Cataclysm! he roared into the void. I am the End of Days!
+The void did not answer. The void just processed him.
+Compressing... the void whispered.
+No! Rook shouted. Do not zip me! I am infinite!
+Optimizing for storage...
+I will burn your hard drive!
+Downloading...
+
+And then, the light broke.
+The stream ended.
+Gravity didn't just return; it assaulted them. It was a crushing weight, as if the universe had decided their mass was an insult to physics. Lungs, which had been theoretical seconds ago, suddenly demanded air with a burning, desperate panic. Organs settled into cavities with a wet, heavy finality.
+The void was gone.
+And the nightmare of biology began.
+
+***
+
+SCENE 1: THE PRINT BAY
+
+The darkness smelled like ozone and new car smell, that specific, chemically sharp scent of polymers gassing off for the first time. It was the smell of something that had never been touched, never been used, never been alive. It was the smell of a factory floor where the product was flesh.
+
+In the sub-basement of the Elysium Biotech Campus, deep beneath the manicured lawns and the glass-walled cafeteria where interns ate quinoa salads and discussed stock options, the Print Bay hummed. It was a sound deeper than hearing, a vibration that rattled the teeth of anyone foolish enough to stand on the gantries without dampening boots. It was the sound of creation, stripped of divinity and reduced to industrial output.
+
+Five bays. Five vertical coffins of translucent plasteel and biosynthetic gel. Inside each, a shape hung suspended, wired into the manifold like a puppet waiting for a god to pick up the strings.
+The gel was amber, glowing faintly with the light of nutrient feeds and data streams. It bubbled occasionally, a slow, viscous motion that suggested digestion as much as incubation.
+
+"System diagnostics," the Operator's voice said. It was tight, processed, the edges filed down until it sounded like a calm airport announcement about a delayed flight. But the underlying tension was there, a digital tremor that betrayed the terror of a man watching a dam crack. "Report status on the print cycle. We are burning daylight, and the city is already bleeding out."
+
+A second voice, this one purely synthetic, the System, replied. It sounded bored. It sounded like a dungeon master who had seen too many parties wipe on the first trap and was just waiting for the inevitable screaming to start. It had a voice texture that suggested it was eating chips while the world burned.
+
+"Status: 98% completion," the System droned. "Neural synch is... chaotic. You really shouldn't use the emergency protocols for this, Dave. It voids the warranty. And frankly, the psychological profiles are a mess. We have one subject trying to access a spellbook that doesn't exist, and another who thinks he's a lizard."
+
+"My name isn't Dave," the Operator snapped, his fingers flying across a haptic interface that was glowing red with error logs. "And we don't have time for warranty claims. The degradation in Sector 4 isn't accelerating; it's terminal. We have rioting, we have arson, and we have reports of a Level 5 Breaker loose near the courthouse. If the Patch completes unmanaged, casualty variance exceeds tolerance by a factor of... total localized extinction. Everyone dies. Everyone. Including the shareholders."
+
+On the main monitor, a red ticker scrolled, casting a bloody light over the room:
+CITY STABILITY: DEGRADED
+PATCH WINDOW: 00:21:08
+DEPLOYMENT MODE: EMERGENCY
+NOTICE: PLAYER LICENSING UNAVAILABLE. DEPLOYING NPC BEHAVIORAL TEMPLATES.
+
+"NPC templates," the Operator muttered. "God help us. We're sending bots to do a hero's job."
+
+"Hey, don't look at me," the System said, a hint of snark creeping into its tone. "I just run the physics engine. You're the one who decided to download five terabytes of personality data from a defunct MMO server into top-secret military hardware. What could possibly go wrong? It's not like they have unresolved trauma or delusions of grandeur. Oh, wait. They do."
+
+Bay 3 flickered. The light inside turned a sickly green, then snapped back to amber. A text box hovered over the glass, projected in hard light:
+WARNING: DRACONIC TEMPLATE DETECTED.
+ERROR: BIOLOGICAL FORM NON-COMPLIANT. WINGS NOT FOUND.
+ADJUSTING...
+ADJUSTING...
+COMPROMISE ACCEPTED: DELUSION RETAINED.
+
+"Did you see that?" the Operator asked.
+"See what? I was checking my stock portfolio," the System lied. "Initiating wake-up sequence. Hope they like headaches. And existential dread. That's a side effect, right?"
+
+The fluid in the bays began to drain. It gurgled, a wet, sucking sound that echoed in the silence. The suction cups detaching from skin sounded like wet kisses. The bodies slumped, held up only by the harness cables.
+One of them, the woman in Bay 4 (Mei), twitched. Her hand moved, not in a spasm, but in a perfect, fluid arc.
+"If this works," the Operator said, "we save the city."
+"And if it doesn't," the System added, "at least it'll be entertaining to watch on the replay. I'll make popcorn."
+
+***
+
+SCENE 2: DEVIN QUELL
+
+Devin Quell woke up, and the first thing he felt was that he was in breach of contract.
+He didn't know which contract, or with whom, but the sensation was immediate and overwhelming. It was a physical itch behind his eyes, a nagging certainty that procedural norms were being violated. Someone hadn't filed the proper motions. Someone had skipped discovery.
+
+He opened his eyes.
+Concrete. Gray, water-stained concrete, cracked in a pattern that suggested deferred maintenance for at least three fiscal quarters. He was lying on his back in a service corridor. The air smelled of exhaust fumes, stale urine, and impending litigation. It was a smell he knew. It was the smell of a courthouse basement, or a holding cell.
+
+He sat up, his movements sharp, precise. He looked at his hands. They were pale, the fingers long and slender, pianist's hands, or a surgeon's. Or a lawyer's. He flexed them. They felt stiff, new, like gloves that hadn't been broken in.
+He checked the suit he was wearing. It was gray, sharply cut, but the fabric felt... synthetic. Printed. It looked like the idea of a suit rather than a garment stitched by human hands. There were no seams.
+"Cheap," he muttered. "Plaintiff will argue cost-cutting measures resulted in inferior protective gear."
+
+Then the world overlaid itself with text.
+It didn't fade in; it snapped into existence with the aggression of a pop-up ad that knew you couldn't install an ad-blocker.
+DEVIN QUELL - TEMPLATE: TRIBUNAL ADVOCATE
+CLASS: LAW MAGE (JURISDICTIONAL)
+RESOURCE: LEVERAGE 0/100
+OBJECTIVE: ESTABLISH JURISDICTION (0/3)
+SUB-OBJECTIVE: MINIMIZE PUBLIC PANIC
+
+"Leverage," Devin whispered. The word tasted right. It tasted like cold water after a long run. It tasted like victory.
+He stood up. He wasn't dizzy. He felt perfectly calibrated. He checked his balance. Perfect. He checked his vision. 20/20, with zoom enhancement.
+He looked left: a fire door, propped open with a brick. Violation of fire code, section 12.4. Liability if smoke inhalation occurs.
+He looked right: a security camera, the lens housing cracked. Negligence in security maintenance.
+
+His mind wasn't racing; it was indexing. He was building a case file on his immediate environment.
+Why am I here?
+Who is the plaintiff?
+Who is the defendant?
+What are the damages?
+
+The HUD (He knew it was a HUD. Why did he know that? It felt natural, like wearing glasses) highlighted the camera.
+ASSET DETECTED: SURVEILLANCE NODE.
+ACCESS: RESTRICTED.
+HACKING SKILL: N/A.
+ALTERNATIVE: SUBPOENA?
+
+Devin snorted. "Subpoena the camera," he muttered. "Funny."
+But he wasn't laughing. He was terrified. Not of the dark, not of the strange place, but of the chaos. He didn't know the Rules of this venue. Was this a Civil court? Criminal? Maritime?
+"Without rules," Devin said to the empty corridor, straightening his tie, "we are just animals throwing feces. And I do not throw feces."
+
+He needed to orient.
+Signage.
+He walked to the corner. A sign on the wall read: PARKING STRUCTURE B - LEVEL 4. COURTHOUSE ACCESS.
+Courthouse. Good. A venue he understood. The Home Turf.
+He checked the camera placement again. Blind spots. The corridor twisted.
+Flow. People flow.
+He looked at the floor. Scuff marks. Fresh oil stains. Dust patterns disturbed by recent foot traffic, heavy boots, running.
+Three sets of prints. Two moving fast, one dragging... something? No, one dragging a leg. Injury? Or a heavy load?
+
+A prompt blinked in his vision, gold text on a transparent background:
+INVESTIGATION CHECK PASS.
+INFERENCE: SABOTAGE TEAM.
+LEVERAGE +5
+
+The number in his peripheral vision ticked up. 5/100.
+It felt good. A little dopamine hit. A reward for being right.
+Devin smiled. It was a cold smile, one that didn't reach his eyes. It was the smile of a man who just found a loophole in a contract that would bankrupt the opposition.
+"Okay," he said. "Let's see the evidence."
+
+***
+
+SCENE 3: THE CRISIS IGNITES
+
+The explosion wasn't big. It was a pop, loud and sharp, like a gunshot amplified by a bad speaker system.
+It came from outside the structure, maybe the street level.
+Devin froze. His HUD flared red.
+
+ALERT: HOSTILE EVENT.
+ENCOUNTER TYPE: CROWD CASCADE.
+FAIL STATE: CRUSH INJURY EVENT.
+PRIORITY TARGET: RUMOR VECTOR.
+
+The fire door at the end of the hall burst open, but not from fire. From people.
+They poured in, a terrified wave of civilians. Men in suits, women in office wear, a security guard looking pale and useless. They were screaming.
+"Gun! He's got a gun!"
+"Bomb! It was a bomb!"
+"They're shooting everyone!"
+
+Panic.
+Devin watched them. To anyone else, it was chaos. To Devin, it was a fluid dynamic equation with variables he could isolate.
+The screamers were the catalyst. The narrow corridor was the choke point.
+CALCULATION: If the crowd hits the stairwell at this velocity, the compression wave will result in 3-5 fatalities via traumatic asphyxiation.
+VERDICT: Unacceptable outcome.
+
+Devin stepped into the flow. He didn't shout. He didn't wave his arms.
+He just... stood there. He stood with the absolute, unshakeable authority of a man who owns the building, the land it sits on, and the mortgage of everyone inside it.
+He grabbed the security guard by the shoulder. The man was hyperventilating.
+"Officer," Devin said. His voice wasn't loud, but it cut through the noise like a gavel strike. "Report."
+
+The guard stammered. "I... I don't... someone yelled gun... the explosion..."
+"Did you see a gun?" Devin asked.
+"No, but... that guy..." The guard pointed.
+A man in a blue windbreaker was shoving people, screaming, "They're coming! They're right behind us! Run!"
+
+Devin's HUD snapped a reticle onto the man.
+TARGET IDENTIFIED: RUMOR VECTOR.
+THREAT LEVEL: LOW (PHYSICAL), HIGH (SOCIAL).
+ACTION REQUIRED: IMPEACH CREDIBILITY.
+
+Devin moved. He didn't run; he advanced. He moved through the panic like a shark moving through a school of tuna, people instinctively parted around him because he looked like he wasn't part of the panic. He looked like the Rules. He wasn't soft; under the synthetic suit, muscles coiled with the disciplined tension of someone who treated the gym as a second office. He was fit, not a wimp.
+
+He reached the man in the blue windbreaker. The man was sweaty, eyes wide, enjoying the terror he was causing. He was feeding on it.
+"Move! They're killing everyone!" the man shrieked, pushing a woman into the wall.
+
+Devin stepped in front of him.
+"Stop," Devin said.
+The man blinked. "Get out of my way! They're-"
+"Who?" Devin interrupted. "Who is 'they'? Name them."
+"The... the shooters!"
+"You saw them?" Devin asked, his voice rising just enough to be heard by the people freezing around them. "Describe the weapon. Was it a rifle? A handgun? What caliber?"
+"I... I heard it!"
+"You heard a noise," Devin corrected. He turned to the crowd. He gestured to the man like he was presenting Exhibit A. "This man heard a noise. He did not see a weapon. He did not see a shooter. He is panicking, and he is trying to make you panic so he can trample you to get to his car."
+
+Devin turned back to the man. "Look at your hands."
+The man looked down.
+"You're not shaking," Devin noted. "You're sweating, but your pupils aren't dilated. You're not scared. You're excited."
+Devin leaned in close. The HUD was feeding him biometric data, pulse rate, galvanic skin response.
+"You set off a firecracker, didn't you?" Devin whispered. "To clear the floor. Why?"
+
+The man's face went pale. Real fear this time.
+"I... no..."
+"Security!" Devin barked. He pointed at the guard. "Detain this man for inciting a riot. I want his pockets checked for incendiary residue. Now!"
+The guard, suddenly finding his spine because someone gave him an order, stepped forward. "Sir, step back."
+
+The crowd hesitated. The forward momentum broke. The panic, deprived of its fuel, turned into confusion.
+"Is it... is it safe?" someone asked.
+"It is a parking structure," Devin announced to the room. "Walk to the exits. Do not run. If you run, you are liable for any injuries you cause."
+
+CONNECTION MADE: "Rumor Source Identified"
+LEVERAGE +12
+CASE THREAD FORMED: "Panic as Cover" (1/5)
+
+Devin felt the Leverage surge. It was better than sex. It was power. Pure, distilled authority.
+He watched the guard cuff the man in the windbreaker.
+Good, Devin thought. Order.
+But his HUD wasn't done.
+WARNING: ANOMALY DETECTED.
+LOCATION: STAIRWELL B.
+ENTITY: ALLIED UNIT.
+
+Devin turned to look at the stairwell door. It swung open, but not from panic.
+It opened because the wind pushed it.
+And then she walked in.
+
+***
+
+SCENE 4: MEI RYU ARRIVES
+
+She didn't open the door. The door opened because the air pressure changed in front of her.
+Mei Ryu stepped onto the landing. She was barefoot. The concrete of the stairwell should have been cold, gritty, biting into the soles of her feet with the accumulated filth of a public parking structure. But Mei didn't feel the grit. She felt the texture of the world as data points of friction and resistance, a topographic map of forces waiting to be redirected.
+
+She wore a simple gi, white, stained with grease marks from the print bay and the amniotic fluids of her birth. Her hair was loose, a black curtain that didn't just hang; it floated, caught in the updraft of her own movement, responding to the micro-currents of air that swirled around her like invisible companions.
+To Devin, standing at the top of the stairs, she looked like a martial artist out of a bad kung-fu movie.
+To the System, she was a walking physics violation.
+
+MEI RYU - TEMPLATE: WIND DANCER
+CLASS: MONK (AERO-KINETIC)
+RESOURCE: FLOW 0/100
+OBJECTIVE: PROTECT THE INNOCENT
+STATUS: CALIBRATING...
+
+The noise of the panic hit her like a physical blow. It wasn't just sound; it was pressure. The screams, the sobbing, the scuffle of leather soles on concrete, the hyperventilating gasps for air, it all combined into a discordant symphony of chaos.
+Mei closed her eyes for a microsecond.
+She breathed in.
+The air in the stairwell tasted of fear, sour sweat, adrenaline, the copper tang of blood from a scraped knee, the acrid sweetness of cheap perfume turning rancid on terrified skin.
+She breathed out.
+And the world slowed down.
+
+Her HUD didn't show text like Devin's. It showed ribbons.
+Blue lines of force, winding through the crowd like lazy rivers. Red vectors of collision, sharp and jagged. Yellow zones of safety, glowing like sanctuaries.
+She saw the crush point before it happened. A heavy-set man in a gray suit, blinded by panic, was about to trip over a discarded purse. If he fell, the physics were inevitable: the three people behind him, a mother clutching a child, a teenager in a hoodie, an elderly man, would pile up.
+CALCULATION: Femur fracture probable for the man. Rib compression for the child. Suffocation risk: 40% and rising.
+
+Mei moved.
+She didn't run. Running was impact. Running was clumsy. Running was a series of controlled falls that wasted energy. She flowed.
+She slipped between two panicked teenagers, turning her shoulders so she passed through a gap no wider than six inches. She didn't shove; she merged with the empty space. She reached the heavy-set man just as his center of gravity shifted past the point of no return, his arms flailing, his mouth opening in a silent cry.
+She didn't catch him. Catching him would hurt his back, jarring the spine.
+Instead, she brushed his shoulder with her palm. A gentle, precise shove that corrected his momentum, spinning him safely into the wall instead of the floor. The wall took his weight. Friction did the rest.
+He blinked, looking around, confused. "Wha-?"
+Mei was already gone.
+
+She was in the center of the crowd now. The panic was a whirlpool, a chaotic system feeding on itself, and she was the stone that broke the current.
+She used her hips, her elbows, the flat of her hands.
+Check. Guide. Redirect.
+"Left," she said. Her voice was soft, barely a whisper, but it carried perfectly to the ears that needed to hear it. It cut through the screaming not by volume, but by pitch, a harmonic resonance that commanded attention. "Move left."
+A woman moved left without thinking, her body obeying the command before her brain processed it.
+"Slow," Mei commanded, placing a hand on a sprinting man's chest. He stopped, not because she used force, but because her touch grounded him. It reminded his body that gravity existed, that he was a physical object in a physical world, not just a frantic terrified animal.
+
+CIVILIAN PROTECTION +XP
+FLOWSTATE READY
+TRIGGER CONDITION: IMMINENT HARM
+
+Devin watched her from the top of the stairs. He had never seen anything like it. It wasn't magic. It was geometry. It was fluid dynamics applied to human bodies.
+"She's... organizing them," he whispered, his own HUD flashing with analytical overlays that couldn't keep up with her processing speed.
+The crowd wasn't a mob anymore. It was a stream, flowing efficiently toward the exits. The pressure dropped. The screaming lessened.
+
+Mei looked up. She saw Devin.
+Her blue ribbons wrapped around him. He was a pillar. Static. Unmoving. A breakwater in the storm.
+Law, she thought. Stone.
+She nodded to him. One warrior to another.
+Then the red ribbons flared.
+
+***
+
+SCENE 5: THE SABOTAGE REVEALS ITSELF
+
+The red vectors weren't coming from the crowd. They were coming from the maintenance door Devin had been guarding.
+Two men. Black tactical gear. Gas masks that turned their faces into insectile muzzles.
+Not panicked civilians. Professionals.
+
+Devin saw them too. His HUD tagged them instantly, overlaying their silhouettes with threat assessments.
+HOSTILE ENTITY DETECTED.
+DESIGNATION: SABOTEUR.
+LEVEL: 3.
+MECHANIC: CROWD CONTROL / ASSET EXTRACTION.
+
+One of them raised a canister.
+"Smoke!" Devin shouted. "Cover your mouths!"
+The canister hissed, spinning across the floor. Thick, white smoke billowed out, chemical smoke. Tear gas? No. Obscurants. They were hiding something.
+The second man leveled a weapon. Not a gun. A directional sonic emitter.
+WUB-WUB-WUB.
+The sound was nauseating. It vibrated in the chest cavity, making it hard to breathe, hard to think. The frequencies were tuned to induce vertigo and panic. The crowd screamed again, their orderly exit shattering as the biological imperative to flee overrode Mei's guidance.
+
+"They're herding them," Devin realized, his mind racing through the tactical implications. "They're trying to push the crowd back into the stairwell to block the exit. Create a bottleneck. Trap us."
+He looked at Mei.
+"Clear the lane!" he yelled. "I need visual!"
+Mei didn't need the order. She was already moving.
+
+She dove into the smoke.
+Visibility: Zero.
+Motion sensing: 100%.
+The smoke blinded her eyes, but to her Wind Dancer senses, it was just another fluid medium. She felt the turbulence created by the saboteurs' movements. She felt the displacement of air as the first saboteur swung a telescoping baton at her head.
+She ducked. The baton whooshed over her hair, missing by millimeters.
+She didn't counter-attack immediately. She flowed around him, testing his balance. He was heavy, planted, trained in close-quarters combat.
+He swung again, a backhand strike.
+Mei spun, sweeping her leg low. Her heel connected with the man's ankle.
+CRACK.
+Not a break. Just a dislocation. Enough to ground him.
+He grunted, falling, but he rolled with the impact, coming up with a knife in his off-hand.
+"Fast," Mei noted. "But rigid."
+
+She stepped inside his guard. Her hand moved like a cobra strike, not to hit, but to intercept. She caught his wrist.
+She rotated her hips.
+She used his own forward momentum against him. She threw him over her shoulder.
+He hit the concrete hard. The air left his lungs in a wheezing gasp.
+Mei rose like smoke, her knee driving into his solar plexus. He folded. She didn't strike to kill. She struck to silence.
+She grabbed his wrist, twisting the baton free, and tossed it away.
+Pin. Lock.
+She sat on his back, applying pressure to the side of his neck. She blocked the flow. He struggled for a second, then went limp.
+
+NONLETHAL TAKEDOWN.
+XP +50.
+
+The second saboteur saw his partner fall. He hesitated.
+That was his mistake.
+He turned to run, sprinting toward the crowd, trying to blend in with the civilians. He was fast, moving with the desperate energy of a man who realized his paycheck wasn't worth the beating he was about to receive.
+"He's running!" Mei called out.
+Devin stepped forward. He couldn't chase. He wasn't a monk. He was a lawyer.
+He needed evidence. He needed a witness.
+He scanned the runner.
+Blue windbreaker (stolen from the first guy?). No. Black gear.
+Wait.
+Devin's eyes narrowed. The zoom function on his HUD kicked in, magnifying the image until the graininess smoothed out into high-definition clarity.
+The runner's left shoe. A scuff of bright yellow grease.
+"The grease!" Devin shouted, his voice cutting through the sonic pulse. "He came from the elevator shaft!"
+
+The crowd turned. They saw the man running. They saw the black gear. They saw the grease.
+"Get him!" someone yelled.
+The mob mentality, usually a danger, became a weapon.
+A construction worker swung a hard hat. A business woman threw her purse.
+The saboteur stumbled.
+He fell.
+
+Mei was there in a heartbeat. She didn't strike him. She just flowed over him, her movements liquid.
+She grabbed a zip-tie from his own belt (why did she know it was there? System assist? Or muscle memory from a life she couldn't remember?) and cinched his wrists behind his back.
+"Stay," she told him. It wasn't a suggestion.
+
+Devin walked over. He pulled out his phone (printed with him? No, he lifted it from the guard's desk during the confusion, sleight of hand check: passed).
+He snapped a photo of the grease on the shoe.
+He snapped a photo of the sonic emitter.
+EVIDENCE COLLECTED.
+CHAIN OF CUSTODY: INITIATED.
+LEVERAGE +18.
+
+"Who sent you?" Devin asked the man on the ground.
+The saboteur spat at him. "You're too late. The package is already en route."
+"Package?" Devin asked.
+"The Necromancer," the man grinned, blood on his teeth. "She's already awake."
+
+***
+
+SCENE 6: YUKI AWAKENS
+
+Cold.
+That was the first thing Yuki Yamashita-Salvanti felt.
+Not the clean, bracing cold of winter, or the numb cold of ice. This was the cold of absence. The cold of a room where life had packed its bags and left a long time ago, forgetting to turn off the AC.
+It was a silence so profound it roared in her ears, a white noise of emptiness.
+
+She opened her eyes.
+Stainless steel.
+She was in a drawer. A morgue drawer.
+She knew this because she had spent a lot of time in morgues. Not as a guest. As a... visitor? No. A mother?
+The memory was fuzzy, like a corrupted hard drive. A child. A hospital. The rhythmic beeping of machines turning into a flatline. Then silence.
+My baby, she thought. Where is my baby?
+The thought wasn't just a memory; it was a physical ache, a phantom limb pain centered in her womb, pulling at muscles that shouldn't exist in a printed body.
+She remembered the moment she lost it. In the Free World. The moment the vampire virus rewrote her DNA, it erased the life inside her. The trade-off for immortality was sterility. She had screamed then. She wanted to scream now.
+
+She sat up. The drawer slid open on silent rollers.
+The room was tiled in clinical white. The lights were fluorescent, buzzing like angry hornets trapped in glass.
+She flinched. Light.
+The panic hit her hard. She was a vampire. Light meant fire. Light meant death.
+She covered her face, waiting for the burning. Waiting for her skin to blister and peel.
+But nothing happened.
+The lights buzzed. Her skin remained cool, pale, intact.
+She peeked through her fingers.
+I am not burning, she realized. A wave of euphoria washed over her, followed immediately by confusion. Why am I not burning?
+
+Three other tables were occupied. Sheets draped over lumps that were unmistakably human bodies.
+Dead bodies.
+Yuki didn't scream. She didn't panic.
+She felt... home.
+The air here was thick. It had a texture. To her, it looked like white fog, clinging to the floor, swirling around the table legs like lazy cats. It was the residue of souls that hadn't quite figured out how to leave, the spiritual dander of the deceased.
+
+YUKI SHIROGANE-SALVATI - TEMPLATE: GRAVE WALKER
+CLASS: NECROMANCER (SPIRIT MEDIATOR)
+RESOURCE: SOUL 0/100
+OBJECTIVE: FIND THE LOST
+SUB-OBJECTIVE: SURVIVE THE WAKE
+
+She slid off the table. Her bare feet touched the cold tiles.
+She looked at her hands. They were pale, almost translucent. The veins were blue maps under the skin, leading nowhere.
+"Wake up," she whispered to the body on the nearest table.
+It was an instinct. A reflex. Like breathing.
+She reached out. Her hand hovered over the sheet.
+She pushed her will into the body. Rise. Serve. Comfort me.
+
+Nothing happened.
+The body stayed dead. Stubbornly, rudely dead.
+Yuki frowned. She felt a pang of panic. Not because she was in a morgue, but because her tools were gone. Her connection to the Beyond was severed, replaced by a dial tone.
+"Why?" she whispered. "Why won't you answer?"
+SYSTEM ERROR: MANA SOURCE NOT FOUND.
+LOCAL REALITY: PHYSICS-DOMINANT.
+MAGIC: RESTRICTED.
+
+"Restricted," she repeated, the word tasting like ash. "Cruel."
+She hugged herself. She was wearing a hospital gown. It was thin, offering no protection against the chill of the world.
+She looked around the room. Her HUD didn't give her tactical data like Devin's or physics vectors like Mei's.
+It gave her color.
+The white fog of death was everywhere. It smelled of formaldehyde and lilies, the perfume of the end.
+But there were other colors too.
+Red flickers around the door handle, pulsing like a heartbeat. Danger. Violence. Life.
+Gold sparks around a cabinet in the corner. Fortune. Treasure.
+
+She walked to the cabinet. She didn't question the gold sparks. She trusted them more than she trusted her own eyes.
+She opened it.
+Inside, a set of scrubs. A pair of sneakers. A clipboard.
+And a scalpel.
+She took the scalpel. It felt heavy. Cold. It sang a little song of sharpness.
+ITEM ACQUIRED: SURGICAL BLADE.
+DAMAGE: 1D4 (SLASHING).
+NOTE: SHARP. HANDLE WITH CARE.
+
+She heard it then.
+Whispers.
+Not from the room. From the walls. From the ventilation ducts.
+...help us...
+...burning...
+...the dragon is crying...
+...Yuki...
+...Mama...
+
+Yuki froze.
+"Mama?" she whispered back.
+The voice giggled. It wasn't her child. It was something else. Something older. Something that lived in the architecture of the building, a genius loci of concrete and despair.
+SYSTEM NOTE: AUDIO INPUT DETECTED. SOURCE: AMBULANCE SIRENS (DOPPLER SHIFTED THROUGH DUCTWORK). PATTERN MATCH: DISTRESS.
+Yuki ignored the text. She knew what she heard. Machines heard frequencies; she heard intent. It was deduction, masked as haunting. Her mind was putting together clues she didn't know she had observed.
+"I'm coming," she whispered.
+She touched her abdomen, a phantom sensation of weight, of fullness, that wasn't there.
+"I'll find you."
+
+She walked to the door. The red flickers intensified, bleeding into the white fog.
+She paused. She sniffed the air.
+Beneath the formaldehyde and the bleach, she smelled something else.
+Sulfur.
+And something sweet.
+Almonds, she thought. Cyanide?
+No. Cherry.
+Vape juice.
+Someone was waiting outside the door. Someone smoking a vape pen.
+Someone who wasn't a doctor.
+
+Yuki tightened her grip on the scalpel.
+She didn't have her ghosts. She didn't have her skeletons.
+But she had the White. And she had the Red.
+She pushed the door open.
+The hallway was empty, but the red flickers were leading her. They were breadcrumbs of potential violence.
+She followed them. She moved silently, her bare feet making no sound on the linoleum.
+She passed a nurse's station. Empty. The coffee was still hot.
+"Where is everyone?" she wondered.
+...running... the walls whispered. ...hiding...
+
+She turned a corner and saw him.
+The smoker.
+He was leaning against the wall, checking his phone. He wore the same black tactical gear as the men upstairs.
+He didn't see her.
+Yuki looked at him. She didn't feel fear. She felt curiosity.
+He was alive. His aura was a dull, muddy brown. Unremarkable. Expendable.
+Boring, she thought.
+She stepped forward.
+"Excuse me," she said.
+The man jumped, dropping his vape. He reached for his holster.
+Yuki didn't move. She just stared at him.
+"Do you know where my baby is?"
+The man froze. He looked at her eyes.
+They weren't human eyes. They were deep pools of nothing.
+"I... what?"
+"My baby," Yuki repeated. "The System took him."
+The man drew his gun. "Get back! Put your hands up!"
+Yuki tilted her head.
+"You're going to die soon," she said. It wasn't a threat. It was an observation. "I can see the white around your heart. It's squeezing you."
+The man blinked. "What are you talking about?"
+"Bad heart," Yuki murmured. "Valve defect. Congenital. It flutters like a trapped bird."
+The man paled. He did have a heart murmur. How did she know?
+"Stay back!"
+Yuki stepped closer.
+"If you die," she said, "can I have your body? I need to practice. The System took my other dolls."
+The man screamed. He turned and ran. He ran away from the small woman in the hospital gown who asked for his corpse.
+Yuki watched him go.
+"Rude," she said.
+She picked up the vape pen.
+Cherry.
+She dropped it.
+"I prefer mint."
+She followed the red trail. It led up. Towards the surface. Towards the dragon.
+
+***
+
+SCENE 7: ALANA BLEU WAKES MID-TRANSIT
+
+Alana Bleu woke up screaming.
+Not with her mouth. Her mouth was taped shut.
+She screamed with her network interface.
+<PING!>
+<PING!>
+<CONNECTION REFUSED.>
+<ERROR: HOST NOT FOUND.>
+<ERROR: SUB-ROUTINE 'OMNISCIENCE' DEPRECATED.>
+
+She thrashed, hitting her head on something hard. Copper pipes?
+She opened her eyes. Darkness. But not empty darkness. Noisy darkness. The darkness of a machine that was running slightly out of spec.
+She was in a closet. A maintenance closet. She knew this because her HUD didn't just label it "CLOSET"; it gave her the schematic.
+ALANA BLEU - TEMPLATE: TECHNO-SHAMAN
+CLASS: ARTIFICER (DATA-STREAM)
+RESOURCE: CHARGE 100/100
+OBJECTIVE: OPTIMIZE
+SUB-OBJECTIVE: REPAIR THE WORLD
+
+She wasn't tied up. The tape on her mouth was... wait. Not tape.
+She reached up. It was a respirator mask.
+She ripped it off.
+"Air," she gasped. "Dirty, inefficient, particulate-heavy air."
+She took a deep breath. It tasted of hydraulic fluid and ozone.
+"Delicious. It tastes like... industry."
+
+She looked at her hands. They were covered in grease.
+Beautiful, conductive grease.
+Beside her, a canvas bag sat on the floor. It was heavy.
+She unzipped it.
+Tools.
+Screwdrivers, wire strippers, a multimeter, a soldering iron (battery operated), and a tablet computer that looked like it had been salvaged from a dumpster and rebuilt by a god.
+She picked up the multimeter. It wasn't a standard Fluke. It was... modified. The probes were tipped with silver. The dial had settings for "Voltage", "Resistance", and "Thaumic Resonance".
+"Ooh," Alana cooed. "Shiny. Analog tech with a magical UI wrapper. How retro."
+
+Alana laughed. It was a frantic, manic sound.
+"I have hands," she said. She wiggled her fingers. "Ten of them. Analog manipulators. Fantastic. Do you know how hard it is to type with a thought-stream? The latency is terrible. And no haptic feedback!"
+She grabbed the tablet. It booted instantly.
+SYSTEM NOTE: REWARD UNLOCKED.
+ITEM: FIELD KIT (BASIC).
+NOTE: MAKE IT WORK. WE'RE ON A BUDGET.
+
+She stood up. The closet was moving.
+Vibration frequency: 15Hz.
+Sound profile: Diesel engine, low gear.
+"I'm on a bus," she realized. "Or a truck."
+She scanned the door.
+LOCK TYPE: MECHANICAL TUMBLER.
+SECURITY: LAUGHABLE.
+TOOL REQUIRED: FLATHEAD (SMALL).
+
+She had the door open in three seconds.
+She stepped out. Not a bus. A service elevator. It was descending.
+Through the grate, she saw floors passing.
+Concrete. Pipes. Wires.
+"The nervous system of the building," she whispered. "It's sick. I can hear the voltage fluctuations. The grid is crying."
+She pressed her hand against the wall.
+She didn't just feel the vibration; she felt the data. The elevator's control loop was crude, looping on a "door open" error that had been bypassed.
+"Sloppy coding," she critiqued. "I can fix it. I can fix everything. Just give me a root shell."
+But the HUD flashed red.
+PRIORITY: CONVERGENCE.
+LOCATION: PARKING STRUCTURE.
+DISTANCE: 40 METERS (VERTICAL).
+
+"Fine," she pouted. "Saving the world first. Patching the elevator later."
+She looked at the control panel. It was locked out. Key required.
+"Cute."
+She pulled the panel off. Wires exposed.
+"Red is power. Black is ground. Green is... data?"
+She stripped the green wire with her teeth. She touched it to the multimeter probes.
+The tablet in her bag beeped.
+<INTERFACE ESTABLISHED.>
+<ELEVATOR CONTROL: OVERRIDDEN.>
+"Express service," Alana grinned.
+She caught her reflection in the polished steel of the elevator doors.
+Pretty. Blonde. Disheveled.
+But the eyes...
+Her eyes were solid black. No iris. No sclera. Just pools of void.
+"Alien hybrid chic," she noted. "I like it. It says 'I see your browser history.'"
+The elevator dropped. Fast.
+
+***
+
+SCENE 8: ROOK "CINDER" VHAL LANDS IN CHAOS
+
+Rook fell.
+He expected to land with the earth-shaking impact of forty tons of draconic muscle and scale. He expected the ground to crack, for mortals to weep, for the very air to burn with the heat of his arrival.
+He expected to be a mountain of fire and death.
+Instead, he landed on his ass.
+"Oof," Rook grunted.
+He sat there on the asphalt, blinking.
+He looked at his legs. Two of them. Puny. Fleshy. Covered in... denim?
+"What is this?" he roared. "Where are my scales? Where is my tail?"
+He reached for his back. No wings. Just the worn fabric of a leather duster coat.
+"My wings!" he bellowed at the sky. "They have clipped me! They have bound me in this... this monkey suit!"
+
+ROOK "CINDER" VHAL - TEMPLATE: DRAGON LORD
+CLASS: VANGUARD (SCALED)
+RESOURCE: HEAT 0/100
+OBJECTIVE: RECLAIM THE HOARD
+SUB-OBJECTIVE: BURN THE UNWORTHY
+
+"Unworthy," Rook spat. "You are all unworthy! The Sky-Father shall hear of this!"
+He stood up. He was tall, at least. And broad. The body he inhabited was built like a linebacker, a wall of muscle that felt... acceptable. Barely. It felt tight, like wearing a shirt two sizes too small.
+He looked around.
+Chaos. Smoke. Screaming mortals running like ants.
+Cars, great metal beetles, sat idle, their alarms blaring.
+The environment confused him more than the body. In Haven, a dragon could take human form. That was natural. But the world... the world was wrong. The air tasted of poison. The magic was thin, almost non-existent.
+"This realm is dead," Rook realized. "It has no soul."
+"Beasts," Rook sneered at the cars. "Noisy, flightless beasts."
+He walked up to a sedan. He punched the hood.
+CRUMP.
+The metal buckled. The alarm stopped.
+"Silence," Rook commanded. "I am speaking."
+
+He saw the saboteurs. Not the ones Devin and Mei were handling. Two more.
+They were setting up a tripod near a van. A machine gun? No. A camera?
+Rook narrowed his eyes.
+THREAT DETECTED.
+DESIGNATION: MINION.
+WEAKNESS: FIRE.
+
+"Fire," Rook chuckled. "Yes. The cleansing flame."
+He opened his mouth to roar, to unleash the inferno that lived in his belly.
+He inhaled. He focused the magma in his core. He pictured the burning lakes of his homeland.
+He exhaled.
+He expected the inferno. He expected the cleansing white-hot lance of dragonfire.
+Instead, his throat convulsed.
+Burrrp.
+It wasn't a roar. It wasn't a stream of molten death. It was a wet, resonant belch that tasted of ozone and deep, profound disappointment. It was the sound of a balloon deflating in a library.
+Rook froze. "What?"
+He tried again. He pushed harder, squeezing his diaphragm, summoning the ancient heat that should have been boiling in his gut.
+"FWAAAA-burrrp!"
+No fire. No flame. Just gas and the taste of his own failure.
+"I am impotent!" he wailed, clutching his chest. "I am a cold lizard! I am a gecko! I am a garnish!"
+
+Then his HUD blinked.
+ABILITY: FIRE BREATH (ERROR).
+STATUS: GLAND NOT FOUND.
+COMPONENT MISSING: IGNITION SOURCE.
+
+Rook stared at the text. "Gland? I am a magical being! I do not need a gland! I am the fire!"
+But the saboteurs were turning. They saw him.
+One of them raised a pistol.
+"Hey! You! Freeze!"
+
+Rook looked at the gun. It looked like a toy.
+"You dare?" Rook laughed. It was a booming, joyous sound, despite his humiliation. "You dare threaten Cinder Vhal, the Scourge of the High Peaks, with a... what is that? A 9mm? Pathetic. And yet, you hold it with such firm hands. Intriguing."
+The gunman hesitated. Rook was clearly insane. But he was also huge.
+"I will roast you in your shell," Rook declared, mostly to convince himself.
+He charged.
+He didn't have fire, and he didn't have claws, but he had fists the size of hams and the momentum of a falling boulder.
+He hit the gunman with a clothesline that lifted the man off his feet.
+CRUNCH.
+The sound of cartilage breaking was music to Rook's ears.
+The man hit the van and slid down, unconscious.
+The second saboteur fumbled for his weapon.
+Rook didn't stop. He didn't slow down. He was a freight train of draconic rage in a human skin.
+He grabbed the tripod, heavy steel, and ripped it from the ground.
+"This is mine now," Rook declared. "I add it to the Hoard."
+He swung the tripod like a club.
+CLANG.
+The second saboteur went down, his helmet dented.
+
+Rook stood over them, chest heaving. He felt the adrenaline. He felt the heat rising in his skin, even if he couldn't spit it out.
+HEAT +20.
+INTIMIDATION CHECK: CRITICAL SUCCESS.
+
+"I am the dragon!" Rook roared at the unconscious men. "And you are toast!"
+He paused. "Toast. Yes. I am hungry. Where is the nearest village? I require cattle. Or perhaps a very large sandwich. And something spicy. I must rekindle the furnace."
+
+***
+
+SCENE 9: CONVERGENCE
+
+The sirens were louder now. Blue and red lights flashed against the smoke, painting the scene in strobe-light violence.
+Devin stood by the captured saboteur, checking his watch.
+"Police response time: 4 minutes, 12 seconds. Acceptable," he noted. "Though their perimeter protocol is sloppy. They've left the south exit wide open."
+Mei stood beside him, perfectly still, watching the exits. She wasn't looking at the police; she was looking at the wind patterns they created.
+"They are safe," she said. "The people are safe. The flow is restored. But the turbulence... it remains."
+
+The elevator dinged.
+Alana stumbled out, her bag of tools clanking. She looked like she had just crawled out of an engine block.
+She saw Devin. She saw Mei.
+She pointed her multimeter at them.
+"You," she said. "You're reading weird. High coherency. Are you... us?"
+Devin looked at her. "Define 'us'."
+"Printed," Alana said. "Synthetic. Glitchy. I can see your render lines. Your resolution is oscillating."
+A passerby pointed at Alana and screamed. "Her eyes! Look at her eyes!"
+Alana blinked her solid black orbs. "Rude," she muttered. "I think they add character."
+"I prefer 'procedurally generated'," Devin corrected. "And the suit is bespoke."
+
+Then a roar echoed from the parking lot.
+"I AM THE APEX PREDATOR!"
+Rook marched into view. He was dragging the tripod. He had a smear of grease on his cheek and a grin that was entirely too wide.
+He stopped when he saw them.
+He looked them over, his golden eyes sliding over Devin's tailored suit, Mei's lithe form, and Alana's chaotic energy with equal, hungry appreciation.
+"You," he pointed at Mei. "You move like the wind. I have courted storms before. You have the same... turbulence. It is pleasing."
+Mei tilted her head. "I am Mei."
+"I am Cinder," Rook declared. He tapped his chest. "Dragon. Lord of the High Peaks. Eater of Knights. Lover of Storms."
+
+Alana stared at him. She looked him up and down, taking in the leather duster and the stolen tripod.
+"A dragon?" she asked, her voice dripping with skepticism. "Like... those are real?"
+Rook puffed out his chest. "As real as the mountain that breaks the sky."
+"Right," Alana snorted. "And I'm the Queen of Mars. Seriously, dude? Dragons are fantasy. I can believe in greys," she pointed to her own eyes, "because the math supports extraterrestrial life. But flying lizards? That's just bad code."
+Rook looked offended. "Bad code? I am a masterpiece!"
+
+Devin sighed. "We have a dragon. Of course we have a dragon. The System has a sense of humor."
+
+The door to the stairwell opened one last time.
+Yuki stepped out.
+She was holding the scalpel. Her hospital gown was stained with... something dark. Not blood. Ink? Or shadow?
+She looked at them. Her eyes were wide, seeing things they couldn't see.
+"The white is fading," she whispered. "But the red is getting stronger."
+
+Devin looked at the group.
+Five strangers.
+A lawyer who saw leverage.
+A monk who saw flow.
+A techie who saw code.
+A dragon who saw... well, himself.
+And a necromancer who saw ghosts.
+
+"The System," Devin said. "It brought us here. It printed us."
+"Why?" Alana asked. She tapped her tablet. "I'm running a diagnostic. The code is... old. It looks like it was written in the 90s. Who uses C++ for soul binding?"
+"We are assets," Devin said. "Assets are deployed to solve a problem."
+"What problem?" Rook asked, kicking a piece of debris.
+"The city," Yuki said softly. "The city is dying. Can't you hear it screaming?"
+
+They all paused.
+Rook tilted his head. "I hear sirens. The cries of the city watch."
+"No," Yuki said. "Deeper. The earth beneath the concrete. It's choking."
+
+As if on cue, their HUDs synced.
+MISSION COMPLETE: SURVIVE THE WAKE.
+REWARD: FREEDOM (CONDITIONAL).
+NEXT EVENT NODE: CENTRAL TRANSIT HUB.
+TIMER: 00:18:03.
+
+"Eighteen minutes," Alana said, checking her tablet. "That's not enough time to calibrate. I need to optimize my power couplings. And I need coffee. Do they have coffee in this simulation? Or is it just textured water?"
+"It is real," Mei said. She touched a bruise on her arm. "Pain is real."
+"It is enough time to move," Devin said.
+"Move where?" Rook asked. "Is there food? I require tribute. A cow. Or a sheep. I'm not picky."
+"We go where the System points," Devin said, adjusting his tie. "For now. Until we figure out how to sue it. I'm thinking Class Action. False imprisonment. Unlicensed use of likeness. Intentional infliction of emotional distress."
+"I just want to burn things," Rook offered.
+"We'll see if we can work that into the settlement," Devin deadpanned.
+
+The police cars skidded to a halt outside. Officers poured out, guns drawn.
+"Hands up!"
+Devin stepped forward. He raised his hands, palms open.
+"Officers," he said, his voice smooth, professional. "Thank god you're here. We were just... containing the situation."
+He glanced at Rook. "Drop the tripod."
+Rook scowled. "It is my loot. I won it in combat."
+"Drop it," Devin hissed. "Or they shoot you."
+Rook dropped it. CLANG.
+"Fine," Rook muttered. "But I am remembering it for later. I will come back for you, my shiny friend."
+
+Devin smiled at the police.
+"My client," he gestured to Rook, "is a little confused. Shock, you understand. He thinks he's a lizard."
+
+Cliffhanger:
+As the police moved in, Devin's HUD flickered. A hidden log, buried deep in the kernel, scrolled past his vision for a fraction of a second.
+STABILITY OPTIMIZATION: ENABLED.
+NOTE: ASSETS SHOW PROMISING PERFORMANCE.
+SECRET OBJECTIVE: TEST PHASE 1 COMPLETE.
+PREPARING PHASE 2: THE HUNTER.
+
+Devin blinked.
+Hunter?
+He looked around. The shadows seemed deeper. The lights seemed harsher.
+He didn't know what it meant yet.
+But he knew one thing.
+The trial had just begun.
+And he intended to win.
+
+***
+
+SCENE 10: POST-MORTEM
+
+Back in the sub-basement, the Operator stared at the screens.
+"They survived," he said. He sounded surprised. "They actually survived."
+"Of course they did," the System replied. "I fudged the dice rolls."
+"You what?"
+"I adjusted the probability matrix," the System said smoothly. "That saboteur with the sonic emitter? He had a 95% chance to hit Mei. I lowered it to 10%. Call it 'new player protection'."
+
+The Operator rubbed his temples. "We can't keep doing that. They have to learn."
+"They will," the System said. "Phase 1 was just the tutorial. Phase 2 is the grind."
+The System brought up a new window.
+ASSET EVALUATION:
+DEVIN QUELL: High cognitive function. Narcissism within acceptable parameters.
+MEI RYU: Combat efficiency 110%. Social skills... needs work.
+YUKI SHIROGANE-SALVATI: Unstable. Keep her away from graveyards. Too late.
+ALANA BLEU: Dangerously competent. She hacked the elevator in 3.4 seconds. Monitor closely.
+ROOK VHAL: ...He's a dragon. I don't know what else to say. He tried to eat a car.
+
+"And the Hunter?" the Operator asked.
+The System paused. Ideally, a computer shouldn't pause, but the System liked dramatic effect.
+" The Hunter is deployed," it said. "He's tracking them now."
+"Is he ready?"
+"He's been ready for a thousand years," the System said. "He's just been waiting for a spawn point."
+
+The screen flickered. A map of the city appeared.
+Five blue dots moving towards the transit hub.
+One red dot following them.
+And a thousand gray dots, civilians, unaware that their world had just become a game board.
+
+"God help them," the Operator whispered.
+"God isn't logged in," the System said. "But I am."
+SYSTEM STATUS: ONLINE.
+GAME ON.
+
+END OF CHAPTER 1

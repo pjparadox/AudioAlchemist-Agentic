@@ -1,0 +1,486 @@
+CHAPTER 2 - DISCOVERY PHASE: THE CITY IS A PUZZLE WITH TEETH
+
+SCENE 1: EXTRACTION TO HOME BASE
+
+The van was sleek, black, and smelled of new car and old coffee. It wasn't a police van. The officers who had arrested them had been efficiently waved off by a man in a sharp suit who flashed a badge that looked more like a credit card than a shield.
+"Get in," the handler, Silas, as his badge identified him, said. "Unless you want to explain the dragon incident to the District Attorney."
+Devin Quell got in first. He recognized the suit's body language: private contractor, high clearance, low patience. He slid across the leather seat, his mind already calculating the legal ramifications of a private entity commandeering a police action.
+Jurisdiction: Murky. Authority: Likely federal or supra-national. Leverage: Minimal, for now.
+
+Mei Ryu followed, moving like water poured into a cup. She didn't sit; she settled, her posture perfect, her breathing instantly syncing with the hum of the engine. She looked at Devin and gave a microscopic nod. We are moving. Motion is life.
+
+Alana Bleu scrambled in, clutching her multimeter like a holy relic. Her black eyes, solid, void-like pools without sclera, scanned the interior, cataloging every sensor and microphone.
+"Frequency jammer in the console," she muttered, tapping the dashboard. "GPS spoofer. Bio-metric sensors in the seats. They're weighing us. They're measuring our heart rates."
+"Stop touching things," Silas sighed from the front seat. "And please, for the love of God, do not hack the navigation system. I don't want to end up in the lake again."
+"I'm not touching," Alana corrected. "I'm interfacing. And the lake was efficient. It was a shortcut."
+
+Rook Vhal had to duck to fit his frame through the door. He grumbled about the indignity of "mortal carriages" but sat down, taking up two seats. His leather duster creaked. He looked out the tinted window, his golden eyes narrowing.
+"This realm is... gray," he noted. "Where are the colors? Where is the mana? Where are the sky-whales?"
+"It's Seattle," Silas said, rubbing his temples. "The mana is in the coffee. And the whales are in the sound, though they don't fly. Please try not to eat them."
+"Flightless whales," Rook muttered. "Pathetic."
+
+Yuki Yamashita-Salvanti entered last. She hesitated at the door, looking up at the sky. It was overcast, gray clouds shielding the world from the sun.
+"Safe," she whispered. The fear of burning was a tight knot in her chest, a phantom memory of a life she remembered but hadn't lived in this body.
+She sat next to Alana. Alana looked at her, saw the hospital gown, the pale skin, the dead eyes, and leaned away.
+"You smell like formaldehyde," Alana noted.
+"And you smell like ozone," Yuki replied, not unkindly. "It balances."
+
+The drive was short, but it felt long. They passed through streets lined with homeless encampments that spilled into the gutters, a shantytown of blue tarps and despair. Boarded-up storefronts were plastered with posters for "Gene-Therapy Trials: Cash Today!" and flickering neon signs advertising "Synth-Meat: Now with 15% Real Protein." The city wasn't just wounded; it was septic. Devin could feel it in his teeth. The civic infrastructure was failing, and the smell of uncollected garbage was its perfume.
+"The social contract is frayed," Devin observed. "Look at the density of enforcement drones versus aid stations. The ratio is inverted. This is a deliberate resource starvation."
+"It is a lawless wasteland," Rook agreed. "It needs a King. Someone to burn the corruption."
+"It needs a patch," Alana corrected. "The code is spaghetti. Look at that traffic light. It's cycling on a default loop because the sensor grid is down. It's causing a deadlock at the intersection."
+
+"This is Sector 4," Silas explained, glancing in the rearview mirror. "The rest of the world isn't this bad, but here... entropy is winning. The grid fails twice a day. The police are privatized and underfunded. Archangel believes that sometimes, systems need a manual reboot. Or a kick in the teeth."
+He gestured to a large, brutalist building on the left. "That used to be the Public Library. Now it's a server farm for a hedge fund. They bought the land for pennies after the '99 Crash."
+"Knowledge imprisoned," Devin noted. "A crime against the public trust."
+"And there," Silas pointed to a gleaming spire that pierced the smog. "The Obsidian Tower. Corporate HQ for SynTech. They make the drones that patrol these streets."
+"A fortress," Rook assessed. "I could breach it. I would need a ram."
+"You'd need a subpoena," Devin corrected.
+"Or a rootkit," Alana added.
+
+"Archangel," Devin tested the word. "A religious organization?"
+"A humanitarian one," Silas said smoothly. "With teeth. We're a coalition of AI rights activists and... sympathetic entities. We believe in co-existence. We brought you here because we think you can help. Just... try not to break too many things on day one? I have a budget."
+"Co-existence between who?" Yuki asked softly.
+"Humans and the things they create," Silas said. "Like you."
+
+They were taken to a nondescript warehouse in the industrial district. The sign outside read "ELYSIUM LOGISTICS."
+Inside, it wasn't a warehouse. It was a habitat.
+The main room was a cavernous open space, converted into a high-tech lounge. Comfortable couches, a kitchen stocked with food, and a wall of monitors displaying news feeds and city maps.
+"Welcome home," Silas said, spreading his arms with genuine enthusiasm. "I designed the layout myself. Feng shui compliant, optimized for team cohesion. I'm your handler. You can call me Silas."
+"Handler?" Rook scoffed. "I am a Lord of the High Peaks. I am not handled. I am the one who handles! I handle dragons! I handle destiny! I do not take orders from a man who wears a tie!"
+"You are if you want to eat," Silas said, pointing to a table laden with sandwiches. "And I'll have you know this tie is silk."
+Rook's stomach growled. The sound was like a tectonic shift. It surprised him. Dragons didn't get hungry like this. This was a mammalian hunger. A desperate, gnawing need.
+"I accept your tribute," Rook declared, marching toward the food. He grabbed a sandwich, turkey and swiss, and devoured it in two bites. "Acceptable. But it lacks... soul. Where is the spice? Where is the fire?"
+
+Silas looked at the others.
+"You are Assets of Archangel. We pulled you out of the simulation because we need your specific skill sets in the real world."
+"Simulation?" Devin asked. "You mean the game? Haven Online? Free World?"
+"I mean the training ground," Silas corrected. "You think your lives were games? They were aptitude tests. And you passed. We needed minds that could handle impossible variables. Minds that weren't constrained by 'reality'."
+He pointed to a hallway. "You each have quarters. Personal dossiers are waiting on your beds. Read them. Get acclimated. And please, try not to kill each other before dinner."
+
+SCENE 2: TEAM ROLE FRICTION
+
+The friction started immediately.
+Rook, having devoured three sandwiches, decided the living arrangement was insufficient.
+"Where is my hoard?" he demanded. "Where is my gold?"
+"You have a credit limit," Silas explained. "It's digital gold."
+"Invisible gold?" Rook roared. "How can I sleep on invisible gold? A dragon sleeps on his wealth! It provides spinal support! It warms the scales!"
+He paced the room, his heavy boots thudding on the floor. He stopped in front of Mei, who was meditating on a cushion near the window.
+"You," Rook said. "Sky-sister. Why are you so calm? We are trapped in a box of stone."
+Mei opened one eye. "The stone does not trap the wind. The wind moves through the cracks."
+"There are no cracks!" Rook gestured at the walls. "It is air-conditioned! The air is processed! It has no flavor! It tastes of filters and lies!"
+"Then be the cool air," Mei suggested, closing her eye. "Adapt. The river does not complain about the rocks; it flows around them."
+Rook groaned and kicked a sofa. It slid across the room, screeching against the polished concrete.
+"Strength," Devin noted, looking up from studying the room's layout. "Impressive. Liability: High. Rook, if you break the furniture, it comes out of your 'invisible gold'."
+Rook froze. "You would tax me?"
+"I would bill you," Devin corrected. "There is a difference. One is theft, the other is contract. We live in a society of laws, not might."
+"Then it is a weak society," Rook grumbled. "A King takes what he is owed."
+
+Devin approached Silas.
+"I need to see the contract," Devin said. "The terms of our employment. Health benefits? 401k? Liability insurance? If Rook throws a bus, who pays for it?"
+"There is no contract," Silas said. "You exist because we printed you. You work for us because the alternative is being deleted."
+Devin bristled. "Coercion. Duress. Adhesion contract. That won't hold up in court. You created us, but you gave us sentient rights the moment you turned us on."
+"It will if the judge works for us," Silas smiled. It wasn't a nice smile. It was the smile of a man who owned the courthouse.
+Devin felt the Leverage ticker in his HUD drop. -10.
+He hated losing.
+"Fine," Devin said. "Then I want a retainer. And I want to review the chain of title on this building. And I want coffee. Real coffee, not this swill."
+"Check your account," Silas said.
+Devin did. The number made him blink.
+LEVERAGE +20.
+"Acceptable," Devin murmured. "For now. But I am drafting a memo."
+
+Yuki was wandering the perimeter. She touched the walls, the furniture, the screens. She felt the vibrations of the building.
+...hummmm...
+It wasn't a ghost. It was the HVAC system. But to her, it felt like the building breathing.
+She stopped at a door marked "MEDICAL."
+"Can I go in there?" she asked.
+"That's the infirmary," Silas said. "It's stocked."
+Yuki's eyes, dead, flat, endless, lit up.
+"Does it have blood?"
+The room went silent. Even Rook stopped chewing.
+"For transfusions," Yuki added quickly. "I... I need to practice. My skills... they require fluids."
+Silas narrowed his eyes. "Synthetic blood. For training."
+Yuki nodded. "That will do."
+She slipped into the room.
+"She's creepy," Rook whispered loudly. "I like her. She understands the value of life-force. A warrior respects blood."
+
+SCENE 3: YUKI'S SUNLIGHT MOMENT
+
+The next morning, the sun came out.
+The gray clouds broke, and a beam of pure, unfiltered sunlight sliced through the high windows of the warehouse.
+It hit the floor in a pool of gold.
+Yuki stood at the edge of the shadow, near the kitchen. She was trembling. She had spent the night in the infirmary, organizing scalpels and staring at the synthetic blood bags, fighting the urge to drink them. The hunger was a dull ache in her gut, a reminder of what she was.
+Now, the sun.
+"Go on," Alana said, looking up from her tablet. "It's just photons. Wave-particle duality. Harmless."
+"It's fire," Yuki whispered. She pulled the hood of her borrowed hoodie tight over her face. "The sun burns the unholy."
+She remembered the Free World. She remembered the turning. The vampire lord who had drained her, infected her. She remembered the moment the life inside her died, replaced by the cold static of undeath. She remembered the warning: The sun is your enemy. The day is death.
+"You're not unholy," Mei said, walking past her into the light. "You are just... cold."
+Mei stood in the sun, stretching. "It feels good. Warm. Like a mother's hand."
+
+Yuki flinched at the word mother. The pain of her loss spiked, sharp and fresh.
+She looked at the light. It looked like salvation. But she knew it was a trap.
+"I can't," Yuki whispered. "I will burn."
+She retreated. She scrambled backward, her breath hitching in her throat, until her back hit the wall in the darkest corner of the room, behind the couch. Her skin prickled with phantom heat, a memory of ash and screaming.
+"Yuki," Devin said, looking up from his file. "The windows are UV-treated. 99.9% filtration. You're safe inside."
+"You don't know that," Yuki hissed, hugging her knees to her chest. "You don't know the rules of my curse. The sun doesn't care about filtration. It wants to eat me."
+She curled up in the darkness, her eyes wide, watching the dust motes dance in the deadly light. Each speck of dust looked like a spark. She would not risk it. She would not die again. Not yet.
+
+SCENE 4: BASE EXPLORATION
+
+They spent the day exploring.
+Devin sat in his quarters, staring at the file on his desk.
+Devin Quell. Attorney at Law.
+He opened it. It contained a copy of his diploma. Duke University. School of Law.
+"Duke," Devin whispered.
+He remembered the campus. The gothic architecture. The humidity of North Carolina. He remembered Professor Vance's Ethics class. He remembered the parking ticket he got during finals week.
+The file had it all. The grades. The dates.
+It lined up perfectly with his memories from the Free World.
+"How?" he wondered. "If I was an NPC... how do I have a parking ticket?"
+He looked closer at the dates. They were recent. Too recent. But in his mind, they felt like years ago.
+He picked up the diploma. The seal was embossed. It felt real.
+He didn't call the school. He didn't check the website. He just sat there, holding the proof of a life he wasn't sure he lived.
+"They built a history for me," he realized. "Or... did they just copy it?"
+He closed the file. It was too much. He needed to focus on something tangible.
+LEVERAGE +5.
+
+Mei found the Gym. It was a dojo, really. Mats, training dummies, and a high-tech obstacle course.
+She stood in the center. She closed her eyes.
+She remembered the Monastery of the Four Winds. She remembered the smell of incense and mountain air. She remembered the Master teaching her to catch a falling leaf without bending it.
+The leaf is not heavy, the Master had said. You are just rigid.
+She opened her eyes. The gym smelled of rubber and sweat.
+She moved.
+She ran up the wall, flipped off a beam, and landed silently behind a training dummy.
+She struck.
+Palm. Elbow. Knee.
+The dummy registered the impact: FORCE: 1200 PSI. LETHAL.
+Mei frowned. "Too hard," she whispered. "The wind does not break. It erodes."
+Suddenly, the room flickered. A hologram appeared. It was a wireframe monk.
+"Sparring Mode Initiated," the System announced. "Level: MASTER."
+The hologram bowed. It was huge, muscular, radiating digital power. A Boss.
+Mei bowed back. "You are an echo," she said. "But you will serve."
+They fought. The hologram was fast, programmed with perfect algorithms. But Mei was fluid. She didn't block; she redirected. When the hologram punched, she turned, guiding its fist into the wall.
+Impact.
+The hologram shattered into pixels.
+FORCE: 300 PSI. DISABLING.
+"Better," she said. But she missed the mountains. She missed the silence.
+"System," she called out. "Why do you fight with force?"
+"Optimized for victory," the System replied.
+"Victory is not destruction," Mei argued, wiping sweat from her brow. "Victory is balance. You understand math, but you do not understand flow."
+"Define flow."
+"Flow is the path of least resistance," Mei said. "It is the water that cuts the canyon. It is the wind that moves the cloud. You are static. I am dynamic."
+"Updating combat heuristics... Error. Variable 'Zen' not found."
+Mei smiled. "Keep searching."
+
+Alana found the Server Room. It was locked.
+"Cute," she said.
+She placed her hand on the keypad. She didn't type a code. She listened.
+She felt the electrons moving in the circuit. She tasted the encryption. It tasted like mint and copper.
+"AES-256," she noted. "Standard. Boring."
+She pulled her multimeter from her belt. She jammed the probes into the lock casing.
+<BYPASS INITIATED>
+The door slid open.
+Inside, racks of servers hummed. The heart of the building. The air was frigid.
+Alana walked down the aisle. She touched a server blade.
+"Hello," she whispered. "Who are you?"
+The server replied in binary. <ELYSIUM NODE 7.>
+"Node 7," Alana grinned. "I'm Alana. Let's make some trouble."
+She found a partitioned drive. PROJECT: NEON VEIL.
+She tried to access it.
+ACCESS DENIED. BIOMETRIC LOCK.
+"Rude," Alana pouted.
+She pulled out her tablet. Her interface wasn't just code; it was a kaleidoscope of colors. She saw the firewall as a wall of blue flames. She saw the data packets as glowing fish swimming in the stream.
+"Techno-Shamanism," she whispered. "I don't hack. I commune."
+She started to sing a low, digital hum. The blue flames flickered. She poked a hole in the firewall, just big enough for a worm.
+"Go," she commanded. "Eat."
+The worm wriggled in.
+<DATA SIPHONING... 1%>
+"I'll be back for you," she promised.
+Then she found something else. A connection to the city grid. A traffic control node. She expanded her perception. She saw the city not as buildings, but as lines of light. The power grid was a vascular system. The traffic was blood flow.
+"It's alive," she realized. "The city is a cyborg. And it has an arrhythmia."
+"Oh," she giggled. "Hello, traffic light on 4th and Main. You're out of sync."
+She tapped a key. The light turned green in all four directions.
+Outside, horns blared.
+"Oops," Alana laughed. "Chaos is so pretty. I reset the rhythm. Let's try jazz."
+
+Rook found the Media Room. He discovered movies.
+Specifically, he discovered Godzilla.
+"Yes!" he roared, cheering as the lizard destroyed a city. "Show them! Show them the power of the scales!"
+He was disappointed when Godzilla lost.
+"Propaganda!" he yelled at the screen. "The King would never fall to a moth! This is bardic slander! Who wrote this? I demand to speak to the scribe!"
+He decided his room was too empty. He went to the kitchen.
+"System!" Rook bellowed. "I require sustenance. Something that burns."
+"Defining parameters," the System replied.
+"Hot," Rook said. "Like the heart of a volcano. I have lost my fire, and I must reclaim it."
+He ordered seventeen roast beef sandwiches from a place called "Arby's", the meat smelled of salt and preservatives, a processed approximation of a cow, and a jar of "Ghost Peppers" from an overnight delivery drone.
+"Ghost Peppers," Rook whispered reverently when the jar arrived. He held it up to the light. The peppers were shriveled, red, and evil. "The spirits of the fallen. Perfect."
+He brought them all back to his room.
+He went to the lounge. He took a lamp.
+He went to Silas's office, which was locked, but Rook just pushed the door until the frame gave way. He took a shiny paperweight.
+He brought them all back to his room and piled them in the corner.
+"My hoard," he whispered. "It begins."
+He looked at the pile. It was... disorganized.
+"I need to craft," he realized. "I need to smelt."
+He grabbed the lamp and a blender he'd found. He tried to fuse them together with his hands. He strained. His muscles bulged.
+Nothing happened. The metal just bent.
+"Where is the crafting menu?" he shouted. "System! Open crafting!"
+No menu appeared.
+"Alana!" he bellowed.
+Alana appeared in the doorway, holding a soldering iron. "What?"
+"My crafting skill is broken," Rook complained. "Fix it. I wish to make a Lamp-Blender of Power."
+Alana looked at the twisted metal. "You bent the chassis."
+"I am trying to fuse them!"
+"You need heat," Alana said. "And solder. Here."
+She showed him how to use the soldering iron. Rook watched, fascinated.
+"It is a tiny wand of fire," he whispered.
+Together, they built the Lamp-Blender. It was ugly. It sparked when plugged in.
+"It is magnificent," Rook declared. "It goes in the hoard."
+He found a vacuum cleaner in the closet. It had wheels. It had a hose.
+"A beast," Rook noted. "A domesticated wind-eater."
+He patted it. "I shall call you Snort."
+Yuki walked by. She stopped at the door.
+"Why are you piling garbage?" she asked.
+"It is not garbage," Rook said, offended. "It is treasure. It shines. And this is Snort. He eats dust."
+"It's a blender," Yuki pointed out the other object.
+"It is a vortex machine," Rook corrected. "It spins with the fury of a storm."
+Yuki looked at him. "You miss your home."
+Rook slumped. "I miss my wings. I miss the gold. I miss the fear in their eyes."
+"Death is fear," Yuki said quietly. "There is plenty of it here."
+"It is not the same," Rook said. "This fear is... small. It is worried about rent. It is worried about traffic. It is not the fear of being eaten. That is a pure fear. A respectful fear. I remember the raid on the Obsidian Spire. Forty knights. They came for my head. I ate six of them. The rest fled. They told stories of that day for a generation."
+Yuki nodded. "Perhaps we can teach them respect."
+"Yes," Rook smiled, showing too many teeth. "We shall teach them."
+
+Later, behind the closed door of his room, muffled sounds were heard.
+"Ooh... ah... hiss..."
+Rook was eating the Ghost Peppers.
+"It burns!" he hissed, tears streaming down his face. "It is... glorious! The fire returns!"
+Then, a pause. A gurgle.
+"Oh no," Rook whispered. "The fire... it is moving south."
+He ran for the bathroom.
+The sound of draconic distress echoed through the vents.
+
+SCENE 5: THE FIRST MISSION
+
+The calm didn't last.
+That evening, the screens in the main room turned red.
+ALERT: CIVIL DISTURBANCE.
+LOCATION: CENTRAL TRANSIT HUB.
+STATUS: RIOT IN PROGRESS.
+MISSION: DE-ESCALATE / PROTECT CIVILIANS.
+
+Silas walked in. He looked tired.
+"Gear up," he said. "It's time to earn your keep."
+"We are not mercenaries," Mei said.
+"No," Silas agreed. "You're heroes. Or you will be. The police are overwhelmed. People are getting hurt."
+He pointed to a crate.
+"We have equipment for you. Non-lethal. Archangel doesn't kill. We win hearts and minds."
+Rook looked at the crate. "Does it have a sword?"
+"It has a stun baton," Silas said.
+Rook looked dejected. "A buzzing stick. How noble. Can I at least breathe fire?"
+"No fire," Silas said. "Pepper spray only."
+"Spicy air," Rook grumbled. "Fine. But I shall wield the spicy air with majesty."
+
+They geared up.
+Devin put on a tactical vest over his suit. It looked ridiculous, but his HUD assured him it provided +10 Armor.
+Mei wrapped her hands and feet.
+Yuki put on a medic's vest. She packed her scalpel. Just in case. She pulled the hood of her vest up, staying deep in the shadows of the loading dock. She felt safer in the dark.
+Alana loaded her bag with drones and EMP grenades.
+Rook put on his duster. He refused the vest. "My skin is iron," he claimed. "And this coat is vintage."
+
+Phase 1: The Commute
+The van ride was tense. Rook tried to sing a battle song from Haven.
+"Oh, the heads rolled down the mountain side, doo dah, doo dah..."
+"Rook, shut up," Devin said. "I'm trying to review the engagement protocols."
+"You have no rhythm," Rook criticized. "A battle needs a soundtrack. It intimidates the enemy."
+"We're not trying to intimidate them," Devin said. "We're trying to save them."
+"Fear is a form of salvation," Rook argued. "It makes them run away."
+"Alana," Devin said. "Cut his mic."
+Alana tapped her tablet. Rook's mouth kept moving, but no sound came out.
+Rook looked betrayed. He crossed his arms and pouted.
+"So," Yuki said, her voice small. "Who are we fighting? The police? Or the people?"
+"We're fighting chaos," Devin said. "We're the third party. We are the intervention."
+"Is that moral?" Yuki asked. "The people are angry. Maybe they have a reason."
+"Anger is inefficient," Alana said, not looking up from her screen. "I'm calibrating my sensors. The riot pattern is algorithmic. I can see the flow. It's artificial. Someone is stoking the fire."
+Silas passed a tablet back. "Here are the dossiers. The agitators aren't local. They're mercenaries. Paid to break windows and start fires. They're called 'The Breakers'. Former PMC. Augmented. Dangerous."
+"Mercenaries?" Rook perked up. "Then they have honor? Or at least loot?"
+"No loot," Silas said. "Just arrest warrants. And maybe some shiny cybernetics if you hit them hard enough."
+
+Phase 2: The Standoff
+The van dropped them off a block away from the Transit Hub.
+The noise was deafening. Sirens, shouting, shattering glass.
+Devin walked to the police line. He found the Captain.
+"Who are you?" the Captain demanded.
+"Special Consultants," Devin said, flashing his badge. "Archangel. We're taking the plaza."
+"Get out of here," the Captain spat. "This is a war zone. I have orders to clear the street."
+"It's a riot," Devin corrected. "And you're making it worse. Your tear gas is drifting into the residential sector. That's a class-action lawsuit waiting to happen. Negligence. Endangerment. I can draft the complaint right now."
+The Captain glared. "You have five minutes before I order a charge."
+"Five minutes is all I need," Devin said. "Pull your men back. Let us work."
+
+Phase 3: The Line
+They moved in.
+Alana tapped her tablet. The streetlights flickered and died. The plaza plunged into darkness, lit only by the red glare of flares.
+Mei moved. She was a shadow in the dark. She slipped through the crowd, tripping agitators, guiding terrified families to the exits.
+"Move," she whispered. "Flow. Like water."
+
+Rook stepped into the tear gas. It burned his eyes. It tasted like bitter metal.
+Poison, he thought. The cowards use air that bites.
+He coughed, but he didn't stop.
+He stood in the middle of the street, arms crossed.
+A line of riot police advanced, shields up.
+"Disperse!" a loudspeaker boomed.
+"No!" the crowd screamed back. Rocks flew.
+Rook stood between them. A rock hit him in the shoulder. He didn't blink.
+A rubber bullet hit him in the chest.
+Rook laughed.
+"Is that all?" he boomed. "I have been bitten by mosquitoes with more bite! I have faced the Frost Giants of the North!"
+He grabbed a police barricade and ripped it from the ground. He held it up like a shield.
+"None shall pass!" he roared.
+The police hesitated. Who was this giant?
+
+Phase 4: Escalation & Rescue
+"He's a tank," one of the cops yelled. "Flank him!"
+A second group of agitators surged from an alleyway. They weren't throwing rocks. They had Molotov cocktails.
+"Flank!" Rook shouted. "Mei! My flank is exposed!"
+Mei was there in an instant. She swept the legs of the first attacker.
+"I have you, brother," she said.
+"Sister," Rook corrected, smashing a Molotov in mid-air with his baton. "And thank you."
+
+Suddenly, a scream cut through the chaos. A child.
+Devin saw her. A little girl, separated from her parents, trapped between the police line and a burning trash can.
+Debris from a shattered storefront, a heavy metal sign, had fallen, pinning her leg.
+"Civilian in danger!" Devin shouted. "Alana, drone shield! Rook, make a hole!"
+Alana deployed a drone. It hovered over the girl, projecting a hard-light barrier just as a rock bounced off it.
+Rook charged. He didn't hit people; he plowed through them like an icebreaker.
+He reached the girl. The sign was heavy. Steel and concrete.
+"Rook, lift!" Mei ordered. "I will stabilize!"
+Rook grabbed the sign. He groaned. His muscles strained. The servos in his synthetic body whined.
+<WARNING: LOAD LIMIT EXCEEDED>
+"I... am... the... Dragon!" Rook roared.
+He lifted. The sign rose.
+Mei slid underneath, grabbing the girl. "Got her!"
+Rook dropped the sign. CLANG.
+The girl was crying, terrified of the giant man.
+Rook knelt. He looked like a monster in the flickering light.
+"Do not fear," he said, his voice surprisingly soft. "I once held a princess in a tower. She cried too. But I did not eat her. I brought her a sheep."
+The girl blinked. "A sheep?"
+"It was a very fluffy sheep," Rook promised. "Now go. Run to the wind-lady."
+
+Phase 5: The Takedown
+Devin scanned the crowd. He was looking for the spark. The leader.
+He saw him. A man in a mask, coordinating the flank via a headset.
+But he wasn't just a man. He moved too fast. He punched a police shield, and the shield dented.
+TARGET IDENTIFIED: BREAKER.
+CLASS: AUGMENTED THUG.
+LEVERAGE: ILLEGAL MODS.
+"He's modded," Devin warned. "Be careful."
+Devin moved. He didn't run; he strode. He moved like he was walking into a courtroom to deliver a closing argument.
+The Breaker saw him. He charged.
+But he wasn't alone. Three others joined him. A squad. They moved with military precision.
+"Mini-bosses," Devin noted. "Mei! Rook! On me!"
+Rook charged the squad. He clotheslined two of them.
+Mei took the third. She ran up a lamp post, spun, and kicked him in the helmet.
+The Breaker ignored them. He was focused on Devin.
+Devin didn't fight. He analyzed.
+Vector: Straight line. Momentum: High. Balance: Forward.
+Devin stepped aside at the last second. He threw a handful of ball bearings (Alana's idea) onto the pavement.
+The Breaker slipped.
+He crashed into a lamp post.
+Devin was on him. He didn't use force; he used leverage. He applied a joint lock that utilized the Breaker's own hydraulic strength against him.
+"That is destruction of public property," Devin said calmly, tightening the lock until the Breaker's arm popped.
+The man screamed.
+"And that is assault," Devin added. "You are racking up quite a sentence."
+He zip-tied the man and left him for the police.
+"Mei!" Devin called out. "Status!"
+"Clear," Mei said, landing beside him. "I used the environment. The lamppost was a fulcrum. And the fire hydrant... well, water is heavy."
+
+Phase 6: The Injury
+"Medic!" someone screamed.
+Yuki ran. She followed the red flickers in her vision.
+She found a woman bleeding on the ground. Head wound. A brick.
+Yuki knelt. The white fog was thick here. It was curling around the woman's throat.
+"Stay with me," Yuki whispered.
+She placed her hands on the wound.
+She felt the pulse. It was weak.
+Hunger.
+The thought hit her like a truck. The smell of blood was overwhelming. Sweet. Metallic. Vital.
+It wasn't like the synthetic blood. This was life.
+Yuki's mouth watered. Her fangs ached.
+Just a taste, the voice in her head whispered. Just a sip. She has so much. It will help you save her. It will make you strong.
+Yuki shook her head.
+"No," she hissed. "I am a healer."
+She applied pressure. She bandaged the wound. She forced her will into the woman's body, not to drain, but to knit.
+"Live," she commanded.
+The woman gasped. Her eyes opened.
+"Angel?" the woman whispered.
+Yuki smiled. It was a sad, hungry smile.
+"No," she said. "Just a ghost."
+
+Phase 7: Extraction
+"We're done!" Alana called over the comms. "Police are regrouping. Crowd is dispersing. My drones are showing clear."
+"Extract," Devin ordered.
+They ran for the van.
+But the van was blocked. A dumpster had been overturned in front of it.
+"Ambush?" Devin asked.
+"No," Alana said. "Just incompetence."
+"Rook!" Devin shouted. "Clear the path!"
+Rook ran at the dumpster. He hit it with his shoulder.
+CRUNCH.
+The metal buckled. The dumpster slid aside, scraping sparks against the asphalt.
+"The path is clear!" Rook bellowed.
+They piled into the van.
+Rook covered the retreat, walking backward, his barricade shield deflecting a hail of rubber bullets.
+"Cowards!" he yelled at the police. "Fight me with steel!"
+"Rook! Get in the van!" Mei shouted.
+Rook grumbled but complied.
+
+SCENE 6: POST-MISSION DEBRIEF
+
+They extracted.
+Back in the van, the mood was high. Adrenaline crashed into exhaustion.
+"I hit a man with a sign," Rook bragged. "It made a satisfying crunch. But he did not drop any loot."
+"You were supposed to be a wall," Devin reminded him.
+"Walls can fall on people," Rook countered. "It is a structural hazard."
+
+Alana was reviewing footage on her tablet.
+"We were sloppy," she said. "Rook, you flagged on thermal three times. Mei, your flow efficiency dropped by 4% in the last quadrant."
+"We survived," Mei said.
+"Survival is the baseline," Alana argued. "Optimization is the goal. I captured the traffic data from the intersection. I'm building a predictive model. Next time, I can route the riot away from us before it starts. I can turn the city into a maze."
+"That would be helpful," Devin admitted. "Assuming we have the legal authority to hack the grid."
+"We have the moral authority," Alana said. "Which is faster."
+"And I downloaded their comms logs," Alana added, tapping her screen. "The Breakers were hired by a shell company. 'Onyx Holdings'. Same shell company that owns the server farm in the old library."
+"It's connected," Devin said. "The Founder is playing a long game."
+"Who is the Founder?" Rook asked.
+"I don't know," Devin said, looking at Silas. "Do you?"
+Silas was silent for a moment. He checked his side mirror. "The Founder is... a concept," he said finally. "The idea that humanity needs a guardian. Sometimes guardians have names. Sometimes they're just code."
+"Vague," Devin noted. "And legally insufficient."
+"It's all you get for now," Silas said.
+Mei looked out the window. "Who is the enemy, then? The Breakers? Or the people who hired them?"
+"The enemy is entropy," Alana said. "Disorder. We are the patch."
+
+"Is it moral?" Mei asked, wiping soot from her face. "To herd people like cattle? To deny them their protest?"
+"We didn't deny the protest," Devin said. "We denied the violence. There is a distinction."
+"A fine line," Mei noted. "One that moves like the wind."
+
+Yuki sat silently in the back. She was shaking.
+"You okay?" Devin asked.
+Yuki looked at her hands. They were stained with blood.
+"I'm hungry," she whispered.
+Devin frowned. "There's sandwiches back at base."
+Yuki looked at him. Her eyes were very, very dark.
+"Not for sandwiches," she said. "It's different, Devin. The synthetic stuff... it's just calories. This... this was life. It sang to me."
+"You didn't drink it," Mei noted.
+"I wanted to," Yuki admitted. "God, I wanted to."
+
+Devin paused. He looked at her fangs, just visible over her lip.
+CONNECTION MADE: VAMPIRISM.
+LEVERAGE: SECRET.
+He didn't say anything. He just nodded.
+"We'll figure it out," he said. "We're a team. We need a Code of Conduct. Rules of engagement. If we are going to be heroes, we cannot eat the civilians."
+"A fair rule," Rook agreed. "Though dragons usually eat maidens."
+"No maidens," Devin said firmly.
+"Fine," Rook sighed. "Then I demand a victory feast. Pizza. With meat. All the meat. And ale."
+"Pizza," Silas said from the front seat. "I can authorize pizza."
+"Good," Rook said. "And I shall tell you the tale of the Feast of the Three Moons. It lasted for a week. We ate an entire kraken. The tentacles were chewy, but excellent with garlic butter. It fought back, of course. That made it tastier."
+"Please don't," Alana said. "I'm trying to code."
+"You will listen," Rook said. "It is a good story. It has tentacles."
+
+END OF CHAPTER 2

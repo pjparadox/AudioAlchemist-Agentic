@@ -1,0 +1,484 @@
+CHAPTER 3 - THE QUEST FOR FIRE AND THE PRISON OF KNOWLEDGE
+
+SCENE 1: THE AFTERMATH OF CACA FUEGO
+
+The bathroom door in the hallway of the Elysium Logistics habitat was reinforced steel. It was designed to withstand small arms fire, chemical spills, and level-4 biological containment breaches.
+It was currently vibrating.
+From inside came a sound that could only be described as a bagpipes factory falling into a woodchipper, accompanied by the low, mournful groaning of a creature that had realized, too late, that actions have consequences.
+
+"Oh... gods..." Rook's voice filtered through the heavy metal, muffled but distinct. "The fire... it has betrayed me. It is not a cleansing flame. It is a treacherous snake! It bites both ways!"
+Devin Quell sat at the kitchen island, sipping his coffee. It was a single-origin Ethiopian roast, brewed at exactly 93 degrees Celsius. He was reading a printed copy of the local zoning laws, highlighting inconsistencies with a yellow marker. He didn't look up.
+"Is he dying?" Yuki asked. She was sitting on the floor, staring at the bathroom door with a mixture of horror and professional curiosity. "He sounds like the bodies when the gas leaves them. But louder. And... wetter."
+"He's not dying," Silas said, walking into the room. He looked fresh, rested, and annoyingly cheerful. He wore a crisp navy suit and carried a tablet. "He's learning. I told him the ghost peppers were a bad idea. He ordered a jar. A gallon jar. From a site called 'Satan's Pantry'."
+"He ate them all?" Mei asked. She was balancing on one foot on the back of the sofa, eyes closed, meditating on the concept of silence.
+"He ate the jar too," Alana noted from her nest of wires in the corner. She was soldering a new antenna onto a drone. "Glass and all. Said it added 'texture'. His digestive system is currently processing silica and capsaicin at a rate that would melt a normal stomach. Fortunately, his lining is reinforced polymer. Unfortunately, his pain receptors are set to 'High Sensitivity' for immersion."
+"It does not feel reinforced!" Rook bellowed from the bathroom. "It feels like I have swallowed a sun! A angry, jagged sun! Why does the heat travel down? Heat rises! Physics is a lie in this realm! The spice is a traitor!"
+
+Silas sighed and tapped his tablet. "I'm authorized to dispense a digestive dampener. A nano-slurry that would neutralize the acid in seconds. But Archangel protocol suggests we let natural consequences play out for 'educational reinforcement'. What do you think, Devin?"
+Devin turned a page. "Let him suffer. It builds character. Besides, if we intervene, he'll just do it again. He needs to understand cause and effect. The precedent must be established: Stupid actions yield stupid prizes."
+"Cruel," Yuki whispered. "I like it."
+
+Suddenly, the bathroom door hissed open.
+Rook stumbled out. He looked like a man who had fought a war and lost. His skin, usually a healthy, synthetic tan, was pale and clammy. He was sweating profusely. He leaned against the doorframe, clutching his stomach.
+"I survive," he rasped, his face a mask of sweaty regret. "But at what cost? My dignity is ash. My internal organs are staging a coup."
+He looked at the kitchen table with the desperate eyes of a man who has seen the face of God and found it to be a chili pepper. "Is there... milk? The internet said milk is the antidote. The cow juice heals."
+"In the fridge," Silas said.
+Rook lurched toward the refrigerator. He tore the door open, grabbed a gallon jug, and downed it in one long, desperate gulp. Milk splashed down his chin and onto his leather duster.
+He slammed the empty jug down.
+"Better," he breathed. "The dragon sleeps. For now."
+He looked at the group, regaining a shred of his dignity. He straightened his coat. "Do not speak of this. It was a tactical error. A miscalculation of the enemy's potency. The Ghost Pepper is a formidable foe. I respect its power. It fights dirty."
+"You were crying," Alana said without looking up from her screen. "I have the audio logs. You called for your mother."
+"I called for the Mother of Dragons!" Rook corrected, his voice cracking. "It is a title! A prayer for strength! It is a battle cry!"
+"Sure," Alana smirked. "Whatever helps you sleep at night, big guy. I'm saving it as my ringtone."
+
+Silas clapped his hands. "Alright, team. Morning briefing. Since Rook has finished his... purification ritual, we have work to do."
+"Work?" Rook groaned. "I cannot work. I am fragile. My core is unstable. I require bed rest. And perhaps a soft pillow."
+"You're fine," Silas said. "Your vitals are normalizing. And we have a lead."
+He projected a map onto the main screen. It showed the city, Sector 4, a grid of gray blocks and red danger zones.
+"Alana's analysis of the comms logs from the riot gave us a breadcrumb. Onyx Holdings."
+"The shell company," Devin said. "I looked them up. Registered in the Cayman Islands. Ownership obscured by three layers of LLCs. Classic obfuscation. They don't exist on paper, which means they exist everywhere."
+"Exactly," Silas said. "But Alana found a physical address associated with their server traffic. Not the headquarters. A data node."
+He pointed to the large, brutalist building they had passed yesterday.
+"The Old Public Library."
+"The prison of knowledge," Devin noted.
+"Currently operated by 'Apex Data Solutions', a subsidiary of Onyx," Silas said. "They claim it's a secure storage facility. But the power draw is off the charts. It's pulling enough juice to light up a stadium. And the security is military-grade."
+"Loot?" Rook asked, perking up despite his pain.
+"Data," Alana corrected. "Better than loot. Secrets."
+"Secrets can be sold for gold," Rook reasoned. "Acceptable. I shall pillage."
+
+"Your mission," Silas said, "is reconnaissance. We need to know what they're keeping in there. Is it just financial data? Or is it something else? Something related to the Breakers? Or the Founder?"
+"Reconnaissance," Mei said. "Quiet. Unseen."
+"Precisely," Silas said. "No explosions. No riots. And Rook... no eating the hardware."
+Rook crossed his arms. "I make no promises. If the hardware provokes me, I shall bite it. But I will try to be... subtle."
+
+SCENE 2: ANALYSIS AND PREPARATION
+
+Devin spent the next hour preparing. He didn't sharpen a sword; he sharpened his arguments.
+He sat at his desk, surrounded by virtual screens. He pulled up the property records for the library.
+Built in 1920. Carnegie funding. A public trust. Sold in 2025 during the "municipal restructuring" (read: bankruptcy) to a holding company that dissolved a week later.
+"Illegal sale," Devin muttered. "The deed had a restrictive covenant. 'For the use and edification of the public forever'. They broke the trust. They violated the cy-près doctrine."
+He felt a surge of righteous indignation. Leverage +5.
+He started drafting a warrant. He wasn't a judge, but he printed a document that looked like a warrant. High-quality paper. Embossed seal (Archangel provided good printers). Legalese so dense it would make a paralegal weep. He cited obscure statutes from the 1950s regarding civil defense and eminent domain.
+"If we get caught," Devin told the mirror, adjusting his tie, "we aren't intruders. We are auditors. We are enforcing the covenant. We are the immune system of the state."
+He practiced his 'Auditor Glare'. Cold. Disappointed. Bureaucratic. The look of a man who has found a receipt missing from an expense report.
+Perfect.
+
+Alana was in the garage (Silas called it the "Tech Bay", but it was a garage). She was modifying her drones.
+"Quiet mode," she whispered to the small, quad-rotor bot. "Shhh. Be a bat. Be a whisper."
+She replaced the standard rotors with silent, carbon-fiber blades. She coated the chassis in radar-absorbent paint (black, naturally). She tweaked the guidance software, adding a "swarm" protocol that allowed them to move as a single liquid entity.
+She looked at her tablet. The code for the library's security system was rolling across the screen.
+"Biometrics. Retina scans. Gait analysis. Nasty stuff. They're using a heuristic algorythm to detect 'stress patterns'. If you sweat too much, the doors lock."
+She grinned. Her black eyes widened, reflecting the scrolling code.
+"I love it. A puzzle box. I'm going to crack it open and see what color the gears are."
+She felt the itch in her fingers. The need to touch the metal, to feel the voltage. Remote hacking was boring. It was like texting. She wanted to hold the system's hand while she strangled it.
+"Techno-Shamanism," she hummed. "Spirits of the silicon, hear my prayer. Open the gates. Drop the firewall. Let Mama in."
+
+Yuki was in the infirmary again.
+She held a bag of synthetic blood. It was red. It was viscous.
+She opened it. The smell hit her.
+Plastics. Preservatives. Corn syrup.
+"Fake," she whispered.
+She poured it into the sink. It swirled down the drain, leaving a pink stain.
+She needed the real thing. She could feel the hunger scratching at the back of her throat, a dry, dusty thirst that water couldn't touch. It wasn't just physical; it was metaphysical. Her soul felt thin, stretched like old parchment.
+She closed her eyes.
+She saw the "ghosts" of the room. The lingering pain of previous patients (training accidents?). The anxiety of Silas when he restocked the shelves.
+And something else.
+A trail.
+Not here. Outside.
+A red ribbon, faint and pulsing, leading out the window, toward the city.
+Come find us, the whisper said. We are waiting.
+"Who?" Yuki asked.
+The hungry ones, the voice answered. The hollow ones.
+Yuki shivered. She turned away from the window.
+"I am not hungry," she lied. "I am full. I had a sandwich."
+But the sandwich sat in her stomach like a brick, cold and undigested. Her body didn't want bread. It wanted iron. It wanted the copper tang of life.
+
+SCENE 3: TRAINING THE UNTRAINABLE
+
+"Flow," Mei said.
+They were in the gym. Mei stood in the center, perfectly balanced on one leg.
+"Do not think. Do not plan. Just be."
+"I am being," Rook grunted. He was trying to stand on one leg. He looked like a wobbling skyscraper. "I am being heavy. Gravity is bullying me."
+"Gravity is a suggestion," Mei said. "You accept it too readily. Reject it."
+"Reject gravity?" Rook scoffed. "It is a fundamental force! It is not a contract I can decline! It is the law!"
+"Devin," Mei said. "Attack me."
+Devin stepped forward. He held a training knife (rubber).
+"I am going to stab you," Devin announced. "This is notice of intent."
+"Proceed," Mei said.
+Devin lunged. A straight, efficient thrust aimed at her center mass.
+Mei didn't move her foot. she just... twisted. Her torso rotated like a leaf in a breeze. The knife passed through the space she had occupied a millisecond ago.
+She brought her hand up, lightly tapping Devin's wrist as he passed.
+Devin stumbled, his own momentum carrying him forward. He caught himself, turning.
+"Leverage," Devin noted. "You used my vector against me."
+"No leverage," Mei corrected. "Absence. I was not there."
+
+"My turn!" Rook shouted. "I shall use the Absence!"
+He charged Mei. "I am not here! I am a ghost!"
+He was not a ghost. He was 300 pounds of charging muscle.
+Mei didn't try to dodge him. He was too wide.
+Instead, she dropped.
+She went flat to the mat. Rook tripped over her.
+He flew. For a second, he actually flew.
+"Wings!" he shouted joyfully.
+Then he hit the mats face first.
+WHAM.
+The room shook.
+"I found the ground," Rook groaned. "It was hiding."
+"You are too rigid," Mei said, standing up. "You fight the world. You must move with it."
+"The world is wrong," Rook argued, rolling over. "It should move for me. I am the Prince."
+"Then you will always fall," Mei said simply.
+
+Alana watched from the sidelines, eating a bag of chips.
+"You guys are doing it wrong," she said. "You're trying to run the physics engine on manual. Just write a script. 'If punch, then dodge'. Automate it."
+"Combat is art," Mei said. "Not code."
+"Everything is code," Alana countered. "DNA is code. Physics is code. You're just a really advanced GUI."
+She tossed a chip at Mei.
+Mei caught it in mid-air, without looking.
+"Latency check passed," Alana grinned.
+"Stop throwing snacks," Devin said. "This is serious. If we go into that library, we need to be coordinated. No heroics. No soloing."
+"We are a party," Rook said, sitting up. "We need a formation. Tank in front. Healer in back. DPS on the flanks. And the Rogue..." he pointed at Alana. "The Rogue opens the doors."
+"I'm not a Rogue," Alana said. "I'm a Wizard. A Tech-Wizard."
+"You pick locks," Rook said. "You are a Rogue. Accept your class."
+Alana threw a chip at him. Rook caught it in his mouth.
+"Acceptable tribute," Rook mumbled, chewing. "But I still require the spicy. The flame must be rekindled."
+"No!" everyone shouted in unison.
+Rook sighed. "You are all tyrants."
+
+SCENE 4: THE APPROACH
+
+Night fell. The city transformed. The gray grime was hidden by neon. Blue, pink, and yellow lights reflected off the wet pavement. It was beautiful, in a dystopian, cyberpunk sort of way.
+The team stood on a rooftop overlooking the Old Public Library.
+It was a fortress. Stone lions guarded the entrance, but they were flanked by automated turrets. Cameras swept the perimeter. The windows were boarded up with steel plates.
+"Subtle," Devin noted. "Nothing says 'Public Library' like 50-caliber machine guns."
+"They really don't want people checking out books," Rook said.
+"Thermal scan," Alana said, holding up her tablet.
+The screen showed the building glowing red.
+"Heat signatures everywhere. Servers running hot. And... people. Guards. Patrol routes."
+She pointed to the roof. "HVAC intake. Large fans. If we can stop one, we can drop in. But there's a perimeter sensor net. Lasers."
+"Lasers?" Rook asked. "Do they burn?"
+"They trigger the turrets," Alana said. "So, yes. Indirectly."
+"Classic," Rook said. "The chimney approach. I am familiar. Santa Claus uses this tactic."
+"Who?" Alana asked.
+"A powerful sorcerer from the Free World lore," Rook explained. "He breaks into every house in the world in a single night. Leaves coal for the wicked. I respect his efficiency."
+"Right," Devin said. "We're not Santa. We're auditors. Alana, can you hack the fan?"
+"Can I hack a fan?" Alana looked offended. "I can make that fan sing the national anthem. Yes, I can hack it."
+"Do it," Devin ordered. "Mei, you're on point. Stealth. Rook... try to be small."
+"I am a mountain," Rook whispered. "But I can be a misty mountain."
+
+They moved.
+Alana tapped her screen. The massive exhaust fan on the roof stuttered, then slowed to a halt.
+"Access granted," she whispered.
+They rappelled down the shaft. The air was hot and smelled of ozone and dust.
+They landed on a catwalk.
+"Freeze," Alana hissed.
+She pointed to the floor.
+Faint red lines crisscrossed the catwalk.
+"Pressure sensors," Alana said. "And motion detectors. If we touch the floor, the alarm trips."
+"We are on the floor," Rook pointed out.
+"We're on the landing pad," Alana corrected. "The sensors start there." She pointed to the walkway ahead.
+"How do we cross?" Devin asked.
+"We don't," Mei said. "We flow."
+She jumped. She grabbed a pipe overhead and swung.
+"Monkey bars," Alana grinned. "I can do that."
+She jumped, grabbing the pipe.
+Devin followed. He was fit, but this was gym class all over again. He grunted, swinging his legs.
+Rook looked at the pipe.
+"It will not hold me," he said. "I am too dense."
+"Then fly," Alana whispered.
+Rook looked at the gap. It was twenty feet.
+"I am a dragon," he whispered. "I have wings. Phantom wings."
+He ran.
+He jumped.
+He didn't fly. But he leaped.
+He cleared the sensor zone, landing on the far rail with the grace of a gargoyle.
+"Misty mountain," he whispered.
+
+SCENE 5: THE RAID
+
+They reached the main floor.
+It wasn't a library anymore. The bookshelves were gone.
+In their place were rows and rows of black server racks, blinking with blue LEDs. Cables snaked across the floor like vines.
+But it wasn't just servers.
+In the center of the room, there was a cage. A glass cage, illuminated by harsh white light.
+Inside the cage, a person sat on a chair.
+A woman.
+She wasn't moving. She was plugged in. Cables ran from her head, her spine, her arms, connecting her to the servers.
+"Is that..." Yuki whispered, her voice trembling. "Is that a battery?"
+"No," Alana said, her eyes wide. "That's a CPU. A biological CPU."
+Devin felt a cold knot in his stomach.
+"They're using people," he realized. "They're using people as processors."
+Rook growled. A low, rumbling sound that vibrated the catwalk.
+"Slaves," he hissed. "They have enslaved the mind."
+"We have to get her out," Yuki said.
+"Wait," Devin said. "Look at the guards."
+Below them, three men patrolled. They weren't human.
+They moved with jerky, mechanical precision. Their skin was gray. Their eyes glowed red.
+"Breakers?" Mei asked.
+"Worse," Alana said. "Husks. Cyber-zombies. No brain activity. Just remote control."
+"Necromancy," Yuki said. "Tech-necromancy."
+"We have jurisdiction," Devin stated, his voice cold as ice. "Human rights violation. slavery. Unlicensed medical experimentation. This is a crime scene."
+"Then we are the police," Rook said, cracking his knuckles. "And I am the brutality."
+"Non-lethal," Silas's voice cracked in their earpieces. "Remember the protocol."
+"They are already dead," Yuki argued. "Look at their souls. There is no white. Only static."
+"If they're dead," Devin reasoned, "then they have no rights. Property damage only."
+Rook grinned. "I like this lawyer. He speaks my language."
+"Drop," Devin ordered.
+
+They dropped.
+Mei landed silently, a feather touching the ground.
+Rook landed like a meteor.
+BOOM.
+The floor cracked.
+The three Husks turned instantly.
+"Intruders," one of them spoke. The voice was synthesized, coming from a speaker in its throat. "Terminate."
+They raised their weapons. Assault rifles.
+"Shield!" Devin shouted.
+Rook stepped forward. He popped the buttons on his duster and spread it wide (he had lined it with stolen baking sheets from the kitchen-Alana's idea).
+PING PING PING.
+The bullets sparked off the metal-lined leather.
+"Is that all?" Rook laughed. "I have faced archers with better aim!"
+
+Mei moved. She flowed under the gunfire. She reached the first Husk.
+She didn't punch. She touched its joints.
+Elbow. Knee. Neck.
+She dismantled its balance.
+The Husk crumpled, its servos whining.
+"Mechanical," Mei noted. "No chi. Just gears."
+
+Yuki didn't fight. She ran for the cage.
+"Cover me!" she yelled.
+Alana was typing furiously on her tablet. "I'm trying to jam their signal! They're networked! If I don't sever the link, more will wake up!"
+"Wake them up!" Rook shouted, grabbing a Husk by the head and throwing it into a server rack. "I need the XP!"
+CRASH.
+Sparks showered the room. The server rack toppled, dominating a row of others like dominoes.
+"Rook!" Alana screamed. "Don't break the data! I need to copy it!"
+"I am rearranging it!" Rook yelled back.
+
+Devin stood in the center of the chaos. He wasn't fighting. He was documenting.
+He snapped photos of the Husks. The cage. The cables.
+Evidence.
+A Husk charged him.
+Devin didn't flinch. He waited.
+Vector: Charge. Mass: 200kg. Weakness: Exposed hydraulic line on the leg.
+Devin stepped aside, extended his foot, and hooked the line with his heel.
+He pulled.
+HISSS.
+Fluid sprayed. The Husk stumbled, its leg locking up.
+Devin slammed his palm into the Husk's chest, right over the power core.
+"Shutdown," he ordered.
+The Husk collapsed.
+"Jurisdiction established," Devin muttered.
+
+But the fight wasn't over.
+The door to the back room slid open.
+A massive figure stepped out.
+It was a Husk, but bigger. Armored. It wore riot gear and carried a minigun.
+"Elite," Rook whispered. "A Boss."
+The Minigun spun up.
+WHIRRRRR.
+"Move!" Devin screamed.
+They scattered.
+Bullets chewed up the server racks.
+Rook took cover behind a pillar.
+"He has a rapid-fire ballista!" Rook yelled. "Cheater!"
+"Alana!" Devin shouted. "Disable it!"
+"I can't!" Alana yelled. "He's hard-wired! No wireless signal!"
+"Then we do it the old fashioned way," Mei said.
+She looked at Rook.
+"Throw me."
+Rook looked at her. "What?"
+"Throw me. Fastball Special."
+Rook grinned. "I know this maneuver. It is from the scriptures."
+He stepped out. The minigun turned toward him.
+Rook grabbed Mei. She curled into a ball.
+"Fly, little bird!" Rook roared.
+He threw her.
+Mei soared through the air. She uncurled at the apex of the arc.
+She landed on the Elite's shoulders.
+She covered its optical sensors with her hands.
+"Blind," she whispered.
+The Elite thrashed, firing wildly at the ceiling.
+Rook charged.
+He hit the Elite like a freight train made of meat and rage.
+They crashed into the wall, cracking the concrete. The minigun fell with a heavy, metallic clang.
+Rook straddled the Elite, pinning its arms with his knees. He ripped the helmet off with a screech of tearing metal.
+Underneath, it was just a skull. A chrome skull with red optical sensors.
+"You are ugly," Rook told it, his voice a low growl.
+He punched it.
+The metal crumpled like foil. Glass shattered. Hydraulic fluid sprayed across Rook's face.
+"And now you are broken."
+
+Yuki reached the glass cage. It was locked.
+"Open it!" she screamed at Alana.
+"I'm busy!" Alana yelled, dodging a ricochet. "Use the scalpel! It's glass, not diamond!"
+Yuki raised her scalpel. It was tiny. The glass was thick.
+"Help me!" she cried.
+Rook heard her.
+He finished pummeling his Husk and turned.
+"I am coming, little sister!"
+He charged the cage.
+He didn't use a tool. He used his shoulder.
+CRASH.
+The glass shattered.
+Rook tumbled into the cage, glass shards bouncing off his coat.
+"I have breached the tower!" he announced.
+Yuki scrambled in. She knelt beside the woman.
+She checked for a pulse.
+"She's alive," Yuki whispered. "Barely. Her heart... it's so slow."
+She looked at the cables. They were drilled into the woman's skull.
+"We have to unplug her," Yuki said.
+"No!" Alana shouted. "If you pull the plug, you might wipe her mind! She's mounting the drive! I have to eject safely!"
+"She's dying!" Yuki screamed. "The Red is fading!"
+
+"Hold the line!" Devin ordered. "Alana, eject her! Rook, Mei, perimeter!"
+More Husks were pouring in.
+"Done!" Alana shouted. "Sequence complete! Unplug her!"
+Yuki ripped the cables free.
+The woman gasped. Her eyes snapped open. They were glowing blue.
+"The Hunter..." she whispered. "He is coming."
+Then she passed out.
+"We got her," Yuki said, lifting the woman. She was light, emaciated.
+"Extract!" Devin ordered.
+"What about the loot?" Rook asked, looking at the shiny server racks.
+"The woman is the loot," Devin said.
+Rook looked at the unconscious woman. "She does not look shiny. But she is a damsel. Acceptable."
+He scooped her up in one arm.
+"To the carriage!" he bellowed. "And then, to Arby's! No, wait. No Arby's. To the base!"
+
+SCENE 6: THE PURSUIT
+
+They burst out of the rear exit into the alleyway. The air was cool, a stark contrast to the oven-like heat of the server farm. Rain had started to fall, slicking the pavement with oil and neon reflections.
+"Van!" Devin shouted. "Where is the van?"
+"ETA thirty seconds!" Silas's voice crackled in their ears. "I'm fighting traffic. People drive like they want to die in this sector."
+"We do not have thirty seconds," Mei said calmly.
+She pointed up.
+Drones.
+Not the small, friendly ones Alana used. These were military-grade hunter-killers. Sleek, angular, and armed with suppression cannons.
+"Sky-sharks," Rook growled. He shifted the unconscious woman to his other shoulder. "I shall swat them."
+"Do not swat them," Devin ordered. "They will explode. Run."
+
+They ran.
+The alley was a maze of dumpsters and fire escapes.
+The drones swooped.
+THUMP-THUMP-THUMP.
+Concussive rounds slammed into the ground around them. They weren't lethal, but they were designed to break bones and liquefy organs.
+"Alana!" Devin yelled. "Jam them!"
+"I'm trying!" Alana screamed, running while typing. "Their encryption is adaptive! It's changing every millisecond! It's... it's beautiful code. Damn it! It's poly-phasic. Whoever wrote this is a genius. Or an AI."
+"Critique later!" Devin shouted. "Hack now!"
+
+One of the drones dove, targeting Yuki.
+Mei was there. She didn't jump; she ran up the wall, kicked off a fire escape, and intercepted the drone in mid-air.
+She didn't punch it. She grabbed its stabilizer fin and twisted.
+The drone spun out of control, crashing into a dumpster.
+"One down," Mei said, landing in a roll.
+"Four left," Alana counted.
+
+They reached the street.
+The black van screeched around the corner, jumping the curb. The side door slid open.
+"Get in!" Silas yelled from the driver's seat.
+Rook tossed the woman inside like a sack of potatoes, then dove in after her.
+Yuki scrambled in.
+Alana jumped, clutching her tablet.
+Mei waited for Devin.
+"Go," Devin said.
+He turned to face the drones. He needed to buy a second.
+He raised his hand.
+"Stop!" he commanded.
+It was a lawyer's voice. The voice that froze courtrooms.
+For a microsecond, the drones hesitated. Their logic processors paused to analyze the unauthorized command.
+In that microsecond, Mei grabbed Devin's collar and yanked him into the moving van.
+The door slammed shut.
+THUMP-THUMP.
+Rounds hammered the back of the van, denting the armor.
+"Go, go, go!" Alana screamed.
+Silas floored it. The van roared, tires smoking, and merged into the chaotic traffic of Sector 4.
+Behind them, the drones hovered, watching. They didn't pursue.
+"They're letting us go," Alana realized. "Why?"
+"Because they have what they want," Devin said grimly. "They know who we are."
+
+SCENE 7: THE PATIENT
+
+The back of the van was silent, save for the heavy breathing of the team and the hum of the engine.
+Yuki was kneeling over the woman. She had hooked her up to a portable monitor.
+"Vitals are stabilizing," Yuki reported. "But her brain activity is... loud. It's like a storm in there."
+"She was plugged into the network," Alana said, looking at the data she had stolen. "They were using her brain to filter data. Pattern matching. Intuition. Stuff computers are bad at."
+"What kind of data?" Devin asked.
+Alana scrolled. Her face went pale.
+"Everything," she whispered. "Surveillance. Bank records. Medical history. They're building a profile on everyone in the city. They're looking for... outliers."
+"Outliers?" Rook asked. "Like us?"
+"Like us," Alana confirmed. "And... others. 'The Awakened'. That's what the file is called."
+
+The woman stirred. Her eyes fluttered open. The blue glow was gone, replaced by a terrified brown.
+"No," she whimpered. "Don't... don't put me back in the box."
+"You are safe," Yuki said softly. She brushed the hair from the woman's forehead. "We are... friends."
+The woman looked at them. She saw Rook, looming large in the cramped space. She saw Alana's black eyes. She saw Mei's stillness.
+"You're them," she whispered. "The glitches. The ones the Hunter is looking for."
+"We are not glitches," Rook said, offended. "We are features."
+"Who is the Hunter?" Devin asked, leaning forward. "We saw the name in the logs. Who is he?"
+The woman shuddered.
+"He isn't a who," she said. "He's a what. A program. A killer. He doesn't stop. He doesn't sleep. And he hates... magic."
+"Magic is just misunderstood physics," Alana said.
+"No," the woman said, grabbing Alana's wrist. "He eats it. He eats the code that makes you... you."
+
+SCENE 8: HOME BASE DEBRIEF
+
+They arrived back at Elysium Logistics.
+They carried the woman to the infirmary. Yuki set up a real IV this time (saline, not blood).
+Silas met them in the main room. He looked at the dented van outside.
+"My insurance premium just went up," he noted. "But you're alive. And you have a guest."
+"She is a witness," Devin said. "And a victim. We need to protect her."
+"We will," Silas said. "I'll scramble her bio-signature. As far as the System knows, she died in the raid."
+
+Rook walked to the kitchen. He opened the fridge.
+He pulled out a jar of pickles.
+"Vegetables," he muttered. "Safe. Cold. Crunchy."
+He ate a pickle.
+"Rook," Silas said. "Good job. You didn't eat the servers."
+"I considered it," Rook admitted. "But they looked dry. And Alana yelled at me."
+"I saved the data," Alana said, holding up a drive. "It's encrypted, but I can crack it. Give me a few hours."
+
+Mei sat on the couch. She looked tired.
+"The Husks," she said. "They were empty. It was like fighting dolls."
+"It was efficient," Devin said. "Too efficient. Whoever built them knows how to strip a human down to parts."
+"Onyx Holdings," Silas said. "We need to find out who is pulling the strings."
+
+Yuki came out of the infirmary. She looked shaken.
+"She's sleeping," Yuki said. "But she said something else before she went under."
+"What?" Devin asked.
+"She said the Hunter is already here," Yuki whispered. "She said he watched us leave."
+
+SCENE 9: THE HUNTER
+
+High above the city, on a gargoyle perched atop the Obsidian Tower, a figure stood.
+He was wrapped in a cloak that seemed to absorb the light. His face was hidden by a mask that looked like a skull made of chrome.
+He wasn't looking at the city. He was looking at a data stream that flowed across his vision.
+replay_event: library_raid.
+He watched the footage from the Husks' eyes.
+He saw Mei move like water.
+He saw Rook smash the cage.
+He saw Alana hack the drones.
+He saw Yuki heal the woman.
+And he saw Devin... argue with a robot.
+"Interesting," the Hunter said. His voice was like grinding metal. "Anomalies detected. Variance confirmed."
+He reached out. A drone landed on his arm. It was one of the ones Mei had disabled. He repaired it with a touch, nanites flowing from his fingertips into the machine.
+"Go," he commanded. "Find the Dragon. I want his fire."
+The drone buzzed and flew off into the rain.
+The Hunter smiled beneath his mask.
+"The hunt begins."
+
+SCENE 10: ROOK'S EPIPHANY
+
+Late that night, Rook sat in his room.
+He was holding the Lamp-Blender. It was glowing faintly.
+He felt a strange sensation in his chest. Not heartburn. Not hunger.
+Pride.
+He had saved the girl. He had smashed the bad men. He had protected his hoard (his team).
+"Perhaps," he whispered to Snort the vacuum cleaner, "this realm is not so bad. It has pickles. It has shiny things."
+He looked at the pickle jar.
+"And it has spicy poison."
+He grinned.
+"I shall conquer it all."
+He patted the vacuum cleaner.
+"Good night, Snort. Tomorrow, we ride."
+
+END OF CHAPTER 3

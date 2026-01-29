@@ -1,0 +1,728 @@
+
+Chương 5 - Nơi Này Có Rồng
+
+Một vài người chơi tít phía dưới chỉ trỏ và hét lên "Vãi chưởng!" vì chưa từng thấy Elechopper bao giờ, chứ đừng nói đến một chiếc biết bay. Rất có khả năng tôi là người đầu tiên sử dụng nó trong game. Tôi cảm thấy một luồng thỏa mãn khi biết rằng tất cả những giờ làm việc trong không gian thiết kế ảo đã không uổng phí. Đã có một vài thú cưỡi cơ khí kỳ quặc của Freeworld xuất hiện trong game, nhưng chắc chắn chúng sẽ là hàng hiếm ở Haven cho đến khi mọi người bắt đầu qua lại giữa hai thế giới. Những người duy nhất có chúng hôm nay là những người có tài khoản ở cả hai game và chọn Haven làm điểm khởi đầu Freeworld mới của họ.
+
+Sự mới lạ của việc có một chiếc xe máy bay phai nhạt dần sau vài vòng quanh thành phố. Bay lượn có những đặc quyền riêng, nhưng là phương tiện di chuyển, tôi nghĩ mình thích phiên bản Freeworld Online trên mặt đất từ không gian thiết kế của mình hơn, nơi tôi có thể cảm nhận địa hình bên dưới bánh xe. Việc xé gió lao đi làm dạ dày tôi thót lên và nhảy loạn xạ với gió tát vào mặt và di chuyển lên, xuống và qua những vòng lặp khó tin, nhưng việc lái xe trên đường rộng cũng có cái thú của nó.
+
+Tôi vẫn có thể làm thế, nhưng tôi bị giới hạn ở mức 250% tốc độ chạy. Theo quy tắc chung, thú cưỡi mặt đất của Haven Online chậm hơn nhiều so với những con tìm thấy ở Freeworld, và tôi đã sao chép thuộc tính của một vật phẩm Haven. Ngược lại, Freeworld có ít thú cưỡi bay hơn hẳn và chúng thường chậm hơn so với Haven. Thú cưỡi mặt đất, như phiên bản không phải DE của Elechopper thì nhanh hơn nhiều trên đường bằng. Sẽ rất thú vị để xem điều gì xảy ra khi hai thế giới bắt đầu va chạm.
+
+Tôi xuống xe ngay bên ngoài Cổng Nam và quyết định tạo một macro để giải tán nó để tôi không phải thông qua giao diện thủ công mỗi lần muốn nó biến mất.
+
+Tôi mở màn hình trên máy tính bảng ảo, và nhập lệnh "/run dismiss mount -lastactive." Điều này có nghĩa là khi tôi thực hiện hành động bắt buộc, thú cưỡi cuối cùng tôi tương tác sẽ biến mất vào túi đồ. Điều này sẽ ngăn tôi giải tán tất cả các thú cưỡi tôi đã triệu hồi nếu vì lý do nào đó tôi quyết định lôi ra nhiều hơn một con. Tôi chạm "ghi âm," và nói "Bíp bíp!" trong khi làm động tác bấm khóa xe hơi bằng móc chìa khóa.
+
+Bạn có muốn lưu thay đổi cho macro "Giải tán Thú cưỡi" không?
+Có / Không
+
+Tôi chạm có trên máy tính bảng ảo. Giờ thì thử nghiệm.
+
+Tôi nói "Bíp bíp!" và thực hiện động tác tương ứng. Chiếc Elechopper mờ dần khỏi thế giới như một bóng ma bị lãng quên.
+
+Tôi hét lớn "HỎA NGỤC!!!" và vung ngón tay thối, những tia đỏ lóe lên. Tôi nghe thấy tiếng gầm của động cơ. Nó xuất hiện trở lại cách đó vài bước chân.
+
+Tôi nói, "Ngon lành cành đào," và lướt những ngón tay âu yếm trên yên xe và chắn bùn sau. Nếu bạn chưa để ý, thì tôi thích tùy chỉnh rất nhiều trong game của mình. Đó là đặc thù của nghề phát triển game. Trong khi hầu hết mọi người thiết lập một số macro cơ bản cho những việc thông thường như triệu hồi phương tiện di chuyển, hoàn toàn có thể tạo các trình kích hoạt tùy chỉnh cho phép thuật và những thứ tương tự, nhưng rất nhiều người chẳng buồn bận tâm.
+
+Tôi nên liên lạc với TakoStar trước khi cậu ta tìm được nhóm khác, tôi không biết nhiều người ở Haven và tôi nghĩ hầu hết bạn bè của tôi sẽ bắt đầu ở Freeworld.
+
+Melpomine: Ê. Tôi xong việc với đống đồ đạc rồi. Cậu có hứng đi phó bản không?
+TakoStar:	Chắc chắn rồi. U đang ở đâu?
+Melpomine: 	Cổng Nam.
+TakoStar:	Cô có hồi máu hay DPS?
+Melpomine:	Tôi có thể DPS, nhưng tôi muốn quay lại làm tank.
+TakoStar:	Ý tôi là người khác ấy.
+Melpomine: 	Ồ, không chỉ có tôi thôi.
+TakoStar:	Được rồi tôi sẽ rao tìm người. Tôi sẽ gặp cô ở đó khi tìm được người.
+Melpomine: 	Tôi sẽ cày mấy con quái cho đến khi cậu sẵn sàng. Cho tôi biết và tôi sẽ quay lại cổng.
+TakoStar:	Dùng cái bí danh Người Lùn ấy. Scooti hay gì đó.
+Melpomine:	Scootiwutams
+TakoStar:	Ừ cô ấy. Gái Người Lùn đỉnh của chóp.
+
+Tôi nhún vai và nghĩ, "Sao lại không nhỉ?" trước khi gửi câu trả lời "OK." Đã đến lúc quay lại guồng quay rồi. Tôi mở menu Bí Danh trên VT, chọn Scooti, và biến hình trong một làn khói ma thuật. Thay vì thanh Kiếm Chỉ Huy cũ, giờ tôi có Huyết Kiếm của Jordan trong vỏ bên hông.
+
+Tôi leo lên xe và rồ ga. Mặc giáp toàn thân mà ngồi xe thoải mái hơn bạn tưởng đấy. Có lẽ ngoài đời thực thì không thế đâu, nhưng hey, đây là logic game mà. Tôi đang khoái bộ trang phục đa thể loại của mình: một chiếc xe máy lửa đỏ, với bộ giáp tấm đỏ điểm vàng, hoàn thiện với thanh trường kiếm uống máu. Gió tạt vào mặt tôi mang hương vị đất và tươi mát mang theo mùi cây cối, và không khí sạch. Tôi chắc nó phải tồn tại ở đâu đó, nhưng là một cô gái thành phố đang đốt cháy con đường giả tưởng trên chiếc chopper chạy bằng nguyên tố lửa, tôi tự hỏi liệu không khí tốt thế này có còn tồn tại trong thế giới thực hay không.
+
+Phía trước tôi thấy một tấm bảng thông báo và tấp vào lề. "TRUY NÃ: Cướp Rừng Ridgewood. Phần thưởng - 50 bạc mỗi huy hiệu. Thu thập và giao cho Lính Gác Athelon." Tôi lấy một bản sao của thông báo và nhận được một nhiệm vụ.
+
+Lính Gác Athelon đang treo thưởng cho Cướp Rừng Ridgewood. Đánh bại chúng và mang huy hiệu của chúng đến cho Lính Gác Athelon để nhận thưởng.
+Phần thưởng:
+20 Bạc mỗi huy hiệu.
+Danh tiếng với Lính Gác Athelon
+Bạn có chấp nhận không? Có / Không
+
+Tôi chấp nhận nhiệm vụ, và một khu vực màu đỏ ở phía tây tự động được đánh dấu trên bản đồ game của tôi, chỉ ra nơi cần đến để hoàn thành mục tiêu nhiệm vụ. Trước khi lao đi săn cướp, tôi nhận thấy một dấu chấm than trên tab bang hội.
+
+Các Bí Danh Scootiwutams, Melpomine của bạn không phải là thành viên của bất kỳ bang hội nào. Bạn có muốn thêm các bí danh này vào Toxic Muffins (Bánh Muffin Độc) không?
+Có / Không
+
+Tôi cảm thấy tệ vì tôi thậm chí còn chưa nghĩ đến bang hội của Jordan cho đến tận bây giờ, nhưng giờ tôi đã ở trong game, có vẻ như tôi nên làm gì đó với nó. Có lẽ tôi có thể xây dựng lại nó, hoặc bằng cách nào đó tìm một số thành viên cũ để cho họ biết chuyện gì đã xảy ra. Tôi chọn có.
+
+Bạn muốn thêm Bí Danh nào vào Toxic Muffins?
+Tôi chọn cả Scootiwutams và Melpomine.
+Bạn có muốn xác nhận quyền lãnh đạo với tư cách là Scootiwutams và Melpomine không? Lưu ý: Xác nhận quyền lãnh đạo sẽ tiết lộ bí danh của bạn cho tất cả các thành viên bang hội hiện tại. Scootiwutams, Melpomine, và Stabbies sẽ được liên kết.
+Có / Không
+
+Tôi chọn có, và kiểm tra danh sách bang hội.
+
+Bang hội: 	Toxic Muffins
+Thành viên:	1
+Melpomine (Bang chủ)
+	- Bí Danh: Stabbies, Scootiwutams
+
+Tôi làm một thử nghiệm và thử thêm cả Marine vào bang hội nữa. Lần này khi được nhắc nhở để cô ấy làm bang chủ tôi chọn không.
+
+Bang hội: 	Toxic Muffins
+Thành viên:	2
+Melpomine (Bang chủ)
+	Bí Danh: Stabbies, Scootiwutams
+MarineLu
+
+Tôi để danh sách đó yên, vì tôi thấy chẳng có lý do gì để biến tất cả các nhân vật cũ của mình thành bang chủ cả. Hệ thống này thú vị vì nó cho phép mọi người cải trang thành những người chơi khác nhau trong các tổ chức trong game cho đến khi bí danh của họ bị phát hiện. Tôi cho rằng lý do duy nhất nó liên kết Stabbies với danh tính Scootiwutams và Melpomine của tôi là vì chỉ có thể có một bang chủ chính thức, và Stabbies chính là người đó.
+
+Sau khi thăng chức cho avatar Scootiwutams của tôi, một tab mới xuất hiện trong giao diện bang hội, với một dấu chấm than đậm.
+
+Phiên Bản Giới Hạn - Nhiệm Vụ Bang Hội
+Đồ Long (Dragonsbane) - Phần 1
+Độ khó: Biến thiên
+Một con rồng ngoại giới đã xé toạc một vết rách trên bức tường giữa hai thế giới. Điều tra sự xáo trộn và củng cố sức mạnh diệt rồng của bạn để tiêu diệt con quái vật hôi hám và ngăn chặn thiệt hại thêm cho vùng đất.
+Mục tiêu:
+Khám phá Danh tính của con rồng ngoại giới đã gây ra vết rách giữa các thế giới. 					0/1
+Giết 50,000 rồng hoặc loài rồng.	0/50,000
+Phần thưởng:
+Danh hiệu: 			Đồ Long (Dragonslayer)
+Danh tiếng: 	10,000 Danh tiếng trong Tất cả các Phe phái Chơi được
+Quyền truy cập vào Trang bị Chuyên dụng và Phù phép từ Thương gia Dân Haven
+Bạn có chấp nhận không? 	Có / Không
+
+Một nhiệm vụ phiên bản giới hạn? Chơi luôn! Tôi ấn ngón tay vào thông báo chấp thuận mà không cần suy nghĩ.
+
+Tôi chưa bao giờ nghe nói về nhiệm vụ Phiên bản Giới hạn trong cả Freeworld hay Haven Online. Đây có thể chính là thứ tôi cần để xây dựng lại bang hội của Jordan, và phần thưởng ư? Danh hiệu trong game, và 10k danh tiếng trong tất cả các phe phái chơi được là thứ không thể coi thường. Nó đủ để đưa một người từ danh tiếng trung lập ban đầu ở các thành phố thủ đô, lên cấp độ ba Tôn Kính trong một lần. Nó sẽ giúp bạn được giảm giá từ các thương gia, nhiệm vụ mới, các vật phẩm trước đây không mua được. Và cái vụ trang bị chuyên dụng là sao? Nghe như quyền truy cập vào các vật phẩm chỉ có thể đạt được bằng cách hoàn thành nhiệm vụ. Một nhiệm vụ phiên bản giới hạn.
+
+Tôi huýt sáo một hơi dài, và gửi tin nhắn cho TakoStar.
+
+Melpomine: 	Ê, còn đó không?
+TakoStar: 	Vẫn còn, vẫn đang tìm. Sorry nha.
+Melpomine: 	Không sao. Tôi nhận được một nhiệm vụ.
+TakoStar:	Cướp hả?
+Melpomine:	Thì ừ, nhưng còn một cái khác nữa. Về việc diệt rồng.
+TakoStar:	Rồng á? Tôi chưa từng nghe nói về nhiệm vụ rồng quanh đây.
+Melpomine: 	Tôi không nhận trong thành phố, nó từ bang hội của tôi.
+TakoStar: 	Ý cô là sao?
+Melpomine:	Nó là nhiệm vụ bang hội. Tôi phải điều tra vết rách giữa các thế giới. Tôi đoán là cho sự kiện sáp nhập, và giết rồng.
+TakoStar: 	Tôi chưa bao giờ thấy nhiệm vụ bang hội. Phải giết bao nhiêu?
+Melpomine: 	Tôi nghĩ nó là hàng Phiên bản Giới hạn.
+Melpomine: 	50,000. Cậu giúp tôi được không?
+TakoStar:	Vãi cả lều! Rồng đâu mà lắm thế!
+TakoStar:	Khoan đã, Phiên bản Giới hạn? Cô ở trong một bang hội LE á? Sao tôi không thấy thẻ tên trên bảng tên của cô?
+Melpomine: 	À.. ừ. Scootiwutams và Melpomine vừa mới được thêm vào.
+
+Tôi bỏ qua phần về Bí Danh khác của tôi là bang chủ vì tôi không muốn đi sâu vào chuyện về... khóa game LE của Jordan. Cảm giác thật kỳ cục khi thảo luận nó với mọi người, như thể nó không phải là thứ của tôi để nói đến vậy. Điều này chưa bao giờ là vấn đề ở Freeworld.
+
+TakoStar:	Vãi chưởng. Tôi vào được không? Hỏi xem tôi vào được không. Đi mà tôi sẽ làm bất cứ thứ gì.
+Melpomine: 	Ừm.. Được rồi tôi sẽ làm thế.
+TakoStar: 	Vãi chưởng thật luôn! Một bang hội LE! Có phải qua vòng tuyển chọn hay gì không?
+Melpomine: 	À... Không. Tôi cũng vừa được thêm vào thôi
+TakoStar: 	Chắc là do cô là nữ Người Lùn. Họ hiếm hơn cả rắm kỳ lân dẫn đến hũ vàng.
+Melpomine: 	Cái gì cơ?
+TakoStar: 	Bọn nó ỉa ra cầu vồng mà. Thôi bỏ đi, cứ hỏi cho tôi nhé, k? Tôi muốn vào.
+Melpomine: 	Chắc chắn rồi.
+
+Tôi bị bất ngờ bởi sự nhiệt tình của cậu ta. Tôi có hào hứng với nhiệm vụ không? Chắc chắn rồi, nhưng không đến mức cắt cổ mẹ mình để có cơ hội tham gia. Tôi đoán việc là một nhà thiết kế có quyền truy cập vào tất cả các vật phẩm DE tôi đã tạo ra, và việc tôi tương đối ít thời gian ở Haven, đã cách ly tôi khỏi sự điên rồ gây ra bởi các vật phẩm Phiên bản Giới hạn. Tôi thích những tùy chỉnh của mình, nhưng người ta đã biết đến việc chi tiêu nhiều hơn giá của một chiếc xe hơi để sở hữu một khóa cấp phép LE. Thật điên rồ.
+
+Tất cả những chuyện về vật phẩm LE làm tôi nhớ đến con rồng bướm (flutterdrake) tôi đã triệu hồi tối qua. Tôi quyết định tạo một macro để triệu hồi nó giống như chiếc xe của tôi. Thêm dòng lệnh xong tôi huýt sáo bốn nốt, và nhấp để lưu. Nó xuất hiện trong cùng một vụ nổ màu sắc như đêm qua, và ngay lập tức húc ngực vào bộ giáp của tôi.
+
+"Vẫn nhận ra ta hả, nhóc con?" Tôi gãi dưới cằm nó bằng những ngón tay đeo găng kim loại. Có vẻ nó thỏa mãn khi tôi được bao phủ trong một làn sương mù hồng lạnh lẽo. Thú cưng chắc hẳn có thể nhìn thấu bí danh của chủ nhân. "Mi nghĩ sao nếu chúng ta đi săn vài tên cướp?"
+
+Con rồng bướm làm một cú xoắn nhẹ giữa không trung, và tôi coi đó là đồng ý. Tôi định đi xuống con đường về phía trại cướp thì nhận ra tốt hơn là nên đặt tên cho nó.
+
+"Mi muốn được gọi là gì? Cục Cưng (Cuddlewuzzins)?" Không có phản ứng. "Thế còn Bê Đê (Poofter)?" nó khịt mũi giận dữ với tôi, kèm theo một đám mây lạnh màu xám lần này cho tôi biết chính xác nó nghĩ gì về gợi ý đó. Tôi nghĩ nó buồn cười vì cách nó "poof" (biến) ra và vào sự tồn tại. "Bê Đê, không đâu. Mi sẽ bị nguyền rủa với cái tên như thế." Sinh vật nghiêng đầu dò hỏi. Tôi quyết định trêu chọc nó. "DOOM!" (Tận thế/Tai ương).
+
+Con rồng bướm hừ mạnh như thể muốn nói "OK."
+
+"Doom hả? Mi thích tên đó à?" Con rồng làm một cú xoay khác trên không. "Vậy là Doom nhé."
+
+Bạn có muốn đặt tên cho Rồng Bướm Hư Ảo (LE) là "Doom" không?
+Có / Không
+
+Tôi chọn có.
+
+"Thế đấy. Doom. Mi đã có tên. Giờ đi giết vài tên cướp nào." Doom thở ra một làn sương hồng.
+
+Tôi tận hưởng chuyến đi trên con đường phía tây. Doom có thể theo kịp ngon ơ, đập cánh, sà xuống, và bổ nhào như một con mèo con tinh nghịch... nếu mèo con có cánh. Nó có vẻ thích thú với việc tập thể dục. Tôi đang lái xe qua vùng nông thôn với không khí trong lành, nắng chói chang và những tòa nhà mái tranh rải rác với nét quyến rũ mộc mạc. Đó là lý do tại sao tôi hoàn toàn không chuẩn bị cho mũi tên rít lên cách lông mày tôi khoảng một inch. Tôi có thể cảm nhận được gió tát vào mặt từ đường bay của nó.
+
+"Chết tiệt!"
+
+Tôi lao khỏi chiếc Elechopper và luống cuống trang bị mũ giáp trông như một đường cong hình chuông, với lỗ cho mắt, và hàm dưới kiểu côn trùng che miệng. Tôi lấy chiếc khiên của Thái Dương Chúa Tể ra khỏi lưng vừa kịp lúc cho một âm thanh thịch quái dị khi tôi dùng nó để làm chệch hướng mũi tên thứ hai.
+
+"Tôi nghĩ chúng ta tìm thấy bọn Cướp rồi." Tôi nói, và gõ Huyết Kiếm vào khiên để thu hút sự chú ý của chúng. "Nhào vô."
+
+Khiêu khích. Thành công.
+Cướp Rừng Ridgewood #1 tấn công.
+Cướp Rừng Ridgewood #2 tấn công.
+
+Hai mũi tên bay về phía tôi từ sau góc của một trang trại. Chúng kêu leng keng vô hại trên khiên của tôi dẫn đến không có sát thương. Một loạt khác tới, một cái cắm phập vào khiên và cái kia gõ vào mũ giáp của tôi.
+
+Head shot! Bạn nhận 15 điểm sát thương.
+Kháng: Thể lực + Sức bền.
+Bạn kháng 14 điểm sát thương.
+-1 Máu. 9 Máu còn lại.
+
+Đó có thể là một cú bắn may mắn, nhưng tôi sẽ không đứng đây cả ngày chờ chúng hết tên đâu. Tôi lao về phía trang trại, thầm than vãn về hình phạt di chuyển của giáp toàn thân. Tôi không thể thực hiện những cú né tránh nhào lộn như tôi có thể làm ở chợ.
+
+Một gã trông xấu xí với những hạt cườm trong bộ râu đen lởm chởm và một mũi tên đã nạp ló ra quanh góc, hắn không ngờ tôi lại ở gần thế này nhanh đến vậy. Hắn bắn ở cự ly gần, nhưng khiên của tôi đã sẵn sàng. Nó sẽ để lại một vết lõm, nhưng âm thanh PLOK kim loại của mũi tên hắn đập vào khiên tôi có nghĩa là tôi không nhận sát thương nào. Tôi không dừng bước tiến, và đập hắn bằng khiên.
+
+Cú nện khiên thành công.
+Cướp Rừng Ridgewood #1, đã bị đánh ngã.
+
+Trong tích tắc Huyết Kiếm đã rời vỏ, và tôi đang giáng nó xuống thân mình tên cướp.
+
+CHÍ MẠNG (CRITICAL HIT)
+Bạn đánh trúng Cướp Rừng Ridgewood #1 gây 17 sát thương.
+Bạn đã giết Cướp Rừng Ridgewood.
+
+Tôi nghĩ, "Dễ ợt." Khi một mũi tên khác rít qua đầu tôi. Xét mọi khía cạnh thì đây hẳn là khu vực cấp thấp.
+
+Một giọng nam khàn khàn vang lên ngay sau lưng tôi, "Tao sẽ cắt mày ra!"
+
+CHÍ MẠNG
+Đâm lén (Backstab)
+Cướp Rừng Ridgewood #3 đánh bạn gây 24 sát thương.
+Kháng: Thể lực + Sức bền.
+Bạn kháng 19 điểm sát thương. -5 Máu. 4 Máu còn lại.
+
+Tôi rên rỉ, "Oooohh hơi rát đấy!"
+
+Tất nhiên nhận sát thương trong game không giống như bị đâm ngoài đời thực, nhưng nó chẳng dễ chịu chút nào. Đáng lẽ tôi nên kiểm tra xem Jordan hay Scooti có bình máu hay mana không trước khi rời thị trấn.
+
+Một mũi tên khác đập vào khiên của tôi, thật kỳ quặc vì tôi thậm chí còn không cố chặn nó. Tay súng kia, dù ở đâu hẳn phải tệ lắm. Thay vào đó, tôi xoay người đối mặt với kẻ tấn công. Đó là một gã đeo mặt nạ, cầm một cặp dao găm ngoằn ngoèo. Tôi nghĩ chúng được gọi là kris. Tôi di chuyển để tấn công bằng Huyết Kiếm, nhưng tên cướp làm tôi bất ngờ bằng cách ném đất vào mắt tôi.
+
+Bạn bị mù.
+
+Một tiếng thịch lớn khác của mũi tên vang lên khi thứ gì đó đâm sầm vào hông tôi. Tôi không nhận sát thương.
+
+5...
+4...
+Một cú đá đáp vào bụng tôi, nhưng tôi có thể giữ vững. Không có sát thương ở đó, qua lớp giáp dày này.
+3...
+2...
+1...
+Tôi lắc cho đất rơi khỏi mũ giáp và tầm nhìn trở lại.
+
+Tôi nói, "Mày không nên làm thế."
+
+Tên cướp nói, "Tao sẽ cắt mày ra." và tôi nghĩ "Mày không nghĩ được câu nào khác để nói à?" Rõ ràng tôi không đối phó với các AI ở gần trình độ thông minh của Sal.
+
+Tôi thử cú nện khiên lên Tên Cướp #3, nhưng nó chỉ đẩy lùi hắn, không sát thương, và hắn không ngã. Hắn xoay con dao găm trong tay, và định tấn công, nhưng tôi gạt nó đi bằng Huyết Kiếm.
+
+"Mày thực sự không nên làm thế."
+
+Mirae hồi cho bạn 2 máu. 6 máu còn lại.
+Mirae hồi cho bạn 1 máu. 7 máu còn lại.
+Mirae hồi cho bạn 2 máu. 9 máu còn lại.
+
+Một luồng sáng ấm áp của sự chữa lành lấp đầy cơ thể tôi khi một hào quang màu xanh lá bao quanh tôi kèm theo mùi hoa anh đào. Tôi không biết Mirae là ai, nhưng tôi mừng chết đi được vì sự can thiệp của họ. Sẽ thật tệ hại nếu bị tống về điểm hồi sinh ngay trong chuyến đi đầu tiên ra khỏi Athelon.
+
+Tôi gọi qua vai, "Tôi không biết đằng ấy là ai, nhưng cảm ơn nhé!"
+
+Tên Cướp #3 vẩy cổ tay, và một con dao ném hiểm hóc lao về phía đầu tôi. Hắn hẳn đã giữ nó ở cùng chỗ mà Người Highlander giữ kiếm của họ.
+
+Một giọng nữ cao đáp lại "Tôi lo cho cậu được, cứ đánh đi!"
+
+Mirae đã mời bạn gia nhập nhóm của cô ấy. Chấp nhận?
+Có / Không
+
+Tôi hét lên, "Có!" thay thế cho việc chạm vào thông báo.
+
+Mirae đã gia nhập nhóm của bạn.
+
+Chân dung của cô ấy xuất hiện ở góc trên bên trái tầm nhìn của tôi cho thấy cô ấy có 100% máu, và 85% mana. Tôi không có thời gian nhìn quá kỹ khi chúng tôi đang bị tấn công.
+
+"Tao sẽ cắt mày ra." Tên cướp nói. Câu đó bắt đầu nhàm rồi đấy. Tôi chuyển sang tấn công lao về phía Tên Cướp #3 với một cú đánh mạnh bằng Huyết Kiếm.
+
+Cướp Rừng Ridgewood #3 nhận 4 sát thương.
+
+Tôi nghe thấy Mirae hự lên, "Á." Khi thanh máu của cô ấy tụt xuống trong giao diện của tôi.
+
+Mirae nhận 3 điểm sát thương.
+
+Tôi đập khiên và kiếm vào nhau ba lần trong một cú khiêu khích khác.
+
+Khiêu khích. Thành công.
+Cướp Rừng Ridgewood #2 tấn công.
+Cướp Rừng Ridgewood #3 tấn công.
+
+Cú bắn tiếp theo của Ngài Cắt-Mày-Ra dễ dàng bị chặn bằng khiên của tôi, một mũi tên khác vút qua, trước khi Cướp Rừng Ridgewood #2 lao ra khỏi trang trại với một thanh kiếm trong tay. Tôi tốt hơn nên kết liễu #3 nhanh gọn, nên tôi ép hắn bằng khiên như đã làm với số một. Lần này hắn ngã xuống. Tôi đá vào sườn hắn và giáng Huyết Kiếm xuống cổ hắn.
+
+Cướp Rừng Ridgewood #3 nhận 6 sát thương.
+Bạn đã giết Cướp Rừng Ridgewood #3.
+Huyết Kiếm hồi cho bạn 1 điểm sát thương.
+
+Như một con đom đóm quỷ dữ, thanh kiếm xung động một sắc đỏ sáng hơn.
+
+Trước cái chết của đồng bọn, Cướp Rừng Ridgewood #2 làm điều hợp lý đầu tiên mà tôi thấy một NPC làm kể từ khi đăng nhập và bỏ chạy. Tôi nghe thấy tiếng vút của một mũi tên bay từ phía sau tôi, và một cán gỗ dài kéo theo ánh sáng xanh ma thuật cắm phập vào lưng #3.
+
+Mirae bắn trúng Cướp Rừng Ridgewood #2 gây 12 sát thương.
+Mirae giết Cướp Rừng Ridgewood.
+
+"Bắn đẹp đấy!" Tôi nói, và quay lại để có cái nhìn rõ ràng đầu tiên về vị cứu tinh của mình. Cô ấy là một nữ Tiên tộc gầy gò với làn da rám nắng nhẹ, và mái tóc dài màu bọt biển.
+
+Mirae
+Loại:          Người chơi+
+Chủng tộc:      Tiên (Biển)
+Ngoại hình:     6
+Độ khó:        Trên Trung bình
+
+"Cảm ơn vì đã hồi máu." Tôi nói. "Tôi đã lo lắng khi tên thứ ba xuất hiện. Chúng úp sọt tôi khi tôi đang trên đường."
+
+"Tôi ghét bọn đâm chọt. Đã tiễn tôi về điểm hồi sinh hơn một lần trong hôm nay rồi. Tôi chưa bao giờ chơi tank nên tôi ít thể lực lắm."
+
+"Tiếc khi nghe thế, nhưng hey, giờ đằng ấy có tôi rồi."
+
+"Ừ, có rồi. Tôi là Mirae."
+
+"Đằng ấy có thể gọi tôi là Mel, hoặc Scooti... Tôi vẫn đang làm quen với cái vụ bí danh này. Melpomine là tên chính của tôi, nhưng tôi nhận được yêu cầu cho Scoot."
+
+"Ý cậu là sao?" Mirae nói. "Một gã tôi định đi phó bản cùng. Hắn mê cái nhân vật người lùn. Hắn đang ở trong thị trấn cố gom một nhóm."
+
+"À ngon đấy. Tôi có thể hồi máu nếu các cậu cần."
+
+"Cậu biết đấy, chúng tôi có thể cần đấy." Cơn say máu chiến đấu, dù là một trận dễ dàng, đã làm tôi hưng phấn cho một phó bản. "Để tôi kiểm tra." Tôi rút VT ra để kiểm tra Tako.
+
+Melpomine: 	Vụ săn tìm thế nào rồi?
+TakoStar:	Chỉ cần hồi máu.
+Melpomine:	Tôi có một người. Tìm thấy một Tiên Biển đang săn cướp. Chúng ta đi đâu đây?
+TakoStar: 	Gặp ở cổng và nói chuyện ở đó.
+Melpomine: 	Nghe ổn đấy.
+
+Tôi nói, "Tako bảo cậu ta có DPS rồi, nên chúng ta sẵn sàng để đi."
+
+"Được rồi. Tôi cũng có thể gây chút sát thương. Trước khi sáp nhập tôi chơi healer và cung thủ ma thuật."
+
+"Tôi không phàn nàn gì đâu."
+
+Trong khi chúng tôi nói chuyện Mirae di chuyển để kiểm tra các thi thể.
+
+Cướp Rừng Ridgewood #1 rớt 10 bạc.
+Phần chia chiến lợi phẩm của bạn là 5 bạc.
+Cướp Rừng Ridgewood #2 rớt 8 bạc.
+Phần chia chiến lợi phẩm của bạn là 4 bạc.
+Cướp Rừng Ridgewood #3 rớt 13 bạc.
+Phần chia chiến lợi phẩm của bạn là 6 bạc.
+
+Mirae nói, "Dao găm thường. Tôi không cần nó. Phiền không nếu tôi lấy mấy mũi tên?"
+
+"Cứ tự nhiên."
+
+Bạn đã nhận được Kris (thường).
+Bạn đã nhận được Huy hiệu Cướp Rừng Ridgewood x3.
+
+Tôi lôi VT ra, và nói "Tôi phải làm gì đó với đống văn bản chiến đấu này. Nó gây mất tập trung quá."
+
+"Có thể đấy." Mirae nói. "Tôi chỉnh của mình chỉ hiện phần trăm máu, và chỉ thông báo các đòn chí mạng."
+
+Tôi nói, "Ý hay đấy" và làm theo lời khuyên của cô ấy về tùy chọn hiển thị. "Đây là lần đầu tiên tôi tank ở Haven trong khoảng bốn năm. Tôi gần như bám trụ Freeworld sau đó. Cậu có bao giờ chơi bên đó không?"
+
+"Không, chỉ game này thôi. Tôi không thích dàn trải bản thân quá mỏng. Xe của cậu à?" Tôi gần như quên mất chiếc Elechopper lại trên con đường đất. Tôi gật đầu trả lời. "Khá ngầu, cậu kiếm ở đâu thế?"
+
+"Tôi... ờ.. ừm... Nó là vật phẩm Freeworld."
+
+"Tôi chưa bao giờ thấy một cái nào trước đây." Cô ấy nói, khi cô ấy di chuyển để kiểm tra nó. Cô ấy dựng thẳng nó lên và gõ ngón tay vào bên hông bể chứa linh hồn lửa. Pbbbtttt. Nó bĩu môi chế giễu. "Cái gì thế này?"
+
+"Đó là thứ cung cấp năng lượng cho xe. Có năm phiên bản của nó, mỗi cái cho một trong các nguyên tố ma thuật ở Freeworld
+Thổ, Phong, Hỏa, Thủy, Nguyên Khí. Đây là xe lửa. Nó gọi là Elechopper."
+
+"Ngầu, và tôi thấy cậu có một con thú cưng LE."
+
+Tôi hoàn toàn quên mất Doom trước khi cô ấy nói, và giờ... Nó đâu rồi? "Doom!" Tôi nói, và tôi nghe tiếng rít của nó từ thi thể của những tên cướp đã ngã xuống. Nó lơ lửng trên Cướp Rừng Ridgewood #3 với cái miệng rồng ma quái mở ra, và một tua linh hồn khói xoắn vào thực quản nó. "Mi đang làm gì thế?"
+
+"Nó là xác sống." Mirae nói. "Nó có lẽ đang uống linh hồn của họ. Tôi nghĩ đó là cách thú cưng xác sống lên cấp."
+
+Tôi nói, "Thế thì... kinh dị thật."
+
+Mirae nhún vai, "Họ chỉ là NPC thôi mà."
+
+Tôi nói, "Muốn quay lại Athelon và gặp nhóm không?"
+
+"Ừ. Họ ở đâu?"
+
+"Cổng Nam. Cậu có thú cưỡi không?"
+
+"Tôi có... nhưng..." Tôi thấy cô ấy liếc nhìn chiếc Elechopper, như thể cô ấy muốn hỏi điều gì đó. "Cái này ngồi hai người được không?"
+
+Giờ tôi nhún vai. "Tôi nghĩ vậy, nhưng..." Tôi dừng lại để tạo hiệu ứng kịch tính. "Nguyên tố yêu thích của đằng ấy là gì?"
+
+"Thổ!" cô ấy nói không chút do dự. "Đó là ma thuật của sự chữa lành."
+
+"...và động đất." Tôi thêm vào với một nụ cười nhếch mép.
+
+"Ừ, nhưng thổ có nhiều phép chữa lành hơn bất kỳ hệ nào khác, trừ thủy có lẽ."
+
+"Hợp lý," Tôi nói, "Cậu thực sự thích cái vụ chữa lành này nhỉ."
+
+"Ừ... Tôi thích." Giọng cô ấy nhỏ đi một chút.
+
+"Mà cái dấu cộng nhỏ bên cạnh tên cậu là sao thế? Khi tôi kiểm tra đằng ấy nó ghi Mirae, Loại: Người chơi và có một dấu cộng nhỏ màu xanh dương giống như cậu thấy ở bệnh viện ấy." Trong khi nói, tôi truy cập giao diện thú cưỡi trên VT của mình để triệu hồi chiếc xe Thổ. Tôi hỏi, "Cậu chắc là cậu thích thổ chứ?"
+
+Mirae nói, "Chắc chắn.".
+
+"Của đằng ấy đây," Tôi nói khi chạm triệu hồi, phiên bản nhà phát triển của Elechopper Thổ xuất hiện, màu xanh lá và nâu, với một nguyên tố đất nhỏ phụng phịu với cái cau mày vĩnh cửu đang giậm chân quanh bình xăng.
+
+"Wow... Cậu có hai cái và một món LE? Cậu giàu hay sao thế?"
+
+Tôi nói, "Cậu có thể tự lái xe trên đường quay lại Athelon."
+
+"Tôi có thể lái á?"
+
+Không giống hầu hết các game, Freehaven Online cho phép bạn cho các thành viên khác trong nhóm mượn thú cưỡi, miễn là bạn ở gần nhau hoặc thuộc cùng một nhóm. Khi cuối cùng Mirae cũng nhận ra chiếc xe thứ hai là để cô ấy lái trong một lúc, khuôn mặt cô ấy bừng sáng với niềm vui trẻ thơ vượt xa những gì, theo ý kiến của tôi, tình huống này đáng có.
+
+"Ừ không vấn đề gì." Tôi nói, "Cậu chỉ cần trả lại khi dùng xong thôi." Không phải là hệ thống sẽ cho phép ai đó chôm chỉa vật phẩm linh hồn liên kết đâu.
+
+"Tuyệt." Cô ấy nói. "Tôi chưa bao giờ lái xe máy bao giờ."
+
+"Tôi cũng chưa." Tôi nói với một tiếng cười. "Ở nhà thì là phương tiện công cộng, cả ngày mọi ngày. Tôi đã từng thử xe đạp máy một lần, nên tôi đoán cũng gọi là có."
+
+"Tôi thậm chí còn chưa làm thế." Giọng điệu của cô ấy vang lên với một nốt cay đắng mâu thuẫn với sự phấn khích của cô ấy lúc trước.
+
+"Vậy vụ dấu cộng trên hồ sơ là sao?"
+
+"Thế này nhé, cậu cho tôi biết làm sao cậu có tất cả những thứ hay ho này, và tôi sẽ kể cho cậu về biểu tượng chữ thập xanh." Cô ấy nói điều này trong khi ngồi lên chiếc xe máy xanh lá. vỗ về nó như thể nó là một con vật cưỡi.
+
+Tôi nói, "Tôi không biết nữa." Tôi đã thấy không thoải mái về chủ đề này, về tài khoản của Jordan hơn là việc tôi là một dev. Có lẽ tôi chỉ có thể... lảng tránh nó mà không giải thích toàn bộ hoàn cảnh. Đã tám năm rồi, và tôi không muốn một bữa tiệc thương hại.
+
+"Cậu cho tôi xem của cậu tôi sẽ cho cậu xem của tôi. Trao đổi công bằng."
+
+"Được rồi," Tôi nói, và với một tiếng thở dài tồi tệ mà tôi không cố ý tạo ra. "Tôi nói trước."
+
+"Nói đi." Cô ấy nói, khi rồ ga động cơ. Chúng tôi bắt đầu quay lại Athelon di chuyển đủ chậm để vẫn có thể trò chuyện.
+
+"Mấy cái elebike thì dễ. Tôi là một nhà phát triển. Công ty cung cấp cho chúng tôi bản sao dành cho nhà phát triển miễn phí của bất kỳ vật phẩm nào chúng tôi làm ra."
+
+"Thế nghĩa là sao?" Cô ấy hỏi.
+
+Tôi nói, "Chúng không có bất kỳ chỉ số nào như vật phẩm game thật. Chúng tôi phải sao chép chúng từ các vật thể khác mà chúng tôi đạt được khi chơi để giữ công bằng cho khách hàng."
+
+"Khoan vậy cậu làm ra những thứ này á? Kiểu như... không phải chế tạo, mà là làm mô hình ấy hả?"
+
+Tôi nói, "Ừ, cả hoạt ảnh nữa."
+
+"Cậu có công việc ngầu nhất QUẢ ĐẤT."
+
+Tôi nhếch mép. Không có gì phải xấu hổ cả. "Tôi yêu công việc của mình."
+
+"Vậy cậu là nhân viên? Thế có nghĩa là cậu có thể nhận được đủ loại đồ trong game miễn phí hả?"
+
+"Không, không hẳn. Tôi không dính dáng gì đến các tài khoản, hay thậm chí chỉ số trên các vật phẩm tôi tạo ra. Họ rất coi trọng việc giữ mọi thứ công bằng, để không làm người chơi cảm thấy bị lừa."
+
+"Chán thế." Mirae nói.
+
+"Không hẳn. Cậu quên rồi à? Công việc ngầu nhất QUẢ ĐẤT." Tôi nói cố gắng bắt chước giọng điệu của cô ấy, nhưng làm khá tệ vì giọng của Scooti trầm hơn nhiều so với Mirae."
+
+"Ừ tôi đoán vậy. Họ có tặng cậu một bản Phiên bản Giới hạn hay gì không?"
+
+"Không." Tôi nói, giờ là lúc cho sự lừa dối. "Phiên bản LE là quà Giáng sinh từ bố mẹ tôi trước cả khi tôi làm việc ở đây. Hồi mà cậu vẫn có thể mua nó ở cửa hàng với giá vài trăm đô." Tôi rất cẩn thận không bao gồm món quà đó là cho ai.
+
+"Ngon," Cô ấy nói,. "Vậy chúng ta đều là người chơi Vanilla (đời đầu)."
+
+"Có vẻ vậy. Cả hai chúng ta đều ở đây từ đầu."
+
+Cô ấy hỏi, "Cậu có bán tất cả các vật phẩm kỷ niệm của mình không?"
+
+"Cứ cho là tôi đã sưu tập chúng đi."
+
+"Tôi luôn muốn có một thú cưỡi sametora. Trông chúng ngầu thật."
+
+Tâm trí tôi quay lại với những con sametora mới nở tôi có được nhiều năm trước nhưng chưa bao giờ triệu hồi. Tôi diễn như thể tôi biết chính xác cô ấy đang nói gì và không hỏi câu nào. Thay vào đó, tôi nói, "Ừ, chúng khá tuyệt." Giả định tuyên bố đó hẳn là đúng vì vật phẩm LE rất phổ biến. Một trong những ngày này, tôi cần xem qua tất cả các vật phẩm LE mà tôi đã sưu tập để tôi không nghe như một con gà khi được hỏi về chúng.
+
+Sau đó tôi nói, "Đến lượt cậu. Cậu có câu trả lời của tôi rồi, giờ đưa tôi câu trả lời của cậu."
+
+"Hưmm..." Cô ấy nói. "Có lẽ để sau đi." và sau đó rồ ga đá tung một đám mây bụi khi cô ấy đi. Tôi nghe thấy tiếng hét vui sướng của cô ấy phía cuối con đường, nhưng tôi không thể thấy cô ấy vì một trong những tính năng thiết kế của xe Thổ là tạo ra một đám mây bụi phóng đại khi tăng tốc nhanh.
+
+Tôi cố đuổi kịp, với một súng phun lửa sáu foot bay ra từ ống xả nhưng vô ích. Chừng nào cả hai chúng tôi đều ở trên mặt đất thì không có cách nào thu hẹp khoảng cách nếu cô ấy đang đi tốc độ tối đa.
+
+Tôi kéo tay lái lại và cất cánh, tốc độ di chuyển của tôi tăng từ hai trăm phần trăm tốc độ chạy lên sáu trăm năm mươi. Từ đó, không vấn đề gì để đốt cháy vượt qua cô ấy như một sao chổi và hạ cánh, trượt đến điểm dừng 100 mét phía dưới con đường trước mặt cô ấy.
+
+"Không thể nào! Chúng biết bay á?" Mirae nói, cười lớn, và giờ cô ấy cũng đang bay. Những mẩu đất nhỏ, và sỏi rơi vào tôi từ bên trên. Tôi tự hỏi liệu cô ấy có phiêu lưu như vậy trong thế giới thực không. Chắc là không, chào mừng đến với Freehaven Online, nơi cái chết chỉ là tạm thời.
+
+Tôi không phải người duy nhất có ý tưởng nhào lộn vòng lặp, và tôi bắt gặp cô ấy thực hiện những pha nguy hiểm trên không tương tự mà tôi đã làm bên ngoài thủ đô.
+
+Cô ấy hét lên từ trên cao, "Thứ này nhanh hơn nhiều so với Pegasus của tôi! Cậu đã sao chép cái gì thế?"
+
+Tôi muốn giận cô ấy, nhưng tiếng cười trẻ thơ của cô ấy thật dễ lây lan, và tất cả những gì tôi có thể cảm thấy là vui vì cô ấy đang có khoảng thời gian vui vẻ.
+
+Tôi gọi lại cho cô ấy, "Ác Mộng!"
+
+"Woa!" Cô ấy nói. Có lẽ là vì thông báo của tôi, nhưng cũng có thể dễ dàng là do những màn nhào lộn trên không của cô ấy. Cưỡi gió rất giống tàu lượn siêu tốc. Cuối cùng cô ấy cũng bình tĩnh lại, và hoàn thành câu nói của mình. "Cậu cũng có một con đó hả?"
+
+"Ừ" Tôi nói. "Rớt tự nhiên. Không cần ảnh hưởng của công ty." Tôi dừng lại. "Thực ra, là trước khi tôi làm việc cho công ty." Mirae trông như thể cô ấy sắp cất cánh lần nữa, nên tôi phải hành động nhanh để ngăn cô ấy. "Khoan đã. Tôi đã trả lời câu hỏi của cậu. Nếu cậu cất cánh lần nữa tôi có thể bị cám dỗ để hủy triệu hồi đấy, và cậu có thể bắt đầu xây dựng sức bền từ sát thương rơi."
+
+Điều đó xóa sạch nụ cười trên khuôn mặt cô ấy.
+
+"Xin lỗi." Cô ấy nói. "Tôi không thích nói về nó." Tôi định bảo cô ấy là không sao đâu, mặc dù tôi thực sự muốn biết, nhưng cô ấy đã đánh bại tôi bằng cách bắt đầu lời giải thích. "Khi tôi mười một tuổi tôi đang nghịch ngợm khi trượt tuyết và ngã khỏi cáp treo."
+
+"Tôi ờ..." Vãi... Không ngờ đến điều đó. Cô ấy xua tay bảo tôi im lặng.
+
+"Tôi sẽ ổn thôi nếu tôi ngã sớm hơn chừng năm phút, nhưng thay vào đó tôi rơi xuống một tảng đá và gãy cổ. Tôi đã nằm trên giường hoặc trên ghế kể từ đó. Đó là câu chuyện của tôi." Cô ấy dường như nắm bắt được sự bối rối của tôi nên nói thêm, "Đó là biểu tượng tàn tật cho người thật những người không thể tự làm cái mẹ gì cho bản thân. Tôi bị liệt tứ chi. Thậm chí không thể ăn hay đi tè mà không cần giúp đỡ."
+
+Việc cô ấy bất ngờ sử dụng từ bậy làm tôi giật mình. Từ ngữ gay gắt là một vết nhơ đen tối trên thái độ vui vẻ của cô ấy. Tôi định nói xin lỗi, nhưng tôi có cảm giác rằng cô ấy giống tôi ở chỗ không muốn sự thương hại, nên thay vào đó tôi nói, "Họ bắt cậu đeo cái thẻ như thế hả?"
+
+Mirae nói, "Không phải thế. Nhìn này. Tôi có thể bật và tắt nó nếu tôi muốn."
+
+Tôi kiểm tra cô ấy, và quả nhiên tôi thấy dấu cộng xuất hiện và biến mất khi cô ấy điều chỉnh cài đặt.
+
+"Vậy tại sao cậu lại dùng nó?" Tôi hỏi.
+
+"Tôi thích lập nhóm với những người khuyết tật khác. Tôi không có bạn bè trong thế giới thực, và ở đây họ biết cảm giác đó như thế nào, và tôi đang trải qua những gì."
+
+"Tôi thậm chí không thể tưởng tượng nổi." Tôi nói.
+
+"Tin tôi đi. Tôi ghét là lý do xe buýt của cậu đến muộn, hoặc tại sao cậu phải đi chuyến thang máy tiếp theo khi không còn chỗ với tôi trên chiếc ghế của mình."
+
+Tôi cảm thấy như một cục cứt bây giờ, vì tôi đã không kể toàn bộ câu chuyện. Giống như đang ở trong quán bar cạnh cái gã kể cho bạn câu chuyện đời gã, mà bạn đã phớt lờ 10 phút trước, chỉ là giờ bạn tình cờ nghe gã kể cho người khác, và hóa ra gã thực sự khá thú vị. Giống hệt thế, nhưng tệ hơn gấp năm mươi lần.
+
+Tôi tấp vào lề đường và dừng chiếc chopper của mình. Cô ấy nhìn qua, quay lại, và tham gia cùng tôi.
+
+Tôi nói, "Xin lỗi."
+
+"Tôi không muốn sự thương hại. Đây là nơi duy nhất tôi có thể giống như mọi người khác. Nên đừng phá hỏng điều đó cho tôi. 'kay?"
+
+"Tôi không có ý đó." Tôi nói. "Ý tôi là tôi xin lỗi vì đã nói dối cậu."
+
+Giờ cô ấy trông có vẻ bị xúc phạm. "Cậu nói dối? Về cái gì? Tất cả hả?"
+
+"Không. Tất cả những gì tôi nói là thật. Thiết kế choppers, khóa LE tất cả. Tôi chỉ không nói cho cậu toàn bộ sự thật." Mirae nheo mắt. "Tôi không phải là người nhận được LE cho Giáng sinh. Đó là cho anh trai tôi, anh ấy đã mất khoảng tám năm nay rồi." Môi Mirae mấp máy như thể tìm kiếm từ ngữ nhưng im lặng. Vì vậy, tôi cắt ngang cô ấy. "Tôi giống cậu, thế đấy. Tôi không muốn sự thương hại."
+
+Cuối cùng, Mirae tìm được lời, và nói "Tôi hiểu."
+
+Đây là lần đầu tiên tôi từng kể cho ai đó trong game về Jordan. Thật đáng sợ và cảm giác cũng khá tốt. Giống như tôi đã kìm nén dòng cảm xúc lũ lụt này, và giờ có một lỗ rò rỉ nhỏ, và phần còn lại ngứa ngáy muốn tuôn trào ra. Tôi không thích sự im lặng giữa chúng tôi. Cảm giác như bị lên án.
+
+Tôi nói," Tôi đã liên hệ với Haven và thừa kế tài khoản của anh ấy." Chẳng có ích gì khi tiếp tục về vụ lừa dối bằng bằng lái xe khi họ dù sao cũng sẽ chuyển quyền sở hữu nếu tôi có thể xuất trình giấy chứng tử. "Đây là một game di sản đối với tôi. Tôi phải xây dựng lại cả bang hội này vì tôi biết đó là điều anh ấy muốn. Trên hết, tôi muốn tìm những người chơi từng là thành viên để tôi có thể cho họ biết chuyện gì đã xảy ra."
+
+"Chuyện nặng nề đấy." Cô ấy nói. Lời của cô ấy đầy vẻ trầm ngâm. Tôi thích nếu chúng vui vẻ hơn.
+
+"Ừ thì... Câu chuyện của cậu cũng đâu toàn mây hồng và thỏ trắng." Cô ấy nhún vai. Thừa nhận quan điểm. "Nghe này, chúng ta vừa mới gặp, nhưng tin hay không thì tùy cậu là người đầu tiên tôi chia sẻ điều đó trong game. Đó không phải là loại chuyện cậu đi quảng cáo. Hơn nữa, tôi không biết nhiều người bên phía Haven và tôi muốn làm bạn."
+
+Vừa nói vừa khởi động lại xe, cô ấy bảo, "Cậu sẽ phải làm thế nếu cậu muốn nói chuyện với các thành viên bang hội thất lạc." Cô ấy lướt ngay qua nhận xét về bạn bè. Tôi cho qua.
+
+"Ừ thì, thuyền đến đầu cầu tự nhiên thẳng."
+
+Tất nhiên cô ấy đúng. Tôi chỉ cần thời gian để thích nghi, cả với việc được đối xử như một người nổi tiếng nhỏ nhờ khóa LE, và giải thích nó đến từ đâu. Nói dối về nó có vẻ như một cái tát vào mặt ký ức của Jordan. Trái tim tôi cảm thấy nhẹ nhõm hơn vì đã nói ra điều gì đó.
+
+Mirae và tôi đi cùng nhau tiếp cận cổng nam của Athelon.
+
+Melpomine:	Chúng tôi đến rồi.
+TakoStar:	Lâu la thế.
+Melpomine:	Wah.
+TakoStar:	Đang ngồi ở bàn trong quán Rái Cá Mỉm Cười. Quận Nam.
+Melpomine: 	Tôi biết chỗ đó.
+TakoStar:	Chúng ta có vài lựa chọn, nhưng tôi muốn xem chúng ta có gì cho hồi máu đã.
+Melpomine: 	Có mặt trong năm phút.
+
+Tôi nói, "Họ đang đợi chúng ta tại một quán trọ ở Quận Nam. Có vài ý tưởng họ muốn chào hàng, nhưng phiếu của tôi là cho rồng. Cậu tham gia chứ?" Giọng người lùn Scotland giả tưởng của tôi cảm thấy nặng nề hơn khi tôi len lỏi trở lại nhân vật, và cuộc trò chuyện trở nên thoải mái hơn.
+
+"Tại sao là rồng?"
+
+"Có nhiệm vụ cho chúng." Tôi nói, cân nhắc. "Nói xem, Cậu sẽ làm gì cho một cơ hội kiếm đồ Phiên bản Giới hạn?"
+
+"Tôi phải giết ai?"
+
+"Không phải ai, cái gì."
+
+Mirae nói, "Okay thế thì, cái gì?"
+
+"Thế 50,000 con rồng thì sao? Tình cờ là tôi có một nhiệm vụ bang hội phiên bản giới hạn hứa hẹn đồ độc quyền."
+
+"Tôi không biết bang hội cũng nhận được nhiệm vụ đấy."
+
+"Chà, giờ cậu biết rồi đấy. Cậu nói sao?"
+
+"Ừm..." Tôi ngạc nhiên là cô ấy nói thế thay vì đồng ý ngay lập tức dựa trên cách TakoStar đã hành động. "Tôi sẽ suy nghĩ về nó. Tôi thích bang hội hiện tại của mình và không muốn đùng cái rời bỏ mọi người."
+
+"Tôi hiểu mà" Tôi nói, "Cứ thong thả."
+
+"Có lẽ nếu tôi có thể mang vài người theo cùng."
+
+"Càng đông càng vui. Giữa tôi và cậu, Bang hội này hoàn toàn trống rỗng."
+
+Mirae nói, "Tôi sẽ cho cậu biết sớm. Hiện tại, cứ gọi là có thể nhé."
+
+"Tôi có thể xử lý cái sự có thể."
+
+Chúng tôi đậu xe bên ngoài quán Rái Cá Mỉm Cười, và tôi làm hành động 'Bíp bíp!' giải tán chiếc chopper Lửa. Tôi lặp lại lần nữa, và của Mirae biến mất như một bóng ma.
+
+"Giờ để xem Tako đã gom được đám ô hợp nào nào."
+
+Tôi chui vào quán trọ với Mirae theo sát gót. Mùi thịt bò hầm nồng nặc trong không khí, và nó làm tôi đói. Có rất nhiều bàn, hầu hết đều kín chỗ với những nhà thám hiểm và Dân Haven đang uống rượu. Trước sự ngạc nhiên của tôi, chính dân haven đang nốc những cốc bia lớn, và các nhà thám hiểm đang nhấm nháp nước.
+
+Một cô phục vụ mặc tạp dề tiếp cận, và mở miệng như muốn hỏi chúng tôi có cần gì không, nhưng vừa kịp lúc mắt tôi phát hiện Tako với vài người khác ở bàn cậu ta.
+
+"Chúng tôi đi cùng họ." Tôi nói, và cô phục vụ khẽ nhún gối chào. Một cử chỉ đẹp, vì rất nhiều quán trọ có thể hơi tồi tàn. Cô ấy gật đầu và quay đi, nhưng tôi nắm lấy tay cô ấy trước khi cô ấy phải đi. "Cô có thể cho tôi ít món hầm đó không? Nó thơm quá.... và một ít... "Tôi nhìn quanh không thích bia lắm, nhưng không muốn gọi nước lọc. "Trà, nếu cô không phiền."
+
+"Đi tìm chỗ ngồi đi, n' tôi sẽ tới ngay."
+
+"Cảm ơn," Tôi nói. Tự hỏi món hầm sẽ có vị như thế nào.
+
+Tako đã giữ cho chúng tôi một bàn trong góc, mặc cùng bộ đồ da sẫm màu tôi phát hiện cậu ta mặc trước đó. Hai nhà thám hiểm bên cạnh cậu ta không thể khác biệt hơn.
+
+Laurelade
+Loại:       Người chơi
+Chủng tộc:    Gnome
+Ngoại hình:  4
+Độ khó:  Trung bình
+
+Frobod
+Loại:        Người chơi
+Chủng tộc:    Nhân loại
+Ngoại hình:  3
+Độ khó:   Trung bình
+
+Cô nàng gnome khoác trên mình bộ áo choàng phù thủy trông rất ấn tượng, với một chiếc mũ trùm đầu tỏa ra ánh sáng xanh kỳ lạ như phát quang sinh học. Cô ấy quá nhỏ so với mọi người khác, kể cả bí danh người lùn của tôi, đến nỗi tôi tự hỏi liệu cô ấy có đang ngồi trên một loại ghế nâng nào đó không. Tôi nở nụ cười tưởng tượng con gnome đi giày em bé. Hình ảnh đó xung đột với chiếc vòng cổ gồm các ấn triện bí thuật treo trên cổ cô ấy và làm không khí xung quanh cô ấy nhiễm điện với năng lượng ma thuật tích tụ. Người đàn ông, Frobod, diện bộ giáp tấm màu than đen với một mảnh ngực hình hộp sọ thiếu hàm dưới.
+
+"Đánh xa, và cận chiến tôi cho là vậy." Chỉ vào Laurelade rồi Frobod.
+
+"Cô đoán đúng rồi đấy."
+
+"Tôi là pháp sư." Laurelade nói.
+
+Frobod nói "Hiệp sĩ tử thần (Death knight)."
+
+Mặc dù Freehaven Online không có hệ thống lớp nhân vật như trong các game khác, người chơi thường tự gọi mình như vậy để cho người khác biết phong cách chơi của họ, một số, như Paladin, là các tước hiệu chính thức trong game. Pháp sư thì tự giải thích rồi, ném cầu lửa, và kiểu thế. Hiệp sĩ tử thần? Tôi không chắc lắm.
+
+"Ý anh là sao khi nói hiệp sĩ tử thần?"
+
+"Trước khi sáp nhập, tướng chính của tôi là một đấu sĩ thuần túy, nhưng tôi cũng chơi một caster một chút tập trung vào chiêu hồn và ma thuật tử vong. Mang tất cả chúng lại với nhau và cô có cái này... Hiệp sĩ tử thần."
+
+Tôi gật đầu. "Hợp lý."
+
+Mirae nói, "Chắc phải tệ lắm khi cố niệm chú trong giáp tấm, với tất cả các hình phạt."
+
+Frobod trông bẽn lẽn khi anh ấy nói, "Kiểm tra mô tả giáp của tôi đi."
+
+Giáp Ngực Tử Tấm (Deadplate Chestguard)
+Hoàn thành bộ 2/6
+Loại:			Giáp tấm
+Vị trí:			Ngực
+Giáp		7
+Phẩm chất:          Hiếm
+Hiệu quả trang bị:
+Trí tuệ +2, Sức mạnh +1, Thể lực + 3
+Thuộc tính đặc biệt:
+Giảm hình phạt niệm chú khi mặc giáp đi 13% cho mỗi vật phẩm bộ được trang bị.
+
+"Rất ngon!" Tôi nói, "Tôi thấy anh cũng có đôi giày ống rồi."
+
+Anh ấy nói, "Ừ, vừa mới chế tạo chúng. Tôi đã có công thức từ lâu, nhưng không dùng đến cho đến tận bây giờ. Tôi vẫn cần tìm các mảnh khác."
+
+Mirae nói, "Vậy, anh là thợ rèn hả?"
+
+"Ừ." Frobod nói.
+
+Tôi nói điều hiển nhiên, "Sức mạnh cao."
+
+Laurelade xen vào, "Có thật là cô có quyền truy cập vào một nhiệm vụ bang hội LE không?"
+
+"À, ừ..." Tôi nói nhìn giữa Laurelade và Tako.
+
+TakoStar nói, "Đó là một cách tốt để tuyển mộ."
+
+Laurelade nói, "Tôi đã rời bang hội cũ rồi, nên tôi có thể gia nhập ngay lập tức."
+
+Tôi thích là người đưa tin về việc Toxic Muffins là một bang hội phiên bản giới hạn và việc tuyển mộ của chúng tôi hơn, nhưng lời đã nói ra rồi. Tôi không thể thay đổi nó. Tôi đang hồi tưởng lại Chúa tể của những chiếc nhẫn khi tôi tiếp nhận các chủng tộc đa dạng của chúng tôi, và quyết định ngay lúc đó sẽ cho tất cả bọn họ một cơ hội thử. Nếu chúng tôi đang săn rồng, mỗi thành viên bang hội là một phần của nhóm sẽ thêm vào việc hoàn thành nhiệm vụ.
+
+"Tôi có thể cho tất cả các cậu vào bang hội trên cơ sở thử nghiệm. Nếu mọi thứ suôn sẻ, các cậu tự do ở lại. Hành xử như một thằng khốn, và các cậu biến. Nghe công bằng chứ?" Có một điệp khúc "Yes!" "Yeah." và "Chắc chắn rồi." từ mọi người ngồi tại bàn ngoại trừ Mirae người tôi đã mời rồi. "Được rồi. Chờ một chút trong khi tôi gửi lời mời."
+
+Tôi mở giao diện bang hội trong VT của mình, và từng người một TakoStar, Laurelade, và Frobod trở thành thành viên.
+
+Laurelade nói, "Cô không nói với chúng tôi là cô chỉ có hai thành viên."
+
+TakoStar, "Cô đã giấu tôi! Cô là bang chủ suốt thời gian qua!"
+
+"Ngạc nhiên chưa." Tôi nói với một nụ cười nhe răng giả tạo mắc kẹt đâu đó giữa một nụ cười và một cái nhăn mặt.
+
+"Ôi chúa ơi, nhìn nhiệm vụ này đi!" Frobod nói, "Phiên bản giới hạn, 10,000 danh tiếng, và quyền truy cập vào các vật phẩm chuyên dụng! Các cậu sẽ không nghe thấy tôi phàn nàn đâu."
+
+"Tôi cũng thế." TakoStar nói. "Nhưng 50,000 con rồng là cả một đống cứt để giết chỉ với năm người chơi. Con bé Marine này là ai?"
+
+"Nhân loại. Võ sư." Tôi chẳng buồn nói cô ấy là Bí Danh của tôi. Có ít nhất một danh tính không được biết đến với các thành viên bang hội của tôi có thể chứng minh là hữu ích trong tương lai. "Cô ấy không có mặt ngay lúc này."
+
+TakoStar nói "Còn cô thì sao Tiên Biển, cô có tham gia không?"
+
+Mirae đỏ mặt, "Ừm.. Được rồi. Tôi đoán vậy. Chỉ cần để tôi gửi tin nhắn nhanh cho bang hội cũ của tôi." Một vài phút trôi qua khi Mirae nhìn chằm chằm vào VT của cô ấy, trước khi cô ấy ngước lên và nói. "Xong. Tôi sẵn sàng nhận lời mời."
+
+Một vài giây sau tôi nhận được thông báo.
+
+Mirae đã gia nhập bang hội.
+
+"Chỉ cần hứa với tôi cậu sẽ cho tất cả bạn bè của tôi cơ hội tương tự khi họ đến sau."
+
+Tôi gật đầu, hiểu rằng bạn bè game của Mirae còn hơn cả những liên lạc trong danh sách bạn bè online của cô ấy. Dựa trên những gì cô ấy đã nói với tôi, họ là thế giới xã hội của cô ấy. Chúng tôi có khác nhau lắm không? Thật kỳ quặc khi nghĩ rằng người bạn tốt nhất của tôi trong thế giới thực ngay lúc này là một AI không xác, tên là Sal. Mirae ngồi trên xe lăn không sử dụng được tay chân. Lý do của tôi là gì?
+
+"Giống như tôi đã nói, càng đông càng vui. Chúng ta đang xây dựng thứ này từ con số không."
+
+Mirae hỏi, "Bánh Muffin Độc (Toxic Muffin) là cái gì?"
+
+Tôi cười và nói, "Tôi đách biết nữa."
+
+Không ai hỏi tại sao tôi quyết định đặt tên bang hội của mình như thế, và tôi biết ơn điều đó. Cố gắng nói tránh lựa chọn tên của Jordan sẽ thêm cả một cấp độ khó xử cho cuộc trò chuyện mà tôi không muốn hoặc cần. TakoStar trải một tấm bản đồ ra trên cái bàn mộc mạc ngay khi cô phục vụ xuất hiện với trà và món hầm của tôi.
+
+Laurelade nói, "Cô mua đồ ăn à? Tại sao?"
+
+Tôi nói, "Thơm mà." phòng thủ hơn mức tôi muốn.
+
+Laurelade nói, "Ừ nhưng vị thì... Sao cũng được... Cô sẽ thấy thôi."
+
+Tôi quyết định xúc một thìa đầy và thất vọng khi thấy nó chẳng có vị gì mấy. Tôi vớt ra một miếng thịt, và trong khi nó cảm giác như thịt trong miệng tôi, không có hương vị gì. Giống như ăn nước ấm vậy.
+
+"Chà, thật vô nghĩa." Tôi nói.
+
+Laurelade nói, "Bảo rồi mà."
+
+Tôi thử thêm một chút hy vọng cho một sự thay đổi hương vị không bao giờ đến. Một biểu tượng buff nhỏ xuất hiện ở góc giao diện của tôi.
+
+Bữa ăn thịnh soạn.
+Hồi phục tăng 50%.
+6 phút còn lại.
+
+Cũng tuyệt đấy, tôi đoán vậy, nhưng không phải là chúng tôi sẽ mang theo những cái vạc hầm qua các phó bản. Game có vẻ thích cung cấp các buff hồi phục một cách khó chịu vào những lúc chúng ta ít cần nhất. Tôi thử trà, nhưng thay vào đó nó có vị như nước nóng. Quá tệ, quá buồn. Tôi đoán giờ tôi biết tại sao các nhà thám hiểm uống nước lọc.
+
+Tako nói, "Phó bản gần nhất với thành phố là Hầm Mộ (Catacombs). Rất nhiều xác sống, nhưng không có nhiều rồng. Tôi gọi nó là độ khó trung bình cho một nhóm như chúng ta."
+
+"Chúng ta nên tập trung vào rồng." Tôi nói, và Tako gật đầu.
+
+"Tôi đang đi đến đó đây." Cậu ta chỉ vào một điểm khác trên bản đồ. "Ở đằng này là một con rồng trùm thế giới, nhưng nếu chúng ta đi vào với một nhóm kích cỡ này chúng ta có thể sẽ chết."
+
+"Chết tiệt." Tôi nói, và tôi thấy những người khác lắc đầu đồng ý. "Nhớ là tôi vẫn đang quay lại chế độ tank. Chúng ta đã chiến đấu với vài tên cướp, nhưng tôi vẫn còn rỉ sét lắm."
+
+Tako hỏi, "Bao nhiêu người trong số các bạn có thú cưỡi bay?" Mọi người giơ tay. "Chúng có ít nhất 300 phần trăm không?"
+
+Frobod hạ tay xuống. "Xin lỗi." Anh ấy nói.
+
+Tôi bảo anh ấy, "Đừng lo tôi lo cho anh được." Rồi chuyển sự chú ý sang Tako, "Tại sao cậu lại hỏi?"
+
+"Điểm tốt nhất cho một nhóm như chúng ta là tít đằng này ở Three Winds (Tam Phong). Trùm chính là một con rồng gió, và có một cái tổ nghĩa là rất nhiều rồng nhỏ để farm cho nhiệm vụ. Như các cậu có thể thấy, tuy nhiên nó khá xa."
+
+"Tôi lo vụ thú cưỡi được. Tôi có sáu con có thể di chuyển ở tốc độ bay 650%." Thực tế có thể còn nhiều hơn vì tôi chưa đọc hết tất cả.
+
+Laurelade nói, "Kinh thậttttt, cô gái! Cô đã đánh nhau với cò-rồng hay gì đó và trộm tất cả trứng của nó hả?"
+
+Tôi nhún vai bí ẩn, và nói "Đại loại thế. Tôi cũng có," Tôi chọc vào VT của mình cho giao diện thú cưỡi và sắp xếp theo tốc độ mặt đất. "Ít nhất bấy nhiêu theo trí nhớ của tôi, có thể di chuyển ở tốc độ mặt đất 600%."
+
+Cùng lúc đó, Laurelade nói "Cái quái gì di chuyển ở 600% tốc độ mặt đất?"
+
+Tako nói "Cô đã làm gì, nuôi một con gà lôi (roadrunner) bằng cocain ma thuật à?"
+
+Mirae cười trước trò đùa nhạt nhẽo của Tako, và liếc mắt đưa tình với cậu ta. Tôi nghĩ cô ấy thích cậu ta.
+
+Frobod thêm vào, "Cô đến từ Freeworld, phải không?"
+
+Tôi nói, "Ding! Ding! Ding! Trao thưởng cho người đàn ông này nào."
+
+Tất cả những người chơi độc quyền Haven nhìn anh ấy để tìm lời giải thích. Frobod nói, "Freeworld có thú cưỡi mặt đất nhanh vì bối cảnh dựa trên thế giới thực hậu tận thế ma thuật, nhưng thú cưỡi bay thì chậm và gần như chưa từng nghe thấy."
+
+"Đại ý là thế. Ngoài ra, tôi không chắc chúng sẽ hoạt động tốt thế nào ở Haven. Ở Freeworld chúng tôi có đường nhựa, và mọi thứ đều là đất ở bên này. Tôi không biết nữa, có vẻ như có thể sẽ xóc nảy khi đi xa hơn khỏi các thành phố."
+
+"Ừ cứ bám lấy đường không. Ngay cả với những tốc độ mặt đất điên rồ đó, đường không vẫn nhanh hơn. Không phải đối phó với những con đường ngoằn ngoèo trên núi, chưa kể tốc độ tối đa nhanh hơn cộng 50 phần trăm."
+
+Tôi hỏi, "Vậy là tổ rồng gió nhé?"
+
+Họ gật đầu tán thành. TakoStar nói "Nghe có vẻ thế."
+
+Tôi nói, "Vậy thì đi đấm vào trán mấy con thằn lằn nào."

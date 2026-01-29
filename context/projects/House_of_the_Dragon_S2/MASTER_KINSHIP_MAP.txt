@@ -1,0 +1,16 @@
+[SCHEMA DEFINITION]
+Entity_Structure: {ID, Current_Title, Lineage_Vector, Power_Dynamic}
+
+[TIMELINE]
+EPISODE 1: Otto=Hand.
+EPISODE 2: Otto=Dismissed; Criston=Hand.
+EPISODE 6: Addam=Dragonrider.
+EPISODE 7: Hugh/Ulf=Dragonriders.
+
+[THE BLACK FACTION]
+1. RHAENYRA: ID=Queen; Vector=Mother(Jace)/Wife(Daemon); Dynamic=Imperial.
+2. DAEMON: ID=Consort; Vector=Brother(Viserys); Dynamic=Imperious.
+
+[THE GREEN FACTION]
+1. AEGON: ID=King; Vector=Son(Alicent); Dynamic=Royal.
+2. ALICENT: ID=Dowager; Vector=Step-Mother(Rhaenyra).

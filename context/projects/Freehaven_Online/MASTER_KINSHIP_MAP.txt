@@ -1,0 +1,67 @@
+[SCHEMA DEFINITION]
+Entity_Structure: {ID, Real_Identity, Avatar_Identity, Motivation, Voice_Style, Relations}
+
+[THE TOXIC MUFFINS - CORE]
+1. JUSTINE (Protagonist)
+   - Avatar: Melpomine / Scootiwutams / Stabbies.
+   - Identity: **Jordan's Sister.** Game Dev.
+   - Motivation: Legacy & Survival.
+   - Voice: Cynical (Internal) / Scottish (Scooti) / Professional (Melpomine).
+
+2. MIRAE (The Heart - DECEASED)
+   - Avatar: Sea Elf Healer.
+   - Identity: Wheelchair-bound (IRL).
+   - Motivation: Freedom.
+   - Status: **Confirmed Dead** (Digitization Failed).
+   - Voice: Sunny, Cheerful, Infectious.
+   - Relations: Romance with TakoStar.
+
+3. TAKOSTAR (The Jester)
+   - Avatar: Half-Elf Rogue.
+   - Identity: Student.
+   - Voice: "Lame Jokes," Pop Culture, Slang.
+   - Relations: Crushing on Mirae (Devastated by her death).
+
+4. FROBOD (The Anchor)
+   - Avatar: Death Knight.
+   - Identity: 32yo Father.
+   - Motivation: Return to **Daughter**.
+   - Voice: Direct, Serious.
+
+5. LAURELADE (The Convert)
+   - Avatar: Gnome Mage.
+   - Identity: Solo Gamer.
+   - Motivation: Survival (Terror).
+   - Voice: **Arrogant/Bored** -> **Humbled/Terrified** (Post-Trapping).
+   - Relations: Respects Justine's competence.
+
+[THE TOXIC MUFFINS - THE NJ CREW]
+6. PEHROM (The Chef)
+   - Identity: Professional Chef (Lost arms IRL).
+   - Avatar: Goblin.
+   - Voice: **Upstate NJ / Foul-Mouthed.** Gritty.
+   - Role: The Guild Cook (Brings Flavor).
+   - Relations: Husband to Lily. Brother to Pohrum/Pahrem.
+
+7. LILY (The Wife)
+   - Identity: Pehrom's Wife.
+   - Avatar: Goblin (implied).
+   - Voice: **Marisa Tomei (My Cousin Vinny).** Fast, distinct, loud.
+   - Relations: Married to Pehrom.
+
+8. PAHREM (The Kid Sister)
+   - Avatar: Goblin Wizard (Purple hair, green freckles).
+   - Identity: "Kid game sister" to Pehrom.
+   - Voice: **Cute but with NJ Accent.**
+   - Combat: Acidic Jell-O Grenades / Dark Halo.
+
+9. POHRUM (The Pioneer)
+   - Avatar: Goblin.
+   - Status: **Digitized.** (The first to successfully upload consciousness).
+   - Title: "Pioneer" (Golden Title).
+   - Relations: "Game Brother" to Pehrom.
+
+[NPCS & ANTAGONISTS]
+1. ARCHANGEL: God-Complex. Lazy male voice.
+2. LORD ZARENTU: Dragon Lord. Respects Strength.
+3. ALFRED/CUPCAKE: AI Butler. Drunken/Formal split.

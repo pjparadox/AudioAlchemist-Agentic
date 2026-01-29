@@ -1,0 +1,740 @@
+# Chương 14 - Zoom Zoom
+
+Mặc dù tất cả chúng tôi đều muốn dành nhiều thời gian hơn để giết thỏ và thử nấu chúng, chúng tôi quyết định quay lại Lâu đài Dragonswood để không bỏ lỡ trận đấu thương.
+
+Archibald nói, "Mừng các quán quân trở lại," trong khi Lyle ném cho chúng tôi ánh nhìn khó chịu. Một phần trong tôi tự hỏi tôi sẽ gây ra cuộc bạo loạn kiểu gì nếu tôi đăng ký một trong các cuộc thi phép thuật với tất cả các phép Freeworld của mình.
+
+Khu đất lễ hội vẫn giống như khi chúng tôi đến, có lẽ, đông người hơn. Một vài người trông giống người chơi, nhưng Dân Haven chiếm phần lớn đám đông.
+
+"Đặt cược đi. Đặt cược đi!" Một gã loài người mặt chồn kêu lên từ bên cạnh. Gã đội một chiếc mũ chóp cao màu tím, và mặc áo khoác tuxedo không cài khuy, với chiếc áo lót lôi thôi lếch thếch. Ngay cả mái tóc lấp ló dưới vành mũ trông cũng bẩn thỉu. Bảng tên gã ghi "Sleeve". Tên hay đấy (Sleeve nghĩa là Ống tay áo - hoặc Kẻ gian manh).
+
+Tôi hỏi, "Quán quân có được đặt cược không?"
+
+Gã nhìn tôi từ đầu đến chân, và bẻ đốt ngón tay thò ra khỏi đôi găng tay hở ngón rách rưới. "Vậy cô là bán-tiên không giáp trong trận đấu tay đôi. Cô trông không giống pháp sư... nhưng chưa ai ở Tu Viện từng nghe nói về cô cả."
+
+Tôi hỏi, "Thế là tốt hay xấu?"
+
+Gã cười khùng khục và nói, "Chúng ta sẽ xem, cưng à, chúng ta sẽ xem."
+
+Tôi nói, "Về vụ đặt cược."
+
+Sleeve nói, "Tôi sẽ nhận cược cho bất kỳ sự kiện nào cô không tham gia. Tiền của cô cũng có giá trị như của người khác thôi."
+
+"Cược tối thiểu?" tôi hỏi.
+
+Sleeve nói, "Năm mươi bạc."
+
+"... và tối đa?"
+
+Đôi mắt của gã đàn ông nhỏ thó bẩn thỉu sáng lên, "Cô có thể để lại bao nhiêu tiền?"
+
+"Để tôi nghĩ đã," tôi nói, "Tôi sẽ quay lại sau."
+
+Một ý tưởng đã nhen nhóm từ khi chúng tôi quay lại, và tôi không muốn để tên nhà cái biết. Tôi quay sang kỵ sĩ tử thần của chúng tôi và nói, "Nói chuyện chút nhé?" Anh gật đầu, sự hiện diện của lâu đài cùng với trận đấu thương sắp tới làm anh nghiêm túc hơn. Tôi nhìn những người khác và nói, "Mọi người ổn một lúc chứ?"
+
+Tako nói, "Vâng, mẹ."
+
+Theo sau là Laurelade, "Nước tự do mà."
+
+Mirae nói, "Ừ, gặp lại ở trận đấu thương."
+
+Tôi nói, "Tốt," và dẫn Frobod đi bằng cách nắm tay áo anh.
+
+"Vụ gì đây?" Anh hỏi.
+
+Tôi liếc qua vai để đảm bảo chúng tôi không bị theo dõi.
+
+*Phát hiện.*
+*Nhận thức + Cảnh giác. Thành công!*
+*(Mức độ Thành công: 10)*
+*"Tôi không nghĩ có ai đang theo dõi."*
+*Bạn đã nhận được +1 Cảnh giác.*
+*Chỉ số hiện tại: 9*
+
+Tôi thấy mọi người nhảy múa và cười đùa, nhưng dường như không có kẻ bám đuôi nào. Dù vậy, tôi vẫn đi bộ một phút trước khi trả lời. "Anh muốn thắng bao nhiêu?"
+
+Frobod nói, "Tôi muốn thắng."
+
+"Thế chưa đủ đâu," tôi nói, "Chúng ta có thể sẽ được tính hoàn thành nhiệm vụ dù thắng hay thua. Điều duy nhất có thể thay đổi là phần thưởng."
+
+"Phần thưởng," Frobod lặp lại.
+
+"Phiên bản Giới hạn."
+
+Anh nói, "Cô không cần phải nhắc tôi."
+
+Có một cái lều vải bạt trông như để vẽ mặt, với chỉ vài nghệ sĩ ở phía trước. Tôi dẫn Frobod ra phía sau để tránh đám đông. Tôi nói, "Rời nhóm đi."
+
+*Frobod đã rời nhóm.*
+*Bạn đã rời nhóm.*
+*Bạn có muốn mời Frobod tham gia nhóm của bạn không?*
+*Có / Không*
+
+Tôi chọn có.
+
+*Frobod đã tham gia nhóm của bạn.*
+
+Giờ chỉ còn tôi và anh ấy. Đây là lúc dùng kênh chat nhóm nếu tôi từng thấy lúc nào cần dùng.
+
+"Thế này thật lén lút quá," Frobod nói trong kênh chat nhóm. "Có chuyện gì vậy?"
+
+"Nếu tôi nói với anh tôi có cách để cho anh một lợi thế đáng kể trong trận đấu thương thì sao?"
+
+"Ý cô là như buff, hay mấy thứ hack OP của Dev?"
+
+"Tôi không phải hacker," tôi nói, "Tất cả đều đúng luật."
+
+"Nhớ nhé," Frobod nói. "Không được dùng buff trừ khi tự mình thi triển."
+
+"Nó không phải là buff."
+
+Tôi hít một hơi thật sâu, vì mặc dù tôi biết những gì tôi sắp đề xuất là đúng luật, tôi cũng biết rằng khi nó xảy ra, mọi người xung quanh chúng ta sẽ phát điên lên mất. Nếu chúng ta vẫn có thể liên hệ với dịch vụ khách hàng, tôi đảm bảo ít nhất một tá người chơi sẽ báo cáo tôi vì tội hack.
+
+"Vậy nó là gì?" Frobod nói.
+
+"Archibald và Lyle đã nhìn thấy chiếc Etherchopper của anh. Về mặt kỹ thuật nó là của tôi, nhưng họ không biết điều đó, và không có gì trong luật nói rằng anh phải sử dụng thú cưỡi của riêng mình."
+
+"Phải..." Anh nói, tôi gần như có thể thấy những bánh răng đằng sau đôi mắt anh đang quay.
+
+"Anh có định dùng con của anh không?" tôi hỏi.
+
+"Tôi có thể, nhưng tôi có cảm giác cô có ý tưởng khác."
+
+"Tôi có," tôi nói, và hít một hơi sâu. "Tôi dám cá là nhờ Lyle và Archibald mà nửa cái thị trấn này biết về Elechopper của chúng ta, và sẽ mong đợi chúng ta sử dụng chúng. Ma thuật ngoại lai và tất cả những thứ đó."
+
+"Ừ, vậy thì..." Anh nói, "Tôi không thấy lợi thế ở đâu. Đâu phải chúng ta đang bay."
+
+Tôi nói, "Sáu trăm phần trăm... tốc độ di chuyển trên mặt đất." Tôi nhấn mạnh từng từ.
+
+Frobod hơi tái mặt, và rồi một nụ cười toe toét lan ra trên khuôn mặt anh. "Vãi chưởng."
+
+"Hiện tại chiếc Etherchopper đang sao chép chỉ số của một con Nightmare. 250% tốc độ mặt đất, và 650% tốc độ bay," tôi nói, "Tôi có thú cưỡi Freeworld. Chỉ trong vài cú chạm, tôi có thể biến xe của anh thành một con quái vật xé nát mặt đường."
+
+"Làm đi," anh nói, không chút do dự.
+
+"Anh không lo bị buộc tội gian lận sao?"
+
+"Gian lận cái quái gì," Frobod nói, "Nó đúng luật mà."
+
+Tôi nói, "Việc đó dễ hơn tôi tưởng."
+
+"Nghe này, nếu đây vẫn là một trò chơi, có lẽ tôi sẽ đắn đo. Tôi sẽ thấy tệ cho những gã khác không có cơ hội, nhưng đây là cuộc đời khốn kiếp của chúng ta bây giờ, và có một nút đăng xuất ngoài kia chỉ chờ được khám phá. Chết tiệt... Ý tôi là thực sự chết tiệt... Nếu tôi nhận ra điều này trước đó tôi đã nói tất cả chúng ta nên tham gia đấu thương. Kể cả cô, bị hất văng khỏi xe sau một cú đánh từ một con rồng con." Phần cuối được nói với vẻ hài hước, khi lần thứ hai trong ngày, một nụ cười rạng rỡ nở trên khuôn mặt anh. Đó là một cái nhìn làm lồng ngực tôi xao xuyến.
+
+"Ừ thì... Tôi cũng không nghĩ ra cho đến khi nhìn thấy tên nhà cái."
+
+"Tiếc thật," Frobod nói.
+
+"Chà, đó là một chiến thắng dễ dàng cho anh. Điều này đưa tôi đến chủ đề tiếp theo; Tôi muốn đặt cược. Hãy đi gặp Sleeve, và đến đấu trường để độ xe cho anh."
+
+"Cô đúng là ác quỷ," Frobod nói, "Cô định lấy hết tiền của hắn, phải không?"
+
+"Tóc hắn gớm quá," tôi nói, như thể đó là lý do chính đáng. "... và như anh đã nói, nó đúng luật mà."
+
+Quay lại chỗ Sleeve, tôi mỉm cười và nói "Về trận đấu thương, một nghìn vàng cho kỵ sĩ tử thần thắng."
+
+"Ôi trời..." gã đàn ông nhỏ thó bồn chồn, chắp những ngón tay khẳng khiu vào nhau. "Cô thật tham vọng. Cô không thích một trong những con rồng hơn sao? Họ sống lâu với kinh nghiệm hơn hẳn một... con người thường thường." Gã nói từ đó như một điềm gở.
+
+Tôi nói, "Frobod, trong trận đấu thương, cho vị trí nhất."
+
+Gã khinh khỉnh và nói, "Tiền là của cô. Tôi sẽ cho cô tỷ lệ một ăn một."
+
+"Tôi tưởng ông nói đó là một vụ cá cược mạo hiểm, vì anh ấy chỉ là... con người." Tôi đảm bảo bắt chước giọng điệu chế nhạo của gã.
+
+"Hai ăn một vậy." Tôi ném cho gã cái nhìn 'Thôi đi'.
+
+"Tại sao hai vị không bước vào văn phòng của tôi nhỉ?" gã ra hiệu về phía một cái lều mà tôi chưa thấy trước đó.
+
+"Được thôi," tôi nói, Frobod đi theo.
+
+Bên trong, có một số rương khóa, và một cặp ogre to lớn cởi trần với làn da xám, mặc quần yếm, và bắp tay nổi gân trông như tảng đá. Tôi có thể dễ dàng tưởng tượng một trong hai gã này đập vỡ đầu bất cứ ai tìm cách truy cập trái phép vào nội dung của rương. Sleeve ngồi xuống một cái bàn gỗ tạm bợ, và mở ra một cuốn sổ cái dài bằng cẳng tay tôi.
+
+"Mức tốt nhất tôi có thể đưa ra là 3:1 với số tiền lớn như vậy. Chịu thì chịu không chịu thì thôi."
+
+"Chốt," tôi nói, và bắt đầu lôi tiền ra khỏi cái túi không đáy của mình. Chúng được phân loại trước trong những bao nhỏ chứa 100 vàng mỗi bao. Sleeve kiểm tra chúng, lôi một đồng xu ra, và rồi cắn nó như thể có khả năng làm giả tiền trong Haven Online vậy. Có thể sao? Gã đổ tất cả tiền lên một cái cân để xác nhận số lượng.
+
+Sleeve ghi chú vào sổ của mình, và nói "Xác nhận tất cả là chính xác và đóng dấu của cô."
+
+Tôi đọc "Đấu thương. Frobod. Hạng nhất. 3:1. 1000v. Melpomine." và làm theo hướng dẫn. Dấu của một bí danh, giống như một con dấu cao su được tạo ra bởi trò chơi là duy nhất cho họ, và được sử dụng trong tất cả các giao dịch hợp đồng. Ngay khi nó được đóng, túi đồ của bạn nhận được một bản sao của tài liệu mà nó được áp dụng như một biên lai giao dịch.
+
+"Ờ..." Frobod nói, "200 cho Melpomine trong trận đấu tay đôi." Tôi nhìn anh, và anh nói "Tôi không giàu như cô."
+
+Anh ấy hoàn toàn hiểu sai vấn đề rồi. Tôi không giận vì anh ấy chỉ cược 200 vàng cho tôi, tôi cảm thấy hãnh diện vì anh ấy đã nghĩ đến việc mạo hiểm bất kỳ đồng nào.
+
+"Cảm ơn," tôi nói, không biết nói gì hơn. Anh ấy thậm chí chưa bao giờ thấy tôi chiến đấu mà không có giáp.
+
+"Sẽ là tỷ lệ hai ăn một cho bán-tiên," Sleeve nói. "Đóng dấu đi."
+
+Frobod làm vậy, và chốt thỏa thuận. Anh nói, "Nếu cô thua, cô có thể trả lại tôi bằng khoản tiền thắng cược béo bở của mình."
+
+"Tôi sẽ cố không làm anh thất vọng."
+
+"Phải... phải... Giờ thì, biến khỏi đây đi." Giọng điệu của gã kém thân thiện hơn lúc đầu tiếp cận chúng tôi. Tôi có cảm giác rằng nếu chúng tôi thắng gã sẽ sạch túi.
+
+Khi chúng tôi rời khỏi lều, gã kéo một cái dây để thả xuống một tấm biển vải bạt sơn dòng chữ, "Đóng cửa đặt cược cho đến hồi tù và tiếp theo." Một phần rảnh rỗi trong tôi tự hỏi liệu những người nói tiếng Pháp hay tiếng Trung bản ngữ có nhìn thấy văn bản bằng ngôn ngữ của họ không.
+
+Tôi lôi VT ra, và bật giao diện cho chiếc Etherchopper của Frobod, rồi chạm để sao chép một trong những Thú cưỡi Freeworld nhanh hơn của tôi.
+
+*Bạn có muốn áp dụng tốc độ di chuyển từ Xe Bọ Bùng Nổ, sang Elechopper (DE) không.*
+*Có / Không*
+
+Tôi chọn có.
+
+Quyết định rằng Frobod và tôi nên là một cặp, tôi cũng chuyển đổi chỉ số cho chiếc Firechopper.
+
+*Bạn có muốn áp dụng tốc độ di chuyển từ Xe Bọ Bùng Nổ, sang Elechopper (DE) không.*
+*Có / Không*
+
+Giờ chúng tôi là một bộ. Chạm vào nút triệu hồi để gọi xe của Frobod, nó xuất hiện trong một tia chớp nhanh màu xám tím. Tôi giơ ngón giữa và hét lên "INFERNO!!!" Để gọi xe của tôi trong một xung nhịp màu đỏ. Cả hai gầm lên lời chào.
+
+Một làn sóng xì xào quét qua đám đông, khi chúng tôi leo lên xe, và tôi rồ ga gửi những luồng lửa ra khỏi ống xả. May mắn thay, nó sẽ không đốt cháy thứ gì. Tôi biết, vì tôi đã làm ra nó. Đây không phải là phương tiện được vũ khí hóa. Tôi nghe thấy một vài tiếng thốt lên lên án "Ma thuật ngoại lai," nhưng đại đa số mọi người phản ứng bằng những tiếng "Ồồồ," "Ààà," và "Wao" đầy kinh ngạc.
+
+Người đàn ông duy nhất có khuôn mặt hoàn toàn khác biệt với những người còn lại là Sleeve, kẻ đang lắp bắp trong sự phẫn nộ. "Đó là thú cưỡi của các người sao? Ta nói cho các người biết, họ sẽ không bao giờ cho phép nó đâu. Ma thuật ngoại lai, trong giải đấu của Lãnh chúa! Các người coi như đã mất trắng tiền rồi."
+
+Tôi mỉm cười, một tia tinh quái trong mắt, "Nó có trái luật không?"
+
+"Tôi... ờ.. Cô... gah! Không thể nào! Chưa từng có tiền lệ."
+
+Tôi nháy mắt với gã, và nói "Đảm bảo là ông có đủ tiền của tôi đấy nhé."
+
+Sleeve điên tiết, khi tôi nghe thấy gã lải nhải, "Ta đã nghe tin đồn... nhưng ai mà tin được chứ? Họ không thể cho phép điều đó! Chắc chắn là không. Các đấu sĩ của chúng ta có những chiến mã tốt nhất vùng đất này."
+
+Cả hai chúng tôi rồ ga để không phải nghe gã lảm nhảm nữa.
+
+"Chúng ta đến đấu trường chứ?" tôi hỏi.
+
+"Đi thôi," Frobod nói.
+
+Tôi bắt gặp cái nhìn cuối cùng về Sleeve trong gương chiếu hậu, và muốn cảm thấy tệ cho gã, nhưng lại không. Tôi sẽ thấy thế nếu gã là một người chơi bình thường, với cơ thể thực và thời gian thực hy sinh cho trò chơi này. Nhưng hiện tại, Sleeve và những hộp vàng của gã chỉ là những dòng code, sắp sửa làm tôi và bang hội của tôi giàu lên rất nhiều.
+
+Ngày thứ hai sau cập nhật, và chúng tôi vẫn là đội duy nhất có Elechopper ở Haven. Chúng tôi giới hạn tốc độ ở mức 200% tốc độ mặt đất và lái xe qua đám đông. Bất cứ thứ gì nhanh hơn sẽ nguy hiểm, và thành thật mà nói, tôi không muốn làm hỏng sự bất ngờ. Bất cứ nơi nào chúng tôi đi qua Dân Haven đều chỉ trỏ, và bày tỏ sự kinh ngạc của họ. Thỉnh thoảng tôi bắt gặp những đoạn "Cái quái gì thế?" cho tôi biết rằng có ít nhất một số nhà thám hiểm lẫn trong đó. Chúng tôi luôn đi quá nhanh để tôi có thể kết nối giọng nói của người lạ với khuôn mặt họ.
+
+Một hồi tù và vang lên khi chúng tôi tấp vào đấu trường, nó ở chính xác nơi Ava đã nói.
+
+Một sứ giả đội mũ sắt hình nón giống như những lính gác phía trước thông báo "Trận đấu thương sẽ bắt đầu trong mười lăm phút nữa!" Một biểu ngữ dài in hình rồng vàng chìm trong lửa rủ xuống từ tù và của ông ta.
+
+Tôi ngạc nhiên khi thấy một cặp cậu bé chăn ngựa, không quá mười hai hoặc mười ba tuổi, chạy vội về phía chúng tôi.
+
+Một cậu tên là Sten nói, "Các Quán quân!" khi họ chạy về phía chúng tôi. Cậu ta có đôi mắt tròn và đôi tai dơi to quá khổ so với đầu. Không hoàn toàn là con người, nên tôi đoán cậu ta là một loại lai nào đó. Họ trượt dừng lại ngay trước bánh trước của chúng tôi làm tung một đám bụi khô lên không trung. "Chúng em phải đưa thú cưỡi của anh chị đến chỗ các pháp sư, trước khi quá muộn."
+
+Người bạn đồng hành hoàn toàn là con người của Sten, tên là Pert, nói "Ừm... Không có dây cương."
+
+Tôi nói, "Chà, chị không đấu thương, nhưng anh ấy cần đi. Sao các em không nhảy lên, và chỉ đường cho bọn chị nhỉ."
+
+Hai cậu bé trao nhau ánh mắt phấn khích mở to. Pert rít lên, cái gì đó nghe như "Thật ạ?" À.. Niềm vui của tuổi dậy thì.
+
+Tôi vỗ vào yên xe phía sau mình và nói, "Có chỗ cho hai người đấy. Frobod và chị mỗi người có thể chở một em."
+
+Với những nụ cười toe toét, Pert và Sten đập tay nhau và hét lên "Tuyệt vời!" đồng thanh. Tôi ngạc nhiên trước tiếng lóng. Trẻ con Dân Haven hẳn đang chú ý đến các nhà thám hiểm kỹ hơn là người lớn.
+
+Tôi giúp chúng lên sau xe của chúng tôi, khi Pert nói "Lạy-Chúa.... Những người khác sẽ không bao giờ tin được chuyện này đâu. Chúng ta đang ở trên thú cưỡi! Elechopit đời thực!"
+
+Cậu bé nói nhanh đến mức tôi phải bảo, "Đừng quên thở... Và là Elechopper." Tôi có cảm giác tôi phải cảm ơn Archibald vì vụ này.
+
+Họ nhìn nhau, và lặp lại "Elechopper" như những học sinh nhiệt tình trong lớp. Cách họ luôn nói đồng thanh, tôi sẽ nói họ là sinh đôi nếu không phải vì đôi tai to của Sten, và sự thiếu vắng nó ở Pert.
+
+Sten nói, "Cổng đằng kia mở kìa. Anh chị có thể đi thẳng vào và lái băng qua sân mà không phải lo về mọi người. Các pháp sư ở đằng kia." Cậu bé chỉ về góc xa bên trái của võ đài.
+
+"Rõ rồi," tôi nói, và lái vào đấu trường qua một cái cổng mở một nửa. Có vẻ như chúng tôi sẽ chiến đấu trên nền đất nện cứng, điều này rất hợp với tôi. Tôi đã định để dành tốc độ của thú cưỡi làm bất ngờ cho trận đấu đầu tiên của Frobod, nhưng có gì đó trong tôi tan chảy một chút khi nhìn thấy vẻ mặt vui sướng của cậu bé tai to sau lưng Frobod. Tôi nghĩ, "Mình không cần phải làm hỏng cả bữa tiệc," và nói "Muốn đi nhanh không?"
+
+Họ trả lời bằng một dàn đồng ca "Có ạ!"
+
+Frobod nhìn tôi và tôi nói, "Ba trăm phần trăm." Anh gật đầu.
+
+"Bám chặt vào," tôi nói, và đảm bảo tay của Pert ôm chặt quanh tôi. Tôi có thể cảm thấy cậu bé run lên vì phấn khích. Tôi nói "Một... Hai... Ba... Đi!" và rồ ga. Chúng tôi vọt từ con số không lên nhanh hơn thú cưỡi mặt đất nhanh nhất ở Haven trong chưa đầy một giây. Trong không trung phía sau, tôi nghe thấy Pert hét lên thích thú.
+
+"Tuyệt quá đi mất!" Cậu bé nói khi tôi giảm tốc ở đầu kia của đấu trường.
+
+Tôi nghĩ, "Đợi đến khi em thấy sáu trăm phần trăm nhóc ạ," và nói "Chị mừng là em thích nó."
+
+Frobod ngay sau tôi, gửi những luồng cực quang ether theo sau. Qua âm thanh cậu bé tai to tạo ra, cậu ta cũng đang vui vẻ không kém. Cả hai tự xuống xe, và hỏi "Chúng em có thể đi lần nữa không?"
+
+"Các cậu bé!" Họ bị ngắt lời bởi một giọng nói sắc bén thuộc về một bán-tiên lớn tuổi với bộ râu trắng dài, và áo choàng xám tím. Cả hai im bặt, và lủi đi để lo nhiệm vụ chuồng trại. "Các Quán quân, tôi xin lỗi vì hành vi của chúng."
+
+Frobod nói, "Đừng lo về chuyện đó."
+
+Tôi nói, "Không cần phải xin lỗi đâu." Tôi dừng lại, quan sát vị bán-tiên, một NPC có tên khác gọi là Aztram, và cho rằng ông ta là một pháp sư. "Ông cần làm gì với thú cưỡi của chúng tôi vậy?"
+
+"À, vâng..." Ông nói, "Như các vị biết thú cưỡi.... hoặc..." Ông nhìn xe của chúng tôi "các phương tiện vận chuyển khác có đủ loại hình dạng và kích cỡ. Thông lệ là thi triển phép phóng to hoặc thu nhỏ khi cần thiết để đảm bảo rằng tất cả đều có kích thước xấp xỉ nhau. ... Elechopit của các vị?" ông nói với giọng nghi vấn.
+
+"Elechopper." Cảm ơn Archibald.
+
+"Phải Elechopper... đi gần mặt đất hơn so với chiến mã trung bình, nên sẽ không công bằng nếu để chúng, ở trạng thái hiện tại đấu với ai đó cưỡi một con voi lớn. Ít có khả năng thương của bên nào có thể chạm trúng, và do đó chúng tôi sử dụng ma thuật để cân bằng kích thước. Hiệu ứng là tạm thời, và sẽ được giải trừ khi kết thúc trận đấu thương."
+
+"Tôi hiểu rồi," Frobod nói. "Cứ làm những gì ông phải làm. Cô ấy không đấu thương, nhưng cô ấy là bạn đồng hành của tôi."
+
+Tôi nói, "Haven có thú cưỡi voi sao?"
+
+"Ừ," Frobod nói, "Chúng đến từ viễn đông. Cày danh vọng điên cuồng lắm."
+
+"Tôi à..." Aztram nói, "Không quen với cách di chuyển phương tiện của các vị, nên nếu các vị không phiền các vị có thể đi cùng tôi đến chuồng ngựa không? Quý cô đây cũng được chào đón đi cùng."
+
+"Dẫn đường đi," tôi nói, và dắt xe của chúng tôi theo sau ông ta.
+
+Chuồng ngựa là một nơi kỳ lạ với ít nhất một tá động vật đang chờ đợi. Hầu hết là ngựa, nhưng cũng có những con quỷ như Nightmare, hổ cưỡi, một cái chổi, và một thứ trông như cá mập điên rồ với bốn mắt, vây lưng, và đôi chân không lông mạnh mẽ làm tôi nhớ đến một con mèo lớn.
+
+"Nếu ngài đặt thú cưỡi của mình ở đây, và ngồi lên chúng ta sẽ bắt đầu..."
+
+Frobod dắt xe của mình vài bước bên cạnh con thứ cá-mập-hổ... Nó lắc đầu và khịt mũi về phía anh, một luồng khí rít lên qua cái miệng cá mập. Đó là một mẫu vật đáng sợ, nhưng là thú cưỡi của người chơi, nó sẽ không tấn công ai cả.
+
+Frobod ngồi lên yên và hỏi, "Tôi phải làm gì?"
+
+"Bây giờ, không gì cả. Cứ ngồi thôi." Aztram lầm bầm những âm tiết bằng một ngôn ngữ không thể phân biệt, và những tua ma thuật trắng bốc lên từ đầu ngón tay ông. Ông di chuyển quanh chiếc xe khi tụng niệm, vẫy những ngón tay phát sáng khắp quanh nó, giống như tôi tưởng tượng một người ở thế giới thực cố gắng tắm trong khói của những nén hương. Bây giờ, đứng trước đèn pha, ông làm động tác bốn ngón tay 'lại đây' với bàn tay mình. Mỗi lần ông làm thế, chiếc xe lại cao lên một chút. Ông kiểm tra từ một góc độ khác, và nhận ra Frobod đang ngồi hơi cao hơn các thú cưỡi khác. Ông làm động tác ấn xuống, và chiếc xe nhỏ lại. 'Lại đây' và chiều cao của yên xe lại nhích lên.
+
+"Được rồi," Vị pháp sư nói. "Cảm giác thế nào?"
+
+Frobod nhìn xuống, "Tốt đến ngạc nhiên. Tôi cách mặt đất xa hơn nhiều, nhưng cảm giác vật lý vẫn giống như trước."
+
+Tôi nói, "Ma thuật là thế đấy."
+
+"Đúng là như vậy," Aztram nói.
+
+Frobod hỏi, "Trông nó thế nào?"
+
+"Bánh xe to hơn, mọi thứ to hơn. Trông lạ lắm." Nhìn xuống những thú cưỡi khác, tôi nhận ra rằng trong khi đầu của chúng có thể ở những độ cao khác nhau, yên trên mỗi con đều ở cùng một mức.
+
+Frobod hỏi, "Liệu cái này có thay đổi cách nó vận hành không?"
+
+Aztram lắc đầu không. "Mọi thứ sẽ cảm thấy chính xác như cũ, bởi vì, đối với ngài, không có gì thay đổi cả."
+
+Frobod nói, "Tôi không hiểu."
+
+Tôi nói, "Ông ơi... Đôi khi ông phải kệ mẹ nó đi. Mọi thứ đều ổn thỏa bởi vì..."
+
+Frobod kết thúc câu nói. "Ma thuật."
+
+Aztram nói, "Không nhiều nhà thám hiểm dành thời gian để học loại ma thuật này. Hầu hết các người chỉ quan tâm đến việc thổi bay mọi thứ. Nghệ thuật này còn nhiều điều hơn là sự hủy diệt." Ông thở dài, như thể biết những lời của mình đang đàn gảy tai trâu.
+
+"Chà," tôi nói, "Đó thường là thứ hữu ích nhất trong các hầm ngục, nhưng đừng bỏ cuộc. Tôi có cảm giác ông sẽ có thêm nhiều học trò muốn mở rộng bộ kỹ năng của họ trong những tháng tới đấy."
+
+"Cô thật tốt bụng," Aztram nói, "Nhưng ta đã đủ già để không tin cho đến khi tận mắt chứng kiến."
+
+"Ông là giáo viên sao?" tôi hỏi.
+
+"Ồ, ta cho rằng ta có thể bị thuyết phục để nhận một người học việc, nếu có đúng người."
+
+*Nhiệm vụ - Thầy và Trò*
+*Độ khó: Trung bình*
+*Aztram đã gợi ý rằng ông có thể chấp nhận một học trò xứng đáng. Hãy gây ấn tượng với ông, và nhận được sự chỉ dạy.*
+*Mục tiêu:*
+*Đạt được danh tiếng cá nhân là Được Kính Trọng với Aztram.*
+*Xin trở thành học trò của ông.*
+*Phần thưởng:*
+*Danh hiệu: Học việc*
+*Gia sư Ma thuật*
+*Hướng dẫn về ma thuật Arcane.*
+*Bạn có chấp nhận không? Có / Không*
+
+"Tôi không chắc," tôi nói, không ngờ cuộc trò chuyện này lại sinh ra một nhiệm vụ. "Tôi có phải quyết định ngay bây giờ không? Tôi chưa suy nghĩ nhiều về việc học ma thuật ở Haven."
+
+Aztram cười. "Hãy quay lại khi nào cô muốn. Miễn là cô chưa làm gì để tự bôi nhọ mình, và ta vẫn còn sống, chúng ta sẽ bàn lại chủ đề này."
+
+Tôi ấn không, và nói "Cảm ơn. Thầy Aztram. Tôi sẽ ghi nhớ điều đó." Tôi cúi chào kính trọng, xứng đáng với một người đã cống hiến cả đời để tu luyện, và chia sẻ nghệ thuật Arcane.
+
+*Bạn đã nhận được 500 danh tiếng cá nhân với Aztram.*
+*Cấp độ hiện tại: Thân thiện.*
+
+Frobod nói, "Cô nhận được nhiệm vụ hay gì à?"
+
+"Ừ," tôi nói, "Phòng khi tôi muốn học ma thuật Haven."
+
+Aztram nói, "Cuộc thi sắp bắt đầu rồi. Frobod, ngài đi với tôi, và với quý cô, cứ tự nhiên ngồi ở khu vực hộp vàng trong sự kiện. Tất cả các quán quân đều được quyền có một chỗ ngồi, mặc dù một số chọn không đến cho đến sự kiện của họ, hoặc chọn xem cùng dân thường."
+
+"Cảm ơn," tôi nói.
+
+Aztram nói, "Nó ở ngay bên ngoài thôi."
+
+Tôi nhìn Frobod và nói "Rời nhóm đi, để chúng ta có thể gia nhập lại với những người khác." Trong khi gõ một tin nhắn văn bản trong VT của tôi.
+
+*Bạn đã tham gia nhóm của Mirae.*
+
+Frobod nói. "Cô ấy vừa gửi lời mời cho tôi."
+
+*Frobod đã tham gia nhóm.*
+
+Sử dụng kênh chat nhóm tôi nói, "Mọi người đến phía bên phải của đấu trường bên cạnh chỗ các quý tộc ngồi ấy. Quán quân có khu vực riêng."
+
+Tako nói, "Đi trước chị lâu rồi. Bọn em ở đây rồi, chị đang ở đâu?"
+
+Tôi nói, "Bọn chị đang ở chuồng ngựa. Sẽ lên ngay đây."
+
+Tôi đi ra theo lối cũ, liếc nhìn tất cả các thú cưỡi. Tôi không lo lắng về cuộc thi, nhưng nếu phải đoán thì tất cả các loài ngựa đều thuộc về Dân Haven, và những sinh vật hào nhoáng hơn như cá mập đất, chổi thần, và có lẽ con ngựa quỷ sẽ được cưỡi bởi các nhà thám hiểm. Con ngựa quỷ khịt ra một luồng bồ hóng đen từ lỗ mũi, nó có đôi mắt đỏ phát sáng mờ nhạt, và hàm răng sói săn mồi. Tôi nói "Mày không dọa được tao đâu, cậu bé to xác."
+
+Những con ngựa thường bình tĩnh một cách đáng ngạc nhiên trước sự hiện diện của những loài ăn thịt xung quanh chúng. Chúng hoặc là được huấn luyện tốt, hoặc đây chỉ là một ví dụ nữa về những thứ hoạt động trong Freehaven, mà sẽ không xảy ra trong đời thực.
+
+Bên ngoài, tôi thấy Tako và Mirae đang ngồi cùng nhau, với Laurelade ở một bên. Với đôi chân ngắn không thể chạm đất, cô trông như một đứa bé trong bộ trang phục trung cổ đắt tiền. Gnomes... Ít nhất đàn ông thường có râu.
+
+Tôi ngồi cạnh Mirae, người âu yếm tựa đầu vào vai tôi một giây, trước khi phấn chấn nói "Cái này sẽ tuyệt lắm đây!" Em ấy vỗ tay.
+
+"Vụ lén lút đó là sao thế?" Tako hỏi.
+
+Tôi mỉm cười. "Ồ không có gì. Bọn chị chỉ bàn chiến thuật cho trận đấu thương thôi."
+
+Tako nói, "Chị có đặt cược không?"
+
+"Có," tôi nói, "Một nghìn vàng, cho Frobod."
+
+"Kinh thật bà chị! Chị hẳn là giàu lắm. Cược để xếp hạng à?"
+
+Tôi lắc đầu không, "Để thắng, và ừ, đó là khoảng một phần tư quỹ của chị."
+
+Tako chồm tới trước, để chúng tôi có thể nói chuyện qua người Mirae. "Hắn đưa chị tỷ lệ thế nào?"
+
+"Ba ăn một," tôi nói.
+
+"Chị bị cướp rồi. Ý em là, em chắc Frobod giỏi và tất cả, nhưng đây là cuộc thi phiên bản giới hạn. Em sẽ đòi ít nhất là năm."
+
+Mirae nói, "Em không nghĩ NPC được phép làm thế."
+
+"Làm gì?" tôi hỏi.
+
+"Lừa chị ấy," Em nói.
+
+"Đó là mức tốt nhất hắn có thể đưa ra, và chị không lo. Frobod sẽ hủy diệt họ."
+
+"Chị đã làm gì?" Tako nói, sự nghi ngờ tăng lên trong giọng nói.
+
+"Không có gì bất hợp pháp cả. Chị hứa, tất cả đều đúng luật, nhưng trời ơi họ sẽ ngạc nhiên lắm đây."
+
+"Anh ấy dùng cái xe à?" Tako hỏi.
+
+"Chuẩn cơm mẹ nấu rồi đấy."
+
+Mirae, lay vai cả hai chúng tôi, và chỉ vào trung tâm sân đấu. Một đoàn diễu hành gồm mười sáu chiến binh hình nhân tiến vào sân. Frobod, trông cực ngầu trong bộ Deadplate, đứng ở vị trí thứ ba từ cuối lên. Ngay khi Mirae nói, "Bắt đầu rồi!" người sứ giả thổi tù và.
+
+Mọi người reo hò.
+
+Có một sân khấu gỗ nâng cao dành cho giới quý tộc nơi Lãnh chúa Zarentu ngồi trên ngai vàng. Với làn da trắng nhợt, và mái tóc dài màu rơm tẩy trắng, chiếc áo choàng tối màu, và trang phục quân sự của ông tạo nên sự tương phản rõ rệt, mang lại cho ông khí chất của một chỉ huy ma quái từ Rome cổ đại. Ông giơ một bàn tay trắng lên đám đông, và hô im lặng.
+
+Một sứ giả khác, với giọng nói được cường hóa bằng phép thuật nói, "Chào mừng đến với giải đấu của các Quán quân Dragonswood." Một tràng pháo tay rầm rộ khác. Ông nói, "Quỳ xuống." tất cả các quán quân, bao gồm cả Frobod làm theo lời. "Chiến đấu với danh dự. Hãy để trò chơi bắt đầu!"
+
+Tất cả các đấu sĩ đứng dậy, và rảo bước nhanh về phía chuồng ngựa. Tôi có thể nghe thấy họ chen lấn phía sau chúng tôi, cùng với sự xáo động của thú cưỡi, cả ngựa và các loài kỳ lạ. Sau đó, từ hư không con cá mập đất nhảy qua tường đấu trường chở một kỵ sĩ gần như chói mắt. Hắn mặc giáp bạch kim sáng loáng, và hầu như mọi hào quang bạc, hoặc trắng trang trí có thể tưởng tượng được đang nhảy múa quanh hắn. Có hiệu ứng hào quang mặt trời, những chiếc lá vô hình liên tục rơi quanh người hắn, và thậm chí cả một cơn mưa tuyết nhẹ tỏa sáng.
+
+"Một con Sametora!" Mirae nói, vỗ tay thích thú.
+
+"Con gì cơ?" tôi hỏi.
+
+"Nó giống như một con cá mập trắng lớn có chân ấy. Chị nên có một con nếu chị chưa bán nó."
+
+"Thực ra..." tôi nói, "Chị nghĩ chị có, nhưng chưa bao giờ triệu hồi."
+
+"Chúng tuyệt lắm," Mirae xác nhận. "Chị có thể cưỡi trên đất liền, và xuống biển."
+
+Kỵ sĩ, một nhà thám hiểm tên là Payneskill, giơ cao ngọn thương lên trời khi hắn chạy một vòng quanh đấu trường. Đám đông tràn ngập những tiếng "Ồ" và "À" cho thú cưỡi. Mỗi lần kỵ sĩ dừng lại, con cá mập lắc đầu, như thể đang xé xác con mồi.
+
+Tako nói, "Đúng là thằng quay tay."
+
+"Cậu biết hắn à?" tôi hỏi.
+
+"Gã đó là một thằng đểu," Tako nói, "Một thằng công tử bột nạp tiền chơi game, nghĩ rằng chỉ vì hắn có hầu như mọi vật phẩm phù phiếm trong game thì hắn thực sự biết chơi. Hắn là một sĩ quan trong câu lạc bộ người hâm mộ Leroy Jensen, thế là đủ hiểu rồi."
+
+Mirae nói, "Một số người trong bọn họ là tank khá giỏi mà."
+
+"Không phải thằng này," Tako nói.
+
+Câu lạc bộ người hâm mộ Leroy Jensen, là một bang hội của những người chơi tôn sùng game thủ chuyên nghiệp được biết đến là Leroy Jensen. Anh ta chỉ chơi tank, và có tiếng là giữ agro những nhóm quái lớn đến nực cười, trong khi dựa vào một đội quân healer để giữ cho mình đầy máu. Họ là một đám khó ưa, vì họ thích hét tên "Leeeeerooooooooyyy Jennnnnsssseeen" với một chút gầm gừ ở giữa như tiếng xung trận, lời chào công khai, hoặc tạm biệt.
+
+Ngay khi suy nghĩ đó xuất hiện, tôi nghe thấy hắn hét lên "Leeeeerooooooyyy Jennnnsen!"
+
+Tako nói, "Đúng là thằng công cụ."
+
+Sứ giả, với giọng nói được cường hóa phép thuật nói, "Thí sinh đầu tiên của chúng ta là Payneskill," ông ta phát âm là 'pain skill,' "Paladin của Gond Thần Công Lý - Sĩ quan của Câu lạc bộ người hâm mộ Leroy Jensen."
+
+Tako chụm tay quanh miệng và hét "Penis kill!" cậu ta dừng lại, và nhấn mạnh cách phát âm của mình "PAY-nes Kill! Húuuu!! Lên đi thằng đầu buồi!"
+
+Kỵ sĩ bạch kim cựa quậy, và nhìn quanh từ bên trong chiếc mũ che kín mặt, cố gắng xác định nguồn gốc của lời lăng mạ. Sứ giả mặt khác tham khảo cuộn giấy ông ta đang đọc và nói "Penis kill? Có đúng không?" Ông ta nói, ở mức âm lượng lẽ ra là mức hội thoại nếu không có phép thuật khuếch đại. Dân Haven, và người chơi cười ồ lên.
+
+Tako nói, "Kinh điển!"
+
+Sứ giả, tên là Brime theo bảng tên nói, "Tôi thành thật xin lỗi." Ông ta dừng lại như thể xấu hổ khi nói tên nhà thám hiểm "Thí sinh đầu tiên của chúng ta là Pay-nes Kill, Sĩ quan của Câu lạc bộ người hâm mộ Leroy Jensen."
+
+Tako cười hô hố, và nói "Vô giá! Chúa ơi, ước gì tôi đang quay video."
+
+Chúng tôi nghe thấy tiếng hét như trong hộp thiếc từ bên trong mũ của Payne, nhưng tôi không thể nghe rõ từ ngữ. Hắn lóng ngóng ngã khỏi lưng con sametora, và đi thẳng về phía bục của quý tộc. Hắn hét gì đó lần nữa, nhưng tất cả những gì tôi nghe được là tiếng vọng hộp thiếc bị bóp nghẹt.
+
+Cuối cùng, hắn tháo mũ ra, và ném bằng hai tay xuống đất, để lộ một khuôn mặt trẻ con, với mái tóc đen ngắn trông như được cắt ở nhà bằng kéo làm bếp. Hắn cũng có một chòm râu dê nhỏ, loại mà một đứa mười sáu tuổi có thể nuôi để thuyết phục mọi người rằng nó trên hai mốt tuổi. Không lừa được ai đâu.
+
+"Là Pain Skill! Tao là tank! Chúa ơi! Lũ các người đúng là bọn ngu đần!"
+
+Hắn đá vào mũ của chính mình, điều mà tôi thích thú thấy là khiến một cơn mưa đất đổ vào bên trong, trước khi hắn lật nó lại và đội lên đầu mình.
+
+"Vô cùng xin lỗi." Sứ giả Brime nói. "Pain-Skill. Xin ngài vui lòng lên ngựa lại chứ? Chúng tôi muốn bắt đầu."
+
+Payne nâng tấm che mặt lên, điều này làm Tako cười còn to hơn, vì rõ ràng, hắn đã quên sử dụng nó. Ngay cả tôi cũng bắt đầu cười khúc khích.
+
+Payneskill nói, "Rồi! Chúa ơi. Tôi đi đây. Nhanh lên chút đi." Trước khi thả tấm kim loại xuống che lại mặt.
+
+Brime nói, "Cảm ơn," khi Payne kéo mình trở lại trên lưng thú cưỡi. sau đó bằng giọng kịch tính hơn nói, "Và kẻ thách thức hắn..... Nothgoran, phối ngẫu của Raika, người bảo vệ Windroost!"
+
+Một tiếng hí từ thế giới khác vang lên, khi con ngựa quỷ phun bồ hóng nhảy vào đấu trường thở hồng hộc, và thở ra những đám mây tro dày từ lỗ mũi. Tôi đang nhanh chóng học được rằng chỉ có bọn gà mờ mới dùng cổng mở. Chiến binh rồng đáng sợ bơm ngọn thương đen của mình lên cao quá đầu, vung vẩy nó như thể nó không có trọng lượng. Zarentu và Nothgoran không thể khác nhau hơn được nữa. Trong khi Zarentu có những đường nét sắc sảo đầy kiêu hãnh, trông rất giống con người, Nothgoran có làn da đen, chỉ có những khe hở thay cho mũi, và một cái miệng đầy răng nanh rồng độc ác. Tôi cá là ngay cả da của hắn cũng có vảy, nếu có cơ hội chạm vào.
+
+Tôi nói, "Chị tự hỏi liệu hắn có nhớ chúng ta từ Windroost không."
+
+Mirae hỏi, "Hồi đó NPC có thông minh không ạ?"
+
+"Chị mong là không," tôi nói, "Nhớ lại hầm ngục có nghĩa là nhớ lại rất nhiều cái chết."
+
+"Chị đang bênh vực hắn à?" Tako hỏi.
+
+"Không, không hẳn. Chị chỉ có ý là... Nó sẽ làm gì một con người khi nhớ lại nhiều cái chết như vậy?"
+
+Lần đầu tiên con Gnome chen vào cuộc trò chuyện. "Chúng không phải người, nhớ chứ. Chúng chỉ là NPC thôi."
+
+"Hơn nữa," Mirae nói, "Em đã chết rất nhiều lần. Tất cả chúng ta đều thế. Không ai trong chúng ta trở thành kẻ thái nhân cách, hay bất cứ thứ gì chị đang sợ cả."
+
+"Chị đoán thế," tôi nói, "Chị chỉ đang triết lý vớ vẩn thôi."
+
+Thực sự thì, bằng cách nào đó một phần trong tôi cho rằng cái chết và bạo lực của Freehaven thực hơn đối với Dân Haven, bằng cách nào đó gần hơn với những gì chúng ta sẽ cảm thấy khi trải nghiệm chúng trong thế giới thực, giờ đây khi họ đã được nâng cấp, nhưng giờ nghĩ về những bình luận của Mirae tôi tự hỏi liệu có phải vậy không. Tôi đã chết nhiều lần hơn tôi có thể đếm giữa Freeworld và Haven, và không cảm thấy bớt con người đi chút nào.
+
+Lúc này, Nothgoran và Payneskill đang đối mặt ở hai đầu của một dải phân cách dài. Brime nói, "Các vị biết luật rồi. Năm hiệp. Các vị sẽ bị loại nếu bị ngã ngựa. Đánh vào thú cưỡi của đối thủ bị trừ năm điểm, và làm nó mất khả năng chiến đấu dẫn đến việc bị loại ngay lập tức. Cộng năm điểm cho mục tiêu, cộng một cho chạm, hai cho gãy, và ba cho vỡ."
+
+Mirae giải thích, trước khi tôi có cơ hội hỏi. "Chị thấy tấm khiên đỏ thêm trên giáp của họ không? Đó là mục tiêu. Một cú chạm đơn giản vào kỵ sĩ kia được một điểm, làm gãy đầu ngọn thương được hai điểm, và làm vỡ nát ngọn thương được ba điểm nữa."
+
+"Cảm ơn," tôi nói. "Em nghĩ ai sẽ thắng?"
+
+Tako nói, "Nothgoran sẽ lau sàn bằng hắn."
+
+Lúc đầu tôi không chắc lắm, nhưng sau khi thấy toàn bộ vụ cái tên và đá đất vào mũ của chính mình, tôi đồng ý với Tako. Đúng là thằng ngố.
+
+Payneskill hét lên "Leeeroooooyyy Jenssssen!" trước khi dập tấm che mặt xuống và thực hiện hiệp đầu tiên. Thương gãy, Payne suýt ngã ngựa, và những mảnh gỗ bay tứ tung. Tên nhà thám hiểm chỉ vừa vặn giữ được khi cơ thể bị đập tơi tả. Một người hầu đưa cho Nothgoran một ngọn thương mới, hắn giơ cao quá đầu, với đám đông hò reo.
+
+Tako nói, "Chặt cu hắn đi! Pay-nes kill!" Kỵ sĩ bạch kim dường như không để ý.
+
+Hiệp tiếp theo bắt đầu với một tiếng hét khác "Leeerooooy Jennnsseen!" và lần này Payne thể hiện tốt hơn. Thương của hắn gãy, nhưng đâm vào Nothgoran chệch mục tiêu khá xa. Cả hai kỵ sĩ thậm chí không gần bị ngã ngựa. Thú cưỡi cựa quậy, và cả hai kỵ sĩ với xuống lấy thương mới. Tôi đã không để ý trước đó, nhưng giờ thấy rằng chính Sten tai to đang phục vụ tên nhà thám hiểm. Tôi tự hỏi liệu Pert có ở đầu bên kia không.
+
+"Leeeroooooy Jensen!"
+
+Đó là tất cả những gì chúng tôi nghe thấy trước khi một tiếng RẮC lớn vang lên và Payneskill bay ngược lại, mông và chân lộn qua đầu. Hắn đáp mặt xuống nền đất cứng khi kết thúc cú lộn ngược đau đớn. Nothgoran bơm nắm đấm đen lên trời trước sự thích thú của đám đông say mê. Trong khi đó, một bộ đôi trị liệu sư, trong áo choàng xanh và vàng lao đến người chơi đã ngã, quay những vòng phép thuật chữa trị màu vàng hào quang.
+
+"Này Mirae," tôi hỏi.
+
+"Hửm?"
+
+"Sao phép của họ màu vàng, trong khi của em màu xanh?" tôi hỏi.
+
+"Họ dùng ma thuật khác. Em dùng đồ thiên nhiên."
+
+Em nói, "Màu vàng đó hoặc là ánh sáng hoặc ma thuật thần thánh. Em đoán là ánh sáng vì Zarentu là rồng ánh sáng."
+
+"Hợp lý."
+
+Sứ giả Brime nói, "Vòng 1 thuộc về Nothgoran. Payneskill," lần này ông ta nói đúng, "Đã bị loại."
+
+Có một vài tiếng la ó trong đám đông, nhưng nhìn chung Dân Haven ủng hộ con rồng. Thật dễ đoán khi xem xét đây là sự kiện của rồng.
+
+"Thí sinh tiếp theo của chúng ta là Quý bà Ashtara của South Reach, phối ngẫu của Lãnh chúa Jamirine."
+
+Không giống như hai thí sinh đầu tiên, Ashtara phi như sấm qua cổng mở trên một con chiến mã palomino nhanh nhẹn trong bộ giáp đầy đủ. Mái tóc đen mượt quất phía sau cô như một lá cờ.
+
+"Cô ta là rồng à?" tôi hỏi.
+
+Mirae nói, "Trong dạng người. Họ đều là rồng trừ khi là người chơi."
+
+Khi cô vòng lại từ vòng giới thiệu của mình, tôi ngưỡng mộ làn da sô cô la mịn màng, rất người, và rất khác với màu đen bồ hóng của Nothgoran.
+
+"Họ chắc chắn có đủ loại hình dạng," tôi nói.
+
+Mirae nói, "Những kẻ thú tính hơn thường ít thiện cảm với nhân loại hơn, hoặc họ chỉ thực sự tự hào về di sản bò sát của mình."
+
+"Vậy tại sao tất cả họ đều reo hò?" tôi hỏi.
+
+"Không phải ai ở đây cũng là con người," Mirae nói. "... và một chiến binh mạnh là một chiến binh mạnh bất kể họ nghĩ gì về con người." Mirae vẫy tay, "Tất cả họ ở đây để xem trình diễn."
+
+Ashtara ổn định ở phía đấu trường của Sten. Thú cưỡi của cô quất đuôi phía sau. Brime nói, "Và đối thủ của cô, đến từ Lâu đài Dragonswood," đám đông reo hò, đây hẳn là một người nổi tiếng địa phương, "Hiệp sĩ của Dragonswood và triều đình của Lãnh chúa Zarentu, Ngài Trooooogon!"
+
+Một con ngựa đốm phi nước đại vào, chở một kỵ sĩ trong bộ giáp màu Xanh Thường Xuân, và áo tabard trắng vàng có huy hiệu rồng và lửa của nhà Zarentu. Tôi không thể thấy liệu anh ta có khuôn mặt có vảy hay không do mũ giáp, với chùm lông vũ đen dài. Anh chào Ashtara khi đến gần hơn, và cô đáp lại bằng một cái cúi đầu nhẹ trên lưng ngựa. Anh vòng lại, và vào vị trí cũ của Nothgoran.
+
+Trận đấu kéo dài, gồm năm hiệp, và không kỵ sĩ nào bị ngã ngựa. Phần nhiều, trước sự thất vọng của đám đông địa phương, Ashtara chứng tỏ là người chiến thắng, với cách biệt ba điểm. Trogon, chúc mừng Quý bà của South Reach và ân cần chấp nhận thất bại. Đám đông reo hò cho anh lần cuối, khi anh giơ bàn tay đeo giáp mở ra với họ, và rời khỏi đấu trường.
+
+"Và cho trận đấu tiếp theo của chúng ta, đến từ Athelon," Sứ giả Brime nói. Mirae huých vào sườn tôi. "Thành viên của Bánh Muffin Độc Dược, chúng ta có Frobod!"
+
+Tiếng gầm của động cơ Etherbike lấp đầy tai tôi.
+
+"Frobod!" Mirae nói.
+
+Tôi hét lên, "Húuuuu!"
+
+Laurelade im lặng, nhưng Tako bắt đầu điệp khúc "Muffin! Muffin! Muffin! Muffin!"
+
+Kỵ sĩ tử thần của chúng tôi, trong bộ giáp Deadplate tiến vào đấu trường, trên chiếc Elechopper giờ đã quá khổ của mình. Tôi hài lòng khi thấy anh giới hạn tốc độ ở mức hai trăm phần trăm khi thực hiện vòng giới thiệu. Nếu là tôi, tôi sẽ bốc đầu, nhưng tôi đoán tâm trí anh tập trung vào chiến thắng hơn là khoe khoang. Dù vậy, tôi đánh giá cao những dải ánh sáng mờ nhạt tuôn ra từ ống xả nơi xe tôi sẽ phun lửa.
+
+Phản ứng của đám đông đa dạng như khi lái xe qua thị trấn, chắc chắn có những tiếng reo hò, đáng chú ý nhất là từ một người phụ nữ tóc đỏ ở hàng ghế đầu mặc váy xanh lá cây, nhưng phổ biến hơn nhiều là những tiếng "Wao" mà bạn mong đợi ở màn pháo hoa Năm Mới, với chỉ một vài tiếng càu nhàu về ma thuật ngoại lai.
+
+Mắt tôi liếc về phía Zarentu để đo lường phản ứng của ông, đã tự đặt mình chống lại con rồng thế giới khác trong nhiệm vụ của chúng tôi. Ông gãi khuôn mặt không râu của mình bằng ngón cái và ngón trỏ trong sự trầm ngâm, mặc dù ông dường như không phật ý.
+
+Tôi nói, "Có vẻ vàng của tôi vẫn an toàn," khi tôi chỉ vào ông để Mirae thấy. "Nếu ông ta định loại Frobod, bây giờ sẽ là lúc."
+
+"Em cho là ông ấy bị thu hút," Mirae nói.
+
+"Tất nhiên là ông ấy bị thu hút rồi," Tako nói, "Ông ấy là một con rồng, vừa tìm thấy một món đồ chơi mới."
+
+Frobod vào vị trí không chút nghi thức, mặc dù khuôn mặt rạng rỡ của cậu người hầu tai to cho tôi biết cậu ta vui mừng khôn xiết khi được phục vụ chủ nhân của một chiếc Elechopper. Tôi mừng cho cậu bé. Mặc dù họ chỉ là NPC, tôi thấy mình quý mến những người dễ mến, không giống như Sleeve kẻ sắp mất rất nhiều tiền.
+
+Brime nói, "Và đối thủ của anh. Cơn Gió Bắc, phối ngẫu của Viranda, và nhà vô địch đương kim hai lần, Lãnh chúa Xephrus!"
+
+Đám đông phát cuồng, khi một kỵ sĩ cưỡi ngựa trắng lao vào đấu trường. Tôi đã nghĩ đó là một con chiến mã bình thường, nhưng sau khi nó đi qua, tôi thấy những dấu chân ma thuật sáng rực cháy với ngọn lửa vàng. Những dấu vết mờ đi chỉ sau vài giây.
+
+"Xui xẻo thật," Tako nói. "Ý em là, bị xếp đấu với đương kim vô địch ngay trận đầu tiên."
+
+"Chị không lo," tôi nói. "Cứ xem đi."
+
+Tako nhún vai.
+
+Xephrus tận hưởng tràng pháo tay, mỗi tiếng reo hò làm hắn phồng lên một chút, một con ma cà rồng sự ngưỡng mộ. Bộ giáp đầy đủ của hắn có màu của bầu trời và những đám mây vào một ngày đẹp trời như hôm nay. Từ những gì tôi có thể thấy bên trong tấm che mặt được nâng lên. Hắn có những đường nét góc cạnh giống như một con elf, và làn da màu đào nhạt có vẻ như là người. Tôi nghĩ, "Hắn hẳn là một trong những kẻ thân thiện."
+
+Những người hầu phân phát thương. Chiếc etherbike gầm lên lời thách thức. Nó diễn ra nhanh đến mức tôi cần xem lại tức thì trong thế giới thực. Một khoảnh khắc, những ngọn thương được chĩa thẳng, khoảnh khắc tiếp theo, tiếng móng ngựa bị nhấn chìm trong tiếng gầm của động cơ ma thuật. Những mảnh vỡ vũ khí của Frobod bay tứ tung, và Xephrus bị ngã ngựa.
+
+Sự im lặng sững sờ bao trùm đám đông, khi kỵ sĩ rồng khập khiễng đứng dậy, cách nơi bắt đầu vài thân ngựa, một khoảng cách rất, rất xa so với trung tâm nơi các kỵ sĩ thường gặp nhau. Những trị liệu sư xanh và vàng di chuyển để chặn hắn, nhưng đối thủ kiêu hãnh xua họ đi, và nâng tấm che mặt lên.
+
+Hắn hét lên, "Ý nghĩa của việc này là gì?"
+
+Một giọng nói đơn độc trong đám đông hét lên, "Ma thuật ngoại lai!"
+
+Xephrus nói, "Cái xe đã bị yểm bùa, hoặc hắn đã gian lận. Không chiến mã nào có thể di chuyển nhanh như vậy."
+
+Frobod nâng tấm che mặt của mình lên và đáp trả, "Nó không ma thuật hơn hay kém những dấu chân rực lửa của ngươi đâu. Tốc độ là đặc tính bẩm sinh của Elechopper, không cần cường hóa."
+
+"Nói láo!" Xephrus nói. "Không thể nào! Chúng ta không phải là những chiến binh danh dự sao?"
+
+Những tiếng xì xào tai tiếng quét qua đám đông. Zarentu ra hiệu cho Sứ giả Brime, người thốt ra một câu thần chú buff cho lãnh chúa của mình. Giờ giọng Zarentu vang vọng khắp đấu trường.
+
+"Lãnh chúa Xephrus... Frobod, của Bánh Muffin Độc Dược.... Lại đây." Họ làm theo lệnh, Xephrus tháo chiếc mũ xanh của mình để lộ đôi tai dài theo kiểu elf, khung xương của hắn, giống con người, cao và to lớn so với chủng tộc nhỏ bé hơn.
+
+Xephrus mở miệng định nói, nhưng Lãnh chúa Zarentu giơ tay ngăn lại và nói, "Giữ lời, gian lận là một cáo buộc nghiêm trọng trong giải đấu của ta." Xephrus cúi đầu, đủ để thể hiện sự tôn trọng với một người ngang hàng. "Ngươi tin rằng thuộc hạ của ta bất tài sao?"
+
+"Tôi không, nhưng..."
+
+Zarentu cắt ngang, "Ngươi không tin rằng chúng ta kiểm tra thú cưỡi, và xét nghiệm cường hóa sao?"
+
+"Tôi có tin, nhưng."
+
+Zarentu nói, "Sao?"
+
+Xephrus nói, "Hắn là con người. Chúng sống, sinh sản, và thở ra sự phản trắc!"
+
+Zarentu nói, "Điều này đã biết, cũng như cũng biết rằng họ có thể có danh dự." Lãnh chúa của lâu đài quay sang Frobod, người vẫn giữ im lặng cho đến giờ. "Ngươi có thề rằng thú cưỡi của ngươi không bị cường hóa bởi bất kỳ bên nào, ngoại trừ Thầy Aztram trong chuồng ngựa của ta không?"
+
+"Tôi thề, thưa Lãnh chúa." Frobod nói, "Nó đúng như tôi đã nói. Tốc độ mặt đất của Elechopper là đặc tính bẩm sinh của chiếc xe."
+
+"Xe," Zarentu nói, nếm thử từ đó trong miệng. "Ngươi sẽ cho chúng ta một màn trình diễn. Chạy quanh đấu trường ba lần với... Elechopper của ngươi."
+
+Frobod cúi đầu, và lên xe. Anh rồ động cơ ma thuật, và lao đi, hất tung một đám bụi đất, và màu sắc thanh tao trong vệt xe. Một vòng, hai vòng, ba vòng hoàn thành và anh trượt dừng lại trước mặt lãnh chúa của lâu đài Dragonswood. Bụi bay lơ lửng. Cả chuyến đi chỉ mất thời gian nhỉnh hơn một chút so với các kỵ sĩ khác hoàn thành vòng giới thiệu của họ.
+
+"Ngươi sẽ giao nộp thú cưỡi cho Aztram để kiểm tra thêm." Đó không phải là một câu hỏi. Zarentu sau đó quay sang nhìn Xephrus và nói, "Nếu Thầy Aztram tìm thấy cường hóa trái phép, Frobod của Bánh Muffin Độc Dược sẽ bị loại, và ngay lập tức bị trục xuất khỏi Lâu đài Dragonswood. Lãnh chúa Xephrus sẽ đi tiếp." Xephrus, cúi đầu, với vẻ mặt thỏa mãn tự mãn, đã chắc chắn về kết quả. Zarentu tiếp tục, "Tuy nhiên, nếu thú cưỡi đúng như Frobod nói. Hắn sẽ giữ nguyên vị trí, và nhận lời xin lỗi chính thức của Lâu đài Dragonswood vì đã nghi ngờ danh dự của hắn. Hình phạt của ngươi sẽ là quỳ xuống, và thừa nhận hắn giỏi hơn ngươi."
+
+Một làn sóng bàn tán bùng nổ từ mọi hướng; những suy đoán bàng hoàng từ khán đài. Nếu có một quy tắc tôi có thể suy ra về loài rồng, đó là họ không quỳ gối trước con người, bất kể giỏi chiến đấu đến đâu.
+
+Xephrus nói, "Tôi chấp nhận." như thể hắn có lựa chọn trong vấn đề này. Một cử chỉ nhỏ để giữ lại chút thể diện.
+
+"Thầy Aztram..." Zarentu nói, ra hiệu cho pháp sư, người chạy vội vào đấu trường từ cổng gần chuồng ngựa nhất. Tôi thấy ông ta thi triển phép, giống như chúng tôi đã thấy trước đó, tắm chiếc Elechopper trong những dải ma thuật.
+
+Quá trình mất năm phút, nhưng khi ông xong việc Aztram nói, "Tôi không thể phát hiện ra cường hóa trái phép nào."
+
+Xephrus gầm lên, "Thật điên rồ! Không thú cưỡi mặt đất nào có thể di chuyển nhanh như vậy!"
+
+Zarentu nói, "Có vẻ như, thực tế là, có một loại có thể." Một nụ cười nhỏ nở trên môi ông khiến tôi tự hỏi có loại lịch sử gì giữa ông và Xephrus.
+
+"Thật là một sự sỉ nhục!" Xephrus nói.
+
+"Ta có thể đưa ra một lời khuyên không?" Xephrus mím chặt miệng, và gật đầu. Zarentu nói, "Tập luyện chăm chỉ hơn đi." Một tràng cười từ đám đông. "Thế giới đang thay đổi rồi."
+
+"Tôi-" Xephrus nói, nhưng Zarentu cắt ngang.
+
+"Quỳ xuống."
+
+"Tôi sẽ không!" tên kỵ sĩ rồng phồng lên, ưỡn ngực ra như gà trống, "Tôi là một con rồng."
+
+"Quỳ xuống." Zarentu nói, "Hoặc bị bắt phải quỳ."
+
+Có một khoảnh khắc do dự, với tất cả hơi thở bị nín lại, khi chúng tôi chờ đợi phản ứng của Xephrus. Chúng tôi ở quá xa, đến mức tôi chỉ có thể bắt được cái gật đầu nhỏ nhất. Những giây trôi qua trong sự im lặng ngột ngạt, trước khi Xephrus quay lại và quỳ một gối về hướng Frobod. Tôi nghe thấy vài từ, nhưng không thể phân biệt được.
+
+"To hơn." Zarentu nói, nghe hắn không thành vấn đề nhờ phép thuật trên giọng nói.
+
+Giọng của Xephrus bị đóng đinh vào một sự khiêm tốn gượng ép, quá không tự nhiên với một con rồng. "Đánh hay lắm." Trong một khoảnh khắc tôi nghĩ thế là xong, nhưng hắn vẫn quỳ.
+
+Zarentu dẫn dắt, "... và?"
+
+"Tôi thừa nhận anh là kỵ sĩ giỏi hơn, trong phạm vi cuộc thi này."
+
+Có một tiếng thở dài tập thể, khi mọi người thở phào.
+
+Frobod nói, "Cảm ơn," và đưa tay ra giúp Xephrus đứng dậy. Hắn nhếch mép khinh bỉ, và tự đứng dậy.
+
+Tako nói, "Frobod vừa kiếm cho mình một kẻ thù rồi," bằng giọng miền Nam giả cầy.
+
+Cái nhếch mép của Zarentu làm ông trông cực kỳ hài lòng với bản thân. "Đấy, có khó lắm đâu?" Thay vì chờ đợi câu trả lời, lãnh chúa của Lâu đài Dragonswood tha cho Xephrus khỏi mất mặt thêm bằng cách tuyên bố "Để trận đấu thương tiếp tục!"
+
+Mirae nói, "Zarentu hẳn là không thích Xephrus lắm. Chị từng nghe về những trận chiến nổ ra vì những lý do nhỏ hơn thế."
+
+Tôi nhún vai, "Lòng kiêu hãnh của rồng thực sự nhạy cảm thế sao?"
+
+Em nói, "Có thể lắm, và chị có thể thấy ông ấy đang chọc tức hắn ta."
+
+Hai trận đấu tiếp theo của Frobod cũng quyết định không kém, mặc dù nếu đối thủ của anh có oán giận, họ cũng giấu giỏi hơn, và tất cả thời gian mất cho màn làm nhục Xephrus, được bù đắp dễ dàng bởi việc Frobod đánh ngã các kỵ sĩ ngay trong hiệp đầu tiên. Anh ấy, nói một cách dễ hiểu là OP (Bá đạo). Không kỵ sĩ nào khác có cơ hội chống lại những cú húc tốc độ mặt đất 600%.
+
+Vòng chung kết là trận đấu giữa anh và Quý bà Ashtara, người thử một chiến thuật mới. Thay vì hạ thương, và lao tới trên con ngựa cái của mình, cô đứng yên, trong khi giữ ngọn thương ở tư thế đâm. Va chạm xảy ra ngay tại điểm xuất phát của cô. Rắc! Những mảnh vỡ của cả hai ngọn thương trút xuống các kỵ sĩ, khi thương của Frobod vỡ nát, và cô làm gãy một đầu thương. Đà của chính Frobod lái cán thương của cô vào bộ giáp của anh. Trước sự ngạc nhiên của tôi, cô vẫn ngồi trên ngựa. Mọi chút năng lượng của cô hẳn đã được dồn vào việc dán chặt mình vào yên, và giữ chắc ngọn thương.
+
+Frobod chào, khi anh vòng lại, và trở về cuối làn của mình. Cô gật đầu với anh để đáp lễ. Tôi nghĩ cô ấy xong đời rồi khi chiếc Etherchopper gầm lên, và Frobod lao về phía cô, nhưng cô áp dụng chiến thuật tương tự. Cả hai đầu thương đều gãy, Frobod bị lung lay, nhưng không rời khỏi thú cưỡi. Ngược lại Ashtara ngã, và suýt chạm đất. Bằng một phép màu nào đó, tay cô vung ra trong một cú chộp điên cuồng, và tóm được núm yên ngựa vừa kịp lúc. Từ đó cô có thể tự kéo mình lên và trở lại chỗ ngồi. Những tiếng "Ồồồ!" và tiếng vỗ tay rải rác vang lên trong đám đông. Cô bắt chước kiểu chào của Frobod khi anh quay lại làn của mình.
+
+Rõ ràng, nó không được tính là bị ngã ngựa trừ khi bạn thực sự chạm đất. Tôi nhìn qua Tako và Mirae đến Laurelade, người có vẻ mặt chán chường. Tôi tự hỏi liệu dùng phép lơ lửng đó có bị coi là gian lận không. Có bao nhiêu kỵ sĩ-pháp sư ngoài kia nhỉ?
+
+Đến lúc cho hiệp thứ ba, động cơ gầm lên. Ashtara đã chán chơi phòng thủ, khi thú cưỡi của cô lao về phía trước. Sai lầm lớn. Giáp và thương va vào nhau loảng xoảng, nhưng ít nhất cô không ra đi trong tiếng thút thít khi cán thương của cô vỡ vụn thành từng mảnh. Một cú vỡ hoàn toàn, đám đông reo hò trước sự hủy diệt nhưng nó ngắn ngủi, khi con rồng rời khỏi yên và lao xuống đất.
+
+Frobod ném những gì còn lại của ngọn thương sang một bên, và bơm nắm đấm lên trời như người chiến thắng. Dân Haven hô vang, "Frobod! Frobod! Frobod!" để ăn mừng. Tất cả họ đều phấn khích trừ một gã đàn ông mặt chồn đội mũ chóp đang len qua lối ra.
+
+Trong kênh chat nhóm tôi nói, "Sleeve đang định chuồn kìa." và sau đó "Chặn hắn lại!" trong kênh địa phương cho tất cả cùng nghe. Tôi chỉ ngón tay buộc tội để không ai có thể nghi ngờ ý nghĩa của tôi.
+
+Zarentu nói, "Làm tốt lắm Frobod của Bánh Muffin Độc Dược! Ngươi đã chiến đấu rất tốt."
+
+Frobod nhớ lời khuyên của tôi về việc tỏ ra tôn trọng những con rồng quan trọng quỳ một gối xuống và nói, "Cảm ơn, thưa lãnh chúa. Nếu tôi có thể xin một ân huệ."
+
+Zarentu nói, "Phần thưởng sẽ được trao tại yến tiệc."
+
+"Vâng, thưa lãnh chúa, nhưng có vẻ một trong những thần dân của ngài đang vi phạm pháp luật. Ngay lúc chúng ta đang nói, con người tên là Sleeve đang chạy trốn với tất cả tiền của chúng tôi."
+
+"Thật vậy sao?" Zarentu nói. "Ngươi có bằng chứng không?"
+
+Frobod nói, "Nếu ngài đi theo hắn, tôi nghĩ ngài sẽ tìm thấy nó." Sau đó, chuyển sang kênh chat nhóm để Dân Haven không nghe thấy anh nói, "Cô tốt nhất là nên đúng đấy. Phòng khi cô không để ý, khi nói đến những cáo buộc sai lầm và Zarentu, họ không đùa đâu."
+
+Zarentu nói, "Là quán quân của sự kiện này, ngươi được ban một ân huệ. Nếu cáo buộc của ngươi được chứng minh là có cơ sở, ta xin cảm ơn, và sau đó là một ân huệ khác." Ông không nói chuyện gì sẽ xảy ra nếu cáo buộc của Frobod là vô căn cứ. Tôi nghi là sẽ không dễ chịu đâu.
+
+"Tôi hiểu, thưa Ngài."
+
+Việc bao gồm từ 'Ngài' làm tôi thấy hơi quân sự, nhưng các NPC không để ý sự thay đổi trong từ vựng. Phần quan trọng nhất của sự tương tác dường như là nỗ lực thể hiện sự tôn trọng đã được thực hiện.
+
+"Rất tốt." Zarentu nói. "Lính gác Dragonswood, tịch thu lều của tay cờ bạc, và mang Sleeve đến cho ta. Lãnh chúa Frobod, ngươi sẽ được triệu tập sau với kết quả của cuộc điều tra. Xin hãy lên Elechopper, và chọn bạn đồng hành của ngươi."
+
+Frobod quay lại xe của mình, nhưng có vẻ mặt bối rối. Sten nhanh chóng tiếp cận từ bên cạnh với một ngọn thương trong một tay, và một vòng hoa làm từ những bông hoa hồng vàng và lá xanh trong tay kia. Họ trao đổi những từ mà tôi không thể nghe rõ, và Frobod hạ đầu ngọn thương xuống cho Sten treo vòng hoa lên đó.
+
+Trong kênh chat nhóm tôi nghe Frobod nói, "Sến súa thật."
+
+Tôi nhìn Mirae và nói "Gì cơ?" Em ấy đang cười.
+
+Frobod chạy một vòng chậm quanh chu vi với ngọn thương trong tay, đầu quay về phía khán giả, tìm kiếm những khuôn mặt. Một số quý cô dang tay, như thể để bắt bó hoa cưới. Vai họ xụ xuống, và mặt họ xị ra khi kỵ sĩ tử thần đi qua.
+
+"Ôi Chúa ơi..." Tôi nghĩ tôi biết chuyện gì đang xảy ra. Chúng tôi đang ở khán đài cuối cùng từ nơi anh bắt đầu, và Frobod không dừng lại cho đến khi anh ở ngay trước mặt chúng tôi. Anh làm bộ tìm kiếm những khuôn mặt, má tôi nóng bừng. Đây không phải là những gì tôi đã nghĩ.
+
+Frobod đưa ngọn thương ra để vòng hoa hồng ở ngay trước mặt tôi.
+
+Sứ giả Brime nói, "Cô ấy sẽ chấp nhận chứ?"
+
+Lạy Chúa, thật xấu hổ muốn chết.
+
+Đám đông bắt đầu hô vang, "Nhận đi! Nhận đi! Nhận đi! Nhận đi!"
+
+Tôi đông cứng, nên ban đầu không nhận.
+
+Brime nói, "Cô ấy từ chối sao?" và đám đông phản ứng bằng một tiếng "Boooooooo!" vang dội.
+
+Tôi nhanh chóng chộp lấy vòng hoa trước khi tôi có thể đỏ mặt hơn nữa, và chụp nó lên đầu mình. Tiếc là nó không phải cái mũ trùm đầu để giấu đi sự xấu hổ của tôi.
+
+*Bạn đã nhận được Nhẫn Hoa Hồng Của Quán Quân.*
+*Nhẫn Hoa Hồng Của Quán Quân*
+*Loại: Exotic*
+*Vị trí: Đầu*
+*Giáp: 0*
+*Thưởng Trang bị:*
+*Uy tín +2, Ngoại hình +1, Khiêu vũ + 2*
+*Thuộc tính Đặc biệt:*
+*Cư dân của Lâu đài Dragonswood sẽ coi bạn như có cấp độ danh tiếng cao hơn một bậc (Tối đa: Đề cao).*
+
+Ngay khi nó chạm vào đầu tôi, đám đông bùng nổ trong tiếng vỗ tay và trò chuyện vui vẻ. Tôi có thể là Lãnh chúa Melpomine, nhưng hiện tại tôi cảm thấy mình khá là một Quý bà.

@@ -1,0 +1,398 @@
+Chapter 16 - Single Combat
+	I leave the keep with a spring in my step, it feels good to be paid. I don't even know what I want to spend the gold on, but it's good knowing that if I want it I can probably buy it. The archery and magic challenges, are less interesting than the joust, since they both basically come down to individuals trying to hit a target at range. I'd like to say Mirae and Laurelade brought home first place for the Toxic Muffins, but at the end of their challenges, Mirae places third, and Laurelade seventh. We're milling about the grounds waiting for single combat to start.
+	"I'm bummed that I won't get a boon from Zarentu, though." Mirae says.
+	Frobod asks, "What would you use it on if you had it?"
+	The Sea Elf says, "I'd probably ask if I could have a weapon from his armory. I've been looking for a good bow."
+	"Good idea." Frobod says. "I hadn't thought of that."
+	I say, "You could also ask for access to his bower. Maybe have something custom made."
+	The gnome looks grumpy. "I should have done better than that."
+	I can't say I'm surprised by how Laurelade finished. She did a fine job zapping, freezing, and blowing things up, but when it came to the part where she had to quickly melt specific candles, in a cluster of twelve without damaging any of the others, she fell apart. In the first attempt, two candles next to the target were destroyed, and in the next it took her so long to get the job done that she lost points.
+	I say, "Did you go through your spells and set up macros like I said?"
+	Laurelade kicks a stone in response.
+	I say, "We all still have a chance to win, or win again in the melee. It's gonna be intense."
+	Mirae says, "Well that's something. We can't win them all I guess."
+	"These are tough competitors." I say. "Taking first place isn't supposed to be easy. The fact that we're even here is awesome in itself."
+	Tako asks, "You think Pay-nes Kill will be fighting?"
+	"I dunno." I say.
+	Frobod says, "I don't think the Leroy Jensen Fan Club is an LE guild."
+	Mirae says, "Yeah, I'm pretty sure that it's just him with the LE key, which is why we didn't see more adventurers."
+	Frobod says, "Maybe he recruited some Havenfolk to join him."
+	Tako says, "Who would want to? I mean, before, yeah maybe, but with every Havenfolk person we meet being a named NPC with an advanced AI, it'll be a lot harder for him to find people to sign on with him."
+	Frobod says, "I guess it'll all come down to rep."
+	The horn announcing the impending start of single combat sounds. I equip Bite, spinning and passing it from hand to hand before looking to Tako, "That's our cue."
+	Frobod says, "Dodge-Tank makes her debut. Don't lose. I've got serious money riding on you." His voice is teasing.
+	Mirae says, "How much did you bet?"
+	Frobod says, "Two hundred gold."
+	Mirae shrugs as if to say that it's something, but not so much. She says, "I'm rooting for you."
+	I get the feeling that if she had to choose between us, she'd prefer Tako, if for no other reason than to get a wreath, but I'm not complaining. I'm not going to get jealous of my officer's crush. I say, "Thanks." to Mirae, and then to Tako "Shall we?"
+	"Let's." he says.
+	We all kneel before Lord Zarentu, and promise to conduct ourselves honorably. Now that I know that he doesn't consider Freeworld content dishonorable, I have no reservations about accessing my full array of spells and abilities. After the opening ceremony, we're escorted to the Champion's Lounge where we're informed that dragons are not allowed to take their native shapes, and now is the time to make pre-battle preparations.
+	It's a different feeling waiting in the lounge than in the stands because we can't tell what's happening. Of course we hear the crowd's "Ooohs!", crashes of steel, and "Ahhs!" but it doesn't tell us anything about our opponents' tactics. As for our surroundings, it's every bit as luxe as I'd expect for dragons, with tables of food... lots of food... platter after platter of cooked swine, hare, and fowl. We've got lush couches and half naked servants to cool us with fans crafted from peacock feathers and palm fronds. They don't seem like Zarentu's style, but I can see how other dragons go for that. The light dragon is a gracious host. I don't bother with the solids, but help myself to a sweating pitcher of ice water.
+	Aztram, who joins us says, "If you want to cast any beneficial augmentation spells, this is your chance." The dragons must all already know the drill, because he's looking at me and Tako, the only adventurers in the tent.
+	I've already set up a macro for Jordan's Enhanced Dexterity and Vitality buffs, which I enable by wiping my hands on each other. The Enhanced Dexterity makes a whistling wind sound on activation, and vitality sounds a thump-bump, thump-bump, thump-bump effect like a human heart. They're both instant effects, and take no preparation.
+Enhanced Dexterity.
+Dexterity increased by 10%.
+Duration: 60 minutes remaining.
+Enhanced Vitality.
+Regeneration Increased by 10%.
+Duration: 60 minutes remaining.
+	It's the first time I've seen those words in my UI since the merge, and it makes me wonder what Jordan would say if he could see me now, cannibalizing his beloved character. I can only hope he tells me to kick some dragon ass, than bitch about using skills that I hadn't worked for. If he was still alive, it'd be the latter, but I like to think that as he is now, he'd want me to do his legacy proud.
+	Tako enables the same effects, by tapping a button on his VT rather than setting up a macro, like I did with wiping my hands.
+	He says, "Are we going to get to see some 'alien magics?'" Those last words come in a harsh imitation of Lyle's wary voice.
+	"Damn right." I say, and move to an area where I'm not likely to knock anything over. Just to be safe, I swap out Bite for Marine's silver war fans which take up far less space.
+Windsoul Skystrikers
+Type:
+Exotic (War Fans)
+Quality:
+Epic
+Base Damage:
+Strength (Slashing)
+Equipped Bonus:
+Dexterity + 3, Intellect + 3
+Special Properties:
+Bonus Damage:  Roll 50% Dexterity (Wind)
+Illusion: Wielder appears to move at twice their speed, and make twice as many attacks. (+2 difficulty to block or dodge).
+Creates wind.
+	I unfold the exotic weapons and begin whipping them around my body. Unlike real world fighting fans, these are made of impossibly light and strong metal, with wicked edges that are as sharp as any dagger. The tablecloths only stay in place due to the plates of food on top of them. Edges of the tent billow out, and the half naked servants struggle to hold on to their fans. The Yin energy of elemental air rises within me, and I seal the spell with an abrupt stop and bow to an unseen opponent.
+Flow Like Water (Rank 2) - Success!
+Duration: 	30 minutes.
+	Some of the dragons give me stony looks, and I re-equip Bite. It's hard to tell if it's because they don't approve of my magic, or if it's because they're now seeing me as more of a competitor than just a skinny girl without any armor. In any case, it's easy to see that precious few of us aren't wearing plate, and I'm the only one sporting a mix of cloth and leather.
+	Aztram, on the other hand, looks impressed. It's nice to see a mage who's not afraid of Freeworld magic.
+You have gained 200 personal reputation with Aztram.
+Current level. Friendly.
+	He says, "Sometime after the tourney you'll have to show me how you do that. It's not every day that a person can surprise me with new magic, especially one as young as yourself."
+Quest - New Magic
+Difficulty: Moderate
+Aztram is curious about your alien magic. Teach him the foundations of magic beyond the Rip of Worlds, and receive a reward.
+Objectives:
+Teach Aztram the basics of alien magic.
+Rewards:
++1,000 personal reputation with Aztram.
++500 Reputation with Dragonswood Keep
+A personal favor.
+Do you accept? 	Yes / No
+	I choose yes.
+	I have my doubts as to whether or not the elderly half elf could pull off Marine's athletic form of casting, but I smile and say "Sure, after we settle this Rip of Worlds business, we'll talk shop."
+	I'm looking forward to a battle where I can blend so many skills from a plethora of characters. It'll take ages to go through everything, and find out what works best, but I'm already digging what I've set up so far. While dungeon crawling in the Windroost, I stuck to Paladin abilities because they were what I knew, but in downtime between events I've taken the time to acquaint myself with Jordan's rogue abilities which I've never used before as well as those from my Freeworld martial artist, Scootiwutams, and all the other aliases attached to this account. I've also set macros that allow me to activate each ability by mouthing or saying their names. Macro simplicity is best until I have the experience to know how to best utilize them.
+	There are even some interesting gear options should I choose to use Jordan's Hot Swap ability.
+Hot Swap (Rank 3)
+Weapons: Dexterity + Weapons (Weapon Type) or Dexterity + Martial Arts
+Armor and Accessories: Dexterity + Athletics or Dexterity + Martial Arts
+Effect:
+You may change equipment during combat without penalty. In so doing you must take purely evasive action for 1.5 seconds.
+Usable Only On:
+Head, Hands, Weapon, Ring, Accessory
+	Aztram says, "Lord Melpomine, you're up next, just this way. "
+	Tako says, "Good luck, and don't die because I want to kill you."
+	I roll my eyes. "I'll be sure to do that, not because I want to win or anything, but to give my guild mate a public chance to stab me in the back."
+	Tako says, "You better believe it."
+	Aztram says, "Lord Melpomine..." looking back and fourth between us, unsure of what to make of our interaction. Surely, a resident of Dragonswood wouldn't talk to Zarentu in this way.
+	I say, "It's fine. We're always teasing each other."
+	"Very well." Aztram says, "But the tourney." He sweeps his arm toward the exit as if inviting me to lead the way. I take the hint.
+	As soon as I step outside Herald Brime says, "...and now a half-elf Lady hailing from Durolan, Guild Master of the Toxic Muffins, Explorer of Worlds. Lord Melpoooominnneeee!"
+	Explorer of Worlds? What's with that? As far as I know I haven't gained any new titles. Zarentu must have given Brime instruction to place Freeworld magic into context. I'm quietly thankful, so I don't start a riot when they start seeing the effects of Marine's spells.
+	Aztram says, "Enter the arena, and good luck." He looks on me with a near fatherly expression, perhaps half-elf kinship in a castle full of dragons.
+	I say, "Thanks." and charge into the arena with Bite at my side. Unlike Frobod, I'm a peacock, and greet the audience with a series of handsprings and midair tumbles. I drink in applause, and it tastes like magic. There's a red spot in the dirt, where I await my opponent.
+	Herald Brime says, "...and her challenger. Knight of Lord Rendak's court, hailing from Castle Deepwater, Sir Maadzon."
+	The knight marches out of the Champion's tent with a heavy shield, a formidable sword, and matching bronze armor the color of a new penny. Each segmented piece of his plate is blackened around the edges as if scorched by fire. A long, red, feather dances in the wind from the top front of his helm. I bow to him, as he takes his spot on a red dot across from me, but he just nods. He's got a pale human face so far as I can see, but we're some fifteen paces away.
+	My heart is beating. We're told that Zarentu drops a handkerchief to signify the start of the battle, but from where I'm standing he's impossible to see. Instead, a massive countdown timer overlays my vision.
+3....
+2....
+1.....
+Begin!
+	He twirls that longsword in his hand waiting for me to make the first move. It'll be a tank vs. tank battle with him blocking, and me slipping out of the way unless I can take him by surprise.
+Shadow Step (Rank 5) - Success!
+	I disappear from my current position, and reappear in his shadow standing right behind him. I sweep low with Bite, yanking one foot out from under him, he barely keeps his balance, but I follow up with a roundhouse kick, and then pound his plate with the end of my weapon. Electricity cracks and leaps from the end of Bite, into his armor. He goes sprawling, face against the ground, and body pressed into his shield.
+	He pushes himself up, but I'm not having it. One... WHAM. Chest down, and face in the dirt. Lightning crackles. His hands go to the side. Two. CRACK, and the staff comes down on his helm. Massive dents appear in bronze armor where there hadn't been before.
+CRITICAL HIT!
+You hit Sir Maadzon for 15 damage +4 lightning damage.
+Total 19 Damage.
+Sir Maadzon absorbs 15 damage.
+	Three. I bring Bite down hard against the entire length of his back sending another jolt of electricity through his body.
+You have defeated Sir Maadzon.
+	"Pwned." I think, as he lies motionless, and healers rush out to restore health and help him to his feet. Golden magic encircles him, though it carries no scent as Mirae's does. Sir Maadzon's life creeps upward. 40%... 60%...80%.
+	I half expect him to yell at me for using underhanded tactics, but he extends a gauntleted hand and says, "Well fought Lady Lord Melpomine. Had I known you had that trick up your sleeve, I'd have used a different strategy."
+	I grasp his forearm with my own hand and say, "Well fought, Sir Maadzon. I'm confident that you would." It seems, so far as single combat is concerned, that everything's considered honorable so long as you don't break the rules.
+	I raise my staff in the air, lightning from the end flickering overhead, and the stands explode in cheers. I look to the Champions section and see Frobod and Mirae giving me the standing O. The Death Knight's clapping, and the Elf's presenting an enthusiastic thumbs up.
+	I think, "Round one, complete." as I head back to the champion's tent. If I'm to be first place, I'll have to win four battles. I look for Tako, but he's already gone. He must be fighting in the next match. I snatch a slice of honeyed ham from the buffet table, and find myself disappointed by the lack of taste. It's easy to forget when everything looks and smells so delicious.
+	Mirae sends a message.
+Mirae: 	Nice job. He didn't stand a chance.
+Melpomine: 	Thanks. How's Tako doing?
+Mirae:		So far, so good. He's rogueing it up like you did. Dirt in the eye, dirty fighting.
+Melpomine:	What's his opponent like?
+Mirae:		DPS fighter. Full plate and a two handed war maul. Kinda slow if you ask me. He keeps smashing it into the dirt, then Tako darts around and chips away at his health.
+Melpomine:	Cheer for me. They don't let us watch the other combatants.
+Mirae:		I've got you covered.
+	Some time later, Tako rejoins me.
+	"How'd it go?" I ask.
+	"Piece of cake." He says. "Big, slow, and stupid. No problem."
+	I say, "Mirae told me some of the details."
+	Tako says, "That might have worked against a shield, but with someone like me, I didn't stand still long enough to get hit." He pauses, and says. "How'd yours go?"
+	"Piece of cake." I say echoing him. "Shield and sword user. I got behind him, knocked him down, and pummeled."
+	"Very nice." Tako says. "You should totally bring out Scootiwutams when they least expect it. Half-elf Melpomine... Surprise! Female dwarf pally! They'll just stop fighting and surrender."
+	"Not going to happen." I say. "This is my new style's debut."
+	I see Aztram motioning to me, and I say, "It looks like I'm up."
+	I miss the introduction, because I'm the second one to enter the arena. I can't even see my opponent's face because his helm's closed, but he's got cool armor. Onyx black, trimmed in royal blue. He's got magic pauldrons that make his shoulders look like they're on blue fire. He has no shield, just a sword, and I'm willing to bet that this is a magic user. "Well, isn't that special?" Name's Sedin by the nameplate.
+	I bow to him from my spot in the dirt, and he returns the gesture.
+3....
+2....
+1.....
+Begin!
+Shadow Step (Rank 5) - Success!
+	I appear behind him, but as soon as I'm there, his whole body flicker-flashes, and suddenly he's standing where I started. He waves his sword in an intricate gesture, and suddenly, two additional images of my opponent appear on either side of him. All five run around each other in a fast circle. If I'm lucky, only one of those things is solid, if not, my opponent just made four copies of himself.
+	I charge in for the attack, spinning Bite, and coming down hard on the center image. It explodes in a harmless shower of magic sparks.
+	A sword cuts me, or at least, it tries to but Flow Like Water kicks in. Flesh and bone quickly reshape around the blade allowing it to pass through me as though Sedin had slashed water, leaving me unharmed, but knocking off four levels of absorption from the spell. The crowd gasps as they witness defensive magic they haven't seen before.
+	"Well played." I say, and lash out two times with Bite. There's no resistance as one copy shatters, and then another leaving just two more images for me to deal with. Apparently the weapon's area of effect damage doesn't work unless I hit a solid target. No matter, the two remaining images strike in unison, and I evade both by leaping into the air, high enough to clear both our heads in an acrobatic flip. It's Hong Kong action cinema time.
+	I follow the dodge with a strike. It lands home. Electricity crackles, and spreads to the second image like it's supposed to. It bursts in a cascade of rainbow color. Now it's me against one attacker again. He slashes, I dodge. It might have seen like a close one to the crowd, but with my heart pounding and time slowing as it often does in battle, it's as if he'd missed by a mile.
+	I counterattack with Bite, he blinks away - the same teleportation spell used at the beginning.
+Shadow Step (Rank 5) - Success!
+	I appear right behind him, and slam Bite into his kidney, I hear a muffled "Ugghh!" and lightning crackles. I follow up with a hook kick, and strike again with the staff. His health drops. He turns.
+	A fireball explodes in my face, the heat rolling over me like a nasty sunburn, but as with most damage in Freehaven the pain quickly fades. I'm down to ninety percent, he's at seventy. A hard battle, but I'm ahead.
+	He blinks away, and before I know it a volley of purple magic bolts soar my direction. I evade them with a tumble, spring to my feet and rush like a madwoman to close the distance. Shadow Step's got ten more seconds on cool down, so it's no good. I'm almost there, I reach with my free hand, and slap a hand full of dirt through the slit in his faceguard.
+Blind (Rank 5) - Success!
+Sedid is blinded for 10 seconds.
+	My competitor shakes his head, trying to clear dust from his face. I press my advantage. A powerful kick knocks him back, and a blow to his chest, followed by one to the knee cap brings him down to one knee. Another blast of fire... I evade, just in time slipping out of its reach. I spin Bite around me, and smash it down hard onto Sedid's burning shoulder. He crumples, small worms of blue electric magic crawl from Bite into black armor. Health at 30%.
+	He tries to recover. Bite's spinning, a mirage of blue electric wheels forming around me. He's up to one knee. He's about to cast, CRUNCH! The side of my staff kisses the side of his armored face. He's not moving.
+You have defeated Sedid.
+	Healers rush to greet us. Halos of holy gold surround our bodies, as my health's topped off, and Sedid's climbs gradually. I hear coughing, a woman's voice, as Sedid removes... her helm revealing a mop of dark blue hair, and slightly pointed ears much like my own. Her azure tinted skin and shape of her eyes and nose remind me of an Indian goddess; Vishnu's pointy eared daughter. She has a dusty raccoon mask from where I hit her with the dirt. It'd be comical if I hadn't just given her such a trouncing.
+	I say, "Well fought Lord Sedid." and fish a handkerchief from my inventory. I hand it to her so she can clear the grit from her face. She seems grateful.
+	She says, "Well fought, Lord Melpomine." and we grasp each other's forearms.
+	This time, the words carry a sensation of ritual that I enjoy.
+	As with the conclusion of the first battle, I raise Bite high overhead. The crowd roars its approval. My body teems with elated energy.
+	Back in the tent, I'm alone. Just two battles to go. I take another swig of the ice water. If Tako wins, there's a fifty-fifty percent chance that we'll face off in the next battle. I think I'd rather thrash NPCs.
+Mirae: 	Woo-hoo! Melpomine wins!
+Melpomine:	Yeah, she was a bad ass.
+Mirae:		Why didn't she use her sword?
+Melpomine:	Because she's smart. Her first direct hit didn't work, so she switched to magic.
+Mirae:		I gotcha. That was a funky spell. How long's it last?
+Melpomine:	30 minutes, but it's only good for 10 health levels, and only works  against physical attacks.
+Mirae:		Still, it's pretty cool.
+Melpomine:	Freeworld magic. I even got a quest to teach the local wizard.
+Mirae:		Really? That's hilarious.
+Melpomine:	How's Tako doing?
+Mirae:		Uhmm... I dunno. Neither has taken any damage, but it's a shield and sword guy. It's hard for him to connect.
+Melpomine:	That sucks.
+Mirae:		This is going to be a long battle.
+Melpomine:	Hold on. I'm gonna recast Flow Like Water.
+	I pull out my fans, and begin casting. The abundance of wind feels good against my skin since I've worked up a sweat. My long hair whips crazy directions. Outside, the crowd gasps a collective "Oh!"
+Melpomine:	What happened?
+	The response isn't immediate. I pull up my spells on my VT, and get to thinking how best to handle a highly mobile opponent like Tako. I feel like an idiot because there's one I used to use all the time. It didn't occur to me because this isn't Freeworld and I'm not in the skin of MarineLu.
+Move Like Ice (Rank Three)
+Cost: 500 Manna
+Dexterity + Martial Arts
+Duration: 20 seconds
+By channeling the cold forces of Yin energy, and directing them at your opponent you may cause them to slow, or even freeze them in their tracks.
+Effect:
+Target movement speed decreased by 50%. 20% chance to freeze them in place. 10% chance to impose -4 dexterity penalty.
+	I wonder how it'd have worked against an opponent like Sedid. I've never used it on a teleporter since that kind of magic, aside from the Thunder Bridge, isn't common in Freeworld. I make a mental note to use it in the next battle.
+Mirae: 	Tako's down. I don't think he's going to make it.
+Melpomine: 	That sucks, how'd he get him?
+Mirae:		Critical hit on a shield bash that knocked him over.
+	The crowd rumbles with applause, and I think "Not good for Tako."
+Mirae:		He's out. It's up to you now.
+Melpomine:	Sorry to hear that, but I'm also kinda glad that I don't have to fight him.
+Melpomine:	It's not a guild specific event, so I didn't want any hard feelings if one of us eliminated the other.
+Mirae:		We're still cheering for ya, and I doubt there would be.
+	Aztram pops his head in from outside, and says "Lord Melpomine." I exit wondering what kind of dragon I'll be facing. What I see in the arena, defies all expectations; a green skinned orc, with red eyes and great white tusks that reach up to his lower eyelids. He obviously chose to forego the comforts of the Champions Lounge. I check his name plate.
+Groth
+Type:                   Player
+Race:                   Orc
+Appearance:       2
+Challenge:          Average
+	He's wearing brown hide armor, a variety of pelts stitched into a human shaped covering. His helm looks like the skin and skull of a mountain lion with a set of massive antlers attached. He has neither staff, nor sword, instead he twirls a length of dark chain that drips an unknown liquid and glows an unnerving shade of crimson.
+	"That's.... different." I say, thinking on how to approach this. With a chain weapon, not getting hit is the obvious strategy, and it looks like parrying isn't an option.
+	The crowd is a mix of "Yeahs!" and "Boos!" A guy from I don't know where, shouts, "Don't let that filthy orc win!"
+	Nice to know they're on my side.
+	I spin my staff for the benefit of the crowd. Many cheer me. I halt, and deliver my customary bow to my opponent. No response from the PC. He just alternates between spinning the end of his chain, and wrapping lengths of it around his fist. That's a pretty good idea. I'll have to try it.
+3....
+2....
+1.....
+Begin!
+	Before I can think to Shadow Step, the orc charges, roaring in like a bear, with the chain spinning like a rotary fan in his fist. Something about his vocalization makes the air behind his head glow in a red fog. An interesting cosmetic effect, and most certainly not good for me. He closes the distance with long, powerful strides that are so long that they resemble kicks. I drop down, spin, and hit him with a dragon tail sweep. The red chain and orc's foreleg sail right over me. I knock the weight on his other foot from beneath him.
+Martial Arts Maneuver - Dragon Tail Sweep (Rank 3) - Success!
+	The crowd celebrates. No time for that, because I'm back on my feet, and spinning Bite ready for my first weapon attack. WHAM! I expect a direct hit, but my staff just makes clouds in the dirt. Instead of falling prone like a heavily armored foe, Groth tumbles and ends up on his feet. So much for me being the only agile one.
+	He roars again, more beast than intelligent race, and swings the chain at my face. A simple dodge, no problem just a slight wind from his strike on my cheek. I counter with a swift upward blow with Bite to the orc's side leaving little black burn marks in his armor. I whirl the staff back around, and follow through with a downward strike to his head sending one antler flying.
+	Groth Health 80%. I'd hoped for more.
+	Instead of using another chain swipe, Groth punches, with a length of the metal entwining his fist. A metallic clack sounds as the end of Bite meets the metal in his hand, sending small snakes of electricity into him. I give the orc a look to say, "What were you thinking?"
+	Groth Health 70%
+	He doesn't respond except to swing again with the long end of his chain. I dodge out of the way, but it loops three times around the shaft of my weapon. I pull, the orc pulls back. It's a tug of war stale mate because neither of us are letting go, and Bite's not breaking.
+	The orc bellows, a new red cloud haloing his face. He yanks hard, I try to resist, but the weapon goes flying. My staff clatters in the dirt, as the orc jerks it far out of reach. He makes an aggressive feline yowl befitting the creature he wears on his head.
+	One heartbeat... Two heartbeats... He's a fast changer. Too quick for me to track tusk and green skin melt into a face full of black whiskers and brown fur. It's not like Freeworld weres, where skin, muscle, and bone stretch and contort over the course of slow seconds. Instead, the orc is like soft clay, slammed in a mold and granted new shape in an instant. I'm now facing a larger than life puma without a weapon. Damn thing's the size of a liger.
+Hot Swap - Success!
+You have equipped Fists of the Thunderlord.
+Fists of the Thunderlord
+Description:
+Left is Thunder. Right is Lightning. Don't get caught in the storm.
+Quality:                              Epic
+Type:				Leather
+Slot:				Hands
+Armor			1
+Equipped Bonus:
+                             Dexterity +2, Strength +1, Stamina+1
+Special Properties:
+(Right Hand Only)
+Unarmed attacks inflict +4 Lightning Damage.
+(Left Hand Only)
+Unarmed attacks inflict +4 Sonic Damage
+(Left Hand Only):
+33% chance on hit to deafen your opponent for 20 seconds. Effects are cumulative.
+Bonus damage ignores armor.
+	I'd considered the war fans, and might still use them, but for now I prefer to have guaranteed bonus damage for each hit from these fingerless gloves, on top of the unarmed bonuses and benefits being a martial artist instills such as an increased number of attacks. So here we are, ninety-six pound unarmed me, vs. an eight hundred pound mountain lion. Seems fair.
+	Groth comes in for the pounce, but seems to forget the gravity defying benefits of RPG martial arts. I leap high over the cat's head before it's anywhere near me and come down swinging my fists hard at its skull. A flash of light bursts from my left hand, and when I follow up with a hit from my right there's a ear rattling CRACK that echoes off the walls of not only the arena and stands, but the keep beyond.
+	Collective gasps of surprise, spring from the audience. No doubt a few are looking for rain.
+	Groth swipes with his big paw, but I'm faster, dipping out of the way, and smashing a lightning uppercut under his massive jaw, followed by thunder in his nose. The cat shakes its head as if seeing stars, and I go in for a follow up kick.
+	Bad idea, he claws and the paw connects. Flow Like Water activates as the cat pushes through my fast reforming flesh. Minus 5 absorption. I can only take one more of those blows before I'm losing real health. At least then, I'll be resisting damage with stamina.
+	Groth roars, and takes advantage of his hit. Although unharmed, the strike leaves me in an awkward position. He pounces and I go down, his feline face chomping, and ripping away the last of my Flow Like Water defense; my flesh twists and reforms to soak up the damage from his teeth. This is... un-good.
+Shadow Step (Rank 5) - Success!
+	Glad it works while I'm on the ground. I roll to the side, disappearing into the shadow of his chest and paw, and reemerge from the shadow of his right haunch. I can only hope he's still deaf and disoriented from my left hooks and unsure what's happening. Quick to my feet, I start a steady kata, and push an unseen wave of cold Yin energy into him via my Chinese elemental Freeworld magic.
+Cast Move like Ice (Rank 3) - Success!
+Movement Speed reduced by 50%.
+	Little ice crystals coat his fur. I could go on the attack, but I decide to repeat the spell while he's not looking.
+Cast Move like Ice (Rank 3) - Success!
+Movement Speed reduced by 50%.
+Target is frozen for 20 seconds.
+	In my current gear, two small spells are enough to leave my manna a quarter depleted, but that's okay because I've got him where I want. So long as this guy doesn't surprise me with an AOE that hurts me, and not himself I've got this. Can shape shifters cast in animal form?
+	Flash of light from the right, KA-KRACK, from the left. Don't get caught in the storm. With each impact, flecks of frost and ice drop off the cat as from a building after a snowstorm.
+	In an instant Groth shifts, now, back in his red-eyed orc body. He tries to move, but ice crystals creep up his legs. It'll be like this for 10 seconds, and I seize the attack. Flash of light, KA-BLAM, BOOM. Quick punches in his flank. He turns his torso trying to hit me, but I'm just out of reach. I dance like a hornet and sting with the old one-two. Jabs flash like cameras against his jaw. KA-BOOM-BOOM as a left handed uppercut sends his chin skyward. He looks dazed. I'm a flurry of fist and storm smashing his ribs. Each blow chipping away at his health. Flash, crash, boom!
+	Groth health: 20%.
+	Four... Three...Two... Move Like Ice is expiring. I finish him off with a roundhouse kick that puts his ugly face in the dirt.
+You have defeated Groth.
+Unarmed skill increased by 1. Current level: 13
+	Cheers explode around me. I do a back flip, and then leap into a handspring. I could get used to this attention. I look around the floor and find Bite a few paces a way, I shake the chain off, kiss the shaft, and say "I've missed you." Cheers grow even louder. They must have really not wanted the orc to win.
+	I head back to Groth where the green robed healers are fixing him up. I extend my hand in good sportsmanship, and say "Well fought."
+	Groth sneers at my gesture and says, "Fucking noob."
+	That takes me off guard since all the Havenfolk have been graceful in their defeat. I say, "If I'm a noob, you just got your ass kicked by one."
+	He says, "Fucking Freeworld spells, what did your boyfriend give you his account? We both know I should have won."
+	For the first time since arriving, I feel a spark of temper. Fuck him and his accusations. I beat him up fair and square. 'Did your boyfriend give you his account?' What is that? I say, "You just lost, because you suck. Learn to play."
+	He says, "You just said 'Well fought.'"
+	I say, "I was being polite. This battle was over the minute you disarmed me. What kind of idiot disarms a monk... I think that's what you call them in Haven... throws away their weapon, and challenges them to unarmed combat? Then, on top of that, you saw that physical attacks weren't working, and kept trying to do the same thing." Granted it wouldn't have worked if he hit me again, but he doesn't know that, and if I were using Marine's gear I could cast Flow Like Water again as soon as it wore off. I mock, "Oh yeah, I'm smart! I deserve to win!" I scoff, "Even the NPCs were smart enough to switch to magic."
+	He says, "Fuck you bitch!" and throws a punch at me. I easily dodge out of the way, as the crowd produces a chorus of "Oooos" and "Ohs!"
+	A spell is cast in my peripheral vision, Lord Zarentu stands from his thrown.
+	"Silence." He says, in a voice so deep and dangerous that it makes my bones quiver. "Orc. You may not strike another champion, and your behavior in this competition until now has been unacceptable."
+	Groth says, "Blow me!" and grips his crotch. Deciding this may be his last chance, he takes another swing at me, which I easily sidestep.
+	Lord Zarentu says, "I revoke your invitation, and right to visit Dragonswood Keep. Guards. Seize him."
+	Groth says, "No fuckin' way! I didn't get the quest loot."
+	As guards with longswords and halberds march into the arena, the orc shifts into a dire bear, red eyed, and two and a half times my height. I clear the area, not wanting to be attacked. The crowd chatters in the commotion.
+	Zarentu says, "Master Aztram, if you will?"
+	The old half-elf raises his hands as if cupping a bowl overhead, tapping into a power that I, as of yet, am unfamiliar with. He chants in a language that I don't know, white light glows in his raised palms, growing more intense with each second. Then, when the light is about as bright as a small sun, he takes it in two hands like a basketball, and smashes it against the earth. At the same time, rock falls from above, a hot red meteor that smashes into the bear's face. Groth lays motionless in the dirt, red smears on the ground near the place where the meteor hit.
+	I cautiously poke it with my staff, since none of the guard are getting any closer. It doesn't move. The blood soaking into the dirt stretches the limits of what my current PG-13 game setting will allow, I'm certain that in R mode I'd be covered it bits of bear brain, and blood.
+Groth
+Type: 		            Player
+Race: 		   Orc
+Appearance: 	     2
+Challenge: 		Average
+Status:		  Dead
+	Zarentu says, "Do not resurrect him, let adventurer gods sort out his fate. In my castle, Groth is no more." The dragon then regards me. I'm wondering what they'll do with the body until he respawns and his corpse disappears. "Lord Melpomine. You have my apologies. Violence, outside the tourney, is not permitted on my castle grounds."
+	I'll never know what happens to the body, because after I bow in acknowledgement of Zarentu's apology, a squire hustles me off to the Champion's tent. The inside is so empty compared to how it was when Tako and I first entered, just a two servants with their palm fronds and a man in deep red armor painted to resemble exposed muscle with jawless human skulls cupping either shoulder. Aside from grotesque bone ornamentation, it's a lot like looking at a puffed up anatomy dummy. He has long wavy brown hair, and a tuft of beard on his chin.
+	He says, "Well fought Lord Melpomine."
+	"Thank you." I say, assuming this must be my final opponent. "If you'll excuse me a moment..."
+	I whip out my fans, and begin recasting the Flow Like Water buff, debris skitters across the floor, and the tent flap blows open for a second. If this dragon's intimidated by Freeworld magic, he's not showing it as he bares an amused expression, as I finish casting, and his hair settles back down around his face.
+	"Are you finished?" He asks.
+	I wipe my hands to renew the Enhanced Dexterity and Enhanced Vitality buffs. Woooosh... Thump-bump. Thump-bump. Just in case. I say, "Yeah..." for all I know, his whole plan is to keep me talking so long that I forget to prepare.
+	"I'm Lord Krogen." he says, "It's good to meet you. I'm much happier facing off against you, than that mongrel."
+	Part of me wonders how he even knows about the orc, since all competitions are blind. Either an exception to the rules is made for Havenfolk NPCs, or he has an inside source of information. I say, "Well he wasn't polite, that's for sure."
+	Krogen smirks, "You might even say he lost his head."
+	I think, "Oooggg. That was bad." and say "You could certainly say that."
+	He sips a goblet, of what must be wine, and motions to an oversized pillow, that could serve as an entire bed for one of the smaller races. "You might as well sit." He says "There will be a few minutes of cleanup."
+	I take his advice, not sure where he's going with this. Until now, most of the NPCs in the Champion's tent, excluding Aztram, have ignored me. "So...." I say, breaking a silence that's settled between us.
+	"May I be blunt?" Krogen asks.
+	"I prefer it."
+	He asks, "What are your aims for this tournament?"
+	"I want to win." I say, "I thought that'd be obvious."
+	"Clearly." The dragon says, "There's no point to compete if not to win, but why? We are dragons. You are not. What do you hope to accomplish?"
+	You mean, besides completing a limited edition quest? I consider the original quest. I take care to phrase my response in a way that NPCs will understand. "We need allies."
+	"We?"
+	"Me, my guild, the entire world... Dragons respect strength, so I'm hoping that if enough of my guild does well in the competition, Zarentu will entertain an alliance."
+	"Against what, or who?" Krogen asks.
+	"The Rip of Worlds, or rather, the entity causing it."
+	Krogen scoffs. "You hardly have to win the tourney for that. Haven't you ever heard that an enemy of your enemy, is your friend?"
+	"I want more than that. We're not here to be some dragon's shock troops. An alliance implies an equal partnership."
+	"You will never be our equals, so frail in your pink and brown skins." Krogen says, "But I digress, it's a matter of pride. This, I understand."
+	"... but it's not."
+	"Isn't it? Don't want to be treated like the ants that you are? I just want to know if I face an opponent with a worthy cause, and it would seem, alas, I do."
+	"Saving the world?"
+	Krogen snaps, "Pride, you fool. I will break it, and shove it down your throat, but at least it's a worthy cause."
+	I mutter, "Glad I could reassure you."
+	Aztram peeks in, and says "Champions, it's time."
+	We both nod, and Krogen's out the door, before I've even gathered my staff. "What a turd?" I think, as he hogs the spotlight. By the time I'm out there, the crowd's already whipped into a frenzy, chanting "Krogen! Krogen! Krogen! Krogen!"
+	I guess now I know who's the crowd favorite. I look to the Champion's section, and thrill to see Mirae, Frobod, and Tako cheering me on, with Laurelade looking down and examining her fingers. Beneath all the cries of my opponent's name, there are at least three voices in my corner looking out for me. I spin Bite, in a whirlwind of electricity, and give my guild a confident thumbs up.
+	Now, across from my opponent I see the real rival I'm facing. He surprises me by not using a shield, instead preferring a lone longsword. He's got a red helm to match his armor, with a mow hawk of steel protrusions. Before the match starts, he licks the length of his blade, leaving a streak of red blood, and then blows on it. With an audible "Fwoof!" the blade catches fire, a metal torch. He slams his face guard shut, and spins the burning blade in his hand, daring me to attack.
+	"Don't get hit." I think, knowing that Flow Like Water won't protect me from elemental damage. I wonder what other magic he's got. A whisper inside cautions against another shadow step opening. How had he known about the orc? Does he have someone feeding him information, or is there a Haven spell for remote viewing? If either's true, he'll see that move coming and do whatever he can to counter it.
+3....
+2....
+1.....
+Begin!
+	Earthen spikes shoot up from the ground behind him like stalagmites, as I mouth the words, "Black Ice." Seems I was right.
+	The spikes crumble to dust in a few seconds. My words were a macro I set up to cast a Freeworld spell.
+Black Ice (Rank 2)
+Cost: 500 Manna
+Dexterity + Martial Arts
+Duration: 5 seconds
+You channel the cold essence of Yin through the very earth, causing it to become as slick, unseen and evasive as black ice.
+Effect:
+A target effected by Black Ice is unable to advance for five seconds. Steps slip from beneath them. If the target attempts more than three steps, they lose their footing and fall. Knockdown attacks on the target are granted automatic success.
+Cast Black Ice (Rank 2) - Success!
+	For a moment, nothing happens. He'd clearly expected me to appear behind him, and I'm waiting for him to charge. Thank God he's an NPC. I spin Bite from hand to hand, and stab its butt into the ground.
+Taunt. Successful.
+Krogen attacks.
+	One step, two steps, three steps as Krogen runs in place, then both legs fly out from under him in a parody of a cartoon. He and is blood armor crash to the ground, Take pride in that.
+	I immediately begin the motions I've programmed for Move Like Ice. I'm down half my manna now, so I can only do so much casting. The telltale sheen of frost fast creeps over his armor, as I rush in for the attack.
+	He's moving slow on the ground, and I hit with a low strike, Bite crashes against an invisible shield, its electricity scurrying over an unseen dome. Health still at 100% as I bring my staff down hard for another blow. My only hope is that this barrier is a thing that can be smashed or eroded like my Flow like Water protection. I go about hammering against the unseen bubble, as Krogen struggles to his feet at 50% motion speed.
+	I get in one more whack, before he starts with his sword. Our weapons crash together sending a jolt of force through my grip. I counter attack with Bite's other end, but hit the barrier before I can strike his armor.
+	He says, "Give up now, mortal."
+	I respond, "Not today." Spinning my staff , and using superior speed to overwhelm him with too many strikes. He parries a few, but the vast majority land on that damn magic bubble.
+Shadow Step (Rank 5) - Success!
+	I fall back into my own shadow and re-appear behind my opponent. My foot knocks him in the back, sending him staggering forward. I follow through with a downward strike with Bite that puts a dent in his shoulder. Krogen: Health 100%, but at least I've made contact.
+	He spins, and swings with his burning blade, but Bite's got too much range. He's not even close to connecting. A bit reckless if you ask me, because he leaves his flank wide open, which I tag with a crash against his armor, bringing his health down to 90%. First blood.
+	I say, "Fifty gold if you can hit me." as he comes in for an attack, I feel the heat of flame from his sword on my skin, but he doesn't connect. That's what twenty-four dex is for.
+	From inside his helm, I hear, "You can't dance around all day," as I given him a love tap to the side. Not much damage, but I'm sparking him up.
+	"Watch me."
+	His sword makes a fiery 'woosh' sound as he swings. I slide out of the way. Woosh, crack! I back out of range of his head shot, and intercept a new swipe with my staff. I'm starting to think of a new strategy.
+	I say, "Honestly, I don't know how your in the finals."
+Feeding the fire.
+Manipulation + Empathy. Success!
+(Caliber of Success: 4)
+"I think I'll like him when he's angry..."
+	With each barb he grows more reckless, throwing more power into his swings. I duck and dodge with ease, occasionally countering, and setting Bite to nip him. His health's only down twenty percent, but he's yet to land a blow.
+	I say, "Even the orc connected." Swoop, woosh, dodge, CRACK. He makes a running charge. I evade, and Bite nips him in the butt as he rushes past me. Anal electrocution, that's got to hurt. I say, "I thought dragons were supposed to be good at fighting. Are you even trying?" Arrogant prick. I'm going to defeat him in the most embarrassing way possible.
+	My mouth forms the words "Black Ice." and I dart back a few paces.
+Cast Black Ice (Rank 2) - Success!
+	He never learns, running three steps without moving, and then falling on his ass. I bring Bite down hard on his face, causing an electric zap paired with the crash of stave on armor. Krogen health 50%.
+	I move back, with Bite at the ready. I give him a chance to get back up, if for no other reason than to make him fall again. He takes advantage of my not attacking him, and summons some kind of earth magic with a few hand gestures. The ground shakes, and a crack in the arena floor opens, starting at his feet and creeping toward me.
+	Fire and earth, aye?
+	Well, the best way to avoid a ground attack is to not be on it, so I leap into the air and begin tumbling much the same as when I first entered the arena. I could really use Laurelade's float spell about now, but on the bright side my hand springs, and mid air twists probably look a lot cooler. It's not like he can stab me from here. I come to a stop, some thirty feet from where I started, and say "Is that it?"
+	The ground shakes again as he repeats the same spell. I run and tumble making a gradual circle around him. This time, an earthen spike erupts from where I was originally standing, and I wonder if the first time he had casting problems on account of his armor.
+Shadow Step (Rank 5) - Success!
+	Now I'm behind him. I spin Bite, and hit him in the back of the knee. He buckles.
+	I say, "So kind of you to take the knee."
+Feeding the fire.
+Manipulation + Empathy. Success!
+(Caliber of Success: 6)
+"I think I'll like him when he's angry..."
+	"You go too far!" He snarls, "I'll burn you where you stand!"
+	Instead of turning and coming at me with his sword, his form grows larger, his metal plate melting into a scaly hide, as wings begin to form and peel from his back. His draconic skin, shiny and more like a serpent than a lizard, mirrors his armor
+dark, red, and furious.
+	Fantastic. His rapidly increasing form shoves me out of the way. No time for acrobatics, I sprint to the far end of the arena. Krogen heaves a deep breath, and blows wicked flame over my body. Flow Like Water's no good against elemental damage, and my health drops a startling forty percent in one go. My skin is tender, and I find myself wishing I had a pocket healer to bring me back up to full health.
+	There's screaming in the crowd, as innocent Havenfolk take cover. No one wants to be caught in the crossfire.
+	A booming voice sounds. "Lord Krogen is disqualified!" It's Herald Brime. "No dragon may take their natural form."
+	"I don't care!" Krogen says, and breathes another gout of flame. This time I'm expecting it, and manage to leap out of the ring, just in time.
+	"You should." That's Zarentu, his voice low, angry, and beautiful. Krogen turns, leaving me to face his thick tail and winged back. Perched on hind legs, as he is, he's nearly as tall as Dragonswood Keep. "Human form now, or suffer my wrath."
+	I can't see what's happening in front of the massive draconic body, there's just a long pause wherein neither speaks, and Havenfolk cower. Finally, after what seems like an hour, but was probably only a few dozen seconds, Krogen shrinks back down into his armored human body and picks his sword up from the dirt, blackened now, the flame no longer burning.
+	"Lord Melpomine?" Zarentu says. "You may come out now."
+	I awkwardly climb back over the arena wall, the crowd chatters, thankful to still be alive.
+	"You are the winner." Lord Zarentu says, "As Lord Krogen has been disqualified."
+	My former opponent stomps out of the arena, and I wonder who's made a bigger enemy in this competition between me and Frobod. As soon as I start approaching the healers rush to greet me. The golden halos of healing magic, have never felt so good. I wish I had a mirror, because I imagine my face covered in a layer of soot.
+	Herald Brime says, "Everyone, everyone... please take your seats." People mill about the stands, reluctantly taking the suggestion as of afraid of another dragon attack.
+	I breathe hard, with Bite at my side. I can see Krogen's gone, but given the sudden outburst I grip the shaft a bit harder as if they might be right. It seems that most everyone is back in their seat when Brime says, "I present to you our winner! Lord Melpomine, of Durolan, Guild Master of the Toxic Muffins!"
+	There's some clapping, but I get the feeling everyone's still rattled. I suppose it's not every day that villagers find themselves near burned alive. Unlike adventurers with comparatively obscene stats, most non-combative Havenfolk will go down with just a swing of an adventurer's sword. To my right, a big eared boy scuttles into the stadium, with a long hook like they use to change mage lights in Durolan, and a green and orange wreath.
+	Gasping for air, as if he'd run much farther than the side of the arena to where I'm standing he says, "It's your turn for a victory lap. Give this to whoever you want to dance with before the feast."
+	 I smirk, and raise it to my nose to sniff the orange, yellow speckled blossoms. They aren't roses, but smell every bit as delightful. I can't tell if they're a Freehaven Online creation, or if they have counterparts in the real world. Wouldn't it be awkward if I gave this thing to someone other than Frobod?
+	Just for the fun of it, I fish the Rose Ring of the Champion out of inventory, and set it on my head. It's hard to explain the reaction, except to say that everyone suddenly becomes more nervous and excited. Breaths catch, with all eyes on me until I've made my decision. Sten holds the hook out to me expectantly.
+	I say, "I don't need that." and set the pole on the ground.
+	Herald Brime says, "Lady Lord Melpomine. Choose your partner." That's my cue for the slow victory walk. I start to my right where Sten entered, as far as I can be from the Champion's seats. I stroll, lazily about taking in faces. Ava smiles at me in the first row, and the men react anywhere from bouncing up and down like boys at a concert, to giving me calm, reserved smiles with inclinations of their heads to show interest or respect. I pass them all over leaving a wave of disappointment in my wake. The guys usually aren't as animated as the women, but I can taste dashed Havenfolk hopes and dreams.
+	Now I'm at the Champion's section looking up at a bunch of NPCs and my guild mates. I'm half tempted to present it to Sedid since she was my favorite champion, but alas quash the impulse and look up to Frobod. He's too far to reach, so I fling it like a Frisbee. It bumps off his black armored chest, against the head of the guy in front of him, and into his lap.
+	I call out, "Nice catch!"
+	Herald Brime says, "Lady Lord Melpomine has chosen Lord Frobod as her partner. Does he accept?"
+	Frobod looks at the ring of flowers in his hand, and flips it over a few times like a giant quarter. The crowd chants, "Take it! Take it! Take it! Take it!" I smirk and think, "Now you know how it feels."
+	He hesitates dramatically, and then sets the ring on his head. I laugh and call up to him "Oberon!" because the crown of green plants and wild blooms make him look like a Faerie King. The crowd cheers, and stomps their feet on the wooden slats supporting them to create a god awful racket.
+	One more event to go, till we finish this quest, and go back home. It'll be wonderful to collapse in bed.

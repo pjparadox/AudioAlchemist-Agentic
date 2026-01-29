@@ -1,0 +1,182 @@
+[EPISODE 1: A Son for a Son]
+NARRATIVE CONTEXT (Beat Outline):
+- After Luke’s death, Rhaenyra’s grief hardens into resolve; the Blacks push toward retaliation.
+- Jace in the North: he meets Cregan Stark at Winterfell / the Wall region to secure support.
+- Dragonstone: tension between Black leaders over how to respond; Daemon is impatient for blood.
+- King’s Landing: Greens tighten security. Alicent/Criston’s relationship is active in secret, adding hypocrisy/pressure.
+- Daemon sets revenge in motion via lowborn killers (Blood & Cheese). They fail to find Aemond and murder Jaehaerys instead.
+
+SCENE: The Wall — Jace & Cregan Stark
+[STATE: Public_Formal] [DYNAMICS: Northern_Diplomacy]
+- Tone: Cregan is blunt, Northern, "no-poetry." Jace is formal.
+- Pronouns: Jace uses "Ta" cautiously; Cregan uses "Ta/Ngươi" (Respectful but dominant).
+- Key Line: "Máu thì trả thế nào?" (Cregan).
+
+SCENE: Dragonstone Map Table — Daemon vs Rhaenys
+[STATE: Private_Council] [DYNAMICS: Peer_Conflict]
+- Tone: Equals-with-history. Rhaenys is NOT a subordinate.
+- Pronouns: Rhaenys uses "Ta" and calls him by name.
+- Key Line: "Ta không phải lính của ngươi, Daemon."
+
+SCENE: Alicent & Criston (Bed to Door)
+[STATE: Private_Intimate -> Public_Formal] [DYNAMICS: Guilt_Hypocrisy]
+- Context: Private intimate ("Chàng/Thiếp") shifts instantly to Formal ("Ser Criston") when interrupted.
+- Key Line: "Ta ghét chính ta… vì vẫn tìm ngươi."
+
+SCENE: Blood & Cheese (Red Keep)
+[STATE: Stealth_Criminal] [DYNAMICS: Lowborn_Intrusion]
+- Tone: Crude roughness. "Tao/Mày". Insults.
+- Key Line: "Đứa nào là thái tử?"
+- Helaena's Reaction: Royal terror. "Các ngươi… dám chạm vào hoàng thất sao?"
+
+[EPISODE 2: Rhaenyra the Cruel]
+NARRATIVE CONTEXT (Beat Outline):
+- Immediate fallout: Greens weaponize the murder as propaganda; city spirals into fear.
+- Dragonstone: Rhaenyra and Daemon clash; trust fractures.
+- The "Twin Cargyll" crisis: Arryk (Assassin) vs Erryk (Loyal).
+- Aegon behaves impulsively, hanging ratcatchers. Otto tries to manage optics.
+- Otto and Aegon’s conflict breaks; Aegon fires Otto as Hand.
+
+SCENE: Erryk vs Arryk Duel
+[STATE: Combat_Confusion] [DYNAMICS: Mirror_Match]
+- ID Trick: Guards shout "Phản bội!" at the Assassin (Arryk).
+- Erryk Voice: Duty-bound ("Thần" to Rhaenyra).
+- Arryk Voice: Imposter ("Ta" - hollow righteousness).
+- Key Line: "Ngươi mang mặt ta… nhưng không mang danh dự."
+
+SCENE: Aegon & The Ratcatchers / Otto Explodes
+[STATE: Private_Office] [DYNAMICS: Grandfather_Disciplining_King]
+- Dynamics: Otto treats Aegon like a foolish child ("Ngươi"). Aegon tries to assert "Ta" (King).
+- Key Line (Otto): "Ngươi tưởng treo cổ cả thành là cai trị sao?"
+- Key Line (Aegon): "Ta là Vua. Lệnh của ta là luật."
+
+[EPISODE 3: The Burning Mill]
+NARRATIVE CONTEXT (Beat Outline):
+- Bracken–Blackwood feud ignites into bloodshed over petty land disputes.
+- King’s Landing: Criston positioned as forward-moving war hand.
+- Daemon pushes into Riverlands (Harrenhal).
+- Rhaenyra’s secret meeting with Alicent (Septa disguise). The "Prince That Was Promised" misunderstanding is revealed but reconciliation fails.
+
+SCENE: Burning Mill Battle (Bracken vs Blackwood)
+[STATE: Battlefield] [DYNAMICS: Youthful_Arrogance]
+- Tone: Teenage arrogance -> Panic -> Brutality.
+- Pronouns: "Mày/Tao" (Lowborn/Aggressive).
+- Key Line: "Đất này của nhà ta—mày chỉ là cỏ dại."
+
+SCENE: Brothel — Ulf Boasts
+[STATE: Public_Tavern] [DYNAMICS: Drunken_Delusion]
+- Tone: Crude, performative.
+- Key Line: "Tao nói thật… máu rồng chảy trong người tao."
+
+SCENE: Sept Meeting — Rhaenyra & Alicent
+[STATE: Private_Secret] [DYNAMICS: Intimate_Tension]
+- Tone: Restrained, painful intimacy.
+- Key Term: "Vị Hoàng Tử Được Hồi Báo" / "Lời tiên tri" (Prophecy).
+- Key Line: "Lời tiên tri… đã bị hiểu sai."
+
+[EPISODE 4: The Red Dragon and the Gold]
+NARRATIVE CONTEXT (Beat Outline):
+- Harrenhal: Daemon’s unraveling (visions, guilt).
+- King’s Landing: Aemond’s intellect/cruelty consolidates.
+- Rook’s Rest: Major battle. Rhaenys (Meleys) vs Aegon (Sunfyre) vs Aemond (Vhagar).
+- Betrayal: Aemond chooses to burn both Aegon and Rhaenys.
+
+SCENE: Daemon's Vision (Young Rhaenyra)
+[STATE: Dream_Prophecy] [DYNAMICS: Oracle]
+- Register: High Valyrian (Archaic Hán-Việt).
+- Key Line: "Huyết mạch vương quyền không chỉ sinh—mà còn đòi nợ."
+
+SCENE: Small Council — Aemond Humiliates Aegon
+[STATE: Small_Council] [DYNAMICS: Intellectual_Dominance]
+- Context: Aemond speaks Valyrian to mock Aegon.
+- Key Line (Aemond): "Ngươi nghe như kẻ ngoại tộc trong chính huyết mạch mình."
+
+SCENE: Rook’s Rest Battle
+[STATE: Aerial_Combat] [DYNAMICS: Military_Command]
+- Tone: Breathless, short commands.
+- Key Term: "Dracarys" (Keep as proper noun/spell command).
+
+[EPISODE 5: Regent]
+NARRATIVE CONTEXT (Beat Outline):
+- Criston parades Meleys’ head; smallfolk are scared, not cheering.
+- Aegon is comatose; Aemond elected Regent.
+- Jace bargains with the Freys at the Twins.
+- The Eyrie: Jeyne Arryn dismisses Rhaena's "small" dragon.
+
+SCENE: Street Parade (Meleys’ Head)
+[STATE: Public_Street] [DYNAMICS: Omen_of_Doom]
+- Tone: Whispered fear vs Barked Guard commands.
+- Key Line: "Rồng… cũng chết được sao?"
+
+SCENE: The Eyrie — Jeyne Arryn & Rhaena
+[STATE: Formal_Audience] [DYNAMICS: Dismissive_Host]
+- Tone: Jeyne is sharp/political. Rhaena is humiliated.
+- Key Line: "Ngươi đưa đến đây… một con rồng con?"
+
+SCENE: The Twins — Jace & Freys
+[STATE: Negotiation] [DYNAMICS: Transactional]
+- Tone: Freys are oily/greedy. Jace asserts "Hoàng tử".
+- Key Line: "Danh dự… không nuôi quân. Rồng thì có."
+
+[EPISODE 6: Smallfolk]
+NARRATIVE CONTEXT (Beat Outline):
+- Rhaenyra & Mysaria: Intimacy and political leverage.
+- King’s Landing: Scarcity and anger build. Food riot erupts against Alicent/Helaena.
+- Seasmoke chases Addam of Hull.
+
+SCENE: Rhaenyra & Mysaria Kiss
+[STATE: Private_Intimate] [DYNAMICS: Emotional_Bond]
+- Tone: Quiet, slow. Drop royal stiffness.
+- Key Line: "Ở đây… ta không biết tin ai."
+
+SCENE: The Riot — Fish Thrown
+[STATE: Public_Chaos] [DYNAMICS: Mob_Violence]
+- Tone: Hunger language. "Mày/Tao".
+- Key Line: "Bà ăn vàng, tụi tao ăn gì?!"
+
+SCENE: Addam & Seasmoke
+[STATE: Religious_Awe] [DYNAMICS: Mortal_vs_God]
+- Tone: Half-prayer, half-plea.
+- Key Line: "Xin… xin đừng thiêu ta."
+
+[EPISODE 7: The Red Sowing]
+NARRATIVE CONTEXT (Beat Outline):
+- Rhaenyra recruits "Dragonseeds" (Bastards).
+- Sowing is deadly; Hugh claims Vermithor; Ulf claims Silverwing.
+- Aemond pursues Ulf but retreats upon seeing Rhaenyra's new strength.
+
+SCENE: Rhaenyra Addresses Seeds
+[STATE: Formal_Address] [DYNAMICS: Dangerous_Offer]
+- Tone: Formal, "offer of elevation," steel warning.
+- Key Line: "Ta cho các ngươi cơ hội tự viết lại số mệnh."
+
+SCENE: Hugh Claims Vermithor
+[STATE: Dragon_Pit] [DYNAMICS: Alpha_Challenge]
+- Tone: Working-class dominance. Screaming at the beast.
+- Key Line: "Nhìn tao. Tao không chạy. Nếu mày muốn chủ—thì lấy tao!"
+
+SCENE: Ulf’s Flight
+[STATE: Aerial_Panic] [DYNAMICS: Comedic_Accident]
+- Tone: Panic.
+- Key Line: "Ơ—Ơ KHÔNG! Tao đâu biết lái cái này!"
+
+[EPISODE 8: The Queen Who Ever Was]
+NARRATIVE CONTEXT (Beat Outline):
+- Tyland negotiates with Triarchy (Mud wrestling).
+- Daemon’s Harrenhal arc culminates in Weirwood vision (White Walkers). He bends the knee.
+- Aemond tries to force Helaena to war; Alicent intervenes.
+
+SCENE: Tyland & Lohar (Mud Wrestling)
+[STATE: Foreign_Diplomacy] [DYNAMICS: Gender_Inversion]
+- Tone: Lohar is bold/teasing. Tyland is stiff/embarrassed.
+- Key Line: "Ở đây không có ‘lễ nghi’ đâu."
+
+SCENE: Daemon’s Vision (Weirwood)
+[STATE: Prophetic_Trance] [DYNAMICS: Cosmic_Submission]
+- Register: High Valyrian / Hán-Việt.
+- Key Line: "Băng hàn vượt thời đại. Hỏa long cũng hóa tro."
+
+SCENE: Dinner Confrontation — Aemond forces Helaena
+[STATE: Private_Family] [DYNAMICS: Physical_Coercion]
+- Tone: Coercive/Clipped vs Quiet Refusal.
+- Key Line (Alicent): "Buông tay ra. Ngay bây giờ."

@@ -1,0 +1,17 @@
+# FEEDBACK IMPLEMENTATION PROMPT (SUBTITLES)
+
+**Input:** User Feedback on `output_subs/[filename].vn.srt`.
+
+## Instructions
+1.  **Analyze Feedback:** Is this a **Global Error** (Workflow/System) or **Project Specific Error** (Context/Term)?
+2.  **Update Context (Immunity):**
+    *   If **Term/Name:** Call **Mercury** to update `/context/GLOSSARY.md` or `MASTER_KINSHIP_MAP.txt`.
+    *   If **Style/Voice:** Call **Linh** to update `EPISODE_CONTEXT_BEATS.txt`.
+3.  **Re-Run Pipeline:**
+    *   Reload the specific chunk(s).
+    *   Apply the NEW context.
+    *   Execute **Vu (Adversarial Loop)** on the revision.
+4.  **Confirm:** Verify the error is gone.
+
+## Output
+Revised `.vn.srt` and Confirmation of Context Update.

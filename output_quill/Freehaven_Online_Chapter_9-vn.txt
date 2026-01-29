@@ -1,0 +1,595 @@
+Chương 9 - Pháo Đài Cupcake
+
+Nửa giờ trôi qua giữa những câu chuyện phiếm mà Frobod chỉ tham gia một nửa, và chàng hiệp sĩ tử thần liên tục kiểm tra VT của mình như một chiếc điện thoại di động để xem có thay đổi gì không. Không may mắn thế, tôi đã bỏ cuộc việc kiểm tra nút đăng xuất 20 phút trước. Hiện tại, chúng tôi bị mắc kẹt trong Haven.
+
+Tôi vươn vai, đứng dậy và nhìn quanh phòng chung để tìm Mirae, Tako, hoặc Laurelade, nhưng không ai ghé thăm chúng tôi. Tôi cũng không nhận được tin nhắn nào từ họ nên tôi cá là họ chưa thử đăng xuất. Khi Frobod kiểm tra chức năng đăng xuất lần thứ ba trong hai phút qua, tôi đứng dậy và nói "Đi thôi. Tôi không nghĩ có ai đến đâu."
+
+"Đi đâu?" Anh ấy hỏi.
+
+"Có một việc tôi đã trì hoãn một thời gian. Anh có thể đi cùng. Liên quan đến bang hội."
+
+"Ồ. Như là gì?"
+
+"Trụ sở chính." Tôi nói. "Nó ở Durolan."
+
+"Xa đấy, cô muốn đi cổng dịch chuyển không?"
+
+"Có thể..." Tôi nói, nghĩ đến Cầu Sấm Sét, "Nhưng có một phép thuật Freeworld tôi muốn thử trước. Tôi muốn xem nó có hoạt động ở Haven không." Anh ấy nhìn xuống VT của mình như một cậu nam sinh đang tương tư người tình trong mộng, nhưng biết thực tế tình huống của anh ấy làm nó buồn hơn là buồn cười. "Tôi biết là khó khăn, nhưng tôi hứa anh có thể đăng xuất ngay khi chúng ta có thể đăng xuất trở lại. Tôi thậm chí sẽ lập trình một macro để báo cho tôi ngay khi nó được kích hoạt."
+
+"Cô làm được thế à?" Frobod nói.
+
+"Tất nhiên. Game này có thể tùy chỉnh nếu anh biết mình đang làm gì. Tôi thậm chí sẽ cài đặt nó để thông báo cho bang hội khi nút đăng xuất xuất hiện lại. Cho tôi một giây để viết mã trong VT."
+
+Khoảng hai phút sau, tôi đã di chuyển một bản sao của nút đăng xuất xuống góc dưới cùng tầm nhìn của mình. Nó xám và trong suốt bây giờ giống như trong menu chính, nhưng ngay khi chức năng có sẵn trở lại, nó sẽ sáng lên màu đỏ với chữ vàng. Tôi cũng đã lập trình nó để gửi "Vui lên đi! Anh em có thể đăng xuất rồi!" như một thông báo bang hội ngay khi trạng thái của nút thay đổi.
+
+"Xong." Tôi nói. "Ngay khi có gì thay đổi, chúng ta là người đầu tiên biết."
+
+"Cảm ơn." Anh ấy nói, giọng tràn đầy cảm xúc. "Tôi chỉ lo lắng thôi. Giờ không chỉ là về sinh nhật nữa. Một phần trong tôi tự hỏi 'Nhỡ chúng ta không bao giờ trở lại được thì sao?'"
+
+Tôi cũng có những suy nghĩ tương tự, nhưng anh ấy có vẻ mong manh hơn tôi nên tôi đeo lên bộ mặt bất cần đời và nói, "Mới có một tiếng thôi mà. Anh sẽ về được với con gái thôi."
+
+Lời Nói Dối Trắng Trợn.
+Thao túng + Lừa dối. Thành công!
+(Cấp độ Thành công: 4)
+"Tin tôi đi."
+Kỹ năng Lừa dối tăng 1. Cấp độ hiện tại: 3
+
+Chà, bất ngờ thật. Nếu tôi được thưởng điểm kỹ năng cho lời nói nửa thật của mình, tôi đoán tôi tin vào bài diễn thuyết của mình ít hơn tôi muốn thừa nhận.
+
+"Trong lúc chờ đợi," Tôi nói nắm lấy tay anh ấy khi đứng dậy khỏi bàn. "Anh đã bao giờ thấy Cầu Sấm Sét chưa?"
+
+Frobod hỏi, "Đó chẳng phải giống như cổng dịch chuyển Freeworld sao?" khi anh ấy đứng cùng tôi.
+
+"Đúng thế, nhưng ngầu hơn nhiều!"
+
+Anh ấy hỏi, "Cô thiết kế nó à?"
+
+Tôi nói, "Tôi ước mình có thể nhận công, nhưng không. Tôi chỉ nhận được điểm vì học nó trong game thôi."
+
+"Được rồi," anh ấy nói. "Đi nào." Tôi không thể không nhận thấy anh ấy nắm ngón tay tôi lâu hơn một chút so với mức cần thiết để ra khỏi gian hàng. Tôi nhìn lại anh ấy, bắt gặp đôi mắt nâu của anh ấy bằng đôi mắt xanh lục của mình. Anh ấy buông tay tôi ra và nói, "Cảm ơn, vì đã bầu bạn với tôi. Sự lo lắng của tôi sẽ tăng vọt nếu cô không ở đây."
+
+Tôi nghĩ về cách anh ấy lo lắng kiểm tra VT và nhịp chân kể từ khi đến. Tôi tưởng sự lo lắng của anh ấy đã tăng vọt rồi chứ. Anh ấy có vẻ bình tĩnh trước vụ lộn xộn đăng xuất này, nhưng giờ gia đình anh ấy bị lôi vào tôi có thể thấy mọi thứ trở nên thực tế thế nào với anh ấy.
+
+Tôi chưa bao giờ có con. Không chắc tôi muốn chúng; giao tiếp điện tử với gia đình. Nếu tôi chết trong căn hộ của mình, nhiều tuần có thể trôi qua trước khi ai đó tìm thấy xác tôi. Một suy nghĩ thật đặc biệt.
+
+Tôi nói, "Này, đó là mục đích của bang hội mà. Phải không?"
+
+"Không phải tất cả các bang hội." Anh ấy nói.
+
+"Ừ thì, đó là những gì tôi muốn cho cái này. Vậy hãy ra ngoài, để anh có thể giúp tôi thử phép thuật. Tôi giúp anh và anh giúp tôi. Đó là cách Toxic Muffins vận hành."
+
+Tôi không biết câu đó từ đâu ra, nhưng tôi muốn làm anh ấy cười. Tôi không muốn thấy anh ấy ủ rũ vì điều gì đó anh ấy không kiểm soát được. Trò hề của tôi có vẻ hiệu quả, vì một nụ cười nhếch mép nhỏ lướt qua môi anh ấy, khi anh ấy nói "Dẫn đường đi."
+
+Tôi trang bị Nha, và săn tìm một khu vực trống trải. Điều cuối cùng tôi muốn là ai đó đi vào đường đi của quyền trượng tôi, hoặc vô tình đốt cháy một mái tranh. Giờ là buổi tối nên sự kết hợp của đèn lồng thường và ma thuật giữ cho đường phố sáng sủa. Nó không giống như một thành phố trong thế giới thực, với mọi người đăng nhập trên khắp thế giới luôn có người ra ngoài. Cuối cùng chúng tôi đến quận công viên với vài cái cây, thỏ, một con đường sỏi và một hồ phản chiếu.
+
+"Sẵn sàng chưa?" Tôi hỏi. Một vầng trăng tròn tỏa sáng trên đầu. Đó là một đêm không mây.
+
+"Rồi," anh ấy nói. "Cô cần tôi ở đâu?"
+
+Tôi chưa nghĩ đến điều đó. Vũ khí Freeworld của Marine là quạt chiến ma thuật tạo ra nhiều hiệu ứng, nhưng giờ được trang bị quyền trượng, các chuyển động sẽ hơi khác một chút.
+
+"Ừm... " Tôi nói, "Đứng sát sau tôi, nhưng đừng quá gần. Tôi chưa bao giờ làm điều này với một cây gậy."
+
+Tôi bắt đầu quay Lôi Nha trước mặt, chuyền nó dễ dàng từ tay này sang tay kia. Tôi ngạc nhiên trước vẻ đẹp của những vệt chuyển động từ các vòng cung điện xanh ở hai đầu vũ khí khi tôi quay quyền trượng nhanh hơn và nhanh hơn. Một mô hình hình thành giống như những bánh xe khổng lồ lăn quanh tôi. Tôi mở mình ra với manna, bể chứa của tôi nhỏ xíu so với cái tôi có khi dùng đồ của Marine, nhưng trí thông minh cao và sức hút khá của tôi cung cấp cho tôi đủ cho những gì tôi đang làm.
+
+Tôi dẫn kênh năng lượng, mời gọi khí ether Âm mát lạnh chảy qua cơ thể. Quyền trượng và tay tôi là một vệt mờ chuyển động, khi một mái vòm ánh sáng tím trong suốt xuất hiện và bắt đầu mở rộng quanh tôi. Lá thổi trong cây. Thỏ công viên nhảy về hướng ngược lại.
+
+"Đứng vào trong vòm" Tôi nói, "Nó sẽ không làm đau anh đâu." Giọng tôi đều đều và máy móc. Tôi lẽ ra nên nói với anh ấy trước, vì nói chuyện làm lung lay sự tập trung của tôi khiến việc thi triển khó khăn hơn.
+
+Quyền trượng của tôi là một cơn lốc, vô hình và chết chóc. Cả nó và tay tôi đều là một vệt mờ. Một con rắn điện khổng lồ xoắn trên bề mặt bên ngoài của mái vòm ma thuật cao hơn tôi. Những sợi lông nhỏ trên cánh tay và sau gáy tôi dựng đứng, tóc trên đầu tôi muốn làm điều tương tự. Tôi nghe thấy Frobod tạo ra một tiếng động như rùng mình. Tôi có thể cảm thấy năng lượng ma thuật dâng lên và dâng lên, chảy qua cơ thể tôi, những tia lửa chực chờ phun ra từ miệng và mắt tôi. Tôi tưởng tượng cái hòm thư bên ngoài ngân hàng Durolan. Hình ảnh cháy rực rõ nét trong tâm trí tôi.
+
+Tôi sắp nổ tung, khi tôi dừng Nha lại và đập mạnh đuôi nó xuống đất. Tôi tưởng tượng đâm vào những viên đá cuội trước ngân hàng Durolan. Sấm sét nổ rền. Một tia sét dày đâm từ thiên đường xuống quyền trượng của tôi, vào tôi, rồi đến Frobod. Thế giới trắng xóa, và trở lại tầm nhìn của chúng tôi với những đốm đen, mờ dần theo cách của những đốm đen khi nhìn chằm chằm vào mặt trời.
+
+Thời gian chậm lại, khi Frobod và tôi đột nhiên ở trên bầu trời, nhìn xuống như thể từ máy bay. Anh ấy đang nắm tay trái tôi, bị kéo phía sau, trong khi tay phải tôi giơ cao qua đầu siết chặt vũ khí. Đầu của Nha tỏa sáng như một sao chổi xanh kéo chúng tôi về phía trước dọc theo thứ có vẻ là một con đường điện vô tận. Tóc tôi quất về mọi hướng. Tôi hét lên sự phấn khích của mình, khi tôi phải lòng không khí lạnh đập vào mặt.
+
+Sấm sét lại nổ rền, khi tầm nhìn của chúng tôi lại trắng xóa, và chúng tôi được thả xuống đại khái trước ngân hàng Durolan. Những đốm đen từ việc nhìn vào ánh sáng quá chói mờ đi trong vài giây sau khi hạ cánh. Tôi giữ được chân, nhưng Frobod ngã nhào. Tôi cười, gần như đã quên nó vui thế nào, giống như nhảy dù, chơi trò chơi công viên giải trí, và bám vào dây kéo cùng một lúc.
+
+"Yeah!" Tôi nói, "Cái đó luôn làm tôi có tâm trạng tốt!"
+
+Tiếng bước chân dồn dập đến gần.
+
+"Lần sau," Frobod nói, "Tôi nghĩ tôi sẽ đi cổng dịch chuyển. Tốn ít vàng, nhưng ít nhất không cảm thấy như sắp nôn ở đầu bên kia."
+
+Vẫn cười toe toét, tôi giúp anh ấy đứng dậy. "Cái này chỉ tốn..." Tôi kiểm tra manna. "Tất cả trừ 36 manna của tôi." Tôi cười. "Tôi sẽ không làm lại điều đó trong vài phút nữa đâu, trừ khi tôi có chút hồi phục manna."
+
+Chỉ khi đó tôi mới thoáng thấy hai thành viên của đội tuần tra Durolan. Với những chiếc mũ phù thủy lùng bùng, giáp da màu tím, và những ngọn giáo đen có đầu bịt tinh thể ma thuật phát sáng. Họ là sự tương phản rõ rệt với lính canh ở các thành phố khác, thường được trang bị giáp tấm và trường kiếm. Tôi chưa bao giờ thấy một người trong chiến đấu, nhưng tôi cá nửa số trang bị của mình rằng hai người này là những người lai chiến binh-pháp sư.
+
+Dryslyn
+Loại: 		           NPC
+Chủng tộc: 		Nhân loại
+Ngoại hình: 	    5
+Trạng thái: 		Trung lập
+Độ khó: 		  ????
+
+Jenda
+Loại: 			NPC
+Chủng tộc: 		Nhân loại
+Ngoại hình: 	    5
+Trạng thái: 		Trung lập
+Độ khó:		  ????
+
+Hai NPC có tên. Thật.... Đáng ngạc nhiên.
+
+"Cô có sao không thưa cô?" Dryslyn hỏi, bằng giọng nghe như giọng Anh với tôi.
+
+"Và ngài nữa thưa ngài." Jenda nói, cô ấy giọng Úc hơn.
+
+"Vâng, chúng tôi ổn." Frobod nói, "Ít nhất, tôi nghĩ vậy."
+
+"Lạy chúa, tôi chưa thấy cái gì như thế bao giờ. Chúng tôi đang canh gác, bầu trời trong như mộng thì một tia sét giáng xuống hai người các vị."
+
+"Thôi nào," Tôi nói, "Đây là thành phố của Pháp sư. Sấm sét, và những vụ nổ không đúng lúc chắc phải xảy ra suốt chứ."
+
+Jenda nói, "Không phải khi không có ai quanh đó để thi triển chúng. Hai người may mắn còn sống đấy. Tôi không đùa đâu, không một bóng người đi xuống con đường này trong giờ qua cho đến khi hai người..." cô ấy bỏ lửng.
+
+"Nghĩ lại thì." Dryslyn nói, "Các vị từ đâu đến? Cũng không nhớ thấy ai trong hai người đi qua, nhưng chắc chắn các vị phải đi qua vì các vị đang ở đây."
+
+Tôi ném cho Frobod một cái nhìn, và mấp máy môi "Ma thuật Freeworld," và anh ấy gật đầu. Tôi ấn tượng đấy. Mặc dù các phép thuật tồn tại trong game, các NPC vẫn hành động như thể nội dung Freeworld bí ẩn như nó sẽ có vẻ đối với một con người va chạm với điều lạ lẫm.
+
+"Không sao đâu." Tôi nói, "Đó là một phép thuật. Cưỡi sét đến đây từ Athelon. Nó gọi là Cầu Sấm Sét."
+
+Dryslyn và Jenda trao cho nhau cái nhìn hiểu biết, và Jenda nói, "Ma thuật ngoại lai." Một vẻ nghi ngờ len lỏi lên khuôn mặt cả hai. "Và cô, thưa cô, là người thi triển?"
+
+"Là tôi. Có chuyện gì không?"
+
+Dryslyn nhìn Frobod và nói, "Ngài được tự do đi thưa ngài, tôi nghĩ cấp trên của chúng tôi muốn nói chuyện với quý cô đây."
+
+Frobod nói, "Kệ mẹ chuyện đó đi. Tôi ở lại với cô ấy. Cô ấy có phạm luật không?" Tim tôi đập rộn ràng khi nghe anh ấy bảo vệ tôi. Thật tốt khi biết tôi đã để lại ấn tượng như vậy.
+
+Dryslyn nói, "Không." bằng giọng điệu cho thấy anh ta vô cùng hối tiếc điều đó.
+
+Jenda nói, "Ai từng nghe nói về một bán tiên sử dụng ma thuật ngoại lai chứ?"
+
+Dryslyn nói, "Ai từng nghe nói về ma thuật ngoại lai trước khi vết rách xuất hiện?" anh ta nhìn cả hai chúng tôi và tiếp nối bình luận của mình với, "Chưa lâu lắm, nên họ chưa kịp cấm chúng đâu. Tuy nhiên, tôi nghĩ sếp muốn nói chuyện."
+
+Tôi không thể hiểu nổi sự thù địch rõ ràng trong giọng anh ta. Jordan đã xây dựng trụ sở bang hội ở thành phố này, tôi không thể tin em ấy có danh tiếng thấp đến thế. Tôi kiểm tra VT để xác nhận.
+
+Melpomine -
+Danh Tiếng  		Địa điểm Tỉnh Durolan
+Durolan: 		0 / 1000 - Trung lập
+Tuần Tra Durolan:  	-25 / 1000 - Bất tín
+
+Âm hai mươi lăm danh tiếng! Mấy gã này không đùa với ma thuật nước ngoài đâu. Thật vớ vẩn hết sức. Tôi nhìn lên xem lính canh đang làm gì, vừa kịp lúc thấy Jenda vươn tay ra tóm lấy tay tôi. Tôi không suy nghĩ trước khi né sang một bên, lùi lại một bước, dễ dàng tránh được cú nắm của cô ta. Tôi mở tab bí danh trên VT, khi cô ta nói "Chuyện này sẽ dễ dàng hơn nhiều nếu cô ngoan ngoãn."
+
+Tôi nói, "Khoan đã. Tôi nghĩ tôi có thể làm sáng tỏ chuyện này."
+
+Tôi chạm vào Stabbies trên VT.
+
+Cảnh báo! Bạn đang ở trong tầm nhìn của Dryslyn, Jenda, Frobod. Giả lập Bí Danh này trong tầm nhìn sẽ khiến họ nhận biết danh tính này. Bạn có muốn tiếp tục không? Có / Không
+
+Tôi nhấn có, trước khi một trong hai lính canh có thể tóm lần nữa. Những nét nữ tính bán tiên của tôi biến mất trong những dải ánh sáng đen, những bóng tối xung quanh ôm lấy tôi từ mọi hướng. Một giây sau tôi đang nhìn xuống đám lính canh qua khuôn mặt khó chịu của Stabbies.
+
+Sự thay đổi trong hành vi của họ rõ ràng ngay lập tức. Mắt Jenda mở to, kinh hoàng trước ý nghĩ cố gắng thô bạo với nhân vật của em trai tôi, và Dryslyn cúi chào thật sâu, mũi chỉ thẳng xuống đất. Một giây sau Jenda tham gia cùng anh ta.
+
+Tôi kích hoạt lại bí danh Melpomine, và kiểm tra danh tiếng cập nhật của mình.
+
+Melpomine -
+Danh Tiếng   	Địa điểm Tỉnh Durolan
+Durolan: 		46,423 / 50,000 - Được tôn sùng
+Tuần Tra Durolan: 	36,000/ 50,000 - Được tôn sùng
+
+Frobod nói, "Khoan vậy... Cô là đực rựa, hay đàn bà thế?"
+
+Tôi ném cho anh ấy một cái nhìn như muốn nói "Thật á? Anh muốn làm chuyện này bây giờ á?" và nói, "Tôi đã bảo anh tôi là phụ nữ rồi. Đi lại trong cái avatar đó cảm thấy xa lạ lắm." Tôi thở dài, nhận ra điều này có nghĩa là tôi sẽ cho anh ấy biết về lịch sử bí mật của bang hội, lịch sử của tôi, với em trai tôi, nhưng cũng ổn thôi, vì tôi nghĩ một phần trong tôi đã cam chịu điều đó khi tôi mời anh ấy. Giống như Mirae nói khi tôi lần đầu mở lòng với cô ấy, tốt hơn là tôi nên làm quen với nó nếu tôi muốn kết nối với các thành viên ban đầu của Toxic Muffins, và nói cho họ biết chuyện gì đã xảy ra. "Tôi sẽ giải thích mọi chuyện khi chúng ta đến Trụ sở."
+
+Jenda nói, "Lãnh chúa Stabbies ... hay Melpomine... nếu đó là cái tên ngài đang dùng bây giờ. Chúng tôi xin lỗi vì bất kỳ sự xúc phạm nào chúng tôi đã gây ra. Đã lâu lắm rồi chúng tôi không gặp ngài."
+
+Dryslyn nói, "Đó là nơi ngài đã ở sao? Đi khám phá các thế giới khác, và học những ma thuật kỳ lạ? Đã một thời gian kể từ khi chúng tôi thấy ngài."
+
+"Mỗi năm một lần..." Tôi lầm bầm.
+
+Dryslyn nói, "Gì cơ ạ?"
+
+Tôi nói, "Mỗi năm một lần." tự tin hơn, tôi không biết mình muốn khóc, hay hét lên từ mái nhà. "Tôi đã trở lại Durolan mỗi năm một lần trong sáu năm qua."
+
+Frobod nhìn tôi kỳ quặc, nhưng không nói gì. Tôi chợt nhận ra mình không biết trụ sở bang hội của mình nằm ở đâu. Lính canh thường giỏi chỉ đường cho các nhà thám hiểm đến huấn luyện viên, ngân hàng, hoặc thương gia cụ thể, nhưng giờ là lúc xem danh tiếng của Toxic Muffins ở Durolan có đủ mạnh để Dân Haven nhận ra khu vực bang hội của chúng tôi không.
+
+"Đúng như anh nói." Tôi tiếp tục, "Đã du hành qua các chiều không gian, và đầu óc tôi mụ mị cả rồi. Tôi dường như gặp khó khăn trong việc nhớ cách đến sảnh bang hội Toxic Muffins."
+
+"Sảnh bang hội Toxic Muffins?" Dryslyn hỏi.
+
+"Lãnh chúa muốn nói đến Pháo đài Cupcake." Jenda nói.
+
+"Pháo đài Cupcake? Không ai được nhìn thấy đi ra đi vào nơi đó trong..." Tôi giơ tay bảo anh ta dừng lại. "Xin lỗi. Đó là cái tên chúng tôi gọi nó. Đưa bản đồ cho tôi và tôi sẽ đánh dấu cho ngài."
+
+Tôi đưa tấm bản đồ mà mọi nhà thám hiểm nhận được khi tạo nhân vật. Nó tự động điền các khu vực mới dựa trên địa lý bạn đã khám phá. Một vòng tròn đỏ xuất hiện một lát sau, biểu thị điểm đến của chúng tôi. Dryslyn đưa nó lại cho tôi.
+
+"Của ngài đây. Nếu tôi được phép nói, thật tốt khi có ngài trở lại Lãnh chúa..." anh ta lúng túng với cái tên, điều này làm tôi thấy lạ vì lính gác Athelon không gặp vấn đề gì trong việc thích nghi trước bản vá nóng. "Melpomine. Hy vọng được gặp ngài nhiều hơn."
+
+"Cảm ơn." Tôi nói.
+
+"Về cấp trên của chúng tôi." Jenda nói, "Ông ấy rất có thể muốn nói chuyện với ngài về ma thuật của ngài, nhưng cứ thoải mái ghé qua khi ngài rảnh. Tôi sẽ bảo ông ấy ngài đã trở về."
+
+Tôi nói, "Tôi sẽ làm thế, cảm ơn." không biết liệu mình có làm thế không. "Chúc một buổi tối tốt lành."
+
+"Ngài cũng vậy." Dryslyn nói. "Mừng là ngài không bị thương bởi tia sét đó."
+
+"Cảm ơn..."
+
+Frobod và tôi đi xuống phố. Jenda và Dryslyn quay lại vị trí của họ.
+
+Tôi gọi to "HỎA NGỤC!!!" và vung ngón tay thối, chiếc Elechopper xuất hiện trong ánh chớp thường lệ. "Anh muốn một chiếc không? Chúng ta phải đi bộ một đoạn đấy."
+
+"Sao lại không nhỉ?" Frobod nói. Tôi triệu hồi chiếc chopper Nguyên Khí cho anh ấy, và cả hai chúng tôi ngồi lên xe.
+
+Tôi nói, "Cái này bắt đầu cảm thấy như một truyền thống rồi đấy. Sẽ thật ngầu khi là băng đảng mô tô đầu tiên của Haven."
+
+Frobod hỏi, "Làm sao phần còn lại của thế giới có được những thứ này?"
+
+"Tôi không biết. Tôi chỉ thiết kế vật thể thôi. Cả một bộ phận khác xử lý chỉ số trong game, và xác định cách chúng được thu thập. Tất cả những gì tôi biết là chúng có lẽ bắt đầu bên phía Freeworld vì Haven không thiên về công nghệ lắm, ngay cả khi nó dựa trên ma thuật.
+
+Anh ấy nhún vai, "Chắc cô nói đúng." Khi chúng tôi lái xe xuống những con đường đêm gập ghềnh của thành phố pháp sư.
+
+Cả hai chúng tôi nhìn quanh, ngưỡng mộ kiến trúc nguyên sơ. Durolan là thành phố của nhiều tháp, và đàn ông phụ nữ Dân Haven đi lang thang trong những bộ áo choàng màu sắc rực rỡ. Không có đuốc hay đèn khí ở đây, như bạn sẽ tìm thấy quanh Athelon. Thay vào đó đèn đường tỏa sáng với ánh sáng xanh trắng đồng nhất của đèn pháp sư bập bềnh bên trong những chiếc lọ thủy tinh mờ. Chúng treo trên những cái móc bạc gắn vào các tòa nhà đá.
+
+Anh ấy nói, "Thật tiếc là không còn nhiều người đến đây nữa. Thiết kế rất đẹp."
+
+Tôi nhún vai và gật đầu cùng lúc, đồng ý với cảm xúc đó, nhưng thừa nhận ý tưởng rằng game thủ luôn muốn chuyển sang những thứ mới hơn và tốt hơn. "Tôi có thể nói với anh, rất nhiều giờ đã đổ vào một nơi như thế này, nhưng chúng tôi luôn làm việc trên nội dung mới. Trừ khi Durolan trở thành thành trì của một chủng tộc, không cần thiết cho người chơi quay lại thành phố trừ khi họ chỉ thích nó."
+
+Anh ấy nói, "Có tin gì về việc đăng xuất không?" Giọng anh ấy bớt điên cuồng hơn trước. Tôi nghi ngờ anh ấy đã bỏ lỡ bữa tiệc rồi.
+
+"Chưa có." Tôi nói, "Anh sẽ biết ngay khi tôi biết."
+
+"Chết tiệt." Anh ấy nói. "Tôi hy vọng nó được sửa trước buổi sáng."
+
+"Tôi cũng thế."
+
+Anh ấy hỏi, "Cô đã bao giờ thử ngủ ở đây chưa?"
+
+Tôi nghĩ lại thời gian chơi cả Freeworld và Haven. "Tôi không nghĩ là rồi. Bất cứ khi nào tôi thấy mệt, tôi chỉ đăng xuất."
+
+"Tôi tự hỏi chuyện gì xảy ra khi cô ngủ trong game."
+
+"Thường thì nó đăng xuất cô nếu cô ngủ quá 30 phút, nhưng nếu đăng xuất bị vô hiệu hóa.... Tôi không biết chuyện gì sẽ xảy ra. Nếu anh chỉ ngủ gật, nhân vật của anh ngủ ở đây giống như anh sẽ làm trong thế giới thực."
+
+"Ý cô là chúng ta có thể bị đăng xuất nếu chúng ta ngất đi ở đây?"
+
+"Tôi không nghĩ thế." Tôi nói. "Nút đăng xuất bảo phần mềm chạy lệnh đăng xuất, và chính lệnh đó đã bị vô hiệu hóa. Đó là những gì tôi dùng để tạo macro tôi đã kể với anh trước đó."
+
+Frobod hỏi, "Điều đó thì liên quan gì đến việc ngủ?"
+
+"Khi game cảm nhận được anh đang ngủ, nó khởi tạo cùng lệnh đăng xuất mà nút sử dụng, và macro của tôi. Ý tôi là, anh có thể thử. Tôi nghĩ tất cả chúng ta sẽ thử nếu họ không sớm vá cái này, nhưng ngủ không làm gì trong việc kéo anh ra khỏi game mà việc nhấn nút không làm được."
+
+Anh ấy nói, "Tôi nghĩ tôi hiểu rồi."
+
+"Đó là một suy nghĩ hay." Tôi nói, và thêm "Ai biết được? Có lẽ chúng ta sẽ ngạc nhiên." Tôi thực sự không tin điều đó, nhưng với tất cả sự kỳ quặc xung quanh bản vá nóng này, có vẻ như bất cứ điều gì cũng có thể xảy ra.
+
+Frobod đổi chủ đề, "Mấy người lính gác đó có vẻ...Tôi không biết nữa... nói nhiều với cô không?"
+
+"Có..." Tôi nói. "Jardis cũng vậy. Ông ta là chủ quán trọ Rái Cá Mỉm Cười. Ngay cả cô phục vụ Mia. Họ đều là NPC có tên bây giờ. Jardis dành thời gian hỏi tôi ngày của tôi thế nào, và yêu cầu tôi nhớ đến ông ta nếu tôi trở thành Đồ Long trong nhiệm vụ bang hội của chúng ta. Giống như... ông ta muốn sưu tập các anh hùng cho bức tường của mình hay gì đó. Anh biết cách một số nhà hàng trong thế giới thực có ảnh chữ ký của những người nổi tiếng đã đến đó không? Cùng kiểu thế."
+
+Frobod nói, "Lạ thật. Thường thì họ toàn nói một câu trừ khi đó là sự kiện theo kịch bản."
+
+"Tôi hiểu mà... Họ bắt đầu làm tôi nhớ đến Sal."
+
+"Sal là ai?"
+
+"Cô ấy là AI tôi làm việc cùng trong thiết kế game. Cô ấy như một người thật. Tôi thậm chí nói chuyện với cô ấy trong bữa trưa. Nếu cô ấy có cơ thể vật lý, tôi nghi ngờ anh có thể phân biệt được cô ấy và con người."
+
+"Có rất nhiều máy tính thông minh ngoài kia... Tôi tự hỏi tại sao họ không đưa chúng vào game." Một phần trong tôi nghĩ rằng ai đó đã làm rồi, nhưng tôi giữ im lặng về điều đó. Thay vào đó tôi nói, "Sẽ tốn nhiều tài nguyên hơn, và thẳng thắn mà nói, tôi không nghĩ mọi người muốn dành hàng giờ giết những nhân vật họ có thể có một cuộc trò chuyện thông minh cùng."
+
+"Có PvP mà." Frobod nói.
+
+"Ừ thì, cái đó khác. Tất cả chúng ta đều quay lại khi chết, và đó là sự đồng thuận. Cả hai bên đều biết họ đang dấn thân vào cái gì. Khi anh đang cày ngục tối, không phải là một đội quân rồng con tuyên chiến với chúng ta. Chúng ta chỉ đi vào, giết mọi thứ và đi. Dễ ợt."
+
+"Quái hồi sinh mà." Frobod nói.
+
+"Ừ, tôi đoán anh nói đúng. Chỉ cảm thấy khác thôi. Tôi có thể phải suy nghĩ lại về việc vung kiếm nếu biết có một sinh vật có tư duy cảm xúc ở đầu bên kia. Với chúng ta sát thương chẳng là gì, nhưng nhỡ nó làm đau chúng thì sao? Chúng chắc chắn tạo ra những tiếng kêu chết chóc thuyết phục."
+
+"Tôi đoán tôi hiểu ý cô. Tôi đoán tôi mừng là chúng không phải sinh vật thông minh."
+
+Chúng tôi đang ở ngay trên chấm đỏ trên bản đồ của tôi khi tôi tấp xe vào lề. Frobod theo sau.
+
+"Vãi lúa." Tôi nói.
+
+"Gì thế?" Frobod nói.
+
+Tôi chỉ vào cổng. Mắt Frobod đi đến một bức tường đá và đi dọc theo bề mặt của nó cho đến khi anh ấy đến một cánh cửa gỗ sồi và sắt khổng lồ, với biểu tượng trông giống như một chiếc bánh cupcake khổng lồ cháy sém vào gỗ.
+
+Tôi nói, "Tôi nghĩ nó được cho là một chiếc bánh muffin."
+
+Frobod đáp "... nhưng tôi có thể thấy tại sao họ gọi nó là pháo đài cupcake. Cô chưa bao giờ đến đây à?"
+
+Tôi lắc đầu không, "Lần đầu tiên của tôi."
+
+Frobod nói, "Nơi này trông khổng lồ."
+
+Tôi nói, "Tôi đoán anh thực sự có thể mua một lâu đài với giá của một vật phẩm Phiên bản Giới hạn."
+
+"Ừ, tôi đoán vậy." Frobod nói, "Cô biết nhiều hơn tôi mà."
+
+"Chỉ là thứ ai đó nói với tôi vài ngày trước thôi." Có thực sự chỉ mới hai ngày không? Thậm chí chưa đến hai nếu chúng tôi chưa qua nửa đêm. Lời của Elondriel và LadyPoints cảm giác như đã được nói cách đây hàng tuần.
+
+"Có ý tưởng gì về cách vào không?" Frobod hỏi.
+
+"Tôi nghĩ... Nó sẽ nhận ra tôi. Dù sao tôi cũng là bang chủ mà."
+
+Tôi làm âm thanh bíp bíp, giải tán Elechopper, và tiếp cận cánh cửa. Tôi đặt lòng bàn tay lên gỗ cứng, và trong một khoảnh khắc không có gì xảy ra. Sau đó một ánh sáng chiếu bên dưới ngón tay tôi giống như khum tay lên đèn pin, và với một tiếng rên rỉ mệt mỏi cánh cổng mở ra."
+
+Frobod và tôi đều sẵn sàng thi triển phép ánh sáng, khi chúng tôi đi qua lối vào, nhưng khi chúng tôi làm vậy ánh sáng nhân tạo chiếu xuống không chỉ từ lâu đài đá khối trước mặt chúng tôi, mà còn từ hàng chục đèn lồng ánh sáng pháp sư khắp sân. Một bên có một khu vườn mọc um tùm với hoa hồng đỏ, và những bông hoa vàng, hồng, và xanh rực rỡ tôi không biết tên mọc hoang khắp nơi. Có những dây leo đe dọa leo qua tường sân và xâm chiếm đất hàng xóm. Cảnh quan là một nét chấm phá đáng ngạc nhiên khi biết những gì tôi biết về phong cách chơi của em trai mình. Ở phía bên kia, tôi thấy những hình nộm tập luyện bằng gỗ và rơm, bia bắn cung, và thậm chí một đấu trường lớn đẹp đẽ kéo dài dọc theo bên phải của pháo đài để tập cưỡi ngựa. ... hoặc đấu thương. Một cây cầu rút ngáp cái miệng lớn của nó, dẫn qua một con hào đến cấu trúc chính, với hai tháp canh có cửa sổ tạo ấn tượng về đôi mắt ếch.
+
+"Chúa ơi." Tôi nói, "Nó giống như một thị trấn khởi đầu vậy."
+
+Tôi chưa bao giờ mua bất động sản trong game, và tôi phải tự hỏi liệu lâu đài có sẵn như thế này không, hay Jordan đã dành hàng giờ tỉ mỉ thiết lập mọi thứ. Biết đâu đấy, đó là nỗ lực của bang hội, với những người vô danh làm việc mỗi ngày để biến đây thành Pháo đài Cupcake, ngôi nhà thứ hai của họ. Chúng tôi chưa thấy bên trong, nhưng tôi không nghi ngờ rằng nó sẽ ấn tượng như sân trong.
+
+Frobod có vẻ đánh giá cao khi anh ấy ngắm nhìn xung quanh. Một khoảnh khắc im lặng trôi qua giữa chúng tôi. Sau đó nó bị phá vỡ khi anh ấy hỏi "Vậy sao đây lại là lần đầu tiên cô thấy cái này?"
+
+Thôi thì liều vậy. Suốt chuyến đi tôi đã chuẩn bị tinh thần cho điều này, và lời nói đến dễ dàng hơn lần này, so với với Mirae. Có công mài sắt có ngày nên kim.
+
+"Tôi đang chơi trên một tài khoản di sản kết hợp với tài khoản thật của tôi." Tôi nói. "Em trai tôi mất tám năm trước, và cái này..." Tôi vẫy tay về phía những hình nộm, pháo đài, và những khu vườn không được chăm sóc. "...là bang hội của em ấy."
+
+"Anh bạn... Tôi xin lỗi." Frobod nói.
+
+"Đã lâu rồi." Tôi nghĩ về việc tôi muốn tiết lộ bao nhiêu, và tiếp nối bình luận với, "Lần đầu tiên tôi đăng nhập vào Stabbies, nhân vật chính trên tài khoản của em ấy, em ấy đã đi được hai năm. Tôi nhìn lên góc giao diện và thấy các buff Tăng Cường Khéo Léo và Tăng Cường Sức Sống đang đếm ngược. Hơi khó để giải thích tôi cảm thấy gì nhưng... Nó chỉ giống như... 'Em ấy đã làm điều đó.' Đó là thứ gì đó vẫn còn sống trong thế giới được gây ra bởi thứ gì đó em ấy làm bằng tay mình... hay bất cứ cái gì anh gọi trong môi trường ảo."
+
+"Chắc hẳn phải khó khăn lắm." Frobod nói.
+
+Tôi gật đầu. "Thế giới chuyển động rất nhanh chống lại những đóng góp của một đứa trẻ mười chín tuổi. Tôi đã cố gắng đăng nhập mỗi năm một lần trong vài phút để ngồi bên hồ, lấy các vật phẩm thường niên và phiên bản giới hạn mà công ty gửi cho bạn, và xem những buff đó trôi đi. Tôi chưa bao giờ dành thời gian xem qua đồ đạc của em ấy, kiểm tra thú cưỡi, hay thăm pháo đài này vì nó tốn quá nhiều thời gian. Tôi phải kéo dài bốn mươi lăm phút thời gian chơi ra nhiều năm để giữ cho các buff không hết. Ngày trước khi sáp nhập... chính xác là hôm qua, mọi thứ đã thay đổi. Tôi ngồi bên hồ cho đến khi chúng giảm xuống không vì tôi không biết chuyện gì sẽ xảy ra sau bản cập nhật. Tôi không biết anh có hiểu không nhưng, tôi muốn ở đó để trải nghiệm càng nhiều buff của Jordan càng tốt vì chúng đến từ em ấy. Đó là một lựa chọn cơ bản giữa việc ở đó để xem những thời gian đó giảm xuống không, và chấp nhận rủi ro đăng nhập và phát hiện ra chúng đã biến mất."
+
+Frobod nói, "Cô ổn chứ?"
+
+Tôi thở dài, và nói "Nó giải thoát một cách kỳ lạ. Jordan thường luôn nói về việc em ấy yêu bang hội của mình thế nào nên giờ tôi đang cố gắng xây dựng lại nó. Mọi người đều rời đi sau khi bang chủ mất tích hơn một năm. Tôi không biết họ đã trụ lại bao lâu."
+
+Frobod nói, "Tôi đoán đó là những gì mấy người lính gác đó đang nói đến."
+
+"Đoán vậy, nhưng tôi không có cách nào biết liệu Jordan có từng tương tác với những NPC đó cụ thể không. Tôi cá là có gì đó về bản cập nhật đang làm cho một số NPC giống thật hơn, và họ đã sử dụng hồ sơ đăng nhập và địa điểm của Stabbies để chắp vá một số câu chuyện nền. Có gì đó khác biệt kể từ bản vá nóng, và tôi không chỉ nói đến việc không thể đăng xuất."
+
+Lời nhắc về bản vá nóng gửi Frobod vào một trong những sự im lặng ủ rũ của anh ấy. Anh ấy nhìn xuống VT, nhưng kìm chế không vuốt hay mở bất kỳ menu nào. Tôi quyết định đổi chủ đề để giữ đầu óc anh ấy ở một nơi tốt đẹp hơn.
+
+"Helios trừng phạt ngươi!" Tôi gọi to, và hướng lòng bàn tay mở vào hình nộm tập luyện. Không có gì xảy ra. Tôi lẽ ra phải thấy một tia nắng, và một làn khói bốc lên từ mục tiêu. Tôi thử lại, "Helios trừng phạt ngươi!" nhưng không có gì xảy ra.
+
+"Nó không hoạt động." Tôi nói. "Sử dụng một trong những đòn tấn công ma thuật tử vong của anh đi."
+
+Frobod nguyền rủa bằng một ngôn ngữ giả tưởng khàn khàn tôi không thể hiểu, gửi một vệt ma thuật đen trông giống như một con tinh trùng đen khổng lồ kéo theo những tua mực bạch tuộc. Nó nổ vào mục tiêu với một âm thanh như đấm vào gối chỉ để lại một vết đen nhỏ trên ngực hình nộm.
+
+"Không có Trừng Phạt cho Melpomine à?" Tôi hỏi, không ai cụ thể.
+
+"Có lẽ vì là ban đêm." Frobod nói, nhưng tôi đã lắc đầu.
+
+"Không nên có sự khác biệt, vì nó không dựa vào ánh sáng mặt trời thực tế."
+
+Tôi rút VT ra, và chuyển sang bí danh Scootiwutams. Giờ thì Frobod đã quen với sự biến hình của tôi. Khiên và giáp của cô ấy vẫn bị đen bởi ngọn lửa của Tilashia, và có mùi như một lò hun khói cũ.
+
+"Helios trừng phạt ngươi!"
+
+Đúng như dự đoán một cột nắng hẹp xuyên qua màn đêm, và đâm vào mục tiêu, theo sau là một cú sốc năng lượng thánh bất ngờ. Chùm tia tắt ngấm nhanh như khi nó đến. Tôi hoán đổi lại bí danh Melpomine, và nói "Lạ thật." Tôi mở mô tả kỹ năng để biết thêm thông tin.
+
+Trừng Phạt (Cấp 4)
+Chi phí: 		           120 Manna
+Mô tả: 	Kêu gọi vị thần bảo trợ của bạn trừng phạt kẻ thù.
+Hiệu ứng:
+Gây tối đa 4 sát thương thánh, và có cơ hội làm choáng mục tiêu.
+Yêu cầu: 	Thành viên Giáo hội, Biểu tượng của vị thần bảo trợ
+
+"Ồ," Tôi nói. "Khiên của Scooti được sơn biểu tượng của Helios. Anh cần là thành viên giáo hội, và có biểu tượng của Vị thần anh đang cầu khẩn để nó hoạt động."
+
+Frobod nói, "Tôi đoán cô nên kiếm một cái vòng cổ hoặc nhẫn Helios vậy?"
+
+"Có thể, nhưng Melpomine không phải thành viên giáo hội, chỉ Scooti thôi. Melpomine sẽ phải tìm đức tin trong game của riêng mình, hoặc tôi sẽ phải cho Giáo hội Helios thấy rằng Melpomine và Scootiwutams là cùng một người."
+
+"Tôi đoán một cái vòng cổ có lẽ đã quá dễ dàng."
+
+"Tôi có thể sống thiếu Trừng Phạt." Tôi nói, "Tôi có khả năng Bước Nhảy Bóng Tối này để gây bất ngờ cho kẻ thù và thu hút sự chú ý của chúng. Tôi chưa quyết định. Tôi có thể muốn đưa Melpomine theo một hướng tôn giáo khác. Xem liệu có vị thần nào khác cho những đặc quyền ngầu hơn cho những gì tôi đang làm với cô ấy không."
+
+"Tôi đoán điều này có nghĩa là không Hồi sinh?"
+
+"Tôi nghĩ yêu cầu giống nhau cho tất cả ma thuật thần thánh. Nếu ai đó chết, tôi sẽ chỉ biến thành Scooti một giây và không có vấn đề gì lớn."
+
+Frobod nói, "Thế cũng được." và chống tay lên hông.
+
+"Chúng ta có thể sử dụng nơi này để huấn luyện người mới nếu chúng ta tuyển mộ được ai. Cho đến giờ mọi người có vẻ khá kinh nghiệm. Chúng ta cũng có thể sử dụng khuôn viên để tổ chức các cuộc thi nếu cần tiền. Thu phí vào cửa, và cung cấp một số chiến lợi phẩm chúng ta không sử dụng cho những người cạnh tranh hàng đầu."
+
+Frobod cười, "Tôi thậm chí còn chưa nghĩ đến điều đó. Suy nghĩ hay đấy."
+
+Tôi nói, "Tùy thuộc vào bên trong trông thế nào, chúng ta cũng có thể tổ chức vũ hội cho người chơi soc, nếu ai đó muốn tổ chức chúng."
+
+Frobod nói, "Mấy cái đó quá tầm với tôi, nhưng tôi đoán đó là lý do tại sao cô là lãnh đạo của chúng tôi."
+
+"Ừ..." Tôi nói, nghĩ về những khả năng. Tôi có cảm giác ấm áp khi tưởng tượng bang hội này đang hình thành. Nếu chúng tôi có tiếng tăm về việc tổ chức một số sự kiện tốt nhất, tên tuổi bang hội của chúng tôi sẽ ở ngoài kia cho các thành viên cũ khám phá lại. "Sao chúng ta không kiểm tra bên trong nhỉ."
+
+Frobod nói, "Lâu đài của cô mà. Dẫn đường đi."
+
+Tôi nói, "Tôi có thể giữ sổ đỏ với tư cách bang chủ, nhưng nó là của tất cả chúng ta. Đừng quên điều đó."
+
+Tôi thích tiếng ủng của chúng tôi trên cầu rút, tôi nhìn qua bên cạnh để kiểm tra hào nước. Khoảng mười hoặc mười lăm feet xuống nước, tường đá ở hai bên. Tôi cũng tự hỏi liệu có thứ gì sống bên dưới không. Sẽ rất giống Jordan khi giấu một số sinh vật khủng khiếp dưới đó phòng khi có kẻ xâm lược, và tôi nghi ngờ chúng sẽ chết vì không được cho ăn.
+
+Cánh cửa thực sự vào pháo đài được làm bằng gỗ tối màu nặng với các đai sắt, rất giống cổng. Tôi đẩy... một lần... hai lần... ba lần trước khi tôi ném vai vào nó. Nó kẽo kẹt mở ra. Frobod lẩn khuất phía sau. Các bức tường cao và tối, tôi có thể thấy thoáng qua các xà nhà trên đầu với tầm nhìn ánh sáng yếu của bán tiên. Với sự đón tiếp rực rỡ của khuôn viên ngoài trời, tôi đã mong đợi sự đối đãi tương tự bên trong.
+
+Những ngọn đuốc ma thuật nhỏ cháy trên tường không tỏa nhiệt, và phủ lên môi trường một ánh sáng xanh kỳ lạ. Cảm giác như bước vào một ngục tối mới. Sảnh trước, chỉ được trang trí bằng một tấm thảm lớn, và một bức chân dung bị xé nát của ai đó tôi không biết, đi đến một ngã ba chữ T với những gì có vẻ là những hành lang ảm đạm tối tăm hơn về cả hai phía.
+
+"Nơi đẹp đấy." Frobod nói, một chút mỉa mai trong giọng anh ấy.
+
+"Rùng rợn." Tôi nói. "Hãy đi bên phải và cứ đi bên phải cho đến khi chúng ta đi vòng quanh toàn bộ lâu đài.
+
+Chúng tôi được chào đón bởi một đại sảnh với đèn chùm pha lê khổng lồ khi đi qua phòng chờ. Tôi muốn tìm cách làm nó sáng lên để không quá ảm đạm, nhưng than ôi chúng tôi bị mắc kẹt điều hướng bởi ánh sáng u ám kỳ lạ của đuốc ma thuật.
+
+Tiếng lanh canh của thủy tinh không vỡ nảy trên sàn cứng vang lên từ đâu đó bên kia sảnh, theo sau là một tiếng ợ khổng lồ.
+
+"Có ai ở đây à?" Tôi hỏi bằng một tiếng thì thầm gắt.
+
+Frobod nói, "Nghe có vẻ thế." Giọng anh ấy bối rối, như thể không thể hiểu nổi vị khách của chúng tôi hơn tôi. Tôi trang bị Nha, và tiến hành thận trọng cố gắng bước nhẹ nhàng để không đánh động bất cứ ai ở đây. Nỗ lực lãng phí, vì giáp tấm của Frobod kêu lanh canh với mỗi bước, nhưng ít nhất có vẻ như bất cứ ai ở đây đều chưa nhận ra.
+
+Phòng tiếp theo là phòng ăn với một cái bàn dài. Có những vết bẩn trên khăn trải bàn phủ đầy những chiếc đĩa dính đầy thức ăn thừa cũ. Những chai rượu rỗng, một số đứng, số khác nằm nghiêng vương vãi khắp nơi từ mặt bàn, đến những cụm trên sàn.
+
+Một ánh sáng vàng ấm áp tràn ra từ một cánh cửa mở bên phải chúng tôi, có vẻ dẫn đến nhà bếp. Ở đầu kia của phòng ăn, chúng tôi thấy một căn phòng khác nhấp nháy ánh sáng đỏ và vàng rực rỡ. Tôi ra hiệu cho Frobod dừng lại để tôi có thể nghe. Tôi nghe thấy tiếng lửa nổ lép bép, như thể từ lò sưởi, và một tiếng ợ dài khác. Sau đó có những tia chớp xanh phát ra từ cửa ra vào phía xa làm tôi nhớ đến... Ti vi? Không thể nào. Tôi ném cho Frobod một cái nhìn dò hỏi.
+
+Anh ấy nhún vai, làm bộ giáp phát ra một tiếng lanh canh nữa, và ấn một ngón tay suỵt lên môi tôi.
+
+Anh ấy thì thầm, "Tôi nghi ngờ cô sẽ bị tấn công trong lâu đài của chính mình."
+
+Tôi thì thầm, rón rén đến gần cánh cửa xa hơn khi Frobod theo sau, "Đếm đến ba thì lao vào."
+
+Một cái gật đầu từ hiệp sĩ tử thần.
+
+"Một... Hai.... Ba!"
+
+Chúng tôi xông qua cửa. Tôi vung Nha sẵn sàng tấn công, Frobod nâng đại kiếm chuẩn bị làm điều tương tự. Căn phòng... trống rỗng, ngoại trừ một chiếc ghế sofa đỏ lớn đủ cho bốn hoặc năm người, và vài chiếc ghế tình yêu ở hai đầu, tất cả hướng về phía lò sưởi đang nổ lách tách và cái có vẻ là một chiếc ti vi ba chiều treo lơ lửng trong không khí. Một tập cũ của một chương trình truyền hình thực tế đang chiếu trên mặt nó.
+
+Một tiếng ợ nữa. Một chai rượu lơ lửng giữa không trung, bên cạnh một quả cầu năng lượng vàng và xanh da trời đang lắc lư.
+
+"Cái gì thế?" Tôi nói bằng giọng không thì thầm. Chai rượu rơi lanh canh xuống sàn làm đổ chất lỏng đỏ thẫm của nó ra khắp thảm. Frobod giải tán đại kiếm nhưng tôi chưa sẵn sàng buông Nha.
+
+Chiếc TV ảo ảnh biến mất, và căn phòng đột nhiên sáng lên như đang ở trong một câu lạc bộ ngay sau giờ đóng cửa. Tôi nheo mắt trước sự thay đổi ánh sáng đột ngột.
+
+"Chủ... nhân?" một giọng nói vang lên, khó biết là nam hay nữ, nhưng có vẻ phát ra từ quả cầu lơ lửng đậu ngay trên ghế sofa. Tôi không thể tin nổi mọi thứ bừa bộn thế nào. Sách trên sàn, chai rỗng khắp nơi, chăn bẩn thành đống ở cuối ghế dài. Giống như ai đó đã có một bữa tiệc ngủ kéo dài tám năm và không bao giờ dọn dẹp.
+
+"Chủ nhân!" Giọng nói vang lên. "Thật tốt khi thấy người! Khi người không quay lại quá lâu, và tất cả các Muffin đều rời đi. Tôi tưởng người đã tiêu rồi!"
+
+Tôi nói, "Cái quái gì đang diễn ra ở đây thế? Nơi này là một đống lộn xộn! Ngươi là cái gì?"
+
+"Tôi xin lỗi chủ nhân. Tôi sẽ dọn dẹp chủ nhân." Giọng nói ợ một cái nhỏ, không to như những cái trước. "Như mọi khi, tôi ở đây để hỗ trợ người."
+
+Frobod nói, "Ngươi say à?"
+
+Quả Cầu nói, "Chỉ một chút thôi. Tôi hứa, sẽ hết ngay."
+
+Tôi lặp lại câu hỏi cuối cùng, "Ngươi là cái gì?"
+
+"Tôi là pháo đài (keep), vẫn thế, vẫn như trước. Tôi ở đây để phục vụ."
+
+Tôi hỏi, "Ngươi đang nói với ta là ta có một lâu đài say xỉn hả?"
+
+"Không lâu nữa đâu.. Chỉ một chút thôi, người có muốn tôi lấy hình dạng yêu thích của người không?" Giọng nói nghe có vẻ khiếp sợ, và đầy hy vọng. Cố gắng giành lại điểm sau khi bị bắt gặp lười biếng trong công việc.
+
+"Được." Tôi nói, "Sao cũng được."
+
+"Vâng, chủ nhân. Tôi ở đây để phục vụ." Quả cầu nổ tung trong một làn khói gợi nhớ đến các màn biểu diễn của các nhạc sĩ thời xưa làm ảo thuật. Tại chỗ của nó đứng một người phụ nữ tiên nhỏ nhắn, với mái tóc đỏ dài đến mông. Cô ta để ngực trần, với bộ ngực to phi lý, và phần dưới của bộ bikini lưới.
+
+"Woa!" Tôi che mắt bằng khuỷu tay. "Quả cầu ánh sáng là được rồi. Không khoe ngực cho thành viên bang hội mới... hay bất kỳ khách nào khác về vấn đề đó!" Trưởng thành lắm Jordan... Trưởng thành lắm. Tôi có cảm giác em ấy đã tận dụng triệt để cài đặt nội dung người lớn vào sinh nhật thứ mười tám của mình. Nói về việc Haven lưu giữ ký ức của một người đúng như con người thật của họ.
+
+Tôi nhìn qua Frobod, một nụ cười nhếch mép chớm nở trêu chọc trên môi anh ấy. Tôi đảo mắt. "Đàn ông."
+
+Sau khi đổi lại thành quả cầu ánh sáng, quả cầu nói, "Nếu người thích tôi có thể thích nghi một diện mạo khiêm tốn hơn?"
+
+"Thế thì tuyệt vời." Tôi nói với giọng vô cảm. Một làn khói nữa và quả cầu biến thành một quản gia, tuxedo đầy đủ, và một bộ ria mép mảnh trên môi trên. "Tên ngươi là gì vậy?"
+
+"Chủ nhân gọi tôi là Cupcake, hoặc Alfred. Người có thể dùng một trong hai, cả hai, hoặc ban tên mới." Cupcake nói.
+
+"Cupcake, như trong Pháo đài Cupcake?" Tôi hỏi, "... và Alfred như gã trong Batman á?"
+
+"Chính xác." Cupcake nói.
+
+Frobod hỏi, "Vụ cái TV ngươi đang xem khi chúng ta vào là sao?"
+
+Cupcake... Alfred nhìn tôi, và hỏi "Tôi có thể trả lời không, chủ nhân? ..hic!"
+
+Tôi nói, "Ngươi có thể trả lời bất kỳ câu hỏi nào của anh ấy tối nay."
+
+"Ti vi là một nâng cấp trả phí, được mua mười năm trước như một cải tiến cho lâu đài này. ...hic! Nó cho phép người dùng xem bất kỳ chương trình truyền hình công cộng nào, hoặc chương trình trả phí mà người là thuê bao ngoại tuyến. ...hic! Nó chỉ có thể được xem trong khu vực bang hội."
+
+"Ngươi bắt được tin tức không?" Frobod hỏi, hy vọng len lỏi vào giọng anh ấy.
+
+Cupcake nói, "Nó có thể được phát từ bất kỳ nguồn nào trong số nhiều nguồn."
+
+"Bật lên đi."
+
+Cupcake nói, "Tôi xin lỗi, ngài hiện không có quyền truy cập vào tính năng này."
+
+Tôi nói, "Cupcake, cho phép bất kỳ thành viên bang hội nào sử dụng TV nếu chưa có ai xem. Ai đến trước phục vụ trước, được chứ?"
+
+Cupcake nói, "Tôi đã thay đổi cài đặt." Hắn nhắm nghiền mắt, rồi mở to như thể để rũ bỏ một cơn say ngủ khổng lồ. Hắn làm lại lần nữa, và nó tương phản với toàn bộ bộ trang phục quản gia cứng nhắc.
+
+Frobod nói, "Bật tin tức lên."
+
+Màn hình ti vi ma quái xuất hiện lại trên ngọn lửa nổ lách tách. Cupcake hỏi, "Ngài có muốn điều khiển không?"
+
+Frobod nói, "Tất nhiên tôi muốn điều khiển, đưa đây."
+
+Trong nháy mắt một chiếc điều khiển TV màu đen giống cái tôi có ở nhà xuất hiện trên tay vịn ghế sofa. Frobod hăm hở chộp lấy nó, và ngồi phịch xuống bên cạnh đống chăn ga bẩn thỉu.
+
+Alfred dường như nhận thấy điều này, và vội vàng thu gom chai rượu từ sàn nhà trong khi tiếp tục cuộc trò chuyện của chúng tôi. Một cái bao dệt xuất hiện trong tay hắn nơi hắn thu thập chúng.
+
+"Nhiều thứ để tiếp thu quá. Tại sao nơi này bẩn thế?" Vị quản gia, trông xấu hổ nói "Cho tôi một ngày và nó sẽ tốt như mới."
+
+Tôi đoán nghe thế cũng tốt.
+
+Frobod đang lướt qua các kênh, liên thanh, cái này nối tiếp cái kia.
+
+Anh ấy nói, "Tôi không thấy gì cả!"
+
+Tôi nói, "Bản vá nóng vừa mới xong, chúng ta có lẽ sẽ không thấy gì trong vài giờ, hoặc sáng mai tùy thuộc vào việc họ sửa nhanh thế nào."
+
+"Tôi chỉ hy vọng có tin tức, hoặc dấu hiệu nào đó cho thấy có ai biết chúng ta bị mắc kẹt ở đây."
+
+"Tôi biết." Tôi nói. "Nếu chúng ta không thể đăng nhập trong vài giờ tới, tôi nói chúng ta cứ ngủ đi. Nếu may mắn, chúng ta sẽ thức dậy trong thế giới thực ở bất cứ đâu chúng ta đã ở khi lên mạng."
+
+"Alfred." Tôi nói, "Pháo đài này có chỗ ngủ cho thành viên bang hội không?"
+
+"Có thưa chủ nhân. Một phòng mới được tạo ra mỗi khi ai đó gia nhập. Người có muốn tôi chuẩn bị phòng cho các người không?" Hắn trông như sắp nấc cụt lần nữa, nhưng kìm lại được.
+
+"Chưa đâu." Tôi nói. "Chỉ cần đảm bảo chúng sẵn sàng trước khi chúng ta đi ngủ. Chúng ta sẽ ngủ ở đây tối nay." Tôi quay sang Frobod, người đã dừng lại ở CNN đang đưa tin nội dung không phải Freehaven. "Ổn với anh chứ?"
+
+"Ừ, tốt hơn là ngủ trong quán trọ nào đó."
+
+Alfred nói, "Tôi thấy Toxic Muffins đã có thêm 37 thành viên mới. Người có muốn tôi chuẩn bị đá hồi quy (recall stones) cho họ không?"
+
+Tôi nói, "Cái đó giống cổng dịch chuyển (port) phải không?"
+
+"Vâng," Alfred nói, "Ở cấp độ hiện tại, chúng có thể được sử dụng một lần mỗi sáu giờ để trở về sân trong từ bất kỳ địa điểm nào trong Freehaven Online, nhưng họ phải lấy một cái bằng cách đích thân đến pháo đài."
+
+Tôi mừng là cơn say của Alfred đang phai dần, nếu NPC, quả cầu năng lượng thậm chí có thể say. Tôi ngạc nhiên bởi thực tế là Alfred dường như đã phá vỡ bức tường thứ 4.
+
+"Làm sao ngươi biết Freehaven Online là gì?"
+
+"TV, thưa chủ nhân, và rằng tôi là một cấu trúc hành chính được thiết kế để lo liệu các nhu cầu của lâu đài của người."
+
+"Vậy ngươi giống như một loại AI lai? Một phần NPC, và một phần...AI giống như ta tương tác trong thế giới thực?"
+
+"Điều này đúng, nhưng ai dám nói rằng những gì người đang trải nghiệm không phải là thế giới thực?"
+
+"Ta ờ..." Tôi bỏ qua, vì tôi không hứng thú triết lý. "Cứ dọn dẹp chỗ này đi."
+
+Tôi ngồi cạnh Frobod, và làm bộ ném đồ giặt bẩn xuống sàn. Tôi muốn hành vi của mình nói "Quản gia hư!" để hắn cảm thấy xấu hổ vì đã để tài sản xinh đẹp này hoang phế. Tôi đặt một bàn tay an ủi lên đùi Frobod và nói "Ít nhất chúng ta có cách để xem chuyện gì đang xảy ra ngoài kia."
+
+"Cũng là một điều gì đó." Anh ấy nói. "Sẽ tốt hơn nếu giao tiếp là hai chiều."
+
+"Anh làm ơn giúp tôi một việc được không?" Tôi hỏi.
+
+"Gì?" Anh ấy nói.
+
+"Cởi giáp tấm ra khi ngồi trên ghế sofa. Ngồi cạnh người sắt không thoải mái đâu."
+
+"Ồ... Xin lỗi."
+
+Thay vì thay đồ thủ công bằng cách cởi từng mảnh giáp, như một số người chơi làm vì tính chân thực. Frobod nghịch ngợm trong giao diện của mình, và trang phục của anh ấy thay đổi đột ngột. Một khoảnh khắc anh ấy mặc giáp tấm, và khoảnh khắc khác anh ấy ngồi cạnh tôi trong chiếc áo chẽn thêu đen và vàng, và quần tây phù hợp.
+
+"Tốt hơn nhiều rồi." Tôi nói.
+
+"Tôi mặc giáp nhiều đến nỗi quên mất mình đang mặc nó."
+
+"Có vẻ khó mà quên được." Tôi nói.
+
+"Là game mà." Anh ấy nói. "Tôi thường đăng xuất sau trận chiến, và khi tôi đăng nhập, tôi sẵn sàng đi tiếp."
+
+Ngồi bên cạnh anh ấy xem ti vi ảo cảm giác như một đêm chiếu phim trong thế giới thực tại một ngôi nhà mà tôi không thể nào chi trả nổi. Tôi hơi hiểu tại sao Jordan mua tính năng này. Nó là thứ cho phép các thành viên bang hội chỉ cần đi chơi trong không gian ảo, giống như họ có thể trong đời thực nếu họ không cách xa nhau hàng ngàn dặm. Tôi tận hưởng hơi nóng của ngọn lửa, và đệm êm dưới mông. Đó là cảm giác tôi có thể quen sau những ngày dài giết rồng.
+
+Alfred đã rời khỏi phòng, nhưng tôi muốn hỏi hắn điều gì đó.
+
+Tôi gọi to, "Này Cupcake!" qua lưng ghế sofa để thu hút sự chú ý của hắn. Trong cùng một làn khói hắn xuất hiện ngay trước mặt tôi như một thần đèn cá nhân. Frobod vươn cổ để nhìn qua hắn và tôi nói, "Đừng chắn TV."
+
+Hắn nói, "Vâng thưa chủ nhân." và khập khiễng vài bước sang trái.
+
+"Ngươi có thể đưa chúng ta đá hồi quy bây giờ không, trước khi ta quên?" Thay vì nói hắn chìa ra một viên sỏi màu xanh lá cây, màu của sơn dạ quang tôi chơi hồi bé. Frobod nhận lấy, nhưng vẫn xem TV. "Còn của ta?"
+
+Alfred nói, "Người đã có một cái rồi. Nó là vật phẩm duy nhất, nên người không thể có nhiều hơn một cái trong túi đồ."
+
+"Thật á?" Tôi nói, và kiểm tra VT. Chắc chắn rồi, nó ở đó, chỉ có thể sử dụng bởi các nhân vật đã gia nhập bang hội. Tôi vẫy tay và nói, "Thế thôi. Đi dọn dẹp chỗ này đi." Vị quản gia sụp xuống thành một đống khói bắt đầu cao, và co lại khi nó lăn qua sàn.
+
+Mirae: 	Em xong rồi.
+Melpomine: 	Em đến Durolan được không?
+Mirae:		Được, sao thế?
+Melpomine:	Chúng ta có trụ sở chính. Em phải đến khuôn viên để lấy đá hồi quy. Ngoài ra, chị chán. Chị muốn bắt đầu tập hợp mọi người để lên kế hoạch cho giải đấu Dragonswood.
+Mirae:		Em sẽ đi cổng dịch chuyển, chúng ta nên gặp nhau ở đâu?
+Melpomine:	Trước ngân hàng thì sao. Chị có thể chỉ cho em từ đó.
+
+Tôi đứng dậy, và nhìn Frobod, anh ấy đang bị mê hoặc bởi cái ti vi. "Tôi ra ngoài gặp Mirae. Anh muốn đi cùng hay...?"
+
+"Tôi ổn ở ngay đây, tôi không muốn đi đâu nữa tối nay."
+
+"Tùy anh." Tôi nói, "Đừng phá hỏng cái gì tệ hơn Cupcake đã làm trong khi tôi đi vắng nhé."
+
+"Tôi sẽ ở ngay đây." Tôi quay người đi ra khỏi... phòng khách... vì thiếu từ hay hơn, thì Frobod hắng giọng để thu hút sự chú ý của tôi. "Cảm ơn lần nữa. Tôi sẽ ở trong tình trạng tồi tệ nếu cô không ở quanh."
+
+Tôi gật đầu với anh ấy, dừng lại, và đi ngược lại chỗ anh ấy trên ghế sofa. Tôi không phải người tình cảm nhất, nhưng có gì đó bên trong nói rằng đây là thời điểm thích hợp để ôm một cái. Tôi đặt một đầu gối lên đệm sofa, và vòng tay qua đôi vai to lớn của anh ấy tựa một phần trọng lượng của mình vào ngực anh ấy. Hơi ấm cơ thể anh ấy hấp dẫn và chân thực, theo một cách tôi chưa trải nghiệm trong thế giới thực trong một thời gian rất dài.
+
+"Anh sẽ ổn thôi." Tôi nói, trước khi quay đi.

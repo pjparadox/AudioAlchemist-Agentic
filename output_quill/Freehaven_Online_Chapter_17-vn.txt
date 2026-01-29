@@ -1,0 +1,127 @@
+# Chương 17 - Mắt Dán Vào Phần Thưởng
+
+Chúng tôi có cơ hội nghỉ ngơi và hồi phục, điều mà tôi rất biết ơn. Mặc dù tôi đã đầy máu kể từ khi các trị liệu sư chữa cho tôi, bốn trận chiến liên tiếp trước một đám đông khổng lồ làm tôi kiệt quệ về tinh thần. Tôi không cảm thấy điều đó nhiều khi chúng tôi chạy hầm ngục vì không chỉ có mình tôi chiến đấu. Có các thành viên khác trong nhóm giúp gánh vác tải trọng cho tôi một sự gia tăng sức bền tinh thần, đó là một trải nghiệm xã hội so với một chọi một với những người tôi không biết và chỉ có mình tôi.
+
+Tất cả chúng tôi đang đợi trong lều Quán quân, nơi Lãnh chúa Zarentu đã cho phép chúng tôi trưng dụng cho đến sự kiện tiếp theo vì chúng tôi hiện có hai người chiến thắng cuộc thi, với vòng hoa thưởng danh tiếng cho Lâu đài Dragonswood. Tôi vừa làm mới các buff của mình thì Frobod cuối cùng cũng lững thững bước vào với một túi vàng kêu leng keng trong nắm tay.
+
+Anh hát "Hôm nay là sinh nhật tôi."
+
+Tôi nói, "Thật á?"
+
+Anh nói, "Không, nhưng tôi vừa được trả lương."
+
+Tôi nói, "Mừng là thấy anh có tâm trạng tốt hơn. Sáng nay tại trận đấu thương thì toàn là kiểu 'Tôi ở đây để thắng'." Tôi bắt chước giọng trầm của anh.
+
+Anh nói, "Ừ thì, tôi đã thắng cái đó rồi, và hơn một nửa nhóm của chúng ta đã xếp top ba trong các sự kiện tương ứng của họ. Chúng ta sẽ nghiền nát nó trong trận chiến nhóm."
+
+Tako đấm tay với anh, và nói "Chuẩn."
+
+Anh nhìn tôi và nói, "Cảm ơn vì cái mũ thưởng danh tiếng, nếu chúng ta thắng trận hỗn chiến lớn, biết đâu ông ta sẽ cung cấp nút đăng xuất."
+
+Không ai nói gì về điều đó, và tôi nghĩ điều đó không có khả năng lắm. Ý tôi là, tỷ lệ là bao nhiêu để nhiệm vụ đầu tiên chúng tôi nhận được sau bản sửa lỗi nóng (Chúng tôi có nhận được nhiệm vụ này trước bản sửa lỗi nóng không nhỉ?) sẽ là nhiệm vụ đưa chúng tôi ngoại tuyến? Tôi nhớ cảm giác tuyệt vọng mà rất nhiều người cảm thấy sau thông báo của Archangel, và tôi phải tin rằng sẽ khó khăn hơn nhiều để đạt được điều đó so với việc dành cả ngày chiến đấu trong một cái hố.
+
+Anh nói, "Tôi còn một cô con gái nhỏ phải quay về."
+
+Mirae, Tako, và tôi, trao nhau những ánh nhìn đầy ý nghĩa, chỉ đủ để nói rằng tất cả chúng tôi đều có cùng suy nghĩ, nhưng không ai trong chúng tôi có tâm trạng để phá vỡ nó với anh ấy. Sự vui vẻ trong giọng nói của Frobod là điều tốt nhất tôi nghe được kể từ thông báo của Archangel, nhưng bạn sẽ nghĩ, đối với anh ấy, việc thoát ra là một kết luận đã định trước.
+
+Laurelade nói, "Em cũng muốn ra ngoài. Em không có con, nhưng mọi người biết đấy... Có việc phải làm. Đã đến lúc cút khỏi đây rồi."
+
+Frobod nói, "Phải. Đó là lý do tại sao chúng ta phải làm chủ cuộc thi này. Chúng ta có vài phút, nên hãy bàn chiến thuật."
+
+Tôi nói, "Tôi nghĩ chiến thuật hầm ngục cơ bản, sẽ ổn thôi. Với nhiều hơn một đối thủ, Nanh sẽ khiêu khích. Với Mirae hồi máu, chúng ta sẽ ổn. Em ấy thậm chí có thể DPS với cung của mình cho đến khi Lưu Thủy hết tác dụng."
+
+Mirae hỏi, "Nếu chúng ta chiến đấu với người chơi thì sao? Khiêu khích sẽ không hoạt động."
+
+Tako nói, "Nếu đó là một đội hỗn hợp như Pay-nes Kill và một số quái NPC, giết người chơi trước. Nếu không, hạ hồi máu và pháp sư trước. Tôi có thể siết cổ (garrote). Chặn thi triển phép trong 10 giây."
+
+Tôi nói, "Chị nghĩ chị cũng có cái đó, nhưng chưa dùng bao giờ."
+
+Tako nói, "Đấy. Đừng cho chúng cơ hội thi triển. Nếu chúng không thể bị khiêu khích, Mel chị và Laurelade nên lo kiểm soát đám đông (CC)."
+
+Tôi nói, "Chị chỉ có khoảng 4000 manna trong trang bị hiện tại. Chị có thể có nhiều hơn nếu dùng đồ của Marine, nhưng nó sẽ phải trả giá bằng rất nhiều khéo léo và thể lực. Hắc Băng và Di Chuyển Như Băng đều tốn 500."
+
+Frobod nói, "Tôi thích cô làm tank hơn. Đặc biệt là với NPC xung quanh."
+
+Mirae nói, "Em có phép hồi manna."
+
+Tako nói, "Để dành cho em đi. Hồi máu tốt quan trọng hơn CC ở điểm này, đặc biệt khi nó chỉ cho Mel vài lần thi triển."
+
+Tôi nói, "Nếu tất cả thất bại, tôi vẫn có các đòn đánh ngã không phải ma thuật."
+
+Laurelade nói, "Chúng ta cũng có thể thử thả diều (kiting)."
+
+Frobod nói, "Nghĩ cô làm được không?"
+
+Tôi nói, "Cho tôi vài cú đánh với Nanh để tóm chúng và tôi sẽ xoay sở được gì đó. Tôi được tăng tốc độ di chuyển khi mặc giáp vải hoặc da."
+
+Tako nói, "Tank, chị ra lệnh đi. Chị là người sẽ ở gần chúng. Nếu chị nghĩ chị có thể thả diều, tôi sẽ dùng tên."
+
+Frobod nói, "Tôi có phép tấn công tầm xa. Chúng không tốt bằng kiếm của tôi, nhưng chúng sẽ dễ sử dụng hơn nếu cô liên tục chạy."
+
+"Được rồi..." Tôi nói, "Linh cảm của tôi nói chúng ta sẽ chiến đấu chủ yếu với NPC, và tôi sẽ không biết phải làm gì cho đến khi trận chiến bắt đầu. Bất kể chuyện gì xảy ra, tôi sẽ Bước Nhảy Bóng Tối và thu hút sự chú ý của chúng. Cho tôi ít nhất ba đòn đánh trước khi mọi người bắt đầu tấn công. Mirae vào với cung của em, để chúng không biết ngay rằng em là healer của chúng ta."
+
+Frobod nói, "Rõ rồi."
+
+Laurelade nói, "Và sau đó?"
+
+Tôi nói, "Tôi sẽ ra lệnh. Nếu tôi hét 'Đội hình A' đó là tank và spank (đỡ và đánh). Tako và Frobod, vào cận chiến. Nếu tôi nói 'Đội hình B' tôi sẽ chạy đến tường, và bắt đầu chạy vòng tròn theo chiều kim đồng hồ quanh đấu trường. Mọi người đánh xa trong khi chúng đuổi theo tôi. Mirae và Laurelade, đừng ngại nếu mọi người tách khỏi tôi. Tôi cần biết để có thể khiêu khích."
+
+Laurelade nói, "Còn PvP thì sao?"
+
+Tôi nói, "Healer trước, nhưng nếu không rõ ràng, hoặc chúng không có healer, tập trung hỏa lực (focus fire). Tấn công kẻ tôi đang tấn công với Nanh, và cố gắng CC những kẻ còn lại."
+
+"Chúng ta làm được mà," Frobod nói. "Bánh sinh nhật ơi ta đến đây."
+
+Tôi cảm thấy tệ vì nó làm tôi nhớ đến con gái anh ấy, những người khác có lẽ cho rằng đó là sự tiếp tục của trò đùa 'Hôm nay là sinh nhật tôi' của anh.
+
+Laurelade nói, "Vì bánh hạnh nhân (marzipan)."
+
+"Vì burritos," từ Tako.
+
+Mirae và tôi trao đổi ánh nhìn, và không nói gì. Frobod nói, "Thôi nào mọi người, mọi người sẽ ăn gì ngay khi chúng ta ra khỏi đây?"
+
+"... vì pizza?" Tôi nói với giọng nửa vời.
+
+Mirae phản ứng chậm, nhưng em ấy bật ra với "... vì vải thiều!" với giọng đầy sự nhiệt tình gượng ép.
+
+Tôi đang tưởng tượng em ấy bị kẹt trên giường, kê cao trên vài cái gối, với kính VR, và một ống thông mũi dạ dày treo lủng lẳng từ mũi và nhỏ giọt cháo xuống cổ họng. Chết tiệt, chẳng bao lâu nữa, đó có thể là hình ảnh của tất cả chúng tôi, sự khác biệt chính là nếu chúng tôi ra ngoài, chúng tôi có thể quay lại với burritos, bánh hạnh nhân, và bánh sinh nhật của mình, nhưng với Mirae, em ấy có cơ hội ngấu nghiến một bát vải thiều cũng ngang với cơ hội tôi thi triển Cầu Sấm Sét trong thế giới thực vậy.
+
+Tako nói, "Gì, em là người châu Á à? Anh thậm chí chưa bao giờ thấy quả vải bên ngoài châu Á."
+
+Tôi nói, "Chị ngạc nhiên là cậu biết quả vải là gì đấy."
+
+Tako nói, với giọng đầy vẻ phẫn nộ giả tạo, "Tôi biết nhiều thứ lắm nhé!"
+
+Một tiếng tù và vang lên bên ngoài, và tôi nói "Đến lượt chúng ta rồi."
+
+Laurelade nói, "Chúng ta có nên ra ngoài không?"
+
+Tôi nói, "Đợi Aztram. Ông ấy sẽ gọi chúng ta."
+
+Không mất nhiều thời gian, vị pháp sư già thò đầu vào và nói, "Các vị là người đầu tiên."
+
+Mọi người di chuyển ra cửa, nhưng tôi nán lại, và chạm vào tay Mirae. Em nhìn lại tôi, mắt chúng tôi gặp nhau. Khi thành viên cuối cùng của Bánh Muffin Độc Dược ra ngoài, tôi kéo cô nàng elf vào một cái ôm sâu. Tóc em có mùi nắng, nước hoa tự nhiên, và tất cả những bông hoa xuân không tên mà em sẽ không bao giờ được trải nghiệm bên ngoài chiếc xe lăn điện. Vài giây trôi qua, trước khi tôi cảm thấy đôi bàn tay cô gái elf nhỏ bé chạm vào lưng mình.
+
+Chúng tôi buông ra, và tôi nhìn em, em thấp hơn tôi khoảng một cái đầu rưỡi.
+
+"Cảm ơn ạ?" Em nói.
+
+Tôi nói, "Xin lỗi, cuộc trò chuyện đó vừa làm chị cảm thấy gần gũi hơn với em."
+
+Em nhún vai, như thể không có gì phiền toái. "Chị nghĩ em chưa từng nghe mọi người nói về đồ ăn, hay đi công viên, có vé hàng ghế đầu xem bất cứ chương trình nào, hay đi nghỉ mát trước đây sao?"
+
+"Chà... Không, nhưng..."
+
+Em nói, "Mel, em trân trọng điều đó, nhưng em bị thế này lâu rồi. Da em dày lắm."
+
+"Chị không có ý..."
+
+"Em biết chị không có ý đó," Em nói, "...và đó là lý do tại sao em không giận chị. Chỉ là... vui vẻ lên chút đi, được chứ? Tận hưởng đi."
+
+"Được rồi..." Tôi nói, "Hãy thắng trận này và giành lấy mấy món loot cực ngầu nào." khi Aztram thò đầu vào lều lần nữa.
+
+Ông nói, "Lãnh chúa Melpomine, Lãnh chúa Mirae, mọi người đang đợi."
+
+"Xin lỗi. Xin lỗi," tôi nói, "Chỉ là chút thảo luận phút chót thôi."
+
+Mirae nói, "Đi nào," khi chúng tôi chui ra khỏi cửa lều.

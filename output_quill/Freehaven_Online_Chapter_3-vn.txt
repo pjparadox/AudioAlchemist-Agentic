@@ -1,0 +1,157 @@
+# Chương 3: Lần Cuối Cùng
+
+Ngày đó cuối cùng cũng đến. Lần cuối cùng tôi bước vào ngôi đền ảo của em trai mình trước khi Sự Hợp Nhất xóa sổ tất cả. Tâm trí tôi thà lang thang trong những dòng code này còn hơn là phải đối diện với sự thật đang đợi mình ở nhà. Đã tám năm rồi kể từ ngày Jordan ra đi.
+
+Lẽ ra phải vài tuần nữa tôi mới thực hiện chuyến hành hương VR thường niên này, nhưng với tin đồn về vụ sáp nhập chấn động giữa Freeworld Online và Haven Online, đây có thể là cơ hội cuối cùng để tôi nhìn thấy thế giới của em ấy nguyên vẹn. Có thể mọi thứ vẫn thế, nhưng nhiều khả năng các *buff* cũ kỹ của em ấy sẽ bị hệ thống mới quét sạch ngay giây phút tôi đăng nhập.
+
+Có ai từng nghe chuyện hai con game siêu to khổng lồ sáp nhập làm một chưa? Cả hai đều dùng hệ thống xúc xắc d10, nên về lý thuyết là khả thi. Nhưng một bên là hậu tận thế ma thuật, một bên là giả tưởng cao cấp (*High Fantasy*)? Nghe cứ sai sai. Cách đây vài thập kỷ, đây sẽ là cơn ác mộng lập trình, nhưng với Lập trình Trực giác, lũ bot AI có thể xử lý việc chuyển đổi ngon ơ. Vấn đề là bản đồ. Cả hai game đều dùng bản đồ GPS thế giới thực. Trung tâm Seattle có cả phiên bản Freeworld và Haven. Ngày mai thôi, tôi sẽ biết chúng sẽ đè lên nhau kiểu gì.
+
+Tôi kiểm tra hòm thư thật ở sảnh chung cư. Trống rỗng. Tim tôi đập hơi nhanh. Tôi không đói, nhưng vẫn lấy một bát ngũ cốc ăn tối—một hành động nổi loạn nho nhỏ của người lớn để trì hoãn việc phải làm.
+
+Tôi thả mình vào chiếc ghế lười, đeo kính VR lên. Cảm giác lâng lâng quen thuộc. Tôi chọn Spur27.
+
+Chuyện này sẽ đau đớn đây. Đã đến lúc đối mặt với thực tại.
+
+* * * * *
+
+Tôi đang ngồi trên bến tàu, nhìn xuống lũ tiên đang trượt trên mặt nước. Tôi kiểm tra các *buff* của Jordan.
+
+Tăng Cường Khéo Léo. Khéo léo tăng 10%.
+Thời gian: 16 phút còn lại.
+
+Tăng Cường Sức Sống. Hồi phục Tăng 10%.
+Thời gian: 15 phút còn lại.
+
+Tổng cộng tôi mới chỉ ở đây ba mươi phút trong suốt sáu năm qua. Mỗi phút trôi qua là một phút mất đi vĩnh viễn.
+
+Một cặp đôi *Elf* đang câu cá ở cuối bến tàu. Da xanh màu mặt trăng, mũ tai bèo gắn lông vũ. Cảm giác hiện ra (*spawn*) ngay trên đầu người khác lúc nào cũng kỳ cục.
+
+"Ơ... Xin lỗi," tôi nói. Lần này tôi đã quen với giọng đàn ông của nhân vật Jordan.
+
+"Không vấn đề gì!" gã đàn ông nói, giọng vui vẻ đến mức chói tai so với tâm trạng u ám của tôi. Tôi bước qua hộp đồ câu của họ và theo thói quen soi thông tin (*Inspect*).
+
+Elondriel
+Loại: Người chơi
+Chủng tộc: Elf (Hoàng hôn - Dusk)
+Ngoại hình: 4
+Độ khó:    Trung bình
+
+LadyPoints
+Loại: Người chơi
+Chủng tộc: Elf (Hoàng hôn - Dusk)
+Ngoại hình: 5
+Độ khó:    Thử thách
+
+Họ đã đầu tư kha khá điểm vào chiến đấu. Chủng tộc Elf Hoàng Hôn thường có lợi thế về lén lút (*Stealth*) và hoạt động ban đêm.
+
+"Phiền không nếu tôi ngồi đây một chút trước khi *Log Out*?" tôi hỏi.
+
+"Cứ tự nhiên," Elondriel đáp. LadyPoints chỉ nhún vai, quăng dây câu.
+
+"Cảm ơn."
+
+Tôi đi tới hộp thư gần hồ để thu thập *chiến lợi phẩm* hàng năm. Nhìn từ xa, cặp đôi kia trông khá hạnh phúc. Cô gái đá đá chân, thì thầm gì đó với chàng trai. Nó chỉ làm tôi thấy buồn hơn.
+
+Tôi chạm vào hộp thư tinh thể. Liệu sau ngày mai tôi có còn nhận được quà không? Chắc là có, trạng thái LE (*Limited Edition*) gắn liền với mã bản quyền tài khoản mà.
+
+Thư Mới
+Haven Online - Chúc Mừng Kỷ Niệm 14 Năm!
+
+"Chúc Mừng Kỷ Niệm 14 Năm!... Là người dùng LE, bạn nhận được: Rồng Bướm Hư Ảo (Ethereal Flutterdrake). Rồng Bướm Hư Ảo (LE). Rất đẹp nếu ơ... đã chết."
+
+*Ka-ching!*
+
+Lại thú cưng (*Pet*). Tôi gửi hết vào túi, nhưng lần này tôi quyết định triệu hồi con Pet LE ra xem.
+
+*Cảnh báo: Triệu hồi Rồng Bướm Hư Ảo (LE) sẽ liên kết nó với bạn (Soulbound). Vật phẩm đã liên kết không thể giao dịch. Chấp nhận? Có / Không.*
+
+Tôi chọn Có. Một cơn gió mạnh nổi lên, xung động ánh sáng xanh đỏ vàng bùng nổ như siêu tân tinh, và sinh vật quang phổ hiện ra.
+
+Rồng Bướm Hư Ảo (LE)
+Loại: Sinh vật
+Chủng tộc: Xác sống (Undead)
+Trạng thái: Thân thiện
+Độ khó:    Dễ
+Liên Kết Linh Hồn
+
+Nó to bằng quả bóng bãi biển, trong suốt, dập dềnh theo nhịp đập của đôi cánh hình lá phong. Nó dụi cái mõm rồng hình hộp vào tay tôi như một con mèo đòi nựng. Râu nó cù vào da tôi, rồi nó đập cả người vào vai tôi.
+
+Tôi vừa muốn hờn dỗi vừa muốn an ủi nó. Em trai tôi đã đi xa gần một thập kỷ. Điều duy nhất thay đổi là đêm nay có thể là đêm cuối cùng của "Haven cũ". Con Rồng Bướm lại lao vào tôi.
+
+"Kiên trì nhỉ?" tôi lầm bầm, gãi gãi cằm nó. Cảm giác kỳ lạ vì có áp lực nhưng không có kết cấu da thịt. Nó nhả ra một làn khói hồng mát lạnh—chắc là dấu hiệu nó đang sướng.
+
+Tôi kiểm tra đồng hồ *buff*.
+
+Tăng Cường Khéo Léo.
+Thời gian: 13 phút còn lại.
+
+Tôi đã lãng phí ba phút. Nhưng tôi không quan tâm nữa. Tôi có thể ngồi đây mười ba phút nữa và... làm gì? Nhìn đồng hồ về không ư? Có lẽ để nó hết sạch cũng là một sự giải thoát. Tôi muốn buông bỏ, nhưng làm sao tôi có thể vứt bỏ những thứ cuối cùng mà Jordan để lại?
+
+"Dù sao thì chuyện đó cũng sẽ xảy ra," tôi tự nhủ. Ngày mai, mọi thứ sẽ khác.
+
+Tôi vuốt ve con Rồng Bướm. Nó rúc vào ngực tôi, quấn cánh lại như con dơi. Tôi bế nó như bế em bé. Tôi mở lại thư kỷ niệm và chọn "Lưu vào Túi đồ". Tôi luôn giữ lại mấy cái thư rác này như kỷ vật.
+
+Tôi đi bộ trở lại bến tàu, con rồng bay lẽo đẽo theo sau. Bình thường Pet xác sống sẽ khiến lính canh chú ý, nhưng con này là hàng khuyến mãi nên được miễn trừ.
+
+Tiếng ủng của tôi kêu lộc cộc. Elondriel ngoái lại.
+
+"Woa..." Anh ta thốt lên, huých tay LadyPoints. "Cậu vừa mới mở ra à?"
+
+"Ơ... ừ," tôi ấp úng. "Chắc vậy."
+
+"Bản Giới Hạn đấy. Cậu mua lại bao nhiêu thế?"
+
+Tôi nhún vai. "Không mất gì cả. Sao thế?"
+
+"Cậu có thể mua cả một cái Lâu đài Người chơi (*Player Keep*) với số tiền bán con đó đấy."
+
+Tin mới đây. Nhưng tôi đời nào bán đồ của Jordan. "Tôi có mã LE từ hồi game mới ra," tôi nói dối. Chả lẽ lại bảo là tài sản thừa kế của người chết.
+
+Cặp đôi *Elf* nhìn tôi đầy nghi hoặc.
+
+"Vậy cậu là *Dân Soc* à?" (*Social Gamer*—mấy người chỉ thích chát chít làm màu trong thành phố).
+
+"Không hẳn... Dạo này tôi chơi Freeworld nhiều hơn."
+
+"Hèn chi *Độ khó* của cậu thấp thế," Elondriel phán xét. Ý là tôi "gà".
+
+"Ừ," tôi đáp cụt lủn.
+
+"Cậu định đặt tên nó là gì?"
+
+Tôi nhún vai.
+
+"Thôi, chúc mừng về con thú cưỡi (*Mount*) mới nhé."
+
+Tôi định quay đi thì khựng lại. "Ý anh là sao? Thú cưỡi á?"
+
+LadyPoints trả lời thay: "Pet LE có thể tiến hóa thành Thú cưỡi (*Mount*). Cậu phải nuôi lớn chúng."
+
+"Thật sao?" tôi ngớ người.
+
+"Làm sao cậu có hàng LE mà không biết cái đó?" Elondriel hỏi.
+
+"Thẻ tín dụng," LadyPoints chêm vào, ý bảo tôi là loại *Đô-la Thần Chưởng* (Pay-to-Win), mua nick hoặc mua code.
+
+Câu nói đó châm ngòi cho một cơn giận dữ dội trong tôi. Tôi muốn hét vào mặt họ rằng tôi không có tài khoản LE cho đến khi em tôi chết! Rằng tôi không chơi vì cái đồng hồ *buff* chết tiệt này! Làm sao tôi biết được mấy tính năng đó chứ!
+
+Tôi kiểm tra *buff*.
+
+Tăng Cường Khéo Léo. 8 phút.
+Tăng Cường Sức Sống. 7 phút.
+
+Tôi lạnh toát người. Tôi vừa lãng phí một nửa thời gian quý báu còn lại để tán phét với hai kẻ lạ mặt đáng ghét.
+
+"Nghe này," tôi nói, nhấn nút giải tán con Rồng Bướm. Nó tan biến. "Tôi phải *AFK* (Treo máy) một chút."
+
+Tôi bỏ đi ngay lập tức, nhưng vẫn nghe loáng thoáng tiếng xì xầm "Đô-la Thần Chưởng" sau lưng. Bọn chó chết.
+
+Tôi ngồi xuống bãi cỏ xa xa, ném một hòn đá xuống nước.
+
+Tăng Cường Khéo Léo. 6 phút.
+
+Tôi thở dài. Có lẽ đã đến lúc. Tôi lôi bức thư Haven Online ra khỏi túi và xé vụn. Stabbies không có phép lửa, nên tôi không thể đốt nó như trong phim. Tôi chỉ ném những mảnh giấy xuống nước và nhìn chúng tan biến.
+
+*Buff* Tăng Cường Sức Sống bắt đầu nhấp nháy. Một phút. Rồi đến Tăng Cường Khéo Léo.
+
+Khi các biểu tượng *buff* vụt tắt, tôi thấy chóng mặt. Tôi tưởng mình sẽ sụp đổ, nhưng không. Bầu trời trong game dường như sáng hơn một chút. Và thay vì đau đớn, tôi cảm thấy một sự giải thoát nhẹ nhàng lan tỏa khắp cơ thể.

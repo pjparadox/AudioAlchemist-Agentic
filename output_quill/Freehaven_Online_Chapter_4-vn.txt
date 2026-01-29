@@ -1,0 +1,272 @@
+Chương 4 - Quái Xế Mới
+
+Tôi cứ tưởng mình sẽ buồn sau chuyện tối qua, nhưng thay vào đó, tôi lại cảm thấy như thể mọi thứ trong thế giới game của mình đang tràn đầy sức sống và những khả năng mới. Sáng nay tôi đã nộp đơn xin nghỉ phép một tuần rưỡi để có thể dành thời gian trong Freehaven Online, cái tên được đặt cho Haven và Freeworld sau khi sáp nhập. Sếp tôi đã chấp thuận với điều kiện tôi phải hoàn thành bản phác thảo đầu tiên của đám *Từng-Là-Người* và lũ thú cưỡi xe mô-tô Freeworld mới trước khi đi.
+
+Tôi đã hoàn thành xong phần hoạt ảnh đuôi cho dự án *Từng-Là-Người* vào buổi sáng và gửi cho giám sát viên xem xét. Giờ tôi đang duyệt lại lũ xe máy trong bản chỉnh sửa được coi là cuối cùng. Chúng là sự pha trộn tuyệt đẹp giữa ma thuật và công nghệ - những chiếc mô-tô mang phong cách Harley thập niên 1960, nhưng thay vì bình xăng, chúng có những vật chứa giống như bể cá với các linh hồn bị nhốt bên trong để cung cấp năng lượng cho xe. Chúng được gọi là Elechopper (Mô-tô Nguyên Tố).
+
+Tôi đã làm năm mẫu skin, mỗi mẫu cho một nguyên tố truyền thống: Hỏa, Thủy, Thổ, Phong, Nguyên Khí. Ngay lúc này, một sinh vật rực lửa dẻo dai giống như một con khỉ dung nham với đôi tai yêu tinh nhọn hoắt và hàm răng cá sấu đang nhe răng cười với tôi, rồi giơ ngón tay thối lên. Nó tan biến trong một vòng xoáy đỏ, cam và vàng bên trong vật chứa nhỏ bé của nó, chiếc xe gầm lên, và khạc ra một luồng lửa từ ống xả.
+
+"Sal, Chỉnh xếp hạng nội dung thành PG, và lặp lại." Freeworld Online được xây dựng với hệ thống xếp hạng cho phép người dùng cuối xác định nội dung môi trường của họ giống như xếp hạng phim. Về cơ bản, điều này quyết định mức độ máu me mà một người trải nghiệm trong chiến đấu, nhưng cũng thay đổi ngôn ngữ và hành vi của các NPC. Các thiết lập mới được áp dụng, linh hồn bên trong chiếc xe lại nhe răng cười với tôi y hệt lúc nãy, bĩu môi chế giễu, rồi biến mất trong một cơn bão lửa.
+
+"Trông ổn đấy." Sal nói.
+
+"Tôi đồng ý."
+
+Chúng tôi đã sửa lỗi hào quang của các linh hồn bị tràn ra ngoài bình chứa trong quá trình hoạt ảnh. Một sửa lỗi nhỏ, nhưng cần thiết. Bộ phận cơ chế đã gán chỉ số cho đám Elechopper (Mô-tô Nguyên Tố), nghĩa là chúng có thể sẽ được đưa vào bản vá sáp nhập tối nay. Tôi chẳng biết chúng sẽ là vật phẩm rớt ra từ quái hay đồ chế tạo, nhưng tôi nghiêng về đồ chế tạo hơn. Đôi khi họ trộn lẫn cả hai, một mẫu skin hiếm rớt ra từ trùm, và những mẫu khác có thể do người chơi chế tạo trong game. Dù sao thì, tôi cũng chẳng có quyền quyết định.
+
+Tôi nói, "Vậy thì gửi mấy gã bảnh chọe này sang bên QC để chúng ta có thể biến khỏi đây nào!"
+
+Các bản mở rộng mới là tin lớn đối với bất kỳ tựa game nào, và đã nhiều năm rồi tôi mới lại háo hức chơi đến thế. Chính điều này, cùng việc học theo Elondriel và LadyPoints để tận dụng tài khoản của Jordan, đã khiến tôi cứ canh đồng hồ cho đến khi việc sáp nhập chính thức đi vào hoạt động. Cảm giác giống như một đứa trẻ thấy đồng hồ chạy quá chậm vậy. Các bùa lợi về Khéo léo và Thể lực đã biến mất, nên không cần phải giới hạn thời gian đăng nhập của tôi xuống vài phút một lần nữa.
+
+* * * * *
+
+Tôi không hứng thú chơi trước bản vá, tôi sẽ chỉ bị bắt buộc đăng xuất và tải xuống các bản cập nhật phía máy khách thôi. Có thời gian rảnh rỗi nên tôi tự thưởng cho mình món pizza đế dày kiểu Chicago yêu thích sau giờ làm. Dạo này tôi hiếm khi đi ăn ngoài, nhưng tôi cảm thấy phấn khích và muốn ăn mừng sự lạc quan này.
+
+Khi tôi về đến nhà và việc đăng nhập đã sẵn sàng, tôi ngả lưng vào ghế lười và khởi động kính thực tế ảo. Tôi có được cảm giác hưng phấn của vận động viên khi màn hình đăng nhập mới lấp đầy tầm nhìn và các giác quan của tôi thích nghi với môi trường kỹ thuật số.
+
+Chào mừng đến với Freehaven Online!
+Vui lòng đặt tên nhân vật của bạn.
+
+Tôi nhìn quanh tìm màn hình chọn nhân vật, nhưng không thấy đâu. Bình thường tôi sẽ được nhắc chọn nhân vật nào tôi muốn đăng nhập bên Freeworld Online, hoặc giấy phép nào tôi muốn truy cập cho Haven Online. Trong trường hợp này, nó đối xử với tôi như thể tôi là người chơi mới toanh không có nhân vật nào cả.
+
+Tôi chọn dấu hỏi bên cạnh lời nhắc để xem thông tin.
+
+Tất cả các nhân vật trong Freeworld Online và Haven Online đã được gộp thành một, và kinh nghiệm hiện được áp dụng ở cấp độ người chơi. Nhân vật mới của bạn sẽ có các chỉ số tương đương với giá trị cao nhất có thể mua được dựa trên số điểm đã đầu tư vào tất cả các nhân vật. Bất kỳ điểm nào còn dư sẽ được cộng vào lần mua tiếp theo của bạn cho mỗi thuộc tính. Ví dụ, nếu bạn có một nhân vật với 20 Sức mạnh (tiêu tốn 540 điểm), và một nhân vật khác 14 Sức mạnh (tiêu tốn 255 điểm), nhân vật mới của bạn sẽ có 23 Sức mạnh (yêu cầu 729 điểm), và chỉ cần 3 điểm nữa để lên cấp 24 (yêu cầu 798 điểm). Tất cả kinh nghiệm kỹ năng sẽ được gộp tương tự, và tất cả các kỹ năng không thuộc chủng tộc trước đây trên mọi nhân vật sẽ có thể truy cập được cho nhân vật của bạn.
+
+Các khả năng bán nhân loại của Freeworld được gộp chung trong các nhân vật thuộc cùng gia tộc (người thú, ma cà rồng, tiên, v.v.), tuy nhiên sức mạnh và khả năng giới hạn cho các chủng tộc bán nhân loại này bị giới hạn cho các Bí Danh (Alias) đã hoàn thành các nhiệm vụ và/hoặc nghi thức kiến tạo bắt buộc. Để biết thêm thông tin, xem menu Bí Danh.
+
+Tên và ngoại hình nhân vật trước đây của bạn có thể được truy cập thông qua menu Bí Danh. Người dùng hiện tại sẽ được tặng một Bí Danh Hoàn Hảo cho mỗi nhân vật trước đây trên Haven Online hoặc Freeworld Online, tuy nhiên các Bí Danh mới chỉ có thể đạt được trong game. Tất cả vật phẩm sẽ được hợp nhất vào một túi đồ duy nhất.
+
+"Thế thì.... đáng sợ thật." Tôi nói khi nghĩ đến những hàm ý của việc này. Nếu tôi hiểu đúng thông báo, về cơ bản chúng ta có thể truy cập bất kỳ kỹ năng hay khả năng nào chúng ta đã đạt được trên bất kỳ nhân vật nào vào bất kỳ lúc nào, và ngoại hình của mỗi nhân vật có thể được truy cập thông qua một công tắc chuyển đổi trong game. Tôi đoán nó tiết kiệm thời gian phải đăng xuất mỗi khi bạn muốn đổi vai trò giữa Tank (Đỡ đòn), Healer (Hồi máu), và DPS (Sát thương chủ lực).
+
+"Để xem thế nào đã." Tôi tự nhủ.
+
+Một mặt điều này có nghĩa là nhân vật của tôi sẽ đột nhiên trở nên mạnh kinh khủng so với trước khi sáp nhập, mặt khác, nghe có vẻ như ai cũng sẽ như vậy, vì chỉ số của mỗi người chơi giờ đã được gộp chung. Tôi tắt thông báo đi.
+
+Tôi không ngờ là phải đặt tên cho nhân vật mới khi đăng nhập, và việc này đang làm tôi chậm trễ. Tôi không muốn chọn tên nhân vật đã có vì tôi khá chắc chúng ta vẫn sẽ được dùng chúng qua hệ thống Bí Danh mới. Tôi thích văn hóa dân gian và thần thoại nên tôi nghĩ đến những nữ thần ít phổ biến hơn. Hera ư? Hừm... Nữ thần của lòng chung thủy... không phải gu của tôi. Melpomene? Nàng thơ của bi kịch. Tôi thích âm hưởng của từ này, nhưng có vẻ hơi kịch quá. Nyx? Nữ thần bóng đêm.
+
+Tôi cũng thích cái tên đó. Tôi nhập vào. N-y-x. Tất nhiên là đã có người đặt rồi. Tôi đổi chính tả thành N-y-x-x, nhưng cũng bị dùng rồi. N-y-x-x-x? Tôi lắc đầu trước khi kịp thử. Với cái tên như thế, tôi sẽ bị dội bom bởi các yêu cầu chat sex từ bọn Dân Soc (Social Gamer) mỗi khi đăng nhập mất.
+
+Tôi quay lại với cái tên Melpomene... Tôi đoán toàn bộ trò chơi giờ sẽ là sự hợp nhất giữa tài khoản của Jordan và của chính tôi. Chết trước khi tròn hai mươi đúng là bi kịch. Tôi nhập vào, tên đã bị lấy. Tôi thử lại, lần này đổi chính tả thành M-e-l-p-o-m-i-n-e. Hệ thống chấp nhận.
+
+Bạn có muốn đặt tên nhân vật là Melpomine không? Bạn có thể đổi tên nhân vật vào lúc khác với giá bằng một phần mười tiền tệ trong game của bạn hoặc 500 vàng (tùy theo mức nào lớn hơn).
+Có / Không
+
+Với một nhân vật, thật tốt khi biết người chơi sẽ không bị chết dí với cái tên họ đã chọn sau này. Tôi chọn có.
+
+Vui lòng chọn địa điểm khởi đầu. Haven Online / Freeworld Online
+
+Tôi quyết định thử Haven, vì tôi chưa dành nhiều thời gian ở đó so với Freeworld. Tôi muốn nghịch đồ của Jordan và Scootiwutams, ả Paladin Người Lùn đang bị rỉ sét rồi.
+
+Vui lòng chọn chủng tộc cho Melpomine.
+
+Tôi lướt qua danh sách, và thấy đủ thứ từ Nhân loại, đến Gnome, Người Lùn, và Tiên tộc, với các phân loài cho từng loại. Thậm chí có cả Orc. Nhân loại nhận danh tiếng và kỹ năng nhanh hơn, nhưng không có chỉ số thuộc tính cộng thêm nào. Điều này hữu ích khi mở khóa trang bị riêng của phe phái, nhiệm vụ đặc biệt, và cày kỹ năng. Tiên tộc, chủng tộc quyến rũ, được cộng điểm Khéo léo và Ngoại hình nhưng phải trả giá bằng Thể lực, và có thể nhìn trong bóng tối. Người Lùn, một trong những chủng tộc ít được nữ giới chơi nhất, thì cứng cáp, vân vân. Cũng có các chủng tộc lai cho mỗi chủng tộc chính vì dường như Nhân loại có thể giao phối với bất cứ thứ gì dưới ánh mặt trời. Các chủng tộc của Freeworld Online thì vắng bóng một cách đáng chú ý. Chắc là do tôi chọn Haven làm địa điểm khởi đầu.
+
+Tôi cực kỳ muốn chơi bán Gnome vì tôi chưa từng thấy chúng trong bất kỳ game nào khác, nhưng đặc điểm chủng tộc Gnome không hợp với lối chơi dự định của tôi.
+
+"Chán thế." Tôi nói vì cảm giác như dù tôi chọn gì thì tôi cũng sẽ bị mắc kẹt chơi một chủng tộc trong suốt thời gian tồn tại của tài khoản. Cuối cùng tôi chọn Bán Tiên (Half-Elf), cho tôi năm mươi phần trăm điểm thưởng và điểm phạt của chủng tộc Nhân loại và Tiên tộc.
+
+Bạn có muốn tạo Melpomine thành Bán Tiên không? Bạn sẽ không thể thay đổi chủng tộc trừ khi bạn tiến hành tái sinh. Tái sinh yêu cầu một nhiệm vụ.
+Có / Không
+
+Tôi nói, "Hả..." khi đọc đoạn về tái sinh. Tôi đoán họ đã tính trước là người chơi sẽ không vui vẻ gì với một chủng tộc vĩnh viễn. Thế cũng tốt, nhưng tôi tự hỏi tái sinh đòi hỏi những gì. Tôi nghi ngờ nó là việc reset lại tất cả các chỉ số, vì điều đó sẽ tạo ra rất nhiều khách hàng không hài lòng. Tôi chọn "có," và các lời nhắc mờ dần.
+
+Tôi dành nhiều thời gian hơn mức tôi muốn thừa nhận để tinh chỉnh ngoại hình nhân vật mới của mình trong giao diện tạo nhân vật, và vài giờ sau tôi xuất hiện trong game dưới hình hài một nữ Bán Tiên dẻo dai với những cơ bắp săn chắc, và mái tóc vàng buộc đuôi ngựa dài.
+
+Tôi chưa bao giờ thấy nhiều người chơi ở cùng một địa điểm đến thế. Hàng trăm người, mặc cùng một kiểu áo sơ mi và quần vải lanh tân thủ màu rơm chen chúc nhau. Giọng nói cá nhân của họ hòa vào một bản tạp âm huyên náo khó mà phân biệt được trừ tiếng của những người đứng ngay trước mặt tôi.
+
+"Chúa ơi." Tôi thốt lên, và cố len qua đám đông đến một vị trí đỡ đông đúc hơn. Đám lúc nhúc các avatar còn tệ hơn khi Freehaven Online phát hành bản mở rộng với chủng tộc chơi được mới đầu tiên mà ai cũng muốn thử. Với việc ai nấy đều tạo nhân vật mới, có vẻ như bất kỳ ai có dù chỉ một giọt máu Nhân loại cũng đều xuất hiện tại cùng một điểm hồi sinh. Rất nhiều người chơi đứng như trời trồng kiểm tra chỉ số và trang bị tạo ra một vụ tắc nghẽn giao thông khổng lồ.
+
+May mắn là cũng không quá khó để thoát ra vì nó tự động thả tôi ở rìa đám đông, nhưng sẽ không được lâu đâu nếu tôi cứ rề rà. Đã có sáu người chơi mới xuất hiện trong tầm tay với và tôi mới chỉ vào game được vài giây.
+
+Tôi chẳng nề hà gì mà chạy nước rút về hướng ngược lại phía chợ NPC. Ở thế giới thực trông tôi sẽ như một con điên chạy trong khu tương đương với trung tâm mua sắm, hết tốc lực, nhưng trong một thế giới ảo quá tải, bạn phải biết mặc kệ sự đời. Tôi suýt nữa thì húc thẳng vào một cô nàng Nhân loại tóc đỏ hoe dáng người nhỏ thó trong trang bị khởi đầu, thì theo bản năng tôi trụ chân, xoay người, và vọt qua cô ta như thể cô ta không hề tồn tại. Rồi một gã Gnome đẩy xe hàng đầy những đồ chơi cơ khí, và mấy thứ linh tinh lang tang cắt ngang đường tôi và tôi nhảy qua gã như một vận động viên Olympic trong môi trường trọng lực một nửa mặt trăng. Tôi không nhìn rõ hàng hóa của gã vì di chuyển quá nhanh. Tôi liếc lại, qua vai để chắc chắn mình không làm đổ cái cửa hàng di động của gã. Bộ ria mép xám xoăn tít của gã lùn mang lại cho gã cái vẻ của một ông anh em nhà Super Mario già nua. Chúa phù hộ cho các NPC vì đã không chớp mắt lấy một cái. Gã tiếp tục đi như chưa hề có chuyện gì xảy ra. Như tôi đã nói đấy, cho đến khi tôi ổn định chỗ ở, tôi chẳng có liêm sỉ gì đâu.
+
+Tôi nghĩ, "Cái chỗ này sẽ thành địa ngục trong vài ngày tới cho xem." khi tôi hình dung thủ đô Nhân loại, Athelon, ngập lụt trong biển người chơi đăng nhập vào tài khoản của họ. Ý nghĩ ghé qua cửa hàng đồ Dân Haven (Havenfolk) để thay mấy bộ quần áo tân thủ vô dụng này thoáng qua trong đầu tôi, nhưng tôi nghĩ lại ngay khi biết có cả một biển người chơi phía sau tôi cũng có thể có suy nghĩ tương tự. Tôi có cảm giác tất cả các quán trọ quanh đây cũng sẽ đông nghẹt nên tôi cứ chạy tiếp, qua những tấm biển hình khiên, búa, bút lông, và kiếm biểu thị loại hàng hóa mỗi thương gia bán, và qua những quán trọ với rượu mật ong, món hầm và bia của họ.
+
+Tôi đang đến gần bức tường đánh dấu rìa của quận này thì một lính gác hô lớn "Đứng lại!"
+
+"Ơ... Gì cơ?" Tôi hỏi, trượt chân dừng lại, bất ngờ vì sự can thiệp này.
+
+"Cô đi đâu mà vội vàng thế thưa cô?"
+
+"Ồ, đằng kia đông quá nên tôi muốn đi trước đón đầu sang quận tiếp theo."
+
+"Không phải vì có thể cô đã lấy thứ gì đó không phải của mình từ chợ chứ?"
+
+"Trông tôi có giống đang mang vác gì không?" Tôi hỏi, nhưng rồi nhận ra mình đang trang bị cái ba lô nhà thám hiểm tiêu chuẩn. Nó nhẹ gần như không trọng lượng nhờ ma thuật, và tôi vẫn chưa chỉnh cho nó tàng hình. Dù vậy, cả anh trai tôi và Scooti lẽ ra phải có đủ danh tiếng ở chốn này để không bị quấy rầy chứ.
+
+"Tôi thấy cô có cái túi ngay kia kìa. Sao chúng ta không kiểm tra xem nhỉ?"
+
+Tôi mở giao diện lên, những cửa sổ ảo ảnh hiện ra trong không khí quanh tôi. Tôi chọn tùy chọn cho "máy tính bảng," cho phép bạn xem chỉ số qua một thiết bị cầm tay gọi là VT (Máy tính bảng ảo) để không chắn tầm nhìn thế giới. Các khung máy tính phủ lên tầm nhìn của tôi biến mất ngay khi thiết bị xuất hiện trong lòng bàn tay. Các NPC đã được lập trình để không chú ý đến nó. Họ thậm chí tạm dừng đối thoại khi bạn đang sử dụng nó. Tôi mở cửa sổ danh tiếng của Melpomine, và kinh hoàng với những gì tìm thấy.
+
+Melpomine -
+Danh Tiếng    Địa điểm Tỉnh Athelon
+Athelon:     0 / 1000 - Trung lập
+Lính Gác Athelon: -1 / 1000 - Bất tín
+
+"Cái-quái-gì-vậy?" Tôi nghĩ. Chỉ số lẽ ra phải được chuyển sang chứ. Tôi chạm vào tab mới tên là "Bí Danh," và có cảm giác nó sẽ giải thích vấn đề của tôi. Ở đó tôi thấy danh sách mọi nhân vật mà tôi hoặc anh trai tôi đã từng tạo trong Freeworld hoặc Haven. Tôi chọn Scootiwutams vì đó là avatar Haven mà tôi quen thuộc nhất.
+
+Scootiwutams
+Ma pháp - Người Lùn - Nữ - Paladin của Helios
+Hạng: Hoàn Hảo (Được bảo lưu)
+Bạn có muốn giả lập thân phận Scootiwutams không?
+Có / Không
+
+Tôi chọn có.
+
+Cảnh báo! Bạn đang ở trong tầm nhìn của Lính Gác Tường Đông #1, Lính Gác Tường Đông #2, Lính Gác Tường Đông #3, Chủ Quán Trọ, Phục Vụ Quán Rượu #3, TakoStar. Giả lập thân phận này trong tầm nhìn sẽ khiến họ nhận biết danh tính này. Bạn có muốn tiếp tục không?
+Có / Không
+
+Ba người lính gác thì tự giải thích rồi. Tôi có thể thấy họ đang lảng vảng gần cái lán cạnh cổng, nhưng TakoStar? Chắc là một người chơi... người thực sự thích đồ ăn Mexico... hoặc Bạch tuộc. Tôi ấn có, trên máy tính bảng ảo.
+
+Tôi cảm thấy một làn sóng ma thuật êm dịu bao bọc lấy mình trong những dải màu đỏ thẫm và vàng. Cánh tay tôi trở nên dày hơn, và chân tôi ngắn lại và chắc nịch hơn. Bộ đồ vải lanh tân thủ được thay thế bằng bộ giáp toàn thân màu đỏ lấp lánh những đốm vàng rực rỡ dưới ánh mặt trời. Bên hông tôi là thanh trường kiếm to một cách phi lý làm cho có vẻ còn to hơn nữa so với vóc dáng nhỏ bé của tôi. Nó chỉ hoạt động nhờ ân điển của vật lý và logic trong video game. Tôi chạm tay lên mặt đầy kinh ngạc, và phát hiện chiếc khuyên mũi tôi đã thiết kế cho Scooti. Nếu tôi gồng lên, tôi sẽ có bắp tay to như quả dưa lưới. Giờ tôi có hai bím tóc nổi bật, làn da màu đá, và một chiếc khiên có biểu tượng thần Helios, Thái Dương Chúa Tể, đeo sau lưng như một con rùa.
+
+Người lính gác nói, "Thứ lỗi cho tôi Lãnh chúa Scootiwutams," một điểm kỳ quặc của thế giới Haven Online là Lãnh chúa (Lord) có thể là một tước hiệu phi giới tính. Nó được áp dụng cho các nhân vật xã hội quý tộc nam, và các Paladin hoặc Hiệp sĩ của bất kỳ giới tính nào đã chứng tỏ bản thân trong chiến trận. "Tôi đã không nhận ra ngài."
+
+"Ờ..." Tôi nói bằng giọng Scotland tôi đã gán cho nhân vật này. "Dễ nhầm khi cứ chạy lông nhông như đám Tiên tộc đó. Chờ chút để ta..." Lời tôi nhỏ dần khi tôi truy cập menu Bí Danh. Tôi chọn Melpomine từ danh sách, và một lần nữa tôi bị nhấn chìm bởi làn sóng ma thuật màu mè, lần này là màu trắng và nâu nhàm chán. Tôi nhìn xuống bộ trang phục tân thủ của mình, và nhận ra màu sắc của ma thuật chắc hẳn được quyết định bởi màu sắc trang bị đang mặc. Một phần trong tôi tự hỏi chuyện gì sẽ xảy ra nếu tôi biến hình thành một nhân vật trần như nhộng.
+
+"Chà, ngầu đấy." Tôi nói, nhưng đám lính gác không để ý. Các NPC thường làm ngơ trước các đoạn hội thoại về những thứ thuộc thế giới thực hoặc giao diện người dùng. Tôi kiểm tra danh tiếng của Melpomine.
+
+Melpomine -
+Danh Tiếng    Địa điểm Tỉnh Athelon
+Athelon:     7,361/10,000 - Được tôn sùng
+Lính Gác Athelon: 4,821/5,000 - Được kính trọng
+
+Hừm... Vậy ra Melpomine chỉ nhận được danh tiếng của Scootiwutams, sau khi một thành viên của phe phái liên quan đã nhận thức được Bí Danh đó. Thế cũng hợp lý. Điều này cho phép người chơi thực sự điều khiển các nhân vật khác nhau với các danh tính thay thế nếu họ muốn.
+
+Một giọng nam bùng nổ từ đâu đó sau lưng tôi.
+
+TakoStar nói, "Có thật kìa bây ơi!" Bằng giọng điệu ngạc nhiên hài hước. Tôi quay lại, và nhướn mày dò hỏi. Cậu ta là một Bán Tiên giống tôi, với mái tóc đen dựng ngược theo kiểu hỗn loạn cách điệu bùng nổ thường thấy ở các nhân vật anime và ngôi sao nhạc pop năng động. Cậu ta đang diện bộ đồ da sẫm màu không có gì nổi bật của kiểu nhân vật đạo tặc, và làn da nhẵn nhụi không tì vết mang lại cho cậu ta vẻ ngoài búng ra sữa.
+
+TakoStar
+Loại:      Người chơi
+Chủng tộc:    Bán Tiên
+Ngoại hình:   4
+Độ khó:     Trung bình
+
+"Một nữ Người Lùn Paladin của Thái Dương Chúa Tể?"
+
+Tôi nói, "Thì sao?"
+
+"Đấy là cả một đẳng cấp con ghẻ hoàn toàn mới đấy."
+
+Tôi cười, đây không phải lần đầu tiên tôi bị đối diện với kiểu "Vãi chưởng! Nữ Người Lùn!" Đó là một phần lý do tôi tạo nhân vật này, nhưng tôi cố tình xây dựng một Tank (Đỡ đòn) phục vụ Thái Dương Chúa Tể vì họ quá hiếm đối với chủng tộc sống dưới lòng đất. Để trở thành Paladin, bạn phải kiếm danh tiếng với giới tăng lữ thích hợp, vượt qua nhiều bài kiểm tra, và được thụ phong. Khá là thẳng tuột, cho đến khi bạn cân nhắc việc chẳng có nhà thờ nào của Thái Dương Chúa Tể ở dưới lòng đất, bên trong thủ đô Người Lùn cả.
+
+Tôi mỉm cười và nói, "Thật vui khi biết tôi có người hâm mộ."
+
+"Cô là Tank à?" cậu ta hỏi.
+
+"Ừm.. chắc vậy. Chưa có cơ hội xem hết mọi thứ nữa. Cái avatar, bí danh cũ, hay bất cứ cái gì cậu gọi nó ấy là nhân vật Tank của tôi nhưng tôi chưa đi raid với cô ấy cả thế kỷ rồi."
+
+Cậu ta nói, "Vậy thì cô vẫn là Tank. Tôi đăng nhập ngay tắp lự luôn. Cô nên xem lại chỉ số đi."
+
+"Tôi sẽ xem," Tôi nói, "Nhưng tôi muốn ra khỏi khu này trước đã. Có rất nhiều người đang vào mạng."
+
+"Ý hay đấy. Nếu cô muốn đi phó bản hay gì đó lát nữa thì hú tôi nếu cần DPS. Tank xịn khó kiếm lắm." Cậu ta nháy mắt, và tôi cảm thấy thôi thúc muốn đảo mắt. Nghiêm túc đấy à, nháy mắt? Ai lại làm thế chứ?
+
+TakoStar muốn kết bạn. Bạn có chấp nhận không?
+Có / Không
+
+Tôi chọn có, và tên cậu ta xuất hiện trong danh bạ của tôi. Giờ chúng tôi có thể gửi tin nhắn văn bản từ xa, không cần ma thuật.
+
+"Cho tôi khoảng một tiếng để ổn định, rồi tôi sẽ sẵn sàng. Tôi đã xin nghỉ làm vì bản mở rộng này, nên tôi có thể chơi thâu đêm."
+
+"Đó là điều tôi muốn nghe đấy. Gửi tin nhắn cho tôi và chúng ta có thể gặp nhau ở cổng nam."
+
+"Chắc chắn rồi."
+
+Cuộc đi bộ đến quận phía nam không có gì đặc sắc, và tôi bắt đầu thích cảm giác và diện mạo của avatar Bán Tiên mới của mình. Cô ấy làm tôi nhớ đến nhân vật Freeworld cũ MarineLu, một võ sư người Đài Loan với ma thuật nguyên tố tập trung vào các đòn đánh hệ gió. Melpomine và Marine có tạng người tương tự, và bộ trang bị khởi đầu gọn nhẹ kết hợp với chỉ số khéo léo cao làm tôi nhớ lại rất nhiều cảm giác di chuyển trong lớp da của Marine.
+
+Giờ đã được nhắc về chỉ số, tôi quyết định kiểm tra các thuộc tính của mình.
+
+Tên:                          Melpomine
+Chủng tộc:                     Bán Tiên
+Thuộc tính
+Thể chất
+Sức mạnh 12, Khéo léo 24 (+1), Thể lực 20
+Xã hội
+Sức hút 12, Thao túng 9, Ngoại hình 7(+1)
+Trí tuệ
+Nhận thức 12 (+1), Trí thông minh 19, Mưu trí 16
+
+Hệ thống chiến đấu cơ bản trong Freehaven Online như sau: Công cụ trò chơi gieo một số lượng xúc xắc mười mặt bằng với chỉ số Khéo léo + điểm khả năng liên quan cho mỗi đòn tấn công. Mỗi xúc xắc đổ ra 6 hoặc cao hơn được một điểm. Mỗi điểm sau điểm đầu tiên được cộng vào Sức mạnh trong một lần gieo xúc xắc d10 khác để xác định lượng sát thương gây ra cho mục tiêu. Bên phòng thủ sau đó gieo Thể lực cộng với bất kỳ khả năng liên quan nào để kháng sát thương. Bất kỳ điểm nào còn lại sau lần gieo kháng cự, được trừ vào máu của nhân vật (thường là 10). Một nhân vật có máu bằng không sẽ bị giết, và phải hồi sinh với các hình phạt kéo dài 15 phút.
+
+"Chúa ơi!" Tôi thốt lên, mặc dù chẳng có chỉ số nào trong số này đáng ngạc nhiên vì tôi đã chơi hầu hết các nhân vật đóng góp vào chúng. Chỉ là thấy tất cả chúng ở cùng một chỗ thì hơi đáng báo động.
+
+Những chỉ số duy nhất tăng đáng kể nhờ tài khoản của anh trai tôi là Khéo léo, Sức mạnh, và Mưu trí, vì nó thích chơi những nhân vật lén lút đâm chọt dựa vào đòn đánh nhanh và đôi chân nhẹ nhàng. Sức mạnh cộng vào sát thương của nó, và Mưu trí cho phép nó hành động nhanh hơn trong chiến đấu. Chỉ số Dex của Marine chỉ lên đến 16, vì tôi cũng cần đầu tư điểm vào Trí thông minh để vận hành ma thuật của cô ấy. Trong thời gian từ khi Haven và Freeworld phát hành, tôi đã chơi nhạc công, pháp sư với trí thông minh cao, một tank mặc giáp tấm, và một võ sư nhanh nhẹn và điều đó thể hiện qua các chỉ số đa dạng của tôi. Tôi tự hỏi bảng chỉ số của người khác trông thế nào.
+
+Một phần trong tôi mong đợi người chơi sẽ gào lên về sự bất công khi một số nhân vật có chỉ số thể chất, trí tuệ và xã hội cao ngất ngưởng, nhưng mặt khác nếu những người chơi đó thực sự quan tâm đến các chỉ số phi thể chất, họ có lẽ đã tạo một nhân vật sử dụng chúng trong quá khứ rồi. Những người chỉ chơi nhân vật thuộc một loại nhất định vẫn có chỉ số cao hơn cho phong cách chơi của họ so với những người khác.
+
+Tôi bắt đầu hiểu logic đằng sau việc sáp nhập. Bạn dành càng nhiều thời gian thực tế tham gia vào một loại hình chơi nhất định, các chỉ số đó sẽ càng cao. Trừ khi tất nhiên bạn giống như tôi, thừa hưởng tài khoản của một thành viên gia đình với hàng năm trời tích lũy thời gian chơi mà bạn không thực sự thực hiện. Tôi quyết định giữ bí mật phần đó trong lúc này.
+
+Tôi mở túi đồ và phát hiện một bộ sưu tập vật phẩm đồ sộ đến chóng mặt. Ơn trời thông qua máy tính bảng ảo, chúng có thể được sắp xếp theo loại, chỉ số, hoặc tìm kiếm theo tên. Các nhân vật của Jordan không mặc giáp tấm, nên đồ tank của Scooti là đồ tốt nhất hiện có. Tuy nhiên, nó lại có một bộ sưu tập kiếm khá ngon.
+
+Huyết Kiếm (Exsanguinator)
+Loại:				            Kiếm
+Phẩm chất:                                  Sử thi (Epic)
+Sát thương cơ bản:
+Sức mạnh + 2 (Chém)
+Hiệu quả trang bị:
+Sức mạnh +2, Thể lực + 3
+Thuộc tính đặc biệt:
++1 Sát thương Bóng tối
+Cơ hội khi đánh trúng: Hồi máu cho người sử dụng bằng 50% sát thương gây ra.
+
+Tôi thò tay vào chiếc ba lô ma thuật. Theo cách của game, bên ngoài thì nhỏ, nhưng đủ lớn để chứa cả một nhà kho bên trong. Tay tôi tìm thấy chuôi của Huyết Kiếm chỉ bằng cách nghĩ về vật phẩm đó, tôi nắm lấy cán, và rút lưỡi kiếm ra. Thanh kiếm hiện tại của Scooti sáng bóng và được đánh bóng kỹ lưỡng, kiểu vũ khí bạn sẽ hình dung trong tay một chiến binh ánh sáng, nhưng Huyết Kiếm có hào quang màu máu với những đường gân đen đập theo nhịp tim của tôi. Những chiếc ngạnh nhô ra phía trước từ cả hai đầu của thanh chắn tay làm tôi nhớ đến những chiếc răng nanh Ma cà rồng khổng lồ.
+
+"Ngầu thật." Tôi nói, trong khi vẫn nghi ngờ liệu Thái Dương Chúa Tể có chấp nhận không nếu ông ta là một vị thần có thật. May mắn thay, các vị thần VR không quan tâm lắm bạn dùng vũ khí gì trừ khi chúng liên quan đến một vị thần đối địch. Nó sẽ rất hợp với bộ giáp của Scooti.
+
+Đồ Tank đã gán xong, tôi nhìn quanh và thấy một hòm thư đậu ngay bên ngoài quán trọ có tên Rái Cá Mỉm Cười (Smiling Otter). Không giống hòm thư ở Durolan, mấy cái ở thành phố này trông giống như những ngôi nhà chim mái xanh với hình phong bì sơn bên hông. Tôi bước tới và truy cập giao diện.
+
+Thư Mới
+Đội ngũ Phát triển Freeworld - Elechopper (Mô-tô Nguyên Tố)
+
+Tôi mở thư, nhưng không có chữ nào. Đây là đồ nội bộ. Một trong những đặc quyền của việc làm nhà thiết kế là bạn nhận được bản sao dành cho nhà phát triển của bất kỳ vật phẩm trang trí nào bạn thiết kế. Vũ khí thì hơi khác một chút. Bạn nhận được một vật phẩm mô hình cho phép bạn sao chép chỉ số từ bất kỳ vật phẩm nào khác cùng loại của bạn, do đó cho phép bạn sử dụng ngoại hình của chúng, nhưng không đạt được lợi thế chiến đấu không công bằng so với những khách hàng trả tiền.
+
+Tôi còn hơn cả vui mừng khi nhận được những chiếc xe máy Hỏa, Thủy, Thổ, Phong, và Nguyên Khí, phiên bản nhà phát triển của thú cưỡi sao chép tốc độ di chuyển của bất kỳ thú cưỡi nào khác của bạn. Điều đó có nghĩa là Elechopper đã được đưa vào bản cập nhật. Tôi tự hỏi chúng được triển khai bên phía Freeworld như thế nào, và sẽ mất bao lâu để thấy người chơi lượn lờ trên chúng.
+
+Tôi mở giao diện thú cưỡi, và nó chứa đầy 123 thú cưỡi tiêu chuẩn, và 38 phiên bản nhà phát triển. Tôi sắp xếp theo những con có nguồn gốc từ Haven Online, và sau đó theo tốc độ di chuyển. Tôi chạm để triệu hồi thú cưỡi tốt nhất của Jordan.
+
+Ác Mộng (Nightmare)
+Loại: 			Thú cưỡi
+Chủng loài: 		Ác quỷ
+Trạng thái: 		Thân thiện
+Độ khó: 		N/A
+Tốc độ mặt đất: 	250%
+Tốc độ bay:		670%
+
+Đó là một con ngựa rực cháy với đôi mắt như than hồng, và bờm cùng đuôi bằng lửa đỏ và vàng. Cảm giác như đứng cạnh một cái lò nung. Những lưỡi lửa đỏ và đen nhỏ hơn liên tục nhảy lên và chạy khắp da thịt ác quỷ của nó. Tôi không thấy đôi cánh nào, nhưng chỉ số tốc độ bay ngụ ý nó có thể bay.
+
+Tôi nói, "Rớt đồ ngon đấy em trai," và chào nó một cái. Tôi nhớ nó đã thao thao bất tuyệt về sinh vật này vào lễ Tạ Ơn.
+
+Tôi chạm vào biểu tượng chiếc xe máy lửa trên máy tính bảng và sau đó chọn "nhân bản."
+
+Bạn có muốn áp dụng tốc độ di chuyển từ Ác Mộng, sang Elechopper (DE) không.
+Có / Không
+
+Tôi chạm có.
+
+Elechopper Hỏa (DE)
+Loại: 			Thú cưỡi
+Chủng loài: 		N/A
+Trạng thái: 		Thân thiện
+Độ khó: 		N/A
+Tốc độ mặt đất: 	250%
+Tốc độ bay:		670%
+Linh hồn Liên kết
+
+Tôi nghi ngờ liệu Elechopper có phải là thú cưỡi bay trong phần còn lại của game không nhưng phiên bản nhà phát triển không có hạn chế đó vì chúng chỉ sao chép thuộc tính của vật phẩm khác. Tôi lặp lại quy trình cho năm chiếc xe còn lại.
+
+Tôi mở giao diện macro và tim tôi chùng xuống khi phát hiện nó trống trơn. Không còn lời nhắc nào về việc R-Twined là một thằng khốn PvP nữa. Tôi thở dài, nhưng chuyện này cũng dễ hiểu. Tôi chạm để tạo một macro mới và, sử dụng máy tính bảng ảo, gõ lệnh "/run summon 'Fire Elechopper'" và chạm ghi âm.
+
+Tôi gầm lên từ "HỎA NGỤC!!!" và vung ngón tay thối lên trời bắt chước con khỉ rực cháy trong bình xăng. Tôi gõ "End," trên máy tính bảng. Các NPC Dân Haven lờ tôi đi, nhưng một vài người chơi nhìn tôi như thể tôi có hai đầu.
+
+Bạn có muốn lưu thay đổi cho macro "Elebike - Hỏa" không?
+Có / Không
+Tôi chọn có.
+
+Giờ thì chạy thử nào. Tôi hét lên "HỎA NGỤC!!!" và giơ ngón tay thối với cả thế giới. Một tân tinh đỏ không tiếng động của năng lượng ma thuật kích thước cỡ một chiếc ô tô nhỏ xung động, theo sau là tiếng gầm của một động cơ ma thuật. Chiếc xe của tôi hiện ra bên đường. Tôi không thể không nhận thấy nó trông lạc quẻ thế nào trong môi trường giả tưởng cao kỳ này. Con khỉ lửa trong bình xăng cười khanh khách.
+
+Tôi ngồi lên yên, và rồ ga, đẩy một luồng lửa ra phía sau. Tim tôi đập rộn ràng và tôi mỉm cười. Tuyệt thật, chính tay mình làm ra cái này mà.
+
+Tôi bắt đầu lăn bánh về phía trước và kéo ngược tay lái như đang lái máy bay. Dạ dày tôi thót lên và chiếc xe nhấc bổng khỏi mặt đất lơ lửng giữa không trung. Thú cưỡi trong game thường phản ứng với ý định của bạn hơn là hành động vật lý, nhưng cảm giác kéo để tạo lực nâng làm trải nghiệm chân thực hơn nhiều. Tôi rồ ga và phóng thẳng kiểu Harley Chitty Bang Bang trên cái thị trấn trung cổ này.

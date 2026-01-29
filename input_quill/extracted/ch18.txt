@@ -1,0 +1,106 @@
+Chapter 18 - The Rumble
+	It's our last battle, and we're assembled in a V formation, with me on point, and Frobod and Tako standing just behind and to either side. The fights leading up to this one were smooth because we work well as a group. Mirae and Laurelade are in the back, as they both wear cloth, and are the most fragile members of the party. As soon as the match starts, they'll fall in behind the melee fighters. Mirae's got her bow, which is good, because if I were the enemy, I'd assume that Laurelade with her wand was the healer.
+	I'm not eager to see Laurelade die, but when it comes to accomplishing group objectives, the tanks and healers are the lynchpins of any group. With both of us, we can eventually down most NPC enemies within our challenge range, but without someone to absorb damage, or restore health, you've got a recipe for failure.
+	The stands are fuller than I've yet seen
+this is the main event. Villagers cheer, and vanquished contenders sitting in the champions' section clap and rumble their support. To my surprise, warriors like Lady Lord Sedin, Lord Maadzan, Lady Ashtara, and all of Frobod's other competitors with one notable absence, wave white cotton banners with purple hand-painted cupcakes. I try to tell myself that they're just NPCs, and their show of support doesn't matter, but the greater part of me beams knowing we've claimed their respect.
+	There are five enemy combatants, all Havenfolk, all new to me, every one of them wearing a human shape, and silver and blue tabards depicting a dragon's fang. Three are plate wearers. One in front wields a sword and shield. The guy to his right has a claymore, and one to the left hefts a two handed war axe. 	There's no cloth on the opposing team, just leather. A guy in the back spins a pair of short swords, and the other has no weapons that I can see. I'm pegging the allegedly unarmed one as heals, if they have any at all. NPC groups aren't always logical.
+3....
+2....
+1.....
+Begin!
+Shadow Step (Rank 5) - Success!
+	I'm behind the guy with the shield. A low strike buckles his leg, and arcs of electricity hop from his body into the two oafs beside him. Before anyone can react, I do a fast back walkover, followed by a back handspring to put distance between me and the fighters I just attacked. Now, the three guys that were in front, are now in back relative to my position. They whirl to face me.
+	You'd think I'd have trouble tumbling with my weapon, but every time I start an acrobatic maneuver, Bite's glued to my hand. I couldn't drop it if I tried. It's like the pole becomes insubstantial and bound to me until the conclusion of the move.
+	I'm now five feet behind leather clad opponents that started in back. They wear 'What the fuck just happened?' expressions on their faces. Why don't I show them?
+	Bite blurs into motion slapping into the flank of Mr. Two Swords, followed by a direct hit to Unarmed Leather's side. Each strike sending mostly harmless, but aggravating electric energy into the group around them. A single point of electricity damage, isn't hard to resist, and in the entire altercation, only Two Swords's health has decreased. Sir Claymore takes a swing. Woosh! I'm out of the way. Lord Tall Axe brings his weapon down, but Bite knocks it out of the way.
+	Counter attack.
+	My staff strikes his chest and electrifies his armor. I'm pleased to see that all five opponents are now within the five foot area of effect radius. Arcs of blue, like a Jacob's Ladder dance between them, taunting with each jump.
+	I shout, "Form B!" before whacking Mr. Two Swords again, and sending electricity into his friends. They're all moving in for strikes, but Bite's got far too much range, and for each step they advance, I spring two steps back. Once I'm a good ten feet in the clear, I turn and bolt for the nearest wall. They give chase.
+	Clock! Krunk! Sounds of two arrows smashing against heavy armor. An unholy mass of amorphous dark energy, slams into Sword and Shield's back. Nothing from Laurelade yet, which makes me hope she's building up to something grand. I'm at the arena wall now, and am circling the perimeter, with four stupid AI's chasing me. Bite's taunted them all at least three times now, so I should have an iron grasp on their attention. There's no way they'll catch me with my agility and movement speed bonuses, compared to the penalties of wearing heavy armor.
+	The air grows cold.
+	Snow and great shards of ice crash down like frozen guillotines. A blizzard of death, born of the ether. Laurelade's in play.
+	I call out, "Nice work!" as another volley of arrows connects leaving pockmarks in enemy armor. An instant later Frobod adds another torrent of dark energy to the mix. I'm way ahead. Laurelade's ice spell has slowed them. I curse myself for not having a ranged weapon. If I Hot Swap my shield with the symbol of Helios I can Smite, but it'd mean giving up Bite and all bonuses for not using heavy arms or armor. Not worth the trade.
+	Clouds overhead, not quite above me, but the enemy group, thunder and lightning, our little gnome's power slams into the group. Shield and Sword man's handling it the best, with a full seventy percent health remaining, but the two leather wearers are both down to thirty.
+	I shout, "We've got this!"
+	Sir Claymore turns, and Mr. Two Swords pivots and run at the gnome.
+	I hear, "Incoming!" over the party chat.
+	I respond, "I've gotcha." and shout "Hey Ugly! Yeah, you with the sword!" I pause my retreat long enough to spin Bite in great blue blurs of electric fire. I slam the butt into the dirt.
+Taunt. Successful.
+Rezden attacks.
+	I point at the other one, and repeat the motion.
+Taunt. Successful.
+Grimavore attacks.
+	I guess now I know their names, with so many enemy faces, I hadn't bothered checking their nameplates. Both swordsmen stop on a dime and make a beeline back for me.
+	I shout, "Hold DPS!" having forgotten to switch to party chat. One more arrow from Tako hits Two Swords, or Rezden as he's called, and he falls face down in the dirt.
+You have defeated Rezden.
+	I abruptly reverse my flight, and charge back at Shield and Sword, Mr. Big Axe, and Unarmed Leather.
+	I call, "Nice! Loose on Leather!"
+	A glowing green magic arrow, a bolt of death magic, and a trio of violet mage bolts slam into the unarmed foe at the same time.
+You have defeated Horden.
+	Rest in peace, Horden. You're down for the count. What your purpose in this battle was supposed to be, I'll never know.
+	I shout, "All in! Form A!" as I crash my staff against the rival tank's shield. It sparks on impact, and lightning passes from him to the man with the big axe, Sir Claymore, aka Grimavore is out of range, but he's coming at me. Swoop! I narrowly escape Tank's longsword, CRASH I intercept the axe with my staff.
+	Grimavore groans, "Grraaah!" as he brings the Claymore down on me. I try to dodge, but he nicks me, shaving seven absorption levels off my Flow Like Water defense. It just goes to show that a nick from forty-five inches of steel over a six inch hilt is enough to give someone a very bad day. Luckily, my flesh rolls away and reforms in the path of the blade leaving me without so much as a scrape.
+	He hasn't finished with his swing when out of nowhere, Frobod body checks him like a NHL hockey player. The dragon stumbles, running bent over, but doesn't lose his feet. I call out, "Focus fire!" taking advantage of the knight's lack of footing. A strike to the butt, followed by a blow to the nape of the neck, leaves him groaning in pain. Another crunch as a green arrow from Mirae connects, sticking into his collar. Grimavore health: 40%.
+	I tag him with another swift combo of three strikes, electricity crackles. Lord Big Axe, and Rival Tank step just into rage on the third blow, as current hops from Grimavore to their armor. I duck from the path of a flying axe, and hear a solid clang as I parry the longsword. Grimavore's standing tall again, a flicker of movement behind, and Tako's dagger pierces a sensitive spot between joining plates. Blood shines bright when it drips on silver metal. Grimavore health: 20%.
+	I say, "He's almost down!" as I narrowly evade another swing from the great axe. Unlike Scooti in her impenetrable red armor, the only viable strategy for a martial arts tank is to not get hit at all.
+	Laurelade calls, "Incoming!"
+	What's attacking her? I glance back just in time to see a giant ball of fire easily half my height in diameter hurling our direction. I say, "Shit!" and dive for cover, rolling on the ground and coming up on my feet. The air's hot against my skin, like hunkering beside a bonfire. We've got to come up with new code words.
+You have defeated Grimavore.
+	His blackened armor smokes, pops, and smells a bit like pork.
+	I mouth, "Black Ice," and slip out of the way of an incoming axe.
+Cast Black Ice (Rank 2) - Success!
+	Unfortunately, neither opponent is walking as they stand their ground. My left knee goes down, hands to the dirt and my right leg swings around knocking Axeman's legs from under him. The move's so fast that my limbs are a blur of motion. Armor crashes when he takes the fall.
+	Back to my feet, I parry the longsword and counter with an attack that knocks the shield. Bite's current hops from the shield to the guy on the ground. Frobod comes in with an awesome two handed cleave that'd give anyone a headache. The real hero however is Tako, who leaps on top of him, and begins needling with his dagger, slipping the thin blade between the plates. Each stab drops the axe wielder's health by a few more percent.
+You have defeated Wrestlas.
+	One more to go. Just as I'm about to bring Bite down on our last opponent he slams the point of his sword into the ground and kneels in supplication. His eyes turned skyward and he mouths prayers to his unseen deity. An impenetrable golden dome wells up around him, and deflects Bite the same as would a castle wall.
+	"Crap!" in party chat Tako says, "I think I know what's happening. Everyone scatter. Tank stay put. Get ready for an AoE!" I hold my ground, uselessly beating Bite against Mr. Shield and Sword's protection. Every other member of our group bolts for the corners of the arena. Now sounding out of breath, he says "It's either that, or a massive heal."
+	Mirae shoots an arrow, but it bounces off and drops harmlessly to the ground. Now, having a chance to breathe, I switch to party chat and say "Save your arrows." I check our opponent's name, and see that he's called Londrian.
+	Tendrils of golden light spring up around the fallen warriors, enveloping them in shiny cocoons that pulse and glow in the sunlight. One by one each defeated dragon stumbles to their feet, with 20% health remaining. All at once, ethereal wrappings pop like bubbles as they lunge for me, their closest target.
+	I yell, "Laurelade, now!" and place myself on full defensive. I parry the great axe, the weapon wielded by my closest fallen foe.
+	The sky darkens, lightning crashes, thunder as countless bolts rip through everyone in my area.
+You have defeated Rezden.
+You have defeated Horden.
+You have defeated Grimavore.
+You have defeated Wrestlas.
+Critical Hit!
+Laurelade strikes you for 6 points of damage (lightning).
+	My health drops. My muscles lock under the brief but uncomfortable strain of electrocution. Friendly fire? Really? Sensations are dampened compared to the real world, but losing sixty percent of your health in one go isn't pleasant.
+	The scent of cherry blossoms wells up around me, and I'm cascaded in a shower of emerald green light.
+Mirae heals you for 2 points of damage.
+Mirae heals you for 3 points of damage.
+Mirae heals you for 1 point of damage.
+	"Sorry!" Laurelade says. "I got a critical hit on damage, but failed my control roll."
+	Forcing back the urge to snap, "With friends like you, who needs enemies?" I say, "All in on the last one."
+	Frobod and Tako converge. Laurelade unleashes a series of magic bolts. The enemy tank's barrier fades, and I slam Bite into him. Tako strikes from behind, while Frobod swings his massive blade in an arc meant for decapitation. The tank raises his arm and blocks with his shield, but the action gives Tako's daggers the opening they need to bleed Londrian in the unprotected space beneath the arm. One... Two.. Four... Six purple projectiles of Laurelade's energy slam into his chest forcing him to step back. Londrian health: 20%. We've almost got this.
+	Londrian continues to block every one of my strikes with his shield, or by parrying with his sword. That's okay because as long as he's focused on me, everyone else get's a chance to attack.
+	A burning green projectile streaks past my ear from Mirae's direction.
+You have defeated Londrian.
+	The rival knight drops; a goose fletched arrow protruding from the vision slit in his helm.
+	Healers rush out. One pulls the arrow from Londrian's helm. The shaft is red, and unsheathes from of his eye like a skewer in a hard boiled egg. Four of the green robed attendants scurry about the arena, mending the fallen.
+	"Toxic Muffins... the victors!" Herald Brime says, to the answer of uproarious applause. I pump Bite in the air, savoring our victory.
+	I think the competition's over when Zarentu motions Brime over with a wave of his forefingers and speaks such that I can't hear.
+	"Ahh..."Brime says, "There may be one more challenge." The crowd hushes, as the five of us exchange cautious looks. "Lord Melpomine. Lord Frobod. Step forward." We do so together, and look up to the herald. "Each of you has won two events, which leaves us in a conundrum as there can only be one Grand Champion."
+	Murmurs in the crowd. I look to Frobod, but his head's forward, eyes locked on Brime
+focused as a hawk, cold, predatory.
+	Brime continues, "Accept victory now, and you will both be Champions. Face off, for one last battle, and one of you will be named Grand Champion of the Dragonswood Tournament. You must both agree to continue the contest. If either of you declines, the Grand Champion title will be forfeit until next year."
+Limited Edition - Quest
+Grand Champion of Dragonswood
+Difficulty: Hard
+Lord Zarentu has offered you a chance at single combat to be named Grand Champion of Dragonswood.
+Objectives:
+Defeat your opponent in the arena. 0/1
+Rewards:
+Title: 			Grand Champion (duration 1 year)
+Reputation: 	3,000 Reputation in Dragonswood
+A special gift.
+Do you accept? 	Yes / No
+	I hesitate. Decline, and we walk away as equals, accept, and a reputation spike which will add to individual reputations of Dragonswood residents. It could help me with Aztram's Master and Apprentice quest, should I choose to accept it. There's also the matter of a special gift, and I know what Frobod's thinking. This is it, his ticket out of the game, and a chance to reunite with his little girl.
+	He eyes me impatiently.
+	With a heavy sigh, I choose yes, hoping that no ill will come of this. The crowd claps, somehow aware of our decision, as Herald Brime calls, "To arms!"
+	I take Bite in hand, spinning it slowly, not like I would when facing a foe. I meet Frobod's eyes and what I see is desperation. So unlike the frigid determination I'd expected.
+	"I'm sorry." He says, and hefts his massive sword.
+3....
+2....
+1.....
+Begin!
+	I spread my arms wide, an impossible to miss target. Bite falls from my fingers, and clatters to the ground. He surges in, a black locomotive, swinging his great blade, and buries it in my chest. Ribs splinter. I bleed profusely. My breath makes a sick, wet, rattle. The world's fading. A final stab of pain as he yanks his weapon free, and I see no more.

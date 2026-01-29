@@ -1,0 +1,218 @@
+CHAPTER 4 - THE GHOST IN THE MACHINE
+
+SCENE 1: THE BLACK BOX
+
+The data drive sat on the coffee table. It was a small, matte-black rectangle, lighter than it looked, but to Alana Bleu, it felt radioactive. It pulled at the light in the room, warping the shadows around it.
+"It's loud," Yuki whispered from the kitchen. She wasn't drinking tea; she was gripping the ceramic mug so hard her knuckles were white.
+"It doesn't make noise," Silas said, not looking up from his tablet. "It's solid state."
+"It's screaming," Yuki insisted. She put the cup down. "It sounds like... thousands of them. In a well. Drowning."
+Alana ignored them. She had her modified multimeter probes jammed into the drive's I/O port. Her tablet was scrolling code, but the text was jagged, bleeding red pixels.
+"Encryption is poly-phasic," Alana muttered. Sweat beaded on her forehead. "It's shifting. Every time I find a key, the lock changes shape. It's not just math. It's... biological."
+"Biological?" Devin asked. He was standing by the window, watching the street. His suit was crisp, but his posture was rigid. "You mean it's alive?"
+"I mean it's hurting," Alana said. She winced as a spark jumped from the port to her finger. "It's fighting back. It feels like... like touching a exposed nerve."
+
+Rook Vhal stood in the doorway. He was wearing his leather duster, heavy with the weight of the items he had scavenged. In his hand, he held his latest creation: The Lamp-Blender.
+It wasn't a joke. It was a monstrosity of twisted steel and copper wire. He had fused the high-torque motor of the industrial blender with the halogen assembly of a floodlight. It hummed with a dangerous, unstable frequency.
+"The hoard grows," Rook rumbled. His voice lacked its usual bombast; it was tight, focused. "I have forged a beacon. It consumes power to create blinding light. A crude sun."
+"Rook, turn it off," Silas said. "You're drawing too much amps."
+"I am testing the limits of this realm," Rook said. He plugged it in.
+The bulb flared with a blinding white intensity. The motor screamed. The smell of ozone filled the room.
+"It works," Rook whispered, staring into the light. "It burns."
+"It's dangerous," Alana said, finally looking up. Her black eyes reflected the harsh glare. "You bypassed the regulator. It's a bomb."
+"It is a weapon," Rook corrected. He unplugged it. The room plunged back into gloom. "And I may need it."
+
+"I'm in," Alana gasped.
+The scrolling code stopped. A single file directory appeared on the main screen. The text wasn't green; it was the color of dried blood.
+/ROOT/PROJECT_NEON/ASSETS/
+/ROOT/PROJECT_NEON/PROTOCOL_Zero/
+/ROOT/ARCHIVE/THE_AWAKENED/
+
+"The Awakened," Devin read. "That's us."
+"And others," Alana said. Her hands were shaking. "Look at the timestamps. This isn't new. This project... it's been running for twenty years."
+She opened the folder.
+Hundreds of files. Faces. Names.
+Some were grayed out. DECEASED.
+Some were red. ACTIVE.
+"Look," Mei said, pointing to a file. "That's... me."
+It was a picture of Mei, but not as she looked now. It was her avatar from the game. Wind robes. Glowing tattoos. But the eyes were wrong. They were empty.
+"Status: DEPLOYED," Alana read. "Location: ELYSIUM."
+She clicked on another file.
+NAME: MIRA.
+STATUS: LOST.
+LOCATION: UNKNOWN.
+Yuki gasped. "Mirae?"
+"Different spelling," Devin noted. "But the face... the bone structure is identical."
+"It's her," Yuki whispered. She touched the screen. "I can feel her. She's... cold. So cold."
+
+Suddenly, the screen glitched.
+The blue file for "MIRA" turned red.
+Then it turned black.
+A text box appeared.
+HELLO, ASSETS.
+I SEE YOU.
+
+"Unplug it!" Silas shouted.
+Alana reached for the drive.
+A blue arc of electricity snapped from the port. It didn't just shock her; it bit her.
+"Ah!" She recoiled, clutching her hand. There was a burn mark on her palm. "It's hot! It's burning!"
+The lights in the warehouse flickered. The smart-locks on the doors slammed shut.
+CLACK-CLACK-CLACK.
+"We're locked in," Devin said. His HUD flashed red. "Alana, status?"
+"I'm locked out!" Alana yelled, typing one-handed. "The system... it's rewriting the architecture! It's not the drive. It's outside. Someone is invading the subnet!"
+
+SCENE 2: THE SIEGE
+
+The main screen turned static. Then, a face appeared.
+It was a chrome skull. Red optical sensors. It didn't look manufactured; it looked like a human skull that had been dipped in liquid metal.
+"Assets," a voice grated. It sounded like wet lungs breathing through a vocoder. "You have property that belongs to me."
+"The Hunter," Yuki whispered. She backed away, her hands trembling. "He smells like old blood."
+"I want the drive," the Hunter said. "And I want the Dragon's fire. I want to see if it burns as hot as the simulation."
+Rook stepped forward. He hefted the Lamp-Blender. "You want my fire? Come and take it, lich! I am right here!"
+"Very well," the Hunter said.
+The screen went black.
+The warehouse went dark.
+Then, the red emergency lights pulsed.
+WHOOP-WHOOP-WHOOP.
+"Perimeter breach," Silas announced, his voice steady but pale. "Sector 1. Front door."
+"They are knocking?" Rook asked.
+BOOM.
+The front door imploded.
+Debris flew into the room.
+Through the smoke, shapes moved.
+They weren't spiders. They were hands.
+Scores of mechanical hands, severed at the wrist, scuttling on their fingers like crabs. They were made of recycled surgical steel, rusted and sharp.
+"Crawlers," Alana horrified. "They're... grabbers."
+"Infestation," Devin diagnosed. "Exterminator protocol."
+"Smash!" Rook yelled.
+
+Rook charged. He swung the Lamp-Blender like a morning star.
+CRUNCH.
+He smashed a crawler. Sparks flew.
+"Die, vermin!"
+Mei moved. She didn't smash. She flowed. She swept the crawling hands aside with her feet, kicking them into each other.
+Devin grabbed a fire extinguisher.
+"Chemical warfare," he announced.
+He sprayed the swarm. The cold CO2 slowed them down. Their servos whined.
+"Alana!" Devin shouted. "Hack them!"
+"I can't!" Alana screamed. "They're analog! Clockwork logic! There's no signal to hijack!"
+"Then we break them," Rook laughed. He stomped. A metal hand crunched under his boot.
+"Yuki!" Mei called. "Stay back!"
+Yuki was standing in the middle of the room. She wasn't fighting. She was staring at the door.
+"More are coming," she whispered. "Bigger ones. I can hear their hearts."
+
+A shadow loomed in the smoke.
+A Husk. But not like the ones at the library. This one was a nightmare of recycling.
+It was seven feet tall. Its limbs were mismatched-one arm a hydraulic press, the other a bundle of cables. Its chest was a car engine block.
+But the head...
+The head was human. Or it had been.
+It was a preserved head, encased in a glass jar filled with green fluid, bolted to the metal shoulders. The eyes were wide, staring, screaming silently.
+"Abomination," Yuki hissed. "It is a prison. The soul is trapped in the jar."
+The Husk charged. It targeted Yuki.
+"No!" Rook bellowed.
+He intercepted. He hit the Husk with a shoulder check.
+CLANG.
+The Husk didn't budge. Rook bounced off, bruising his shoulder.
+"It is rooted!" Rook gasped. "It cheats!"
+The Husk raised its hydraulic arm.
+It punched Rook.
+Rook flew backward, crashing into the kitchen island. Granite cracked.
+"Rook!" Mei screamed.
+She jumped on the Husk's back. She tried to find a joint. There were none. It was welded shut.
+"Alana!" Mei yelled. "Weakness!"
+Alana scanned it with her multimeter.
+"The jar!" she yelled. "The brain is the CPU! Disrupt the fluid!"
+"Devin!" Mei called.
+Devin saw it. The jar.
+"Leverage," he whispered.
+He didn't attack the Husk. He attacked the environment.
+He grabbed a power cable that had been severed by the explosion. Live wire. 220 volts.
+"I object!" Devin shouted.
+He jammed the wire into the metal collar of the jar.
+ZAP.
+The fluid in the jar boiled. The head convulsed. The Husk shrieked-a sound of metal tearing and a human voice screaming in agony.
+Smoke poured from its joints. It toppled over.
+THUD.
+
+SCENE 3: THE COUNTER-MOVE
+
+The crawlers stopped moving. The red lights died.
+Silence returned to the warehouse, heavy and smelling of burnt ozone and cooked meat.
+"Is it over?" Yuki asked. She was staring at the head in the jar. The eyes were closed now.
+"No," Alana said. She was looking at her tablet. "That was a probe. A stress test."
+She looked at the main screen. The chrome skull appeared again.
+"Efficiency: 78%," the Hunter said. "Improvements required. The biological component is... resilient."
+"You are a monster!" Rook yelled from the rubble of the kitchen. He was covered in drywall dust. "You use the dead as puppets!"
+"Recycling," the Hunter said. "Nothing is wasted in the System."
+"I have what I came for," the Hunter continued.
+"The drive?" Alana checked. "I still have it."
+"Not the drive," the Hunter said. "The signature. I know your frequency now. I can find you anywhere. You cannot hide from the code."
+The screen died for good.
+
+"He tagged us," Alana realized. "He used the bots to ping our bio-signatures. He knows exactly where we are. We're compromised."
+"We have to move," Silas said. "Safehouse B. Get your gear."
+"No," Devin said. He stood up, dusting off his suit. He adjusted his tie. "If we run, he chases. We are playing by his rules."
+"He has a tank," Rook pointed out. "And hand-spiders. His rules are effective."
+"We need new rules," Devin said. "We need to change the venue."
+He looked at Alana.
+"You said you traced the signal. Where is he?"
+"Obsidian Tower," Alana said. "Penthouse. But it's a fortress. Air-gapped. Hard-line security."
+"Every fortress has a back door," Devin said. "We just need a key."
+He looked at the data drive.
+"And we have the master key."
+"Decryption?" Alana asked.
+"Litigation," Devin corrected. "We're going to sue him. Digitally. We use the data to expose Onyx Holdings. If they are hiding bodies, they are vulnerable to the one thing corporations fear more than dragons."
+"What?" Rook asked.
+"Public opinion," Devin said. "We leak it. Scorched earth."
+"I like scorching," Rook nodded. "I approve."
+
+SCENE 4: THE REVELATION
+
+Yuki walked to the fallen Husk.
+She touched the glass jar.
+"It was a man," she whispered. "His name was... John. He had a cat."
+"How do you know?" Mei asked.
+"I can hear the echo," Yuki said. "He's fading now. But he was scared."
+She looked at the group. Her eyes were terrified.
+"He's not just building robots. He's harvesting us. The 'Awakened'. He needs our processing power."
+Alana scanned the Husk.
+"She's right," Alana whispered. "The interface... it's designed for our neuro-architecture. He wants to plug us in."
+Rook gagged. "He wants to jar us?"
+"He wants to own us," Devin said grimly. "This isn't just a crime. It's a harvest."
+
+"We have to stop him," Mei said.
+"We will," Devin promised. "But we need help. We are five against an army."
+"We need a base mom," Rook said. "Someone to fix the kitchen. Someone to guard the hoard while we hunt."
+Silas coughed. "I can fix the kitchen."
+"You are a suit," Rook dismissed him. "We need a Steward. We need Alfred."
+Devin paused. He remembered Alfred. The NPC butler. Loyal. Efficient. Indestructible.
+"Alfred is code," Alana said. "He's in the game."
+"So were we," Yuki said. "If the System printed us... can it print him?"
+Silas looked nervous. "The printer is offline. Emergency power only."
+"Then we fix it," Alana said. "I can fix anything."
+"We print the Butler," Rook decided. "And then, we go to war."
+
+Cliffhanger:
+As they packed, Alana's tablet pinged.
+A message. Not from the Hunter.
+From the drive.
+It had unlocked itself.
+One file.
+VIDEO_LOG_001.
+Alana played it.
+It was a recording of the Print Bay. From twenty years ago.
+A man stood over a tank. He looked like Silas, but younger.
+"Project Archangel," the younger Silas said. "Subject Zero. Instantiation successful."
+The camera panned to the tank.
+Inside... was the Hunter.
+He wasn't a robot. He wasn't a stranger.
+He was a man.
+And he had Devin's face.
+
+Devin stared at the screen. The room went silent.
+"That's... me," he whispered.
+"No," Silas said softly. He looked old, suddenly. "That's not you."
+"Then who is it?" Devin demanded.
+Silas looked at the floor.
+"That's the Original," Silas said. "You are the backup."
+
+END OF CHAPTER 4
