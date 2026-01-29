@@ -5,13 +5,13 @@ This repository contains the **Recursive Modular Orchestrator**, a multi-agent w
 
 ## Directory Structure
 
-### `/agents/`
+### `/Agents/`
 Individual agent instructions.
-*   `/agents/SubTeam6/`: Subtitle Specialists.
-*   `/agents/Quill/`: Fiction/Literary Specialists.
-*   `/agents/Core/`: Core Utilities.
-*   `/agents/Scholar/`: Academic/Pedagogical Specialists.
-*   `/agents/AudioAlchemist/`: Audio Analysis Specialists.
+*   `/Agents/SubTeam6/`: Subtitle Specialists.
+*   `/Agents/Quill/`: Fiction/Literary Specialists.
+*   `/Agents/Core/`: Core Utilities.
+*   `/Agents/Scholar/`: Academic/Pedagogical Specialists.
+*   `/Agents/AudioAlchemist/`: Audio Analysis Specialists.
 
 ### `/input_subs/`
 Original-language subtitle files (SRT).

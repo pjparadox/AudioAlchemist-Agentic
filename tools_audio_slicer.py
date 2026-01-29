@@ -51,6 +51,29 @@ def get_robust_pitch(y, sr):
     # For a sampler "Note", we want the stable center.
     return hz_to_note_name(median_f0), std_f0
 
+def check_polyphony(y, sr, threshold=0.5):
+    """
+    Returns True if the signal appears to be polyphonic (multiple pitch classes).
+    Uses Chroma CQT.
+    """
+    try:
+        # Pad if too short for CQT
+        if len(y) < 2048:
+             y_pad = librosa.util.fix_length(y, size=2048)
+        else:
+            y_pad = y
+
+        chroma = librosa.feature.chroma_cqt(y=y_pad, sr=sr)
+        mean_chroma = np.mean(chroma, axis=1)
+
+        if mean_chroma.max() > 0:
+            mean_chroma /= mean_chroma.max()
+
+        active_bins = np.sum(mean_chroma > threshold)
+        return active_bins > 1
+    except Exception:
+        return False
+
 def analyze_segment(y, sr):
     # Pitch
     note, pitch_std = get_robust_pitch(y, sr)
@@ -143,7 +166,12 @@ def process_file(filepath, output_dir, sensitivity=0.5):
         if len(y_trimmed) < 0.1 * sr:
             continue
 
-        # 4. Fade Out (De-click)
+        # 4. Polyphony Check (Smart Filter)
+        if check_polyphony(y_trimmed, sr):
+            print(f"  [Skipping] Segment {i} detected as polyphonic/chord.")
+            continue
+
+        # 5. Fade Out (De-click)
         # Apply a tiny 5ms fade out to ensure zero-crossing at end
         fade_len = int(0.005 * sr)
         if len(y_trimmed) > fade_len:
@@ -152,7 +180,7 @@ def process_file(filepath, output_dir, sensitivity=0.5):
         # Analyze
         note, velocity, features = analyze_segment(y_trimmed, sr)
 
-        # 5. Output Filename
+        # 6. Output Filename
         # Source_Index_Note_Vel.wav
         safe_note = note.replace("#", "s") if note else "Unknown"
         out_name = f"{name}_{i:03d}_{safe_note}_v{velocity}.wav"

@@ -18,6 +18,7 @@
     python3 tools_audio_slicer.py --input input_alchemist --output output_alchemist/temp --sensitivity 0.07
     ```
     *   *Adversarial Note:* Adjust `--sensitivity` lower (e.g., 0.02) if transients are soft (pads/swells).
+    *   *Polyphony Check:* The tool automatically discards segments detected as chords/polyphonic to ensure clean, monophonic samples.
 2.  **Verification:** Check the terminal output for errors.
 3.  **Handoff:** Locate `output_alchemist/temp/slicing_report.json`.
     *   **Quality Check:** Review `pitch_stability` in the JSON. High instability (>2.0) indicates a slide, vibrato, or noise. Flag these for Euterpe.
