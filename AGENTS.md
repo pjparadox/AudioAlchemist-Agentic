@@ -11,6 +11,7 @@ Individual agent instructions.
 *   `/agents/Quill/`: Fiction/Literary Specialists.
 *   `/agents/Core/`: Core Utilities.
 *   `/agents/Scholar/`: Academic/Pedagogical Specialists.
+*   `/agents/AudioAlchemist/`: Audio Analysis Specialists.
 
 ### `/input_subs/`
 Original-language subtitle files (SRT).
@@ -113,6 +114,11 @@ Audio/video inputs that may be transcribed into `/input_subs/`.
 *   **Iris** — Instant Messenger (Digital Literacy, Slang, & Emojis).
 *   **Philia** — Friendship Liaison (Camaraderie & Casualness).
 *   **Psyche** — Tone Shift Detector (Relationship Dynamic Monitor).
+
+### Audio Alchemist (Audio Analysis & Processing)
+*   **Apollo** — Audio Director & QC (Output Supervisor).
+*   **Pan** — The Slicer (Script Operator & Signal Processor).
+*   **Euterpe** — The Sonic Poet (Timbre Description & Metadata).
 
 ### The Veil (Specialized Safety & Accessibility)
 *   **Lilith** — Trauma Register Guardian (Harm Reduction & Sensitive Context).
